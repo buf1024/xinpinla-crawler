@@ -1,0 +1,501 @@
+
+ <!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  
+    <title>36氪专访腾讯“优图团队”：大公司背后的核心技术团队，往往都是产品未动技术先行 | 0xe1码农！</title>
+    <!-- BEGIN 无觅推荐
+    <meta name="wumiiVerification" content="2817ea17-c29a-4a31-b415-6be2b9c6105c" />
+     -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
+    
+    <meta name="author" content="buf1024">
+    <meta name="keywords" content="luoguochun.cn,programming,coding,爱折腾,编程博客,C/C++语言,云计算,服务端,分布式" />
+    
+    <meta name="description" content="百度前不久刚在硅谷招募了 吴恩达作为其首席科学家 ，组建深度学习团队；阿里宣布其“DT战略”，招揽了不少大数据方面的核心专家；至于腾讯，则很少提及有类似的布局。
+一个偶然的机会， 和“ 优图团队 ”进行了接触，他们是腾讯内部专注于图像处理、模式识别、机器学习、数据挖掘等领域的核心技术团队，由毕业自清">
+    
+    
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="buf128" />
+    <meta name="twitter:title" content="36氪专访腾讯“优图团队”：大公司背后的核心技术团队，往往都是产品未动技术先行 | 0xe1码农！" />
+      
+    
+    
+    <link rel="alternative" href="/atom.xml" title="0xe1码农！" type="application/atom+xml">
+    
+    
+    <link rel="icon" href="/xinpinla-crawler/img/favicon.ico">
+    
+    
+    <link rel="apple-touch-icon" href="/xinpinla-crawler/img/pacman.png">
+    <link rel="apple-touch-icon-precomposed" href="/xinpinla-crawler/img/pacman.png">
+    
+    <link rel="stylesheet" href="/xinpinla-crawler/css/style.css" type="text/css">
+</head>
+
+  <body>
+    <header>
+      <div>
+		
+			<div id="imglogo">
+				<a href="/xinpinla-crawler/"><img src="/xinpinla-crawler/img/pacman.png" alt="0xe1码农！" title="0xe1码农！"/></a>
+			</div>
+			
+			<div id="textlogo">
+				<h1 class="site-name"><a href="/xinpinla-crawler/" title="0xe1码农！">0xe1码农！</a></h1>
+				<h2 class="blog-motto">码农，程序猿，攻城狮，未来的地摊贩</h2>
+			</div>
+			<div class="navbar"><a class="navbutton navmobile" href="#" title="菜单">
+			</a></div>
+			<nav class="animated">
+				<ul>
+					<ul>
+					 
+						<li><a href="/">首页</a></li>
+					
+						<li><a href="/archives">归档</a></li>
+					
+						<li><a href="/about">关于</a></li>
+					
+					<li>
+					
+					<form class="search" action="//google.com/search" method="get" accept-charset="utf-8">
+						<label>Search</label>
+						<input type="text" id="search" name="q" autocomplete="off" maxlength="20" placeholder="搜索" />
+						<input type="hidden" name="q" value="site:luoguochun.cn">
+					</form>
+					
+					</li>
+				</ul>
+			</nav>			
+</div>
+
+    </header>
+    <div id="container">
+      <div id="main" class="post" itemscope itemprop="blogPost">
+	<article itemprop="articleBody"> 
+		<header class="article-info clearfix">
+  <h1 itemprop="name">
+    
+      <a href="/xinpinla-crawler/2014/07/10/36氪专访腾讯“优图团队”：大公司背后的核心技术团队，往往都是产品未动技术先行/" title="36氪专访腾讯“优图团队”：大公司背后的核心技术团队，往往都是产品未动技术先行" itemprop="url">36氪专访腾讯“优图团队”：大公司背后的核心技术团队，往往都是产品未动技术先行</a>
+  </h1>
+  <p class="article-author">By
+    
+      <a href="http://luoguochun.cn" title="buf1024">buf1024</a>
+    </p>
+  <p class="article-time">
+    <time datetime="2014-07-10T04:14:00.000Z" itemprop="datePublished">7月 10 2014</time>
+    更新日期:<time datetime="2014-07-10T11:11:49.000Z" itemprop="dateModified">7月 10 2014</time>
+    
+  </p>
+</header>
+	<div class="article-content">
+		
+		
+		<div id="toc" class="toc-article">
+			<strong class="toc-title">文章目录</strong>
+		
+		</div>
+		
+		<p><img src="http://a.36krcnd.com/photo/2014/93dde15ec5ecf0896dcd597352f8128c.jpg" alt=""></p>
+<p>百度前不久刚在硅谷招募了 <a href="http://www.36kr.com/p/212049.html" target="_blank" rel="external">吴恩达作为其首席科学家</a> ，组建深度学习团队；阿里宣布其“DT战略”，招揽了不少大数据方面的核心专家；至于腾讯，则很少提及有类似的布局。</p>
+<p>一个偶然的机会， 和“ <strong>优图团队</strong> ”进行了接触，他们是腾讯内部专注于图像处理、模式识别、机器学习、数据挖掘等领域的核心技术团队，由毕业自清华、北大、中科院、上海交大等院校的博士、硕士组成。</p>
+<p>腾讯优图团队隶属于腾讯社交网络事业群，基于整个腾讯的社交网络平台，为QQ空间、腾讯地图、腾讯游戏、等50多款产品提供图像技术支持。每天QQ空间有2亿上传图片的活跃用户，团队单日最多处理照片达6亿张，累计已经分析处理了超过300亿张照片</p>
+<p><em>：作为纯粹的技术团队，怎么平衡技术和产品之间的矛盾？</em></p>
+<blockquote>
+<p>我们首先会对一些关键技术，如人脸识别、图像识别、深度学习等做前瞻性的技术，进行提前布局，保证相关产品能在市面上能够稳定领跑。</p>
+</blockquote>
+<p>例如我们在进行人脸图像对比研发中，衍生发展出比对两张普通图像相似度的方法，当时并没有立即挖掘出具体的应用场景，处于储备状态。但过了3个月，电商部门急需商品图像对比技术以实现自动价格分析，这个技术迅速落地了。</p>
+<p>另外腾讯旗下产品线比较多，尤其是图片类的产品，所以我们在图像处理上的技术一般都能比较快落地；其他产品线也会和我们保持长期沟通，也会根据产品和用户的需求，及时调整技术方向。</p>
+<p><a href="http://www.36kr.com/p/213058.html" target="_blank" rel="external">：Amazon最近发布了Fire Phone</a> <em>，将图像识别技术运用到电商领域，腾讯内部有类似的技术，以及在和京东合作类似的产品没？</em></p>
+<blockquote>
+<p>我们认为Amazon的Fire Phone是一个非常好的产品，可以打造Amazon的用户闭环，这是个不错的尝试，给用户带来的体验值得期待。</p>
+</blockquote>
+<p>至于腾讯有没有做，不大方便评价。</p>
+<p><a href="http://www.36kr.com/p/211011.html" target="_blank" rel="external">：既然是腾讯内部的“图像技术”核心，为什么之前微信对外开放的“图像识别技术</a> <em>”却不是出自你们部门？这个是因为微信属于更为独立的产品部门，还是说“研究院”这样的组织结构，在腾讯内部也会有多个团队竞争的情况？</em></p>
+<blockquote>
+<p>虽然图像识别是一门比较垂直的技术，但是由于应用场景不同、用户需求的差异会使得该技术从研发和实施方案都存在很大的差异，所以由于产品的定位、功能及面向的用户不同。微信拥有自己的模式识别团队，以便更好地对针对微信相关功能进行图像技术的研发和落地。</p>
+</blockquote>
+<p>我们他们并不是竞争关系，而是各自专注于不同产品需求的技术研究。而在日常，我们也会与微信图像团队之间保持良好的沟通。</p>
+<p><em>：微信开放了自己的“图像识别”技术，那优图团队有没有对外开放的打算，如果开放，相关的标准是什么呢？</em></p>
+<blockquote>
+<p>因为在腾讯内部，像QQ空间等产品对图像技术有着大量的需求。所以短期内我们还是专注于公司内部业务的需要，投入到精品技术的深挖上面。当然我们也为腾讯的战略合作伙伴，如大众点评、京东商城等提供了关键的图像技术。</p>
+</blockquote>
+<p>未来有合适的机会，我们也愿意开放关键图像技术提供给有需要的互联网产品团队使用。</p>
+<p><em>：大家都觉得图像识别和人脸技术很有未来，但是没有特别好的落地场景？对于具体落地应用场景、未来规划和实现路径，腾讯是怎么想的？</em></p>
+<blockquote>
+<p>图像识别和人脸技术一直都是学术界、工业界、互联网行业的未来技术发展热点，其应用范围、落地场景非常广泛。举例来说，互联网安全就是一个很好的人脸技术具体落地场景。用户提前预留人脸照片，那么当用户密码被盗时，可以设置人脸自动验证步骤，只有照片本人操作才能取回自己的密码，这样可以做到更有效保护用户数据。</p>
+</blockquote>
+<p>但是尽管人脸识别在类似LFW的标准测试集上的精度不断提升，仍然无法满足一般场景的要求。我们认为当前图像识别技术没有特别好的落地场景的原因，除了技术上还是无法消除光线、角度等环境因素的影响，还在于信息通道没有打通，即需要信息的用户与图像信息之间的连接没有有效建立。</p>
+<p><em>：你们在在图像分析、人脸识别、人像美颜、图片美化等领域都有比较核心的技术，但为什么这些领域比较成功的产品，都没有出自腾讯之手？</em></p>
+<blockquote>
+<p>我们主要精力在解决QQ空间等基础产品对图像技术的需求，一开始并没有做独立的移动端图像应用这样的规划。确实目前一些细分的图像处理市场上已经有了优势产品。</p>
+</blockquote>
+<p>我们其实也有一些产品还不错，例如我们之前推出的“ <a href="http://www.36kr.com/p/204674.html" target="_blank" rel="external">水印相机</a> ”，同样属于腾讯内部的战略级产品。未来我们也会基于差异化的角度进行图像类移动应用创新，推动相关技术和产品的发展。</p>
+<p><em>：腾讯目前在这方面的技术积累如何？水印相机等产品只是实验性产品？还有没有其它内部研发的产品？</em></p>
+<blockquote>
+<p>我们拥有图像压缩和美化、图像识别、人脸分析识别等全套技术，并且这些技术都已经达在公司内部数十个业务中广泛使用。我们的压缩技术每年为公司节省带宽50G以上，节省成本数千万。例如易迅电商采用我们的图像压缩技术，可以节省28%流量。</p>
+</blockquote>
+<p>另外我们的压缩、裁剪、锐化、人脸检测在Qzone全面落地，日处理照片2亿张，拥有几亿用户数据；优图SDK 做为TFS的基础组件，服务于全公司各业务如地图、微信、微博、QQ等。</p>
+<p>公司发布的产品都是经过严格测试的正式产品，水印相机并不是实验性产品而是可称之为创新性产品。目前总装机数千万，活跃用户近千万，拥有相当好的用户口碑。</p>
+<p><em>：目前人脸技术在移动端的体验如何？是否可以做到实时？以及具体精度、APK大小？</em></p>
+<blockquote>
+<p>我们有全平台的人脸技术，人脸检测800x600图像，普通手机处理时间150ms，精度99%，召回率95%， APK大小209KB。可以达到实时要求，技术指标优于系统自带人脸检测器。</p>
+</blockquote>
+<p>人脸配准器在普通手机上可以达到40ms / 帧的处理速度，平均像素误差2.47像素，平均误差小于2和3像素的样本比例分别为33%, 86%。</p>
+<p><em>：有没有使用深度学习技术？</em></p>
+<blockquote>
+<p>我们已经在研发应用具有很大潜力的深度学习技术，并已经搭建海量计算平台，同时完成了基于CNN的图像分类和人脸识别框架。现正在建立更大规模的数据库，以充分发挥深度学习的优势。</p>
+</blockquote>
+<p><em>：现在很多大公司的“研究院”通常都直接设立在硅谷，为什么腾讯的研究院都在国内，是否意味在图像识别这个领域，国内的相关技术已经走在世界的前沿？</em></p>
+<blockquote>
+<p>硅谷人才素质普遍很高，但是随着国内互联网技术的飞速发展，本土的技术实力正逐渐接近甚至可以与世界同步。在一些关键的技术指标上，包括人脸和图像识别准确率等等，我们确实都已经达到国际水准。例如图像分类，在国际标准测试集CIFAR-10上，我们的识别率可以达到90%。</p>
+</blockquote>
+<p>同时本土团队也更加了解国内用户的需求。在互联网大数据时代，除了优秀的技术研发能力， <strong>技术所依托的平台及其拥有的数据库的重要性也逐渐凸显</strong> 。</p>
+<p>腾讯拥有国内最大的社交网络平台——QQ空间，拥有海量的图像大数据和海量用户需求、反馈。放眼海内外，这块优势资源可以说是我们团队独有的，这为我们的研究提供了很大的支持。</p>
+<p><em>：那你们怎么看百度轻拍、魔图等同样采用了图像识别技术的产品，以及如何看待百度的IDL的技术？</em></p>
+<blockquote>
+<p>我们对这些技术很有兴趣并保持关注，和腾讯一样，百度的图像技术较多地依托大数据。可以看到图像处理引入大数据能力将会成为互联网图像处理的一个趋势，并对行业带来深远的影响。</p>
+</blockquote>
+<p><em>：你们幸福吗？</em></p>
+<blockquote>
+<p>我们鼓励技术人员自发驱动各种创新与探索，鼓励大家提创新的想法，经过评估，提出者会作为短期研究项目的负责人，给与各方面的支持，最终做出一个具有产品化潜力的demo；在平时，团队也会定期进行team building，比如参加真人CS，踏青、篮球、足球、斯洛克等活动。</p>
+</blockquote>
+<p>所以我们觉得很幸福。</p>
+<p>[ 原创文章，作者: WANGJINGYU]</p>
+  
+        <!-- BEGIN 无觅推荐 
+        <div style="margin:0px auto; padding-left:23px; text-align:center;">
+        
+        <script type="text/javascript" id="wumiiRelatedItems"></script>
+        <script type="text/javascript">
+            var wumiiPermaLink = "http://luoguochun.cn/2014/07/10/36氪专访腾讯“优图团队”：大公司背后的核心技术团队，往往都是产品未动技术先行/"; //请用代码生成文章永久的链接
+            var wumiiTitle = "36氪专访腾讯“优图团队”：大公司背后的核心技术团队，往往都是产品未动技术先行"; //请用代码生成文章标题
+            var wumiiTags = "&quot;创意事物&quot;"; //请用代码生成文章标签，以英文逗号分隔，如："标签1,标签2"
+            var wumiiCategories = [&quot;网摘&quot;]; //请用代码生成文章分类，分类名放在 JSONArray 中，如: ["分类1", "分类2"]
+            var wumiiSitePrefix = "http://luoguochun.cn";
+            var wumiiParams = "&num=5&mode=3&pf=JAVASCRIPT";
+        </script>
+        <script type="text/javascript" src="http://widget.wumii.cn/ext/relatedItemsWidget"></script>
+        <!--
+        <a href="http://www.wumii.com/widget/relatedItems" style="border:0;">
+            <img src="http://static.wumii.cn/images/pixel.png" alt="无觅关联推荐，快速提升流量" style="border:0;padding:0;margin:0;" />
+        </a>
+        </div>
+         -->
+	</div>
+		<footer class="article-footer clearfix">
+
+  <div class="article-tags">
+  
+  <span></span> <a href="/xinpinla-crawler/tags/创意事物/">创意事物</a>
+  </div>
+
+
+<div class="article-categories">
+  <span></span>
+  <a class="article-category-link" href="/xinpinla-crawler/categories/网摘/">网摘</a>
+</div>
+
+
+
+<div class="article-share" id="share">
+
+  <div data-url="http://luoguochun.cn/2014/07/10/36氪专访腾讯“优图团队”：大公司背后的核心技术团队，往往都是产品未动技术先行/" data-title="36氪专访腾讯“优图团队”：大公司背后的核心技术团队，往往都是产品未动技术先行 | 0xe1码农！" data-tsina="null" class="share clearfix">
+  </div>
+
+</div>
+</footer>   	       
+	</article>
+	
+<nav class="article-nav clearfix">
+ 
+ <div class="prev" >
+ <a href="/xinpinla-crawler/2014/07/10/在出国留学前把未来的小窝搞定：Moveha想帮助国际学生实现远程租房，已获数十万美金天使融资/" title="在出国留学前把未来的小窝搞定：Moveha想帮助国际学生实现远程租房，已获数十万美金天使融资">
+  <strong>前一篇:</strong><br/>
+  <span>
+  在出国留学前把未来的小窝搞定：Moveha想帮助国际学生实现远程租房，已获数十万美金天使融资</span>
+</a>
+</div>
+
+
+<div class="next">
+<a href="/xinpinla-crawler/2014/07/09/【KrTV-氪星人的应用】有了LokLok，手机不解锁也可以聊天/"  title="【KrTV-氪星人的应用】有了LokLok，手机不解锁也可以聊天">
+ <strong>下一篇:</strong><br/> 
+ <span>【KrTV-氪星人的应用】有了LokLok，手机不解锁也可以聊天
+</span>
+</a>
+</div>
+
+</nav>
+
+	
+<section class="comment">
+	<div class="ds-thread"></div>
+</section>
+
+</div>
+
+      <div class="openaside"><a class="navbutton" href="#" title="显示侧边栏"></a></div>
+
+  <div id="toc" class="toc-aside">
+  <strong class="toc-title">文章目录</strong>
+  
+  </div>
+
+<div id="asidepart">
+<div class="closeaside"><a class="closebutton" href="#" title="隐藏侧边栏"></a></div>
+<aside class="clearfix">
+
+  
+  <div class="archiveslist">
+    <p class="asidetitle"><a href="/xinpinla-crawler/archives">归档</a></p>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/xinpinla-crawler/archives/2014/07">七月 2014</a><span class="archive-list-count">85</span></li><li class="archive-list-item"><a class="archive-list-link" href="/xinpinla-crawler/archives/2014/06">六月 2014</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/xinpinla-crawler/archives/2014/02">二月 2014</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/xinpinla-crawler/archives/2014/01">一月 2014</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/xinpinla-crawler/archives/2013/12">十二月 2013</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/xinpinla-crawler/archives/2013/03">三月 2013</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/xinpinla-crawler/archives/2012/08">八月 2012</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/xinpinla-crawler/archives/2011/09">九月 2011</a><span class="archive-list-count">1</span></li></ul>
+  </div>
+
+
+  
+<div class="categorieslist">
+	<p class="asidetitle">分类</p>
+		<ul>
+		
+			<li><a href="/xinpinla-crawler/categories/网摘/" title="网摘">网摘<sup>97</sup></a></li>
+		
+		</ul>
+</div>
+
+
+  
+<div class="tagslist">
+	<p class="asidetitle">标签</p>
+		<ul class="clearfix">
+		
+			<li><a href="/xinpinla-crawler/tags/创意事物/" title="创意事物">创意事物<sup>97</sup></a></li>
+		
+		</ul>
+</div>
+
+
+  
+  <div class="tagcloudlist">
+    <p class="asidetitle">标签云</p>
+    <div class="tagcloudlist clearfix">
+       <a href="/xinpinla-crawler/tags/创意事物/" style="font-size: NaNpx;">创意事物</a>
+    </div>
+  </div>
+
+
+  <div class="linkslist">
+  <p class="asidetitle">友情链接</p>
+    <ul>
+      <li><a href="http://zespia.tw/hexo" target="_blank" title="Hexo静态BLOG生成器">Hexo</a></li>
+    </ul>
+</div>
+
+  <div class="rsspart">
+	<a href="/atom.xml" target="_blank" title="rss">RSS 订阅</a>
+</div>
+
+</aside>
+</div>
+    </div>
+    <footer><div id="footer" >
+	
+	<div class="line">
+		<span></span>
+		<div class="author"></div>
+	</div>
+	
+	
+	<section class="info">
+		<p> Hello ,I&#39;m luo guochun, believe it or not. <br/>
+			This is my blog, hosted in github pages.</p>
+	</section>
+	 
+	<div class="social-font" class="clearfix">
+		
+		<a href="http://weibo.com/buf1024" target="_blank" title="weibo"></a>
+		
+		
+		<a href="https://twitter.com/buf128" target="_blank" title="twitter"></a>
+		
+		
+		<a href="https://github.com/buf1024" target="_blank" title="github"></a>
+		
+		
+	</div>
+		<p class="copyright">Powered by <a href="http://zespia.tw/hexo/" target="_blank" title="hexo">hexo</a> and Theme by <a href="https://github.com/A-limon/pacman" target="_blank" title="Pacman">Pacman</a> © 2014 
+		
+		<a href="http://luoguochun.cn" target="_blank" title="buf1024">buf1024</a>
+		
+		</p>
+</div>
+</footer>
+    <script src="/xinpinla-crawler/js/jquery-2.1.0.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){ 
+  $('.navbar').click(function(){
+    $('header nav').toggleClass('shownav');
+  });
+  var myWidth = 0;
+  function getSize(){
+    if( typeof( window.innerWidth ) == 'number' ) {
+      myWidth = window.innerWidth;
+    } else if( document.documentElement && document.documentElement.clientWidth) {
+      myWidth = document.documentElement.clientWidth;
+    };
+  };
+  var m = $('#main'),
+      a = $('#asidepart'),
+      c = $('.closeaside'),
+      o = $('.openaside');
+  $(window).resize(function(){
+    getSize(); 
+    if (myWidth >= 1024) {
+      $('header nav').removeClass('shownav');
+    }else
+    {
+      m.removeClass('moveMain');
+      a.css('display', 'block').removeClass('fadeOut');
+      o.css('display', 'none');
+      
+      $('#toc.toc-aside').css('display', 'none');
+        
+    }
+  });
+  c.click(function(){
+    a.addClass('fadeOut').css('display', 'none');
+    o.css('display', 'block').addClass('fadeIn');
+    m.addClass('moveMain');
+  });
+  o.click(function(){
+    o.css('display', 'none').removeClass('beforeFadeIn');
+    a.css('display', 'block').removeClass('fadeOut').addClass('fadeIn');      
+    m.removeClass('moveMain');
+  });
+  $(window).scroll(function(){
+    o.css("top",Math.max(80,260-$(this).scrollTop()));
+  });
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+    c.click(function(){
+      ta.css('display', 'block').addClass('fadeIn');
+    });
+    o.click(function(){
+      ta.css('display', 'none');
+    });
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,320-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var $this = $('.share'),
+      url = $this.attr('data-url'),
+      encodedUrl = encodeURIComponent(url),
+      title = $this.attr('data-title'),
+      tsina = $this.attr('data-tsina');
+  var html = [
+  '<a href="#" class="overlay" id="qrcode"></a>',
+  '<div class="qrcode clearfix"><span>扫描二维码分享到微信朋友圈</span><a class="qrclose" href="#share"></a><strong>Loading...Please wait</strong><img id="qrcode-pic" data-src="http://s.jiathis.com/qrcode.php?url=' + encodedUrl + '"/></div>',
+  '<a href="#textlogo" class="article-back-to-top" title="Top"></a>',
+  '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="article-share-facebook" target="_blank" title="Facebook"></a>',
+  '<a href="#qrcode" class="article-share-qrcode" title="QRcode"></a>',
+  '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
+  '<a href="http://service.weibo.com/share/share.php?title='+title+'&url='+encodedUrl +'&ralateUid='+ tsina +'&searchPic=true&style=number' +'" class="article-share-weibo" target="_blank" title="Weibo"></a>',
+  '<span title="Share to"></span>'
+  ].join('');
+  $this.append(html);
+  $('.article-share-qrcode').click(function(){
+    var imgSrc = $('#qrcode-pic').attr('data-src');
+    $('#qrcode-pic').attr('src', imgSrc);
+    $('#qrcode-pic').load(function(){
+        $('.qrcode strong').text(' ');
+    });
+  });
+});     
+</script>
+
+
+<script type="text/javascript">
+  var duoshuoQuery = {short_name:"buf1024"};
+  (function() {
+    var ds = document.createElement('script');
+    ds.type = 'text/javascript';ds.async = true;
+    ds.src = '//static.duoshuo.com/embed.js';
+    ds.charset = 'UTF-8';
+    (document.getElementsByTagName('head')[0] 
+    || document.getElementsByTagName('body')[0]).appendChild(ds);
+  })();
+</script> 
+
+
+
+<link rel="stylesheet" href="/xinpinla-crawler/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="/xinpinla-crawler/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){ 
+  $('.article-content').each(function(i){
+    $(this).find('img').each(function(){
+      if ($(this).parent().hasClass('fancybox')) return;
+      var alt = this.alt;
+      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
+    });
+    $(this).find('.fancybox').each(function(){
+      $(this).attr('rel', 'article' + i);
+    });
+  });
+  if($.fancybox){
+    $('.fancybox').fancybox();
+  }
+}); 
+</script>
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-52295723-1', 'auto');  
+ga('send', 'pageview');
+</script>
+
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fd472d1efc21e6f821b5d392d18d5f1ab' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+
+  </body>
+</html>

@@ -1,0 +1,51 @@
+<div id="main" class="<%= item.layout %>" itemscope itemprop="blogPost">
+	<article itemprop="articleBody"> 
+		<%- partial('header') %>
+	<div class="article-content">
+		<%- partial('gallery') %>
+		<% if( table&&(item.toc !== false) && theme.toc.article){ %>
+		<div id="toc" class="toc-article">
+			<strong class="toc-title"><%= __('contents') %></strong>
+		<%- toc(item.content) %>
+		</div>
+		<% } %>
+		<%- item.content %>  
+        <!-- BEGIN 无觅推荐 
+        <div style="margin:0px auto; padding-left:23px; text-align:center;">
+        <% 
+            var cats = [];
+            var tags = [];
+            if (item.categories && item.categories.length){
+                item.categories.forEach(function(cat){
+                    cats.push(cat.name);
+                });
+            }
+
+            if (page.tags && page.tags.length){
+                page.tags.forEach(function(tag){
+                    tags.push(tag.name);
+                });
+            }
+        %>
+        <script type="text/javascript" id="wumiiRelatedItems"></script>
+        <script type="text/javascript">
+            var wumiiPermaLink = "<%= item.permalink %>"; //请用代码生成文章永久的链接
+            var wumiiTitle = "<%= item.title %>"; //请用代码生成文章标题
+            var wumiiTags = "<%= JSON.stringify(tags.join(",")) %>"; //请用代码生成文章标签，以英文逗号分隔，如："标签1,标签2"
+            var wumiiCategories = <%= JSON.stringify(cats) %>; //请用代码生成文章分类，分类名放在 JSONArray 中，如: ["分类1", "分类2"]
+            var wumiiSitePrefix = "<%-config.url%>";
+            var wumiiParams = "&num=5&mode=3&pf=JAVASCRIPT";
+        </script>
+        <script type="text/javascript" src="http://widget.wumii.cn/ext/relatedItemsWidget"></script>
+        <!--
+        <a href="http://www.wumii.com/widget/relatedItems" style="border:0;">
+            <img src="http://static.wumii.cn/images/pixel.png" alt="无觅关联推荐，快速提升流量" style="border:0;padding:0;margin:0;" />
+        </a>
+        </div>
+         -->
+	</div>
+		<%- partial('footer') %>   	       
+	</article>
+	<%- partial('pagination') %>
+	<%- partial('comment') %>
+</div>

@@ -4,7 +4,7 @@
   <subtitle><![CDATA[码农，程序猿，攻城狮，未来的地摊贩]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-10T11:16:05.664Z</updated>
+  <updated>2014-07-11T04:41:45.548Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,12 +15,14 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[高德地图小蜜]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%E5%B0%8F%E8%9C%9C/"/>
-    <id>http://luoguochun.cn/2014/07/10/高德地图小蜜/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>高德集团旗下最新智能硬件</p>
+    <title><![CDATA[开源中国代码质量管理系统 Sonar@OSC 上线]]></title>
+    <link href="http://luoguochun.cn/2014/07/11/%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%20Sonar@OSC%20%E4%B8%8A%E7%BA%BF/"/>
+    <id>http://luoguochun.cn/2014/07/11/开源中国代码质量管理系统 Sonar@OSC 上线/</id>
+    <published>2014-07-10T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:41.000Z</updated>
+    <content type="html"><![CDATA[<p>作为 Git@OSC 代码托管平台的延伸，开源中国的代码质量管理系统 Sonar@OSC 测试版上线了！Sonar@OSC 是中国源项目的一个重要组成部分， 提供基本的代码质量的检查功能，包括代码统计、编码规则检查、测试覆盖率分…  </p>
+<p>更多详情请参考相关网站 <a href="http://www.oschina.net/news/53573/oschina-sonar" target="_blank" rel="external">开源中国代码质量管理系统 Sonar@OSC 上线</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     
@@ -31,12 +33,14 @@
   </entry>
   
   <entry>
-    <title><![CDATA[镁]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E9%95%81/"/>
-    <id>http://luoguochun.cn/2014/07/10/镁/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>每天更新一张图片和一个拿得出手的应用的网站</p>
+    <title><![CDATA[Rocketskates]]></title>
+    <link href="http://luoguochun.cn/2014/07/11/Rocketskates/"/>
+    <id>http://luoguochun.cn/2014/07/11/Rocketskates/</id>
+    <published>2014-07-10T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:41.000Z</updated>
+    <content type="html"><![CDATA[<p>通过绷带固定在原有的鞋子上的风火轮鞋  </p>
+<p>更多详情请参考相关网站 <a href="http://www.actonglobal.com/contents/rspecs" target="_blank" rel="external">Rocketskates</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     
@@ -47,12 +51,26 @@
   </entry>
   
   <entry>
-    <title><![CDATA[金元宝微店]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E9%87%91%E5%85%83%E5%AE%9D%E5%BE%AE%E5%BA%97/"/>
-    <id>http://luoguochun.cn/2014/07/10/金元宝微店/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>金元宝免费提供微信开店、微店注册、微店，一分钟拥有自己微店，金元宝微信开店就是简单。</p>
+    <title><![CDATA[Cover]]></title>
+    <link href="http://luoguochun.cn/2014/07/11/Cover/"/>
+    <id>http://luoguochun.cn/2014/07/11/Cover/</id>
+    <published>2014-07-10T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:42.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/99a7b7c09f303e30e7ac0f8ddbd388d5.png" alt=""></p>
+
+<p><a target="_blank" data-no-turbolink="true" href="http://www.paywithcover.com/">Cover</a>是一家提供支付解决方案的初创公司，他们想做的就是帮助到餐厅用餐的食客省去繁琐的排队结账过程，让他们可以专心地吃饭聊天，聊完走人就好。</p>
+
+<p>Cover是怎么做的呢？它提供了一套轻便的解决方案，可以融入餐厅自有的POS系统里。当用户到店时，只要和服务员说他们最后会用Cover付费，就可以在饭后结账时一键在移动端上支付，不需要看账单也不需要等待。如果人多有AA需求的话，Cover也会按人头自动计算出平摊的费用，大家用绑定的账户支付即可。</p>
+
+<p>最近Cover拿到了新一笔550万美元的A轮融资，由Spark Capital领投，OATV、Leter Ventures和Josh Spear、Dave Eisenberg、Ben Leventhal等几位天使投资人跟投。Cover曾在去年拿到过一笔150万美元的天使融资，投资机构是OATV。</p>
+
+<p>目前Cover已经和纽约以及湾区的一百多家餐厅达成了合作，到这些<a target="_blank" data-no-turbolink="true" href="http://www.paywithcover.com/cover-restaurants/bay-area/">合作餐厅</a>就餐可以使用Cover支付。相比于<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/square">Square</a>，Cover在对餐厅的推广上应该更有优势，因为它不需要餐厅再搭建额外的支付系统了。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="/p/213622.html">外出吃饭的结账过程很繁琐？刚拿到550万美元A轮融资的支付公司Cover是这么做的</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.paywithcover.com/" target="_blank" rel="external">Cover</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     
@@ -63,12 +81,14 @@
   </entry>
   
   <entry>
-    <title><![CDATA[酷燃网]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E9%85%B7%E7%87%83%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/07/10/酷燃网/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>提供能够提升生活幸福感和工作效率的有用之物的网站</p>
+    <title><![CDATA[Amino Apps]]></title>
+    <link href="http://luoguochun.cn/2014/07/11/Amino%20Apps/"/>
+    <id>http://luoguochun.cn/2014/07/11/Amino Apps/</id>
+    <published>2014-07-10T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:42.000Z</updated>
+    <content type="html"><![CDATA[<p>移动端兴趣App群  </p>
+<p>更多详情请参考相关网站 <a href="http://aminoapps.com/" target="_blank" rel="external">Amino Apps</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     
@@ -79,12 +99,14 @@
   </entry>
   
   <entry>
-    <title><![CDATA[那好网]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E9%82%A3%E5%A5%BD%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/07/10/那好网/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>小龙女龚海燕继梯子网之后的又一个在线教育类网站</p>
+    <title><![CDATA[Amazon Zocalo]]></title>
+    <link href="http://luoguochun.cn/2014/07/11/Amazon%20Zocalo/"/>
+    <id>http://luoguochun.cn/2014/07/11/Amazon Zocalo/</id>
+    <published>2014-07-10T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:41.000Z</updated>
+    <content type="html"><![CDATA[<p>Amazon 发布的文档存储与协作服务  </p>
+<p>更多详情请参考相关网站 <a href="http://aws.amazon.com/cn/zocalo/" target="_blank" rel="external">Amazon Zocalo</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     
@@ -95,60 +117,14 @@
   </entry>
   
   <entry>
-    <title><![CDATA[邀・请]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E9%82%80%E3%83%BB%E8%AF%B7/"/>
-    <id>http://luoguochun.cn/2014/07/10/邀・请/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>一个简单的邀请卡生成工具，登录新浪微博后，你可以直接选择你需要通知的好友，配上对应的标题和内容、时间、地点，即可以生成一张精美的邀请卡。</p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[趣味生活]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E8%B6%A3%E5%91%B3%E7%94%9F%E6%B4%BB/"/>
-    <id>http://luoguochun.cn/2014/07/10/趣味生活/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>趣味生活,分享好玩的、有趣的、有价值的新鲜事</p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[计划派]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E8%AE%A1%E5%88%92%E6%B4%BE/"/>
-    <id>http://luoguochun.cn/2014/07/10/计划派/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>如果你正被每天琐碎的种种急得焦头烂额，如果你曾因为忘了准备礼物而让TA生气，如果你渴望把一切打理的井井有条，那么“计划派”正是你的不二选择！</p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[自然志]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E8%87%AA%E7%84%B6%E5%BF%97/"/>
-    <id>http://luoguochun.cn/2014/07/10/自然志/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>自然志是一个科普网站，用影像和文字记录自然的脉动，推动人们对自然的认识。</p>
+    <title><![CDATA[车宝]]></title>
+    <link href="http://luoguochun.cn/2014/07/10/%E8%BD%A6%E5%AE%9D/"/>
+    <id>http://luoguochun.cn/2014/07/10/车宝/</id>
+    <published>2014-07-09T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:59.000Z</updated>
+    <content type="html"><![CDATA[<p>中国首个汽车驾驶安全智能盒子  </p>
+<p>更多详情请参考相关网站 <a href="http://www.chebao.com.cn/" target="_blank" rel="external">车宝</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     
@@ -162,9 +138,11 @@
     <title><![CDATA[聘宝]]></title>
     <link href="http://luoguochun.cn/2014/07/10/%E8%81%98%E5%AE%9D/"/>
     <id>http://luoguochun.cn/2014/07/10/聘宝/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>提供优质简历，尊重招聘效果</p>
+    <published>2014-07-09T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:57.000Z</updated>
+    <content type="html"><![CDATA[<p>提供优质简历，尊重招聘效果  </p>
+<p>更多详情请参考相关网站 <a href="http://www.pinbot.me/" target="_blank" rel="external">聘宝</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     
@@ -178,9 +156,11 @@
     <title><![CDATA[算薪资]]></title>
     <link href="http://luoguochun.cn/2014/07/10/%E7%AE%97%E8%96%AA%E8%B5%84/"/>
     <id>http://luoguochun.cn/2014/07/10/算薪资/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>测算 北京 / 上海 / 成都 三地互联网从业者的薪资</p>
+    <published>2014-07-09T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:57.000Z</updated>
+    <content type="html"><![CDATA[<p>测算 北京 / 上海 / 成都 三地互联网从业者的薪资  </p>
+<p>更多详情请参考相关网站 <a href="http://suanxinzi.com/" target="_blank" rel="external">算薪资</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     
@@ -191,12 +171,30 @@
   </entry>
   
   <entry>
-    <title><![CDATA[程序员访谈录，我们只做普通程序员访谈]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%AE%BF%E8%B0%88%E5%BD%95%EF%BC%8C%E6%88%91%E4%BB%AC%E5%8F%AA%E5%81%9A%E6%99%AE%E9%80%9A%E7%A8%8B%E5%BA%8F%E5%91%98%E8%AE%BF%E8%B0%88/"/>
-    <id>http://luoguochun.cn/2014/07/10/程序员访谈录，我们只做普通程序员访谈/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>程序员访谈录是聚焦普通IT从业者，讲他们的故事，和中国的程序员们一起成长。</p>
+    <title><![CDATA[爱拼车]]></title>
+    <link href="http://luoguochun.cn/2014/07/10/%E7%88%B1%E6%8B%BC%E8%BD%A6/"/>
+    <id>http://luoguochun.cn/2014/07/10/爱拼车/</id>
+    <published>2014-07-09T16:00:00.000Z</published>
+    <updated>2014-07-11T04:41:00.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/78c51fbf33d59630d48671ccfbfce806.jpg" alt=""></p>
+
+<p>“<a target="_blank" data-no-turbolink="true" href="http://www.idonoo.com/">爱拼车</a>”是今年8月朱峰和另外两名前阿里员工联合创办的项目。创办之初，爱拼车就已获得来自快的打车投资人的天使投资。而在随后的四个月，爱拼车火速上线了其<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/cn/app/ai-pin-che-tui-jian-ai-pin/id710445030?mt=8">iOS</a>与<a target="_blank" data-no-turbolink="true" href="https://play.google.com/store/apps/details?id=com.idonoo.shareCar&amp;amp;hl=zh_CN">Android</a>端应用。</p>
+
+<p>拼车行业在中国发展多年，却一直还处在十分早期的阶段。对于为什么选择一个不温不火的行业创业，创始人朱峰认为两个环境因素的改变正在促使拼车行业可能迎来爆发。一是雾霭、交通拥堵等“城市病”危机正在促使政府对拼车从以前“类黑车”的定位逐渐转向鼓励。另外则是移动互联网的发展对拼车服务可能起到重要地推动作用，尤其是同城拼车服务。如果上班族能方便地使用拼车App找到同路的小区邻居拼车出行，他可能放弃考虑挤地铁或公交。</p>
+
+<p><img src="http://a.36krcnd.com/photo/012aeec1cf1188b28a89cc12f04993e0.jpeg" alt="p5"></p>
+
+<p>和其他拼车团队相比，爱拼车有何优势？对此，朱峰认为：“爱拼车的优势在于，由于资本的进入，公司在短期内不会考虑营收，将至少花两年时间用于市场培育。”</p>
+
+<p>另外，朱峰还提到团队的互联网基因。爱拼车三位创始人都是在阿里有6、7年经验的员工，在公司未来的发展上也避免不了继承阿里的基因。和淘宝最初几年仅把入驻店铺数作为唯一目标类似，爱拼车团队未来半年考核的唯一KPI就是入驻司机数，试图尽快把数据规模做起了，方便乘客找车。第二步则是把大本营杭州做为一块试验田，探索一套能够在全国其他城市复制的推广模式，方便之后快速向全国其它城市扩张。</p>
+
+<p>拼车领域，重庆的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/207146.html">AA拼车</a>团队算是业内非常出挑的一家。自2011年9月上线以来，AA拼车已拥有接近450万注册用户，2012年9月还曾获得华尔街安迪大洋1000万元投资。<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205432.html" title="没有眼泪帮助的公益如何寻找出路？“公益顺风车”将绿色出行时尚化，吸引年轻族群<a target=" _blank"="">微拼车</a>团队跟爱拼车一样，是今年拼车市场注入的新血，不同的是，它将拼车与真实社交结合。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 丁伟峰]</p><br>                    <p>AD：<a href="http://cnrdn.com/GJWE" target="_blank">云之家</a>，一种新的工作方式。</p>  
+
+
+
+<p>原文发表于 <a href="/p/208624.html">三位前阿里员工推拼车服务“爱拼车”，已获快的打车投资人天使投资</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.idonoo.com" target="_blank" rel="external">爱拼车</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     
@@ -207,12 +205,14 @@
   </entry>
   
   <entry>
-    <title><![CDATA[秋玉米]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E7%A7%8B%E7%8E%89%E7%B1%B3/"/>
-    <id>http://luoguochun.cn/2014/07/10/秋玉米/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>秋玉米是一个在线未注册双拼三拼多拼域名批量查询工具</p>
+    <title><![CDATA[好规划]]></title>
+    <link href="http://luoguochun.cn/2014/07/10/%E5%A5%BD%E8%A7%84%E5%88%92/"/>
+    <id>http://luoguochun.cn/2014/07/10/好规划/</id>
+    <published>2014-07-09T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:57.000Z</updated>
+    <content type="html"><![CDATA[<p>在线理财规划与咨询  </p>
+<p>更多详情请参考相关网站 <a href="https://www.guihua.com/" target="_blank" rel="external">好规划</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     
@@ -223,12 +223,14 @@
   </entry>
   
   <entry>
-    <title><![CDATA[知行养成社区]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E7%9F%A5%E8%A1%8C%E5%85%BB%E6%88%90%E7%A4%BE%E5%8C%BA/"/>
-    <id>http://luoguochun.cn/2014/07/10/知行养成社区/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>我们是一个习惯养成、摆脱懒人心理的在线社区。</p>
+    <title><![CDATA[她理财网]]></title>
+    <link href="http://luoguochun.cn/2014/07/10/%E5%A5%B9%E7%90%86%E8%B4%A2%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/07/10/她理财网/</id>
+    <published>2014-07-09T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:59.000Z</updated>
+    <content type="html"><![CDATA[<p>国内首家女性理财网站  </p>
+<p>更多详情请参考相关网站 <a href="http://www.talicai.com/" target="_blank" rel="external">她理财网</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     
@@ -239,12 +241,14 @@
   </entry>
   
   <entry>
-    <title><![CDATA[百度疾病预测]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E7%99%BE%E5%BA%A6%E7%96%BE%E7%97%85%E9%A2%84%E6%B5%8B/"/>
-    <id>http://luoguochun.cn/2014/07/10/百度疾病预测/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>百度新产品，利用大数据预测流感、肝炎、肺结核和性病发病趋势</p>
+    <title><![CDATA[图超市]]></title>
+    <link href="http://luoguochun.cn/2014/07/10/%E5%9B%BE%E8%B6%85%E5%B8%82/"/>
+    <id>http://luoguochun.cn/2014/07/10/图超市/</id>
+    <published>2014-07-09T16:00:00.000Z</published>
+    <updated>2014-07-11T04:41:00.000Z</updated>
+    <content type="html"><![CDATA[<p>全球首家规模化、专业人工P图公司  </p>
+<p>更多详情请参考相关网站 <a href="http://www.tuchaoshi.com/" target="_blank" rel="external">图超市</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     
@@ -255,12 +259,14 @@
   </entry>
   
   <entry>
-    <title><![CDATA[番茄土豆]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E7%95%AA%E8%8C%84%E5%9C%9F%E8%B1%86/"/>
-    <id>http://luoguochun.cn/2014/07/10/番茄土豆/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>结合番茄工作法和 GTD，帮助你更高效的完成工作</p>
+    <title><![CDATA[一招聘]]></title>
+    <link href="http://luoguochun.cn/2014/07/10/%E4%B8%80%E6%8B%9B%E8%81%98/"/>
+    <id>http://luoguochun.cn/2014/07/10/一招聘/</id>
+    <published>2014-07-09T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:58.000Z</updated>
+    <content type="html"><![CDATA[<p>互联网职位一站搜索  </p>
+<p>更多详情请参考相关网站 <a href="http://1job.so/" target="_blank" rel="external">一招聘</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     
@@ -271,12 +277,14 @@
   </entry>
   
   <entry>
-    <title><![CDATA[爱语吧]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E7%88%B1%E8%AF%AD%E5%90%A7/"/>
-    <id>http://luoguochun.cn/2014/07/10/爱语吧/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>外语在线教育企业</p>
+    <title><![CDATA[iKair家庭环境管家]]></title>
+    <link href="http://luoguochun.cn/2014/07/10/iKair%E5%AE%B6%E5%BA%AD%E7%8E%AF%E5%A2%83%E7%AE%A1%E5%AE%B6/"/>
+    <id>http://luoguochun.cn/2014/07/10/iKair家庭环境管家/</id>
+    <published>2014-07-09T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:59.000Z</updated>
+    <content type="html"><![CDATA[<p>室内空气监测的智能硬件  </p>
+<p>更多详情请参考相关网站 <a href="http://ikair.com/" target="_blank" rel="external">iKair家庭环境管家</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     
@@ -287,12 +295,14 @@
   </entry>
   
   <entry>
-    <title><![CDATA[爱开发]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E7%88%B1%E5%BC%80%E5%8F%91/"/>
-    <id>http://luoguochun.cn/2014/07/10/爱开发/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>开发者服务市场 ,帮助开发者更好的完成项目</p>
+    <title><![CDATA[docopt]]></title>
+    <link href="http://luoguochun.cn/2014/07/10/docopt/"/>
+    <id>http://luoguochun.cn/2014/07/10/docopt/</id>
+    <published>2014-07-09T16:00:00.000Z</published>
+    <updated>2014-07-11T04:41:00.000Z</updated>
+    <content type="html"><![CDATA[<p>anguage for description of command  </p>
+<p>更多详情请参考相关网站 <a href="http://docopt.org/" target="_blank" rel="external">docopt</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     
@@ -303,12 +313,34 @@
   </entry>
   
   <entry>
-    <title><![CDATA[爱回收网]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E7%88%B1%E5%9B%9E%E6%94%B6%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/07/10/爱回收网/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>二手电子产品回收平台</p>
+    <title><![CDATA[Power]]></title>
+    <link href="http://luoguochun.cn/2014/07/10/Power/"/>
+    <id>http://luoguochun.cn/2014/07/10/Power/</id>
+    <published>2014-07-09T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:58.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/7347206cb73cee816723f294759c4e6b.jpg" alt=""></p>
+
+<p>HTC 近日对外宣布，HTC 正在推进一项叫作“<a target="_blank" data-no-turbolink="true" href="http://www.htc.com/www/go/power-to-give/">Power To Give</a>”的项目，该项目由 HTC 与美国加利福尼亚大学伯克利分校的David Anderson博士合作开发，旨在挖掘 Android 智能手机闲散的数据处理能力，将其汇集成一台“超级计算机”，能为世界各地的科研项目提供运算能力方面的支持。</p>
+
+<p>通过 HTC Power To Give 计划，人们可以让出自己 Android 智能手机闲散的处理能力，提供给医学、科学和生态等重要领域的研究项目，为解决世界级难题做贡献，比如研究老年痴呆的科研项目、探索外星生物的科研项目，等等。</p>
+
+<p>HTC 方面表示，此计划能够极大缩短科研项目的开发周期，缩短数周或几十年都不是事儿；一百万部 Android 智能手机，通过 HTC Power To Give 项目，就能够产生与世界 30 大超级计算机之一相当的处理能力，即具备1 PetaFLOP （千万亿次）的计算机性能。据 HTC CEO 王雪红称，2013年 Android 智能手机的出货量有 7.8 亿台，若能将其中一小部分手机闲散的运算能力利用起来，就大有可为。</p>
+
+<p>HTC 还信心满满地给了个例子：<a target="_blank" data-no-turbolink="true" href="http://www.worldcommunitygrid.org/">IBM的世界公共网格</a>（World Community Grid），用户可以通过捐献他们的计算机、智能手机或平板电脑没有使用的计算能力，促进科研发展。自 2004 年上线以来，世界公共网格的志愿者们已经贡献了近 900,000 年的研究处理时间。</p>
+
+<p>目前，HTC 为 Power To Give 这一项目单独开发了一款 App，已推出<a target="_blank" data-no-turbolink="true" href="https://play.google.com/store/apps/details?id=com.htc.ptg">测试版</a>，用户在 Google Play 应用商店里下载后，可在 App 内选择自己想要支持的科研项目。只有当自己的 Android 手机处于充电状态、并同时连接上WiFi时，手机闲置的数据处理能力才会被释放出来，贡献给指定的科研项目。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/ad3545c115f0bea88fec035f69a65cd4.png" alt=""></p>
+
+<p>HTC Power To Give 相当于一个连接 Android 智能手机和不同研究项目的中间设备，科研项目会被分拆成许多小的任务单元，被分发到正在运行 Power to Give App 的手机上，当利用手机闲置的运算能力完成任务后，运算结果会自动上传到该科研项目的中央服务器。</p>
+
+<p>两天前，HTC 在 MWC 上发布的两款“新渴望8系”手机当中就内置有Power To Give 服务。如果其他手机要安装 HTC Power To Give App，你的安卓设备必须达到如下标准：Android 4.3 及以上，1.5 GHz 双核处理器或者 1 GHz 四核处理器，以及 1G 的运行空间。据悉，HTC 打算在 6 个月内将这款 App 对所有 Android 智能手机开放。</p><br>                    <p>[<span>36氪</span>原创文章，作者: coldsummer17]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="/p/209974.html">HTC推出Power To Give测试版应用：欲利用Android手机闲散的数据处理能力支持科研项目，打造能解决世界级难题的“超级计算机”</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://power.hackplan.com/" target="_blank" rel="external">Power</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     
@@ -319,12 +351,87 @@
   </entry>
   
   <entry>
-    <title><![CDATA[爱你宝贝]]></title>
-    <link href="http://luoguochun.cn/2014/07/10/%E7%88%B1%E4%BD%A0%E5%AE%9D%E8%B4%9D/"/>
-    <id>http://luoguochun.cn/2014/07/10/爱你宝贝/</id>
-    <published>2014-07-10T11:11:00.000Z</published>
-    <updated>2014-07-10T11:11:49.000Z</updated>
-    <content type="html"><![CDATA[<p>分享宝宝儿歌</p>
+    <title><![CDATA[Moveha]]></title>
+    <link href="http://luoguochun.cn/2014/07/10/Moveha/"/>
+    <id>http://luoguochun.cn/2014/07/10/Moveha/</id>
+    <published>2014-07-09T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:59.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/6883ded78f79d44092ace9874ca900af.png" alt=""></p>
+
+<p>出国留学前，准留学生们最大的忧虑应该就是到了国外人生地不熟，一个人可以把在国外安定下来的所有事情搞定吗？</p>
+
+<p>正因为有这样的信息不对称的问题存在，华人团队<a target="_blank" data-no-turbolink="true" href="http://www.moveha.com/">Moveha</a>就想做一个帮助国际学生远程租房的平台，让留学生们在踏出国门前就把租房有关的一切事项搞定，不需要担心到了当地会手足无措。</p>
+
+<p>Moveha会为留学生提供可供整租/分租的公寓房源或者私人房源，留学生在<a target="_blank" data-no-turbolink="true" href="http://www.moveha.com/">Moveha网站</a>上输入自己的学校，便可以找到周边可供租赁的房源，目前Moveha覆盖了加州和芝加哥地区。他们的房源都来自和美国的rental office以及property management group两类房屋机构的合作，由于这些房源的价格信息透明（和中国的中介市场很不一样），所以Moveha不会进行中间加价。<strong>相反，如果在某个地区通过Moveha租房的学生数量形成规模，Moveha还可以向房屋机构协商到类似“批发”的租价，让学生可以以低于个人身份去租房的价格租到房子。</strong>规模化的另外一个好处是，Moveha的平台影响力越大，就会有越来越多的学生将他们可供合租/转租的房源提交到Moveha上，从而拿到更多价格比较低廉的私人房源。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/60dd2041a1d39ccba652e8c6a1701639.png" alt=""></p>
+
+<p>同时，Moveha还会为到当地留学的学生们提供接机、提前办理手机卡（和美国运营商T-mobile合作的）、家居用品购买的周边服务。</p>
+
+<p>至于和其他当地的论坛、平台、中介相比，Moveha有什么优势呢？他们团队的想法是，同类的大多数网站是信息平台，不提供预定服务和周边服务，并且这些网站通常只把冗杂的信息放在网站上，不细化。而对于Moveha来讲，他们主要做的是在线预订，在线转租/合租（sublease），想要找室友的老生和想要租房子的新生都可以到这个平台上来，从而形成一个圈子，并且可以沉淀很多师兄师姐们的经验、评论。</p>
+
+<p>Moveha在近期完成了一笔数十万美金的天使轮融资，天使投资人分别是一位国内上市公司CEO、一位是美国医院＋保险一体化的Kaiser Permanente的主管，以及一位美国软件公司的CEO。目前Moveha的房源覆盖整个加州和芝加哥地区的70多所大学周边，和5家大的房屋机构以及60多个学生社团达成了合作。</p>
+
+<p>我之前还聊过一个在香港提供类似留学服务的团队，他们的思路是和国内的留学机构合作作为引流的入口，而在香港帮学生租房只是挖掘留学生价值的一部分，他们还会通过为这些学生在留学期间的一些额外的教育需求提供服务来盈利。</p>
+
+<p><iframe height="498" width="510" src="http://player.youku.com/embed/XNzM2NjE5OTQ0" frameborder="0" allowfullscreen></iframe><br>                    </p><p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  <p></p>
+<p>原文发表于 <a href="/p/213604.html">在出国留学前把未来的小窝搞定：Moveha想帮助国际学生实现远程租房，已获数十万美金天使融资</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.moveha.com/" target="_blank" rel="external">Moveha</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[BtcCal]]></title>
+    <link href="http://luoguochun.cn/2014/07/09/BtcCal/"/>
+    <id>http://luoguochun.cn/2014/07/09/BtcCal/</id>
+    <published>2014-07-08T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:53.000Z</updated>
+    <content type="html"><![CDATA[<p>用手机日历监控比特币价格  </p>
+<p>更多详情请参考相关网站 <a href="http://btccal.sinaapp.com/" target="_blank" rel="external">BtcCal</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[金元宝微店]]></title>
+    <link href="http://luoguochun.cn/2014/07/09/%E9%87%91%E5%85%83%E5%AE%9D%E5%BE%AE%E5%BA%97/"/>
+    <id>http://luoguochun.cn/2014/07/09/金元宝微店/</id>
+    <published>2014-07-08T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:56.000Z</updated>
+    <content type="html"><![CDATA[<p>金元宝免费提供微信开店、微店注册、微店，一分钟拥有自己微店，金元宝微信开店就是简单。  </p>
+<p>更多详情请参考相关网站 <a href="http://www.jinyuanbao.cn/" target="_blank" rel="external">金元宝微店</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[邀・请]]></title>
+    <link href="http://luoguochun.cn/2014/07/09/%E9%82%80%E3%83%BB%E8%AF%B7/"/>
+    <id>http://luoguochun.cn/2014/07/09/邀・请/</id>
+    <published>2014-07-08T16:00:00.000Z</published>
+    <updated>2014-07-11T04:40:55.000Z</updated>
+    <content type="html"><![CDATA[<p>一个简单的邀请卡生成工具，登录新浪微博后，你可以直接选择你需要通知的好友，配上对应的标题和内容、时间、地点，即可以生成一张精美的邀请卡。  </p>
+<p>更多详情请参考相关网站 <a href="http://yaoqing.im" target="_blank" rel="external">邀・请</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
     

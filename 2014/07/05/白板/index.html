@@ -1,0 +1,457 @@
+
+ <!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  
+    <title>白板 | 0xe1码农！</title>
+    <!-- BEGIN 无觅推荐
+    <meta name="wumiiVerification" content="2817ea17-c29a-4a31-b415-6be2b9c6105c" />
+     -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
+    
+    <meta name="author" content="buf1024">
+    <meta name="keywords" content="luoguochun.cn,programming,coding,爱折腾,编程博客,C/C++语言,云计算,服务端,分布式" />
+    
+    <meta name="description" content="颠覆了传统课堂的 可汗学院越来越受到世界各地学生和家长的欢迎。看着可汗老师在电子白板上写写画画，轻松为大家传授知识，我想我们的很多老师也有走出教室，拿起电子白板，录一段视频课程的冲动吧（稍后解释原理）。现在，老师们的这个冲动被刚刚 获得220万A轮融资的交互式电子白板应用 Educreations看">
+    
+    
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="buf128" />
+    <meta name="twitter:title" content="白板 | 0xe1码农！" />
+      
+    
+    
+    <link rel="alternative" href="/atom.xml" title="0xe1码农！" type="application/atom+xml">
+    
+    
+    <link rel="icon" href="/xinpinla-crawler/img/favicon.ico">
+    
+    
+    <link rel="apple-touch-icon" href="/xinpinla-crawler/img/pacman.png">
+    <link rel="apple-touch-icon-precomposed" href="/xinpinla-crawler/img/pacman.png">
+    
+    <link rel="stylesheet" href="/xinpinla-crawler/css/style.css" type="text/css">
+</head>
+
+  <body>
+    <header>
+      <div>
+		
+			<div id="imglogo">
+				<a href="/xinpinla-crawler/"><img src="/xinpinla-crawler/img/pacman.png" alt="0xe1码农！" title="0xe1码农！"/></a>
+			</div>
+			
+			<div id="textlogo">
+				<h1 class="site-name"><a href="/xinpinla-crawler/" title="0xe1码农！">0xe1码农！</a></h1>
+				<h2 class="blog-motto">码农，程序猿，攻城狮，未来的地摊贩</h2>
+			</div>
+			<div class="navbar"><a class="navbutton navmobile" href="#" title="菜单">
+			</a></div>
+			<nav class="animated">
+				<ul>
+					<ul>
+					 
+						<li><a href="/xinpinla-crawler">首页</a></li>
+					
+						<li><a href="/xinpinla-crawler//archives">归档</a></li>
+					
+						<li><a href="/xinpinla-crawler/about">关于</a></li>
+					
+					<li>
+					
+					<form class="search" action="//google.com/search" method="get" accept-charset="utf-8">
+						<label>Search</label>
+						<input type="text" id="search" name="q" autocomplete="off" maxlength="20" placeholder="搜索" />
+						<input type="hidden" name="q" value="site:luoguochun.cn">
+					</form>
+					
+					</li>
+				</ul>
+			</nav>			
+</div>
+
+    </header>
+    <div id="container">
+      <div id="main" class="post" itemscope itemprop="blogPost">
+	<article itemprop="articleBody"> 
+		<header class="article-info clearfix">
+  <h1 itemprop="name">
+    
+      <a href="/xinpinla-crawler/2014/07/05/白板/" title="白板" itemprop="url">白板</a>
+  </h1>
+  <p class="article-author">By
+    
+      <a href="http://luoguochun.cn" title="buf1024">buf1024</a>
+    </p>
+  <p class="article-time">
+    <time datetime="2014-07-04T16:00:00.000Z" itemprop="datePublished">7月 5 2014</time>
+    更新日期:<time datetime="2014-07-11T04:40:44.000Z" itemprop="dateModified">7月 11 2014</time>
+    
+  </p>
+</header>
+	<div class="article-content">
+		
+		
+		<div id="toc" class="toc-article">
+			<strong class="toc-title">文章目录</strong>
+		
+		</div>
+		
+		<p><a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/145574.html/educreations"><img src="http://static.36kr.com/wp-content/uploads/2012/08/Educreations.jpg" alt=""></a><br><br>颠覆了传统课堂的 <a target="_blank" data-no-turbolink="true" href="http://baike.baidu.com/view/5913590.htm">可汗学院</a>越来越受到世界各地学生和家长的欢迎。看着可汗老师在电子白板上写写画画，轻松为大家传授知识，我想我们的很多老师也有走出教室，拿起电子白板，录一段视频课程的冲动吧（稍后解释原理）。现在，老师们的这个冲动被刚刚 <a target="_blank" data-no-turbolink="true" href="http://techcrunch.com/2012/08/14/educreations-series-a/">获得</a>220万A轮融资的交互式电子白板应用 <a target="_blank" data-no-turbolink="true" href="http://www.educreations.com/">Educreations</a>看到了。</p>
+
+<p>Educreations是苹果商店的一款应用。利用这款应用，老师们能够把iPad变成可汗老师的电子白板（功能上类似于我们传统教室的黑板），在上面边做板书，边进行课程讲解。板书的过程和老师讲解的声音都会被Educreations记录在视频课程里面。同可汗老师的视频课程一样，这个应用也不需要老师在视频课程里露脸，视频的一整屏都是白板。</p>
+
+<p>对老师来说，录制视频的过程非常简单。应用界面除了有一大块供老师板书的白板外，界面上方有一个功能条。功能条的最右端有一个红色的录制按钮，点此按钮老师就可以开始配合着板书进行讲课了。讲课时，老师可以在白板上随意写字，字体颜色默认为黑色，如果老师想换种颜色，则可以点击功能条上的颜色按钮。如果老师觉得自己的字写得不好看，则可以点击功能条上的T按钮，之后再点击白板的任一位置，该位置就会出现文本框，而iPad的虚拟键盘也会跟着出现。另外，功能条上还提供了图片导入的按钮。老师可以从本地、Dropbox云端或者网上寻找图片，导入到白板上，而且Educreations允许老师在导入的图片之上做标注。此外，功能条还提供了撤销和清屏按钮。</p>
+
+<p><a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/145574.html/mza_6876793165610954895-480x480-75"><img src="http://static.36kr.com/wp-content/uploads/2012/08/mza_6876793165610954895.480x480-75.jpg" alt=""></a></p>
+
+<p>老师录制好视频课程之后，可以选择视频是仅对学生可见，还是所有人都可见。如果是仅对学生学生可见，Educreations会将课程通知信息发到学生邮箱，反之，课程将被分享到Edcreations的平台。Educreations的平台按学科类别组织视频，同时也提供视频搜索功能，让学生能轻松找到自己感兴趣的视频。此外，Educreations目前已推出网页版，让没有iPad的老师也能在PC上DIY视频课程。</p>
+
+<p>最后必须指出的是，目前苹果应用商店里还有一款和Educreations非常相似的应用叫ShowMe。ShowMe和Educreations除了在界面设计上有些许不同之外，功能上几乎一模一样。有兴趣的老师和同学可以都下载来试用一下。</p>
+
+<p>点此下载：  <a target="_blank" data-no-turbolink="true" href="http://itunes.apple.com/us/app/educreations-interactive-whiteboard/id478617061?mt=8">Educreations</a></p>
+
+<p>点此下载：  <a target="_blank" data-no-turbolink="true" href="http://itunes.apple.com/cn/app/show-me.../id510986188?mt=8">ShowMe</a></p>
+
+<p>消息源： <a target="_blank" data-no-turbolink="true" href="http://techcrunch.com/2012/08/14/educreations-series-a/">TC</a></p><br>                    <p></p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="/p/145574.html">交互式电子白板Educreations融资220万美元，让老师在iPad上DIY视频课程</a>  </p>
+<p>更多详情请参考相关网站 <a href="https://bearyboard.com/" target="_blank" rel="external">白板</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+  
+        <!-- BEGIN 无觅推荐 
+        <div style="margin:0px auto; padding-left:23px; text-align:center;">
+        
+        <script type="text/javascript" id="wumiiRelatedItems"></script>
+        <script type="text/javascript">
+            var wumiiPermaLink = "http://luoguochun.cn/2014/07/05/白板/"; //请用代码生成文章永久的链接
+            var wumiiTitle = "白板"; //请用代码生成文章标题
+            var wumiiTags = "&quot;创意事物&quot;"; //请用代码生成文章标签，以英文逗号分隔，如："标签1,标签2"
+            var wumiiCategories = [&quot;网摘&quot;]; //请用代码生成文章分类，分类名放在 JSONArray 中，如: ["分类1", "分类2"]
+            var wumiiSitePrefix = "http://luoguochun.cn";
+            var wumiiParams = "&num=5&mode=3&pf=JAVASCRIPT";
+        </script>
+        <script type="text/javascript" src="http://widget.wumii.cn/ext/relatedItemsWidget"></script>
+        <!--
+        <a href="http://www.wumii.com/widget/relatedItems" style="border:0;">
+            <img src="http://static.wumii.cn/images/pixel.png" alt="无觅关联推荐，快速提升流量" style="border:0;padding:0;margin:0;" />
+        </a>
+        </div>
+         -->
+	</div>
+		<footer class="article-footer clearfix">
+
+  <div class="article-tags">
+  
+  <span></span> <a href="/xinpinla-crawler/tags/创意事物/">创意事物</a>
+  </div>
+
+
+<div class="article-categories">
+  <span></span>
+  <a class="article-category-link" href="/xinpinla-crawler/categories/网摘/">网摘</a>
+</div>
+
+
+
+<div class="article-share" id="share">
+
+  <div data-url="http://luoguochun.cn/2014/07/05/白板/" data-title="白板 | 0xe1码农！" data-tsina="null" class="share clearfix">
+  </div>
+
+</div>
+</footer>   	       
+	</article>
+	
+<nav class="article-nav clearfix">
+ 
+ <div class="prev" >
+ <a href="/xinpinla-crawler/2014/07/05/高德地图小蜜/" title="高德地图小蜜">
+  <strong>前一篇:</strong><br/>
+  <span>
+  高德地图小蜜</span>
+</a>
+</div>
+
+
+<div class="next">
+<a href="/xinpinla-crawler/2014/07/05/榫卯/"  title="榫卯">
+ <strong>下一篇:</strong><br/> 
+ <span>榫卯
+</span>
+</a>
+</div>
+
+</nav>
+
+	
+<section class="comment">
+	<div class="ds-thread"></div>
+</section>
+
+</div>
+
+      <div class="openaside"><a class="navbutton" href="#" title="显示侧边栏"></a></div>
+
+  <div id="toc" class="toc-aside">
+  <strong class="toc-title">文章目录</strong>
+  
+  </div>
+
+<div id="asidepart">
+<div class="closeaside"><a class="closebutton" href="#" title="隐藏侧边栏"></a></div>
+<aside class="clearfix">
+
+  
+  <div class="archiveslist">
+    <p class="asidetitle"><a href="/xinpinla-crawler/archives">归档</a></p>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/xinpinla-crawler/archives/2014/07">七月 2014</a><span class="archive-list-count">91</span></li></ul>
+  </div>
+
+
+  
+<div class="categorieslist">
+	<p class="asidetitle">分类</p>
+		<ul>
+		
+			<li><a href="/xinpinla-crawler/categories/网摘/" title="网摘">网摘<sup>91</sup></a></li>
+		
+		</ul>
+</div>
+
+
+  
+<div class="tagslist">
+	<p class="asidetitle">标签</p>
+		<ul class="clearfix">
+		
+			<li><a href="/xinpinla-crawler/tags/创意事物/" title="创意事物">创意事物<sup>91</sup></a></li>
+		
+		</ul>
+</div>
+
+
+  
+  <div class="tagcloudlist">
+    <p class="asidetitle">标签云</p>
+    <div class="tagcloudlist clearfix">
+       <a href="/xinpinla-crawler/tags/创意事物/" style="font-size: NaNpx;">创意事物</a>
+    </div>
+  </div>
+
+
+  <div class="linkslist">
+  <p class="asidetitle">友情链接</p>
+    <ul>
+      <li><a href="http://zespia.tw/hexo" target="_blank" title="Hexo静态BLOG生成器">Hexo</a></li>
+    </ul>
+</div>
+
+  <div class="rsspart">
+	<a href="/atom.xml" target="_blank" title="rss">RSS 订阅</a>
+</div>
+
+</aside>
+</div>
+    </div>
+    <footer><div id="footer" >
+	
+	<div class="line">
+		<span></span>
+		<div class="author"></div>
+	</div>
+	
+	
+	<section class="info">
+		<p> Hello ,I&#39;m luo guochun, believe it or not. <br/>
+			This is my blog, hosted in github pages.</p>
+	</section>
+	 
+	<div class="social-font" class="clearfix">
+		
+		<a href="http://weibo.com/buf1024" target="_blank" title="weibo"></a>
+		
+		
+		<a href="https://twitter.com/buf128" target="_blank" title="twitter"></a>
+		
+		
+		<a href="https://github.com/buf1024" target="_blank" title="github"></a>
+		
+		
+	</div>
+		<p class="copyright">Powered by <a href="http://zespia.tw/hexo/" target="_blank" title="hexo">hexo</a> and Theme by <a href="https://github.com/A-limon/pacman" target="_blank" title="Pacman">Pacman</a> © 2014 
+		
+		<a href="http://luoguochun.cn" target="_blank" title="buf1024">buf1024</a>
+		
+		</p>
+</div>
+</footer>
+    <script src="/xinpinla-crawler/js/jquery-2.1.0.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){ 
+  $('.navbar').click(function(){
+    $('header nav').toggleClass('shownav');
+  });
+  var myWidth = 0;
+  function getSize(){
+    if( typeof( window.innerWidth ) == 'number' ) {
+      myWidth = window.innerWidth;
+    } else if( document.documentElement && document.documentElement.clientWidth) {
+      myWidth = document.documentElement.clientWidth;
+    };
+  };
+  var m = $('#main'),
+      a = $('#asidepart'),
+      c = $('.closeaside'),
+      o = $('.openaside');
+  $(window).resize(function(){
+    getSize(); 
+    if (myWidth >= 1024) {
+      $('header nav').removeClass('shownav');
+    }else
+    {
+      m.removeClass('moveMain');
+      a.css('display', 'block').removeClass('fadeOut');
+      o.css('display', 'none');
+      
+      $('#toc.toc-aside').css('display', 'none');
+        
+    }
+  });
+  c.click(function(){
+    a.addClass('fadeOut').css('display', 'none');
+    o.css('display', 'block').addClass('fadeIn');
+    m.addClass('moveMain');
+  });
+  o.click(function(){
+    o.css('display', 'none').removeClass('beforeFadeIn');
+    a.css('display', 'block').removeClass('fadeOut').addClass('fadeIn');      
+    m.removeClass('moveMain');
+  });
+  $(window).scroll(function(){
+    o.css("top",Math.max(80,260-$(this).scrollTop()));
+  });
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+    c.click(function(){
+      ta.css('display', 'block').addClass('fadeIn');
+    });
+    o.click(function(){
+      ta.css('display', 'none');
+    });
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,320-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var $this = $('.share'),
+      url = $this.attr('data-url'),
+      encodedUrl = encodeURIComponent(url),
+      title = $this.attr('data-title'),
+      tsina = $this.attr('data-tsina');
+  var html = [
+  '<a href="#" class="overlay" id="qrcode"></a>',
+  '<div class="qrcode clearfix"><span>扫描二维码分享到微信朋友圈</span><a class="qrclose" href="#share"></a><strong>Loading...Please wait</strong><img id="qrcode-pic" data-src="http://s.jiathis.com/qrcode.php?url=' + encodedUrl + '"/></div>',
+  '<a href="#textlogo" class="article-back-to-top" title="Top"></a>',
+  '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="article-share-facebook" target="_blank" title="Facebook"></a>',
+  '<a href="#qrcode" class="article-share-qrcode" title="QRcode"></a>',
+  '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
+  '<a href="http://service.weibo.com/share/share.php?title='+title+'&url='+encodedUrl +'&ralateUid='+ tsina +'&searchPic=true&style=number' +'" class="article-share-weibo" target="_blank" title="Weibo"></a>',
+  '<span title="Share to"></span>'
+  ].join('');
+  $this.append(html);
+  $('.article-share-qrcode').click(function(){
+    var imgSrc = $('#qrcode-pic').attr('data-src');
+    $('#qrcode-pic').attr('src', imgSrc);
+    $('#qrcode-pic').load(function(){
+        $('.qrcode strong').text(' ');
+    });
+  });
+});     
+</script>
+
+
+<script type="text/javascript">
+  var duoshuoQuery = {short_name:"buf1024"};
+  (function() {
+    var ds = document.createElement('script');
+    ds.type = 'text/javascript';ds.async = true;
+    ds.src = '//static.duoshuo.com/embed.js';
+    ds.charset = 'UTF-8';
+    (document.getElementsByTagName('head')[0] 
+    || document.getElementsByTagName('body')[0]).appendChild(ds);
+  })();
+</script> 
+
+
+
+<link rel="stylesheet" href="/xinpinla-crawler/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="/xinpinla-crawler/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){ 
+  $('.article-content').each(function(i){
+    $(this).find('img').each(function(){
+      if ($(this).parent().hasClass('fancybox')) return;
+      var alt = this.alt;
+      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
+    });
+    $(this).find('.fancybox').each(function(){
+      $(this).attr('rel', 'article' + i);
+    });
+  });
+  if($.fancybox){
+    $('.fancybox').fancybox();
+  }
+}); 
+</script>
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-52295723-1', 'auto');  
+ga('send', 'pageview');
+</script>
+
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fd472d1efc21e6f821b5d392d18d5f1ab' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+
+  </body>
+</html>

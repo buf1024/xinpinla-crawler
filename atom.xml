@@ -4,7 +4,7 @@
   <subtitle><![CDATA[码农，程序猿，攻城狮，未来的地摊贩]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-11T04:41:45.548Z</updated>
+  <updated>2014-07-11T04:44:34.129Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -81,13 +81,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Amino Apps]]></title>
-    <link href="http://luoguochun.cn/2014/07/11/Amino%20Apps/"/>
-    <id>http://luoguochun.cn/2014/07/11/Amino Apps/</id>
+    <title><![CDATA[Amazon Zocalo]]></title>
+    <link href="http://luoguochun.cn/2014/07/11/Amazon%20Zocalo/"/>
+    <id>http://luoguochun.cn/2014/07/11/Amazon Zocalo/</id>
     <published>2014-07-10T16:00:00.000Z</published>
-    <updated>2014-07-11T04:40:42.000Z</updated>
-    <content type="html"><![CDATA[<p>移动端兴趣App群  </p>
-<p>更多详情请参考相关网站 <a href="http://aminoapps.com/" target="_blank" rel="external">Amino Apps</a>  </p>
+    <updated>2014-07-11T04:40:41.000Z</updated>
+    <content type="html"><![CDATA[<p>Amazon 发布的文档存储与协作服务  </p>
+<p>更多详情请参考相关网站 <a href="http://aws.amazon.com/cn/zocalo/" target="_blank" rel="external">Amazon Zocalo</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -99,13 +99,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Amazon Zocalo]]></title>
-    <link href="http://luoguochun.cn/2014/07/11/Amazon%20Zocalo/"/>
-    <id>http://luoguochun.cn/2014/07/11/Amazon Zocalo/</id>
+    <title><![CDATA[Amino Apps]]></title>
+    <link href="http://luoguochun.cn/2014/07/11/Amino%20Apps/"/>
+    <id>http://luoguochun.cn/2014/07/11/Amino Apps/</id>
     <published>2014-07-10T16:00:00.000Z</published>
-    <updated>2014-07-11T04:40:41.000Z</updated>
-    <content type="html"><![CDATA[<p>Amazon 发布的文档存储与协作服务  </p>
-<p>更多详情请参考相关网站 <a href="http://aws.amazon.com/cn/zocalo/" target="_blank" rel="external">Amazon Zocalo</a>  </p>
+    <updated>2014-07-11T04:40:42.000Z</updated>
+    <content type="html"><![CDATA[<p>移动端兴趣App群  </p>
+<p>更多详情请参考相关网站 <a href="http://aminoapps.com/" target="_blank" rel="external">Amino Apps</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -388,13 +388,25 @@
   </entry>
   
   <entry>
-    <title><![CDATA[BtcCal]]></title>
-    <link href="http://luoguochun.cn/2014/07/09/BtcCal/"/>
-    <id>http://luoguochun.cn/2014/07/09/BtcCal/</id>
+    <title><![CDATA[Citytrip]]></title>
+    <link href="http://luoguochun.cn/2014/07/09/Citytrip/"/>
+    <id>http://luoguochun.cn/2014/07/09/Citytrip/</id>
     <published>2014-07-08T16:00:00.000Z</published>
-    <updated>2014-07-11T04:40:53.000Z</updated>
-    <content type="html"><![CDATA[<p>用手机日历监控比特币价格  </p>
-<p>更多详情请参考相关网站 <a href="http://btccal.sinaapp.com/" target="_blank" rel="external">BtcCal</a>  </p>
+    <updated>2014-07-11T04:40:54.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/b6e2dfa40c03aca83b4cf797d01c8a42.png" alt=""></p>
+
+<p>UGC的推荐语和评论正变得越来越有价值，尤其是当它被重新结构化之后，就可以成为一个更轻但更丰富的决策入口。</p>
+
+<p>产品爱好者Yvo Schaap所开发的小工具<a target="_blank" data-no-turbolink="true" href="http://www.yvoschaap.com/citytrip">Citytrip</a>就在做这么一件事——他把Airbnb上房主为租客所写的当地游玩之处的推荐语提取了出来，并和地图上的POI匹配，这样一个出行者可以在出行前或者行中查看地图（见题图），即时了解每一个景点、商店、酒吧等场所在生活经验丰富的当地人眼中是什么样的。</p>
+
+<p>或许你会说，我看Tripadvisor不也可以嘛？是的，不过Yvo Schaap认为，由于Airbnb上的推荐语是每一位房主来告诉想租住他房屋的游客的，所以这种视角所写下的推荐会更加的personal且不带偏见，而Tripadvisor则更像一个大杂烩的公共评论聚集地了。</p>
+
+<p>总之，正如开头所说，UGC的推荐语和评论正变得越来越有价值，国内的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213134.html">蚂蜂窝</a>和<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213545.html">好巧网</a>也借由这一点做了国际酒店预订。我觉得很值得一想的是，什么样的产品机制和技术手段可以创造这种价值？蚂蜂窝用的是自家攻略数据，好巧网用的则是大数据，Airbnb则通过房主向租客推荐的功能天然地实现了这一点，还有其他的实现方法吗？创造了这种价值之后，又该如何将其留存？</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="/p/213553.html">Airbnb上的推荐语是座金矿，Citytrip将其提取出来形成决策信息的入口</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.yvoschaap.com/citytrip" target="_blank" rel="external">Citytrip</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -424,13 +436,35 @@
   </entry>
   
   <entry>
-    <title><![CDATA[邀・请]]></title>
-    <link href="http://luoguochun.cn/2014/07/09/%E9%82%80%E3%83%BB%E8%AF%B7/"/>
-    <id>http://luoguochun.cn/2014/07/09/邀・请/</id>
+    <title><![CDATA[辛巴达旅行]]></title>
+    <link href="http://luoguochun.cn/2014/07/09/%E8%BE%9B%E5%B7%B4%E8%BE%BE%E6%97%85%E8%A1%8C/"/>
+    <id>http://luoguochun.cn/2014/07/09/辛巴达旅行/</id>
     <published>2014-07-08T16:00:00.000Z</published>
     <updated>2014-07-11T04:40:55.000Z</updated>
-    <content type="html"><![CDATA[<p>一个简单的邀请卡生成工具，登录新浪微博后，你可以直接选择你需要通知的好友，配上对应的标题和内容、时间、地点，即可以生成一张精美的邀请卡。  </p>
-<p>更多详情请参考相关网站 <a href="http://yaoqing.im" target="_blank" rel="external">邀・请</a>  </p>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/9068aa03c95c017b3500151bb4146d7c.png" alt=""></p>
+
+<p>定制旅游如何规模化是个很有意思的话题。</p>
+
+<p>我最近接触到的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/xinbadalvxing">辛巴达旅行</a>团队的思路是，搭建一个B2B2C的平台，让境外地接社来提供产品，辛巴达旅行本身只提供定制的顾问服务，从而让定制旅游的规模化变得可行。</p>
+
+<p>所谓的B2B2C，即B（境外地接社）—B（辛巴达旅行）—C（终端用户），辛巴达旅行会接入境外地接社的系统数据，或者直接为信息化程度低的境外地接社提供OA系统和管理系统，从而让这些旅行社可以将其售卖的境外旅游产品（景点门票、day tour等分散的产品或者是成熟的线路产品）都提交到辛巴达旅行的平台上。而辛巴达旅行会成为一个中间的B方，最源头的地接社并不直接和用户接触，而是由辛巴达旅行来把控服务质量。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/70915af42161884c7574d483fcca69bf.jpeg" alt=""></p>
+
+<p>一般需要定制旅游服务的用户可以在辛巴达旅行上提交自己的定制需求，比如从出行天数、预算到是独自出行还是和家人出游，辛巴达就会通过智能分析来把用户需求和平台上已有的线路产品匹配起来。但是智能分析往往是不够满足用户所有需求的，这个时候辛巴达就会让自己的顾问和用户联系，为他们的一些未被满足的特殊需求进行和智能方案匹配的整套定制服务。</p>
+
+<p>所以辛巴达旅行付出的只是顾问这一环节的成本，最后当用户开始出游，他们会把这些用户再次导回给境外地接社，让他们提供地陪服务，在用户出现临时行程变更、或者有临时额外需求的时候提供帮助和咨询。</p>
+
+<p>因此辛巴达的盈利模式就是从他们所提供的顾问服务中收取一定比例的服务费，且不向B端收费。另外，他们提供的定制服务定价不是我们印象中那种很高的价格，因为他们直接对接了境外的地接社，而缩短了原来还需经过的组团社等中间加价的环节，所以辛巴达旅行可以以更低的价格采购到产品，从而将其销售给用户。</p>
+
+<p>那么什么样的用户会更青睐此类半智能半人工（或者完全人工）的定制旅游服务呢？辛巴达旅行目前更看好的市场是家庭出游的用户，因为一家人出行，有老人有小孩，用户会更需要稳定、确实的路线规划，不能像自己出游查攻略一样充满不确定性，所以会更需要此类顾问服务。</p>
+
+<p>目前我们报道过的定制旅游创业公司还有<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213268.html">无二之旅</a>，他们更偏向有个性化需求的年轻白领群体。未来偏向更年轻群体的定制游公司应该会越来越多，如果你有有趣的模式，可以<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/report">联系我们</a>。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="/p/213564.html">定制旅游如何规模化？辛巴达旅行3.0的思路是搭建B2B2C平台，让境外地接社来提交旅行产品</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.sinbad.com.cn/" target="_blank" rel="external">辛巴达旅行</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

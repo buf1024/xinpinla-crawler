@@ -7,8 +7,8 @@ import logging
 
 def publish():
     log = logging.getLogger(setting.log_hdr)
-    dir = os.getcwd()
-    
+    log.info("start publish")
+    dir = os.getcwd()    
     os.chdir(setting.pages_dir)
     try:
         git_cmd = "git add ./*"
@@ -24,6 +24,7 @@ def publish():
         log.info("execute %s ret %d", (git_cmd, ret))
         
     except Exception, e:
-        log.error("publish: " + str(e))
+        log.error("publish failed " + str(e))
     
     os.chdir(dir)
+    log.info("end publish")

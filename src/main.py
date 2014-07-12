@@ -29,6 +29,7 @@ def daemonize(pidfile):
         #os.chdir('/')
         os.setsid()
         os.umask(0)
+        
         try:
             pid = os.fork()
             if pid > 0:
@@ -38,7 +39,7 @@ def daemonize(pidfile):
             sys.stderr.write("Fork 2 has failed --> %d--[%s]\n" % (err.errno,
                                                               err.strerror))
             sys.exit(1)
-
+        
        
         pid = os.getpid()
         try:

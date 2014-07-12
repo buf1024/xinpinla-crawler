@@ -4,17 +4,17 @@
 import logging
 
 log_level = logging.DEBUG
-log_file = "crawler-xinpinla.log"
+log_file = "/home/nginx/git/xinpinla-crawler/src/crawler-xinpinla.log"
 log_hdr = "crawler"
 
 sleep_time = 30*60
 
 daemon = True
-pid_file = "crawler.pid"
+pid_file = "/home/nginx/git/xinpinla-crawler/src/crawler.pid"
 
-cache_file = "cache.shelve"
+cache_file = "/home/nginx/git/xinpinla-crawler/src/cache.shelve"
 
-hexo_dir = "F:\\private\\git\\xinpinla-crawler\\hexo"
+hexo_dir = "/home/nginx/git/xinpinla-crawler/hexo"
 
-pages_dir =  "F:\\private\\git\\xinpinla-crawler-ghpages"
+pages_dir =  "/home/nginx/git/xinpinla-crawler-ghpages"
 

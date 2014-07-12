@@ -74,7 +74,7 @@ def main():
     log.info("logger setting up")
     
     c = cache.Cache()
-    
+    """
     while True:
         t_begin = time.time()
         post = xinpinla.crawler_page(c)
@@ -120,7 +120,8 @@ def main():
         time.sleep(setting.sleep_time)
         
     del c
-    
+    """
+    publish.publish()
     log.info("done")
     
 if __name__ == "__main__":

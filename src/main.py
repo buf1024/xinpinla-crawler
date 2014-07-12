@@ -73,9 +73,8 @@ def main():
 
     log.info("logger setting up")
     
-    c = cache.Cache()
-
     while True:
+        c = cache.Cache()
         t_begin = time.time()
         post = xinpinla.crawler_page(c)
         publish_flag = False
@@ -104,9 +103,10 @@ def main():
                 publish_flag = hexo.hexo(post_dat)
                 if publish_flag == True:
                     log.info("hexo => " + post_dat["pg_title"] + " success")
+                    log.debug("append sync: %s=%s" % (k, link))
                     c.append_sync_one(k, link)
 
-        
+        del c
         if publish_flag == True:
             log.info("post_hexo")
             hexo.post_hexo()
@@ -118,8 +118,6 @@ def main():
         log.info("it cost %s seconds for one single loop. start = %d, end = %d" % (t_end - t_begin, t_begin, t_end))        
         log.info("going to sleep %d seconds for next loop" % (setting.sleep_time, ))
         time.sleep(setting.sleep_time)
-        
-    del c
 
     log.info("done")
     

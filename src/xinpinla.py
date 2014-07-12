@@ -51,7 +51,7 @@ def crawler_page(cache):
                 break_flag = True
             else:
                 cache_items = []
-            print cache_items
+            log.debug("cache: " + str(cache_items))
             post_t = []
             items_iter = pattern_items.finditer(pm_obj.group(0))
             for mobj in items_iter:
@@ -59,7 +59,7 @@ def crawler_page(cache):
                 link = mobj.group(1).strip().decode("utf-8")
                 title = mobj.group(2).strip().decode("utf-8")
                 desc = mobj.group(3).strip().decode("utf-8")
-                
+                log.debug("link: " + link)
                 log.info("clawler, title = %s, link = %s, desc = %s" % (title, link, desc))
                 
                 if link not in cache_items:

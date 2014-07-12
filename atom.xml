@@ -4,7 +4,7 @@
   <subtitle><![CDATA[码农，程序猿，攻城狮，未来的地摊贩]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-12T05:56:46.871Z</updated>
+  <updated>2014-07-12T11:48:59.297Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,48 +15,11 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://luoguochun.cn/2014/07/12/hello-world/"/>
-    <id>http://luoguochun.cn/2014/07/12/hello-world/</id>
-    <published>2014-07-12T05:51:56.000Z</published>
-    <updated>2014-07-12T05:51:56.000Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/tommy351/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start">Quick Start</h2>
-<h3 id="Create_a_new_post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre>1
-</pre></td><td class="code"><pre>$ hexo new <span class="string">"My New Post"</span>
-</pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre>1
-</pre></td><td class="code"><pre>$ hexo server
-</pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre>1
-</pre></td><td class="code"><pre>$ hexo generate
-</pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre>1
-</pre></td><td class="code"><pre>$ hexo deploy
-</pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    
-  </entry>
-  
-  <entry>
     <title><![CDATA[米树]]></title>
     <link href="http://luoguochun.cn/2014/07/12/%E7%B1%B3%E6%A0%91/"/>
     <id>http://luoguochun.cn/2014/07/12/米树/</id>
     <published>2014-07-11T16:00:00.000Z</published>
-    <updated>2014-07-12T05:55:57.000Z</updated>
+    <updated>2014-07-12T11:48:06.000Z</updated>
     <content type="html"><![CDATA[<p>米树网,一个分享生活,分享兴趣的平台,在这里你可以创建你的频道,发布你喜欢的你收藏的东西  </p>
 <p>更多详情请参考相关网站 <a href="http://www.mitree.cn" target="_blank" rel="external">米树</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
@@ -74,7 +37,7 @@
     <link href="http://luoguochun.cn/2014/07/12/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
     <id>http://luoguochun.cn/2014/07/12/天蓝村零食订购服务/</id>
     <published>2014-07-11T16:00:00.000Z</published>
-    <updated>2014-07-12T05:55:57.000Z</updated>
+    <updated>2014-07-12T11:48:06.000Z</updated>
     <content type="html"><![CDATA[<p>按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包  </p>
 <p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
@@ -92,7 +55,7 @@
     <link href="http://luoguochun.cn/2014/07/12/Swift%20Blog/"/>
     <id>http://luoguochun.cn/2014/07/12/Swift Blog/</id>
     <published>2014-07-11T16:00:00.000Z</published>
-    <updated>2014-07-12T05:55:58.000Z</updated>
+    <updated>2014-07-12T11:48:07.000Z</updated>
     <content type="html"><![CDATA[<p>苹果推出的 Swift 编程语言的全新博客  </p>
 <p>更多详情请参考相关网站 <a href="https://developer.apple.com/swift/blog/" target="_blank" rel="external">Swift Blog</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
@@ -110,7 +73,7 @@
     <link href="http://luoguochun.cn/2014/07/12/Pijon%20Box/"/>
     <id>http://luoguochun.cn/2014/07/12/Pijon Box/</id>
     <published>2014-07-11T16:00:00.000Z</published>
-    <updated>2014-07-12T05:55:58.000Z</updated>
+    <updated>2014-07-12T11:48:07.000Z</updated>
     <content type="html"><![CDATA[<p>父母买单，PijonBox 每个月都会给大学生寄出不同内容物的盒子，里面一般包括了健康的零食、护肤品、日常生活用品以及有趣的小礼物。  </p>
 <p>更多详情请参考相关网站 <a href="https://www.pijonbox.com/" target="_blank" rel="external">Pijon Box</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
@@ -128,7 +91,7 @@
     <link href="http://luoguochun.cn/2014/07/12/Malwarebytes/"/>
     <id>http://luoguochun.cn/2014/07/12/Malwarebytes/</id>
     <published>2014-07-11T16:00:00.000Z</published>
-    <updated>2014-07-12T05:55:58.000Z</updated>
+    <updated>2014-07-12T11:48:07.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/900d1a10370e0c031b1adb7e2831127b.jpg" alt=""><br><br>反病毒及恶意软件的安全初创企业<a target="_blank" data-no-turbolink="true" href="https://www.malwarebytes.org/">Malwarebytes</a>最近刚刚进行了成立6年来的第一次<a target="_blank" data-no-turbolink="true" href="http://press.malwarebytes.org/2014/07/10/malwarebytes-raises-30-million-in-series-a-funding-from-highland-capital-partners/">融资</a>。此A轮融资的3000万美元全部由Highland Capital Partners提供。</p>
 
 <p>防病毒软件公司Malwarebytes由Marcin Kleczynski成立于2008年，总部位于圣何塞，现有员工140人，其中90人从事研发。Malwarebytes面向个人和企业提供反病毒和反漏洞攻击软件，各类软件均提供有免费版和高级版，支持桌面和移动端。其反病毒软件主要以基于行为的检测引擎来发现和清除威胁。此外，Malwarebytes有一支专门识别最新威胁的专家团队，在识别出新威胁后交给开发部门，对自身产品进行针对性的持续升级。</p>
@@ -156,45 +119,9 @@
     <link href="http://luoguochun.cn/2014/07/11/%E9%9D%92%E6%98%A5%E5%8D%B0%E8%AE%B0/"/>
     <id>http://luoguochun.cn/2014/07/11/青春印记/</id>
     <published>2014-07-10T16:00:00.000Z</published>
-    <updated>2014-07-12T05:55:57.000Z</updated>
+    <updated>2014-07-12T11:48:06.000Z</updated>
     <content type="html"><![CDATA[<p>吐槽前任，告白将任，我不是秘密，我是正能量的小清新。  </p>
 <p>更多详情请参考相关网站 <a href="http://itunes.apple.com/cn/app/qing-chun-yin-ji/id723466866" target="_blank" rel="external">青春印记</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[撸女神]]></title>
-    <link href="http://luoguochun.cn/2014/07/11/%E6%92%B8%E5%A5%B3%E7%A5%9E/"/>
-    <id>http://luoguochun.cn/2014/07/11/撸女神/</id>
-    <published>2014-07-10T16:00:00.000Z</published>
-    <updated>2014-07-11T23:57:50.000Z</updated>
-    <content type="html"><![CDATA[<p>撸女神lunvshen.com-真实女神的自拍分享社区。汇集最新、最全、最HOT的美女照片，美女视频，女神视频，最新女神排行榜，实乃撸管必备神器！  </p>
-<p>更多详情请参考相关网站 <a href="http://lunvshen.com" target="_blank" rel="external">撸女神</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Amazon Zocalo]]></title>
-    <link href="http://luoguochun.cn/2014/07/11/Amazon%20Zocalo/"/>
-    <id>http://luoguochun.cn/2014/07/11/Amazon Zocalo/</id>
-    <published>2014-07-10T16:00:00.000Z</published>
-    <updated>2014-07-11T23:57:50.000Z</updated>
-    <content type="html"><![CDATA[<p>Amazon 发布的文档存储与协作服务  </p>
-<p>更多详情请参考相关网站 <a href="http://aws.amazon.com/cn/zocalo/" target="_blank" rel="external">Amazon Zocalo</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -210,7 +137,7 @@
     <link href="http://luoguochun.cn/2014/07/11/%E5%B0%8F%E7%BA%A2%E4%B9%A6/"/>
     <id>http://luoguochun.cn/2014/07/11/小红书/</id>
     <published>2014-07-10T16:00:00.000Z</published>
-    <updated>2014-07-12T05:55:56.000Z</updated>
+    <updated>2014-07-12T11:48:05.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/48e3899434c81bae4b5501c7c4ad8b8c.jpg" alt=""></p>
 
 <p>因为一次去日本的经历，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208354.html">我同事Raina认识了海外购物分享社区“小红书”</a>，帮她在日本做对了购物的决策。而今天，这个可以看作&quot;购物领域的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/search?q=%E8%9A%82%E8%9C%82%E7%AA%9D">蚂蜂窝</a>&quot;的产品向<span>36氪</span>确认已经完成了数百万美金A轮融资，由一家硅谷基金领投、真格基金跟投。未来小红书希望在把用户出行前的购物信息痛点解决得不错的情况下，再将场景往前延伸一些——哪怕大家近期没有出行计划，也可以随意逛逛，发现其他人出门买下的好玩物品。</p>
@@ -238,11 +165,65 @@
   </entry>
   
   <entry>
+    <title><![CDATA[Amazon Zocalo]]></title>
+    <link href="http://luoguochun.cn/2014/07/11/Amazon%20Zocalo/"/>
+    <id>http://luoguochun.cn/2014/07/11/Amazon Zocalo/</id>
+    <published>2014-07-10T16:00:00.000Z</published>
+    <updated>2014-07-12T06:38:55.000Z</updated>
+    <content type="html"><![CDATA[<p>Amazon 发布的文档存储与协作服务  </p>
+<p>更多详情请参考相关网站 <a href="http://aws.amazon.com/cn/zocalo/" target="_blank" rel="external">Amazon Zocalo</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[撸女神]]></title>
+    <link href="http://luoguochun.cn/2014/07/11/%E6%92%B8%E5%A5%B3%E7%A5%9E/"/>
+    <id>http://luoguochun.cn/2014/07/11/撸女神/</id>
+    <published>2014-07-10T16:00:00.000Z</published>
+    <updated>2014-07-12T06:38:57.000Z</updated>
+    <content type="html"><![CDATA[<p>撸女神lunvshen.com-真实女神的自拍分享社区。汇集最新、最全、最HOT的美女照片，美女视频，女神视频，最新女神排行榜，实乃撸管必备神器！  </p>
+<p>更多详情请参考相关网站 <a href="http://lunvshen.com" target="_blank" rel="external">撸女神</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[开源中国代码质量管理系统 Sonar@OSC 上线]]></title>
+    <link href="http://luoguochun.cn/2014/07/11/%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%20Sonar@OSC%20%E4%B8%8A%E7%BA%BF/"/>
+    <id>http://luoguochun.cn/2014/07/11/开源中国代码质量管理系统 Sonar@OSC 上线/</id>
+    <published>2014-07-10T16:00:00.000Z</published>
+    <updated>2014-07-12T06:38:56.000Z</updated>
+    <content type="html"><![CDATA[<p>作为 Git@OSC 代码托管平台的延伸，开源中国的代码质量管理系统 Sonar@OSC 测试版上线了！Sonar@OSC 是中国源项目的一个重要组成部分， 提供基本的代码质量的检查功能，包括代码统计、编码规则检查、测试覆盖率分…  </p>
+<p>更多详情请参考相关网站 <a href="http://www.oschina.net/news/53573/oschina-sonar" target="_blank" rel="external">开源中国代码质量管理系统 Sonar@OSC 上线</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[大学生恋爱网]]></title>
     <link href="http://luoguochun.cn/2014/07/11/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%81%8B%E7%88%B1%E7%BD%91/"/>
     <id>http://luoguochun.cn/2014/07/11/大学生恋爱网/</id>
     <published>2014-07-10T16:00:00.000Z</published>
-    <updated>2014-07-11T23:57:50.000Z</updated>
+    <updated>2014-07-12T06:38:56.000Z</updated>
     <content type="html"><![CDATA[<p>大学校园里的真实照片的匿名交友，除了上QQ空间你还可以玩的网站。  </p>
 <p>更多详情请参考相关网站 <a href="http://www.dxslaw.com" target="_blank" rel="external">大学生恋爱网</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
@@ -260,27 +241,9 @@
     <link href="http://luoguochun.cn/2014/07/11/Rocketskates/"/>
     <id>http://luoguochun.cn/2014/07/11/Rocketskates/</id>
     <published>2014-07-10T16:00:00.000Z</published>
-    <updated>2014-07-11T23:57:50.000Z</updated>
+    <updated>2014-07-12T06:38:55.000Z</updated>
     <content type="html"><![CDATA[<p>通过绷带固定在原有的鞋子上的风火轮鞋  </p>
 <p>更多详情请参考相关网站 <a href="http://www.actonglobal.com/contents/rspecs" target="_blank" rel="external">Rocketskates</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[CrossApp]]></title>
-    <link href="http://luoguochun.cn/2014/07/11/CrossApp/"/>
-    <id>http://luoguochun.cn/2014/07/11/CrossApp/</id>
-    <published>2014-07-10T16:00:00.000Z</published>
-    <updated>2014-07-12T05:55:56.000Z</updated>
-    <content type="html"><![CDATA[<p>一款完全开源、免费、跨平台的移动应用开发引擎  </p>
-<p>更多详情请参考相关网站 <a href="http://crossapp.9miao.com/" target="_blank" rel="external">CrossApp</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -296,7 +259,7 @@
     <link href="http://luoguochun.cn/2014/07/11/Cover/"/>
     <id>http://luoguochun.cn/2014/07/11/Cover/</id>
     <published>2014-07-10T16:00:00.000Z</published>
-    <updated>2014-07-11T23:57:50.000Z</updated>
+    <updated>2014-07-12T06:38:57.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/99a7b7c09f303e30e7ac0f8ddbd388d5.png" alt=""></p>
 
 <p><a target="_blank" data-no-turbolink="true" href="http://www.paywithcover.com/">Cover</a>是一家提供支付解决方案的初创公司，他们想做的就是帮助到餐厅用餐的食客省去繁琐的排队结账过程，让他们可以专心地吃饭聊天，聊完走人就好。</p>
@@ -326,7 +289,7 @@
     <link href="http://luoguochun.cn/2014/07/11/Amino%20Apps/"/>
     <id>http://luoguochun.cn/2014/07/11/Amino Apps/</id>
     <published>2014-07-10T16:00:00.000Z</published>
-    <updated>2014-07-11T23:57:50.000Z</updated>
+    <updated>2014-07-12T06:38:58.000Z</updated>
     <content type="html"><![CDATA[<p>移动端兴趣App群  </p>
 <p>更多详情请参考相关网站 <a href="http://aminoapps.com/" target="_blank" rel="external">Amino Apps</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
@@ -344,7 +307,7 @@
     <link href="http://luoguochun.cn/2014/07/11/360%E7%BD%91%E7%AB%99%E5%AE%89%E5%85%A8%E6%A3%80%E6%B5%8B/"/>
     <id>http://luoguochun.cn/2014/07/11/360网站安全检测/</id>
     <published>2014-07-10T16:00:00.000Z</published>
-    <updated>2014-07-11T23:57:50.000Z</updated>
+    <updated>2014-07-12T06:38:58.000Z</updated>
     <content type="html"><![CDATA[<p>360网站安全检测，是360旗下的网站安全平台，为站长免费提供了网站漏洞检测、网站漏洞修复、网站后门检测、木马查杀，网址安全查询等服务  </p>
 <p>更多详情请参考相关网站 <a href="http://webscan.360.cn/" target="_blank" rel="external">360网站安全检测</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
@@ -358,13 +321,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[开源中国代码质量管理系统 Sonar@OSC 上线]]></title>
-    <link href="http://luoguochun.cn/2014/07/11/%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%20Sonar@OSC%20%E4%B8%8A%E7%BA%BF/"/>
-    <id>http://luoguochun.cn/2014/07/11/开源中国代码质量管理系统 Sonar@OSC 上线/</id>
+    <title><![CDATA[CrossApp]]></title>
+    <link href="http://luoguochun.cn/2014/07/11/CrossApp/"/>
+    <id>http://luoguochun.cn/2014/07/11/CrossApp/</id>
     <published>2014-07-10T16:00:00.000Z</published>
-    <updated>2014-07-11T23:57:50.000Z</updated>
-    <content type="html"><![CDATA[<p>作为 Git@OSC 代码托管平台的延伸，开源中国的代码质量管理系统 Sonar@OSC 测试版上线了！Sonar@OSC 是中国源项目的一个重要组成部分， 提供基本的代码质量的检查功能，包括代码统计、编码规则检查、测试覆盖率分…  </p>
-<p>更多详情请参考相关网站 <a href="http://www.oschina.net/news/53573/oschina-sonar" target="_blank" rel="external">开源中国代码质量管理系统 Sonar@OSC 上线</a>  </p>
+    <updated>2014-07-12T11:48:05.000Z</updated>
+    <content type="html"><![CDATA[<p>一款完全开源、免费、跨平台的移动应用开发引擎  </p>
+<p>更多详情请参考相关网站 <a href="http://crossapp.9miao.com/" target="_blank" rel="external">CrossApp</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -419,6 +382,40 @@
     <updated>2014-07-11T23:57:50.000Z</updated>
     <content type="html"><![CDATA[<p>测算 北京 / 上海 / 成都 三地互联网从业者的薪资  </p>
 <p>更多详情请参考相关网站 <a href="http://suanxinzi.com/" target="_blank" rel="external">算薪资</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[爱拼车]]></title>
+    <link href="http://luoguochun.cn/2014/07/10/%E7%88%B1%E6%8B%BC%E8%BD%A6/"/>
+    <id>http://luoguochun.cn/2014/07/10/爱拼车/</id>
+    <published>2014-07-09T16:00:00.000Z</published>
+    <updated>2014-07-11T23:57:50.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/78c51fbf33d59630d48671ccfbfce806.jpg" alt=""></p>
+
+<p>“<a target="_blank" data-no-turbolink="true" href="http://www.idonoo.com/">爱拼车</a>”是今年8月朱峰和另外两名前阿里员工联合创办的项目。创办之初，爱拼车就已获得来自快的打车投资人的天使投资。而在随后的四个月，爱拼车火速上线了其<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/cn/app/ai-pin-che-tui-jian-ai-pin/id710445030?mt=8">iOS</a>与<a target="_blank" data-no-turbolink="true" href="https://play.google.com/store/apps/details?id=com.idonoo.shareCar&amp;amp;hl=zh_CN">Android</a>端应用。</p>
+
+<p>拼车行业在中国发展多年，却一直还处在十分早期的阶段。对于为什么选择一个不温不火的行业创业，创始人朱峰认为两个环境因素的改变正在促使拼车行业可能迎来爆发。一是雾霭、交通拥堵等“城市病”危机正在促使政府对拼车从以前“类黑车”的定位逐渐转向鼓励。另外则是移动互联网的发展对拼车服务可能起到重要地推动作用，尤其是同城拼车服务。如果上班族能方便地使用拼车App找到同路的小区邻居拼车出行，他可能放弃考虑挤地铁或公交。</p>
+
+<p><img src="http://a.36krcnd.com/photo/012aeec1cf1188b28a89cc12f04993e0.jpeg" alt="p5"></p>
+
+<p>和其他拼车团队相比，爱拼车有何优势？对此，朱峰认为：“爱拼车的优势在于，由于资本的进入，公司在短期内不会考虑营收，将至少花两年时间用于市场培育。”</p>
+
+<p>另外，朱峰还提到团队的互联网基因。爱拼车三位创始人都是在阿里有6、7年经验的员工，在公司未来的发展上也避免不了继承阿里的基因。和淘宝最初几年仅把入驻店铺数作为唯一目标类似，爱拼车团队未来半年考核的唯一KPI就是入驻司机数，试图尽快把数据规模做起了，方便乘客找车。第二步则是把大本营杭州做为一块试验田，探索一套能够在全国其他城市复制的推广模式，方便之后快速向全国其它城市扩张。</p>
+
+<p>拼车领域，重庆的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/207146.html">AA拼车</a>团队算是业内非常出挑的一家。自2011年9月上线以来，AA拼车已拥有接近450万注册用户，2012年9月还曾获得华尔街安迪大洋1000万元投资。<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205432.html" title="没有眼泪帮助的公益如何寻找出路？“公益顺风车”将绿色出行时尚化，吸引年轻族群<a target=" _blank"="">微拼车</a>团队跟爱拼车一样，是今年拼车市场注入的新血，不同的是，它将拼车与真实社交结合。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 丁伟峰]</p><br>                    <p>AD：<a href="http://cnrdn.com/GJWE" target="_blank">云之家</a>，一种新的工作方式。</p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/208624.html" target="_blank" rel="external">三位前阿里员工推拼车服务“爱拼车”，已获快的打车投资人天使投资</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.idonoo.com" target="_blank" rel="external">爱拼车</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

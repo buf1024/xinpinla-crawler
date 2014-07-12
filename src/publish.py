@@ -12,7 +12,7 @@ def publish():
     dir = os.getcwd()    
     os.chdir(setting.pages_dir)
     try:
-        log.info("auto dir = " + os.getcwd())
+        log.info("cur dir = " + os.getcwd())
         
         git_cmd = ["git", "add", "./*"]
         ret = subprocess.call(git_cmd)

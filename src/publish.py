@@ -13,15 +13,15 @@ def publish():
     try:
         git_cmd = "git add ./*"
         ret = os.system(git_cmd)
-        log.info("execute %s ret %d", (git_cmd, ret))
+        log.info("execute %s ret %d" % (git_cmd, ret))
         
         git_cmd = "git commit -m 'auto commit' -a"
         ret = os.system(git_cmd)
-        log.info("execute %s ret %d", (git_cmd, ret))
+        log.info("execute %s ret %d" % (git_cmd, ret))
         
         git_cmd = "git push"
         ret = os.system(git_cmd)
-        log.info("execute %s ret %d", (git_cmd, ret))
+        log.info("execute %s ret %d" % (git_cmd, ret))
         
     except Exception, e:
         log.error("publish failed " + str(e))

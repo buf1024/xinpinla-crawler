@@ -55,7 +55,7 @@ tags: 创意事物
 def post_hexo():
     log = logging.getLogger(setting.log_hdr)
     dir = os.getcwd()
-    
+    log.info("start post hexo")
     os.chdir(setting.hexo_dir)
     try:
         hexo_cmd = "hexo g"
@@ -64,3 +64,4 @@ def post_hexo():
         log.error("post_hexo failed: " + str(e))
     
     os.chdir(dir)
+    log.info("end post hexo")

@@ -13,7 +13,6 @@ def publish():
     os.chdir(setting.pages_dir)
     try:
         log.info("cur dir = " + os.getcwd())
-        
         git_cmd = ["git", "add", "./*"]
         ret = subprocess.call(git_cmd)
         log.info("execute \"%s\" ret %d" % (str(git_cmd), ret))
@@ -25,7 +24,7 @@ def publish():
         git_cmd = ["git", "push"]
         ret = subprocess.call(git_cmd)
         log.info("execute \"%s\" ret %d" % (str(git_cmd), ret))
-        
+
     except Exception, e:
         log.error("publish failed " + str(e))
     

@@ -72,7 +72,7 @@ def main():
         log.addHandler(stdout_handler)
 
     log.info("logger setting up")
-    
+
     while True:
         c = cache.Cache()
         t_begin = time.time()

@@ -5,7 +5,7 @@ import setting
 import logging
 import os
     
-def hexo(item):    
+def hexo(item):
     log = logging.getLogger(setting.log_hdr)
     title = item["pg_title"]
     invalid = "\\/:*?\"<>|"
@@ -14,7 +14,7 @@ def hexo(item):
         if i not in invalid:
             newtitle += i
     title = newtitle
-    
+    log.info("start hexo " + title)
     tmpl = u"""layout: 
   - post 
 title: '{0}' 
@@ -48,7 +48,8 @@ tags: 创意事物
             ret = True
     except Exception, e:
         log.error("hexo failed: " + str(e))
-        
+      
+    log.info("end hexo " + title)
     return ret 
     
 def post_hexo():

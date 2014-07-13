@@ -108,10 +108,9 @@ def main():
 
         del c
         if publish_flag == True:
-            log.info("post_hexo")
             hexo.post_hexo()
-            log.info("publish")
-            publish.publish()
+        
+        publish.publish()
         
         t_end = time.time()
         

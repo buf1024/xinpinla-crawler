@@ -4,7 +4,7 @@
   <subtitle><![CDATA[码农，程序猿，攻城狮，未来的地摊贩]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-14T05:02:44.153Z</updated>
+  <updated>2014-07-14T06:17:24.427Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,13 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[金元宝微店]]></title>
-    <link href="http://luoguochun.cn/2014/07/14/%E9%87%91%E5%85%83%E5%AE%9D%E5%BE%AE%E5%BA%97/"/>
-    <id>http://luoguochun.cn/2014/07/14/金元宝微店/</id>
+    <title><![CDATA[罗汉创学院]]></title>
+    <link href="http://luoguochun.cn/2014/07/14/%E7%BD%97%E6%B1%89%E5%88%9B%E5%AD%A6%E9%99%A2/"/>
+    <id>http://luoguochun.cn/2014/07/14/罗汉创学院/</id>
     <published>2014-07-13T16:00:00.000Z</published>
-    <updated>2014-07-14T05:01:44.000Z</updated>
-    <content type="html"><![CDATA[<p>免费的微信开店神器，用户可为商品添加语音介绍  </p>
-<p>更多详情请参考相关网站 <a href="http://www.jinyuanbao.cn/" target="_blank" rel="external">金元宝微店</a>  </p>
+    <updated>2014-07-14T06:16:23.000Z</updated>
+    <content type="html"><![CDATA[<p>世界上第一家創學院  </p>
+<p>更多详情请参考相关网站 <a href="http://www.luohan.me/" target="_blank" rel="external">罗汉创学院</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -33,13 +33,49 @@
   </entry>
   
   <entry>
-    <title><![CDATA[孢子社区]]></title>
-    <link href="http://luoguochun.cn/2014/07/14/%E5%AD%A2%E5%AD%90%E7%A4%BE%E5%8C%BA/"/>
-    <id>http://luoguochun.cn/2014/07/14/孢子社区/</id>
+    <title><![CDATA[知行养成社区]]></title>
+    <link href="http://luoguochun.cn/2014/07/14/%E7%9F%A5%E8%A1%8C%E5%85%BB%E6%88%90%E7%A4%BE%E5%8C%BA/"/>
+    <id>http://luoguochun.cn/2014/07/14/知行养成社区/</id>
+    <published>2014-07-13T16:00:00.000Z</published>
+    <updated>2014-07-14T06:16:23.000Z</updated>
+    <content type="html"><![CDATA[<p>我们是一个习惯养成、摆脱懒人心理的在线社区。  </p>
+<p>更多详情请参考相关网站 <a href="http://www.51zhi.com" target="_blank" rel="external">知行养成社区</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[微博图床]]></title>
+    <link href="http://luoguochun.cn/2014/07/14/%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/"/>
+    <id>http://luoguochun.cn/2014/07/14/微博图床/</id>
+    <published>2014-07-13T16:00:00.000Z</published>
+    <updated>2014-07-14T06:16:23.000Z</updated>
+    <content type="html"><![CDATA[<p>一个把图片存储到微博的图床  </p>
+<p>更多详情请参考相关网站 <a href="http://sevnx.com/tools/picdisk" target="_blank" rel="external">微博图床</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[金元宝微店]]></title>
+    <link href="http://luoguochun.cn/2014/07/14/%E9%87%91%E5%85%83%E5%AE%9D%E5%BE%AE%E5%BA%97/"/>
+    <id>http://luoguochun.cn/2014/07/14/金元宝微店/</id>
     <published>2014-07-13T16:00:00.000Z</published>
     <updated>2014-07-14T05:01:44.000Z</updated>
-    <content type="html"><![CDATA[<p>比微博还轻、还快、还简洁的“轻社区”。 认识新朋友；和网友交流，一起见面、吃饭、K歌、血拼、周游世界……  </p>
-<p>更多详情请参考相关网站 <a href="http://baoz.me/" target="_blank" rel="external">孢子社区</a>  </p>
+    <content type="html"><![CDATA[<p>免费的微信开店神器，用户可为商品添加语音介绍  </p>
+<p>更多详情请参考相关网站 <a href="http://www.jinyuanbao.cn/" target="_blank" rel="external">金元宝微店</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -265,13 +301,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[开源中国代码质量管理系统 Sonar@OSC 上线]]></title>
-    <link href="http://luoguochun.cn/2014/07/14/%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%20Sonar@OSC%20%E4%B8%8A%E7%BA%BF/"/>
-    <id>http://luoguochun.cn/2014/07/14/开源中国代码质量管理系统 Sonar@OSC 上线/</id>
+    <title><![CDATA[IT桔子]]></title>
+    <link href="http://luoguochun.cn/2014/07/14/IT%E6%A1%94%E5%AD%90/"/>
+    <id>http://luoguochun.cn/2014/07/14/IT桔子/</id>
     <published>2014-07-13T16:00:00.000Z</published>
-    <updated>2014-07-14T03:47:43.000Z</updated>
-    <content type="html"><![CDATA[<p>作为 Git@OSC 代码托管平台的延伸，开源中国的代码质量管理系统 Sonar@OSC 测试版上线了！Sonar@OSC 是中国源项目的一个重要组成部分， 提供基本的代码质量的检查功能，包括代码统计、编码规则检查、测试覆盖率分…  </p>
-<p>更多详情请参考相关网站 <a href="http://www.oschina.net/news/53573/oschina-sonar" target="_blank" rel="external">开源中国代码质量管理系统 Sonar@OSC 上线</a>  </p>
+    <updated>2014-07-14T03:47:42.000Z</updated>
+    <content type="html"><![CDATA[<p>IT互联网公司产品数据库及商业信息服务  </p>
+<p>更多详情请参考相关网站 <a href="http://itjuzi.com/" target="_blank" rel="external">IT桔子</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -283,13 +319,31 @@
   </entry>
   
   <entry>
-    <title><![CDATA[IT桔子]]></title>
-    <link href="http://luoguochun.cn/2014/07/14/IT%E6%A1%94%E5%AD%90/"/>
-    <id>http://luoguochun.cn/2014/07/14/IT桔子/</id>
+    <title><![CDATA[孢子社区]]></title>
+    <link href="http://luoguochun.cn/2014/07/14/%E5%AD%A2%E5%AD%90%E7%A4%BE%E5%8C%BA/"/>
+    <id>http://luoguochun.cn/2014/07/14/孢子社区/</id>
     <published>2014-07-13T16:00:00.000Z</published>
-    <updated>2014-07-14T03:47:42.000Z</updated>
-    <content type="html"><![CDATA[<p>IT互联网公司产品数据库及商业信息服务  </p>
-<p>更多详情请参考相关网站 <a href="http://itjuzi.com/" target="_blank" rel="external">IT桔子</a>  </p>
+    <updated>2014-07-14T05:01:44.000Z</updated>
+    <content type="html"><![CDATA[<p>比微博还轻、还快、还简洁的“轻社区”。 认识新朋友；和网友交流，一起见面、吃饭、K歌、血拼、周游世界……  </p>
+<p>更多详情请参考相关网站 <a href="http://baoz.me/" target="_blank" rel="external">孢子社区</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[天蓝村零食订购服务]]></title>
+    <link href="http://luoguochun.cn/2014/07/14/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
+    <id>http://luoguochun.cn/2014/07/14/天蓝村零食订购服务/</id>
+    <published>2014-07-13T16:00:00.000Z</published>
+    <updated>2014-07-14T01:25:18.000Z</updated>
+    <content type="html"><![CDATA[<p>按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包  </p>
+<p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -362,84 +416,6 @@
     <updated>2014-07-14T02:36:08.000Z</updated>
     <content type="html"><![CDATA[<p>browsing history public  </p>
 <p>更多详情请参考相关网站 <a href="http://loglr.com/" target="_blank" rel="external">loglr</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[iKair家庭环境管家]]></title>
-    <link href="http://luoguochun.cn/2014/07/14/iKair%E5%AE%B6%E5%BA%AD%E7%8E%AF%E5%A2%83%E7%AE%A1%E5%AE%B6/"/>
-    <id>http://luoguochun.cn/2014/07/14/iKair家庭环境管家/</id>
-    <published>2014-07-13T16:00:00.000Z</published>
-    <updated>2014-07-14T03:47:43.000Z</updated>
-    <content type="html"><![CDATA[<p>室内空气监测的智能硬件  </p>
-<p>更多详情请参考相关网站 <a href="http://ikair.com/" target="_blank" rel="external">iKair家庭环境管家</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Weego]]></title>
-    <link href="http://luoguochun.cn/2014/07/14/Weego/"/>
-    <id>http://luoguochun.cn/2014/07/14/Weego/</id>
-    <published>2014-07-13T16:00:00.000Z</published>
-    <updated>2014-07-14T03:47:41.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/8172542b9f21e8604c71d9e875901395.png" alt=""></p>
-
-<p><a target="_blank" data-no-turbolink="true" href="/tag/<a target=" _blank"="">来自<span>36氪</span>开放日上海站</a>">#<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/36%E6%B0%AA%E5%BC%80%E6%94%BE%E6%97%A5">来自<span>36氪</span>开放日上海站</a>#</p>
-
-<p>“Born to be different, Travel to be unique. ”这是<a target="_blank" data-no-turbolink="true" href="http://weego.me/">Weego（我去·旅行）</a>团队的<a target="_blank" data-no-turbolink="true" href="http://weibo.com/SteveLxw">李孝文</a>在会场上表达旅行理念和产品时总结的话。</p>
-
-<p>如果一个城市足够包容，那它应能融汇不同品味，但这在千篇一律、走马观花式的旅行上却很难见到。如果你和我一样不想要司空见惯的旅行，想去巴黎却不知怎样的巴黎适合你，那Weego这个可为你个性化、智能化规划城市内旅游行程的网站或许能帮到你。</p>
-
-<p>对于很多有出国自由行经历的旅客来说，酒店local guide的旅游建议服务应该不少见。你拿出地图，告诉他你想去游览的地方，和他交流你想去看怎样气息的城市，他就会凭借你的喜好在铺开的地图上帮你圈上要去的景点并给你画好大致的游览顺序，给出交通建议。</p>
-
-<p>Weego就是一个希望将城市local guide搬到线上的服务，让用户根据自己的喜好去旅行。对于用户来说，目前还处于内测阶段的Weego是一个通过简单3步完成个性化、定制化景点行程安排的服务。</p>
-
-<p>比如你想去纽约，纽约本身是个适合“浪漫、艺术文化、家庭旅行”的地方，而你基于自己的兴趣勾选了“浪漫”“艺术文化”两个选项，让这次的旅行变成浪漫的文化之旅。那Weego就会在兴趣栏下实时显示适合你去的景点供你选择（这一步减少了逐一寻找合适景点的负担）。而在你点击了解景点信息、进行景点选择后，Weego就会根据你的旅行天数、想去的景点，结合交通、距离、时间等要素为你铺开已经被智能优化过的行程，让你可以在上下午、晚上三个时间块上做合理的旅行，并告诉你每次中转的交通方案。而整个为你而设的行程规划还可以因景点的删去、添加及时调整，最后将行程保存、分享等。<br><br><img src="http://a.36krcnd.com/photo/a33dc32135e825ad49105c37b9b7988f.jpg" alt=""><br><br>要做到智能化的地图并不容易，团队正式成立4个月以来，用户兴趣的设定、兴趣间关系以及与景点关系等设置花了他们不少时间，他们目前对每个景点进行了三级情感标签的分类。而他们还拿了一个多月的时间花在智能化地图上，在模型设定上还考虑了用户旅行的多样化（比如同一类的景点一天内不多于3处）、胜任程度（每天的景点数会有限制）等细节，希望将个性化的旅行规划做得靠谱。目前，Weego团队做了10个城市（集中在欧洲、北美和亚洲）约10*50个景点的数据整理，为用户提供了6个兴趣选项，而这些数据会在之后做进一步的扩充。</p>
-
-<p>Weego的联合创始人李孝文表示，Weego虽然暂时会由编辑做景点的数据整理，但未来想做到更个性化，让用户UGC，贡献特别、个性化的景点很有必要。他们计划在5月份推出app，让用户可以贡献自己在当地的有趣景点，通过照片、地理位置、描述等要素丰富数据库。有类似做法有旅游推荐引擎<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/90884.html">Wanderfly</a>，曾经在推出UGC改版后的 7 天内获得用户提交的 322 个城市的旅游推荐信息。不过Weego不打算做社交。在李孝文看来，社交不会是用户在低频次旅游活动中最真实的需求。</p>
-
-<p>而目前的Weego在旅行要素上还有不足。要知道，旅行不止有景点，餐饮、住宿等都会是重要的旅行要素。李孝文表示他们会在这点进行扩充，未来会做以酒店住宿为据点的智能行程安排，而这也会成为Weego商业化的途径。曾在国外做过咨询和PE的李孝文已经和一些国外的中高端连锁酒店谈好合作，未来酒店预订、Weego与酒店联合提供的当地服务都会成为Weego重要的盈利点。</p>
-
-<p>李孝文看好中国的出国游市场，但在我看来，单做中国出国游这个中高端小众市场并不容易。而他也考虑了这一点，想到的是以华人地区作为生意的切入口。在他看来，除大陆外的华人地区（包括香港、台湾及新加坡等）的出国自由行市场已经成熟，面向这些用户做Weego的服务会有市场，他们打算在新加坡设立分支。目前市面上与Weego类似的服务不太多，2011年成立的<a target="_blank" data-no-turbolink="true" href="http://plnnr.com/">Plnnr</a>可提供类似的行程安排服务，不过没有旅游推荐引擎Wanderfly的灵活性和多样化。而Weego则将两者的核心服务串联在一起。国内做智能旅行规划的还有我们报道过的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/45989.html">途客圈</a>（不过他们经历了转型后目前以app的形式帮用户做旅行规划）、针对国内旅行的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/137543.html">城市活攻略</a>”。</p>
-
-<p>目前Beta版的Weego打算为<span>36氪</span>读者提供个别邀请码，团队也希望使用beta版的用户可以给他们更多反馈。邀请码将在之后更新。</p><br>                    <p></p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/202260.html" target="_blank" rel="external">懂你的心又了解景点环境的Weego，要做你个性化旅行的私人旅游规划师#36氪开放日#</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.weego.me/" target="_blank" rel="external">Weego</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[V2EX]]></title>
-    <link href="http://luoguochun.cn/2014/07/14/V2EX/"/>
-    <id>http://luoguochun.cn/2014/07/14/V2EX/</id>
-    <published>2014-07-13T16:00:00.000Z</published>
-    <updated>2014-07-14T03:47:44.000Z</updated>
-    <content type="html"><![CDATA[<p>创意工作者们的社区  </p>
-<p>更多详情请参考相关网站 <a href="http://www.v2ex.com/" target="_blank" rel="external">V2EX</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

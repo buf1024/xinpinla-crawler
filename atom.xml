@@ -4,7 +4,7 @@
   <subtitle><![CDATA[码农，程序猿，攻城狮，未来的地摊贩]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-14T06:17:24.427Z</updated>
+  <updated>2014-07-14T07:32:28.914Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,13 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[罗汉创学院]]></title>
-    <link href="http://luoguochun.cn/2014/07/14/%E7%BD%97%E6%B1%89%E5%88%9B%E5%AD%A6%E9%99%A2/"/>
-    <id>http://luoguochun.cn/2014/07/14/罗汉创学院/</id>
+    <title><![CDATA[爱知乎]]></title>
+    <link href="http://luoguochun.cn/2014/07/14/%E7%88%B1%E7%9F%A5%E4%B9%8E/"/>
+    <id>http://luoguochun.cn/2014/07/14/爱知乎/</id>
     <published>2014-07-13T16:00:00.000Z</published>
-    <updated>2014-07-14T06:16:23.000Z</updated>
-    <content type="html"><![CDATA[<p>世界上第一家創學院  </p>
-<p>更多详情请参考相关网站 <a href="http://www.luohan.me/" target="_blank" rel="external">罗汉创学院</a>  </p>
+    <updated>2014-07-14T07:31:27.000Z</updated>
+    <content type="html"><![CDATA[<p>爱知乎, 知乎日报网页版, 您在电脑和平板上阅读知乎日报的最佳方式  </p>
+<p>更多详情请参考相关网站 <a href="http://youzhihu.com/" target="_blank" rel="external">爱知乎</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -33,31 +33,27 @@
   </entry>
   
   <entry>
-    <title><![CDATA[知行养成社区]]></title>
-    <link href="http://luoguochun.cn/2014/07/14/%E7%9F%A5%E8%A1%8C%E5%85%BB%E6%88%90%E7%A4%BE%E5%8C%BA/"/>
-    <id>http://luoguochun.cn/2014/07/14/知行养成社区/</id>
+    <title><![CDATA[Ingress]]></title>
+    <link href="http://luoguochun.cn/2014/07/14/Ingress/"/>
+    <id>http://luoguochun.cn/2014/07/14/Ingress/</id>
     <published>2014-07-13T16:00:00.000Z</published>
-    <updated>2014-07-14T06:16:23.000Z</updated>
-    <content type="html"><![CDATA[<p>我们是一个习惯养成、摆脱懒人心理的在线社区。  </p>
-<p>更多详情请参考相关网站 <a href="http://www.51zhi.com" target="_blank" rel="external">知行养成社区</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[微博图床]]></title>
-    <link href="http://luoguochun.cn/2014/07/14/%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/"/>
-    <id>http://luoguochun.cn/2014/07/14/微博图床/</id>
-    <published>2014-07-13T16:00:00.000Z</published>
-    <updated>2014-07-14T06:16:23.000Z</updated>
-    <content type="html"><![CDATA[<p>一个把图片存储到微博的图床  </p>
-<p>更多详情请参考相关网站 <a href="http://sevnx.com/tools/picdisk" target="_blank" rel="external">微博图床</a>  </p>
+    <updated>2014-07-14T07:31:27.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/4b62c2be23fb5b84db99bd2314635f16.jpg" alt=""></p>
+
+<p><a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/171478.html">Ingress</a>是由Google Niantic Labs开发的一款大型多人增强现实电子游戏，今天Google推出了这款游戏的iOS版本，支持5.0以上的系统。</p>
+
+<p>游戏内容会和真实世界的地理状况相结合，游戏会通过GPS确认玩家的位置，玩家可以通过游戏的扫描仪接口看到自身周围的据点或物品。你可以将Ingress视为简单的打卡游戏，玩家可透过游戏中由玩家发现的Portal认识彼此周遭的环境，更加积极的往户外走，去认识一个全新的世界。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/0fa4b93c891ea6544fd8d8956f955d6b.jpg" alt=""></p>
+
+<p>游戏按阵营分为两派，“Enlightened”（启示军，绿色阵营）和“Resistance”（抵抗军，蓝色阵营），游戏玩家被称为Agent（特工）。两个阵营互相角力，争夺控制真实世界中的地标性建筑或雕塑等据点（Portal）。</p>
+
+<p>如果你对这个游戏感兴趣，不妨<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/ca/app/ingress/id576505181">点击下载</a>玩玩。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Daniel]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213700.html" target="_blank" rel="external">增强现实电子游戏Ingress发布iOS版，Google希望你拿着智能手机多往外面走走</a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/ca/app/ingress/id576505181" target="_blank" rel="external">Ingress</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -94,6 +90,24 @@
     <updated>2014-07-14T01:25:18.000Z</updated>
     <content type="html"><![CDATA[<p>一个基于 LBS 的线下购物的导购应用  </p>
 <p>更多详情请参考相关网站 <a href="http://www.glammap.com/" target="_blank" rel="external">美衣地图</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[罗汉创学院]]></title>
+    <link href="http://luoguochun.cn/2014/07/14/%E7%BD%97%E6%B1%89%E5%88%9B%E5%AD%A6%E9%99%A2/"/>
+    <id>http://luoguochun.cn/2014/07/14/罗汉创学院/</id>
+    <published>2014-07-13T16:00:00.000Z</published>
+    <updated>2014-07-14T06:16:23.000Z</updated>
+    <content type="html"><![CDATA[<p>世界上第一家創學院  </p>
+<p>更多详情请参考相关网站 <a href="http://www.luohan.me/" target="_blank" rel="external">罗汉创学院</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -162,6 +176,24 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/213520.html" target="_blank" rel="external">类Medium服务“简书”获500万人民币天使融资，推出“成书计划”探索商业化之路</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://jianshu.io/" target="_blank" rel="external">简书</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[知行养成社区]]></title>
+    <link href="http://luoguochun.cn/2014/07/14/%E7%9F%A5%E8%A1%8C%E5%85%BB%E6%88%90%E7%A4%BE%E5%8C%BA/"/>
+    <id>http://luoguochun.cn/2014/07/14/知行养成社区/</id>
+    <published>2014-07-13T16:00:00.000Z</published>
+    <updated>2014-07-14T06:16:23.000Z</updated>
+    <content type="html"><![CDATA[<p>我们是一个习惯养成、摆脱懒人心理的在线社区。  </p>
+<p>更多详情请参考相关网站 <a href="http://www.51zhi.com" target="_blank" rel="external">知行养成社区</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -319,6 +351,24 @@
   </entry>
   
   <entry>
+    <title><![CDATA[开源中国代码质量管理系统 Sonar@OSC 上线]]></title>
+    <link href="http://luoguochun.cn/2014/07/14/%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%20Sonar@OSC%20%E4%B8%8A%E7%BA%BF/"/>
+    <id>http://luoguochun.cn/2014/07/14/开源中国代码质量管理系统 Sonar@OSC 上线/</id>
+    <published>2014-07-13T16:00:00.000Z</published>
+    <updated>2014-07-14T03:47:43.000Z</updated>
+    <content type="html"><![CDATA[<p>作为 Git@OSC 代码托管平台的延伸，开源中国的代码质量管理系统 Sonar@OSC 测试版上线了！Sonar@OSC 是中国源项目的一个重要组成部分， 提供基本的代码质量的检查功能，包括代码统计、编码规则检查、测试覆盖率分…  </p>
+<p>更多详情请参考相关网站 <a href="http://www.oschina.net/news/53573/oschina-sonar" target="_blank" rel="external">开源中国代码质量管理系统 Sonar@OSC 上线</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[孢子社区]]></title>
     <link href="http://luoguochun.cn/2014/07/14/%E5%AD%A2%E5%AD%90%E7%A4%BE%E5%8C%BA/"/>
     <id>http://luoguochun.cn/2014/07/14/孢子社区/</id>
@@ -380,42 +430,6 @@
     <updated>2014-07-14T03:47:38.000Z</updated>
     <content type="html"><![CDATA[<p>免费的匿名代理网站  </p>
 <p>更多详情请参考相关网站 <a href="https://xwall.io/" target="_blank" rel="external">xWall</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[readfree.me]]></title>
-    <link href="http://luoguochun.cn/2014/07/14/readfree.me/"/>
-    <id>http://luoguochun.cn/2014/07/14/readfree.me/</id>
-    <published>2014-07-13T16:00:00.000Z</published>
-    <updated>2014-07-14T03:47:40.000Z</updated>
-    <content type="html"><![CDATA[<p>基于豆瓣和Kindle,免费电子书推送和下载  </p>
-<p>更多详情请参考相关网站 <a href="http://readfree.me/" target="_blank" rel="external">readfree.me</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[loglr]]></title>
-    <link href="http://luoguochun.cn/2014/07/14/loglr/"/>
-    <id>http://luoguochun.cn/2014/07/14/loglr/</id>
-    <published>2014-07-13T16:00:00.000Z</published>
-    <updated>2014-07-14T02:36:08.000Z</updated>
-    <content type="html"><![CDATA[<p>browsing history public  </p>
-<p>更多详情请参考相关网站 <a href="http://loglr.com/" target="_blank" rel="external">loglr</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

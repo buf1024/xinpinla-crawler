@@ -4,7 +4,7 @@
   <subtitle><![CDATA[码农，程序猿，攻城狮，未来的地摊贩]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-14T08:48:07.306Z</updated>
+  <updated>2014-07-14T10:03:41.084Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,13 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[ColorWare]]></title>
-    <link href="http://luoguochun.cn/2014/07/14/ColorWare/"/>
-    <id>http://luoguochun.cn/2014/07/14/ColorWare/</id>
+    <title><![CDATA[衣馨衣韵]]></title>
+    <link href="http://luoguochun.cn/2014/07/14/%E8%A1%A3%E9%A6%A8%E8%A1%A3%E9%9F%B5/"/>
+    <id>http://luoguochun.cn/2014/07/14/衣馨衣韵/</id>
     <published>2014-07-13T16:00:00.000Z</published>
-    <updated>2014-07-14T08:47:06.000Z</updated>
-    <content type="html"><![CDATA[<p>ColorWare offers a unique, durable and fashionable custom colorization process to cutting edge products including headphones, Mac and PC laptops, iPad, tablets, gaming consoles, iPhone and Blackberry phones as well as iPod mp3 players.  </p>
-<p>更多详情请参考相关网站 <a href="http://www.colorware.com/" target="_blank" rel="external">ColorWare</a>  </p>
+    <updated>2014-07-14T10:02:39.000Z</updated>
+    <content type="html"><![CDATA[<p>精品女装，只发布最新特色潮流，为你提供专业化的服务。  </p>
+<p>更多详情请参考相关网站 <a href="http://yixinyiyun.taobao.com" target="_blank" rel="external">衣馨衣韵</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -337,13 +337,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[IT桔子]]></title>
-    <link href="http://luoguochun.cn/2014/07/14/IT%E6%A1%94%E5%AD%90/"/>
-    <id>http://luoguochun.cn/2014/07/14/IT桔子/</id>
+    <title><![CDATA[Fly It Remotely]]></title>
+    <link href="http://luoguochun.cn/2014/07/14/Fly%20It%20Remotely/"/>
+    <id>http://luoguochun.cn/2014/07/14/Fly It Remotely/</id>
     <published>2014-07-13T16:00:00.000Z</published>
-    <updated>2014-07-14T03:47:42.000Z</updated>
-    <content type="html"><![CDATA[<p>IT互联网公司产品数据库及商业信息服务  </p>
-<p>更多详情请参考相关网站 <a href="http://itjuzi.com/" target="_blank" rel="external">IT桔子</a>  </p>
+    <updated>2014-07-14T01:25:18.000Z</updated>
+    <content type="html"><![CDATA[<p>FIR.im 为开发者提供简洁迅速的内测程序分发服务  </p>
+<p>更多详情请参考相关网站 <a href="http://fir.im/" target="_blank" rel="external">Fly It Remotely</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

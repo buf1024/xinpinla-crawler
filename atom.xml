@@ -4,7 +4,7 @@
   <subtitle><![CDATA[码农，程序猿，攻城狮，未来的地摊贩]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-15T14:17:22.449Z</updated>
+  <updated>2014-07-15T15:39:13.835Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,13 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[云起轻应用]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E4%BA%91%E8%B5%B7%E8%BD%BB%E5%BA%94%E7%94%A8/"/>
-    <id>http://luoguochun.cn/2014/07/15/云起轻应用/</id>
+    <title><![CDATA[AnySDK]]></title>
+    <link href="http://luoguochun.cn/2014/07/15/AnySDK/"/>
+    <id>http://luoguochun.cn/2014/07/15/AnySDK/</id>
     <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T14:16:12.000Z</updated>
-    <content type="html"><![CDATA[<p>云起是一个可以快速帮助个人或商户创建官方手机轻应用（微信里的APP），展示品牌与产品，并开展移动电子商务的在线工具。3分钟、免费、顶级设计、强大业务功能、同时对接百度与微信。  </p>
-<p>更多详情请参考相关网站 <a href="http://www.cloud7.com.cn/" target="_blank" rel="external">云起轻应用</a>  </p>
+    <updated>2014-07-15T15:38:02.000Z</updated>
+    <content type="html"><![CDATA[<p>快速接入第三方SDK  </p>
+<p>更多详情请参考相关网站 <a href="http://www.anysdk.com/" target="_blank" rel="external">AnySDK</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -317,13 +317,27 @@
   </entry>
   
   <entry>
-    <title><![CDATA[DIMPLE.IO]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/DIMPLE.IO/"/>
-    <id>http://luoguochun.cn/2014/07/15/DIMPLE.IO/</id>
+    <title><![CDATA[小红书]]></title>
+    <link href="http://luoguochun.cn/2014/07/15/%E5%B0%8F%E7%BA%A2%E4%B9%A6/"/>
+    <id>http://luoguochun.cn/2014/07/15/小红书/</id>
     <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T06:30:57.000Z</updated>
-    <content type="html"><![CDATA[<p>Dimple是一个用在Android设备上（手机或平板电脑），具有NFC功能的粘性贴，用户可以选择2键或者4个键版，通过特定App控制智能设备  </p>
-<p>更多详情请参考相关网站 <a href="http://dimple.io/" target="_blank" rel="external">DIMPLE.IO</a>  </p>
+    <updated>2014-07-15T02:39:13.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/48e3899434c81bae4b5501c7c4ad8b8c.jpg" alt=""></p>
+
+<p>因为一次去日本的经历，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208354.html">我同事Raina认识了海外购物分享社区“小红书”</a>，帮她在日本做对了购物的决策。而今天，这个可以看作&quot;购物领域的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/search?q=%E8%9A%82%E8%9C%82%E7%AA%9D">蚂蜂窝</a>&quot;的产品向<span>36氪</span>确认已经完成了数百万美金A轮融资，由一家硅谷基金领投、真格基金跟投。未来小红书希望在把用户出行前的购物信息痛点解决得不错的情况下，再将场景往前延伸一些——哪怕大家近期没有出行计划，也可以随意逛逛，发现其他人出门买下的好玩物品。</p>
+
+<p>所以在最新版本的小红书里，功能性的地区入口被弱化了，发现物品的功能被增强了。首页里仅出现每日精选的大图式物品卡片，以及我所关注的人发布的内容，“地区”则被收到了第二个tab之下。小红书联合创始人Miranda说，这么做是因为此前小红书积累了很多出行前拿它做购物规划的用户，这波用户出境回来之后，就留在了社区里。他们的使用场景也就发生了迁移——不再是功利性地为了出去购物而直达目标，反而是有了更多的时间“刷”和“逛”，体验类似一个品牌版和海外版的蘑菇街。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/8e470386f217a3ece06150b56748aac1.png" alt=""></p>
+
+<p>Miranda说，他们这一阶段的目标就是让用户更多地去“发现”，如果海淘、让朋友出门玩的时候代购物品等等是用户的需求，那么他们现在就可以更多地去“逛”。不过，小红书本身的发展方向不太会是电商或者海淘，而是想去帮助用户发现更好的海外购物体验，会偏向于平台方向。</p>
+
+<p>注：现在小红书各种职位都开放招聘中~iOS，Android，前/后端工程师，产品经理，UI设计，推广运营等~在上海或者想来上海发展的小伙伴们可以把简历砸向 career[at]xingin.com（用@替换at），更具体详情可以<a target="_blank" data-no-turbolink="true" href="http://www.xiaohongshu.com/join">戳这里</a> 。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213191.html" target="_blank" rel="external">从海外购物笔记做起的“小红书”获得数百万美金A轮融资，正在探索更前端的“日常看物”使用场景</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.xiaohongshu.com/" target="_blank" rel="external">小红书</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -335,13 +349,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[奇酷网]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E5%A5%87%E9%85%B7%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/07/15/奇酷网/</id>
+    <title><![CDATA[DIMPLE.IO]]></title>
+    <link href="http://luoguochun.cn/2014/07/15/DIMPLE.IO/"/>
+    <id>http://luoguochun.cn/2014/07/15/DIMPLE.IO/</id>
     <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T02:39:14.000Z</updated>
-    <content type="html"><![CDATA[<p>奇酷网是一个酷品曝光平台，在这里，你可以看到国内外最新的智能设备以及最详细的产品介绍，你也可以与众多极客分享你的想法、创意。  </p>
-<p>更多详情请参考相关网站 <a href="http://www.qikoo.com/" target="_blank" rel="external">奇酷网</a>  </p>
+    <updated>2014-07-15T06:30:57.000Z</updated>
+    <content type="html"><![CDATA[<p>Dimple是一个用在Android设备上（手机或平板电脑），具有NFC功能的粘性贴，用户可以选择2键或者4个键版，通过特定App控制智能设备  </p>
+<p>更多详情请参考相关网站 <a href="http://dimple.io/" target="_blank" rel="external">DIMPLE.IO</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -427,13 +441,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[loglr]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/loglr/"/>
-    <id>http://luoguochun.cn/2014/07/15/loglr/</id>
+    <title><![CDATA[云起轻应用]]></title>
+    <link href="http://luoguochun.cn/2014/07/15/%E4%BA%91%E8%B5%B7%E8%BD%BB%E5%BA%94%E7%94%A8/"/>
+    <id>http://luoguochun.cn/2014/07/15/云起轻应用/</id>
     <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T02:39:14.000Z</updated>
-    <content type="html"><![CDATA[<p>browsing history public  </p>
-<p>更多详情请参考相关网站 <a href="http://loglr.com/" target="_blank" rel="external">loglr</a>  </p>
+    <updated>2014-07-15T14:16:12.000Z</updated>
+    <content type="html"><![CDATA[<p>云起是一个可以快速帮助个人或商户创建官方手机轻应用（微信里的APP），展示品牌与产品，并开展移动电子商务的在线工具。3分钟、免费、顶级设计、强大业务功能、同时对接百度与微信。  </p>
+<p>更多详情请参考相关网站 <a href="http://www.cloud7.com.cn/" target="_blank" rel="external">云起轻应用</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -445,13 +459,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[V2EX]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/V2EX/"/>
-    <id>http://luoguochun.cn/2014/07/15/V2EX/</id>
+    <title><![CDATA[loglr]]></title>
+    <link href="http://luoguochun.cn/2014/07/15/loglr/"/>
+    <id>http://luoguochun.cn/2014/07/15/loglr/</id>
     <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T01:50:29.000Z</updated>
-    <content type="html"><![CDATA[<p>创意工作者们的社区  </p>
-<p>更多详情请参考相关网站 <a href="http://www.v2ex.com/" target="_blank" rel="external">V2EX</a>  </p>
+    <updated>2014-07-15T02:39:14.000Z</updated>
+    <content type="html"><![CDATA[<p>browsing history public  </p>
+<p>更多详情请参考相关网站 <a href="http://loglr.com/" target="_blank" rel="external">loglr</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

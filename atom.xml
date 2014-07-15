@@ -4,7 +4,7 @@
   <subtitle><![CDATA[码农，程序猿，攻城狮，未来的地摊贩]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-15T03:29:59.199Z</updated>
+  <updated>2014-07-15T04:19:56.238Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,31 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[走着]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E8%B5%B0%E7%9D%80/"/>
-    <id>http://luoguochun.cn/2014/07/15/走着/</id>
+    <title><![CDATA[金元宝微店]]></title>
+    <link href="http://luoguochun.cn/2014/07/15/%E9%87%91%E5%85%83%E5%AE%9D%E5%BE%AE%E5%BA%97/"/>
+    <id>http://luoguochun.cn/2014/07/15/金元宝微店/</id>
     <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T03:28:52.000Z</updated>
-    <content type="html"><![CDATA[<p>一个极简的计步器(读取 M7 协处理器的数据)  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/zou-zhe-keep-walking/id889047549" target="_blank" rel="external">走着</a>  </p>
+    <updated>2014-07-15T04:18:48.000Z</updated>
+    <content type="html"><![CDATA[<p>微信开店的神器，用户可在其中发现附近的店铺  </p>
+<p>更多详情请参考相关网站 <a href="http://www.jinyuanbao.cn/" target="_blank" rel="external">金元宝微店</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[番茄土豆]]></title>
+    <link href="http://luoguochun.cn/2014/07/15/%E7%95%AA%E8%8C%84%E5%9C%9F%E8%B1%86/"/>
+    <id>http://luoguochun.cn/2014/07/15/番茄土豆/</id>
+    <published>2014-07-14T16:00:00.000Z</published>
+    <updated>2014-07-15T04:18:48.000Z</updated>
+    <content type="html"><![CDATA[<p>结合番茄工作法和 GTD，帮助你更高效的完成工作  </p>
+<p>更多详情请参考相关网站 <a href="http://pomotodo.com" target="_blank" rel="external">番茄土豆</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -54,6 +72,24 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/213709.html" target="_blank" rel="external">以独立设计师资源为特色的快时尚电商“野糖网” 获IDG数百万人民币天使投资</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.yetang.com/" target="_blank" rel="external">野糖网</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[走着]]></title>
+    <link href="http://luoguochun.cn/2014/07/15/%E8%B5%B0%E7%9D%80/"/>
+    <id>http://luoguochun.cn/2014/07/15/走着/</id>
+    <published>2014-07-14T16:00:00.000Z</published>
+    <updated>2014-07-15T03:28:52.000Z</updated>
+    <content type="html"><![CDATA[<p>一个极简的计步器(读取 M7 协处理器的数据)  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/zou-zhe-keep-walking/id889047549" target="_blank" rel="external">走着</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -213,13 +249,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[微博图床]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/"/>
-    <id>http://luoguochun.cn/2014/07/15/微博图床/</id>
+    <title><![CDATA[DJI]]></title>
+    <link href="http://luoguochun.cn/2014/07/15/DJI/"/>
+    <id>http://luoguochun.cn/2014/07/15/DJI/</id>
     <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T01:50:29.000Z</updated>
-    <content type="html"><![CDATA[<p>一个把图片存储到微博的图床  </p>
-<p>更多详情请参考相关网站 <a href="http://sevnx.com/tools/picdisk" target="_blank" rel="external">微博图床</a>  </p>
+    <updated>2014-07-15T02:39:14.000Z</updated>
+    <content type="html"><![CDATA[<p>全球无人飞行器控制系统及无人机生产商  </p>
+<p>更多详情请参考相关网站 <a href="http://www.dji.com/" target="_blank" rel="external">DJI</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -231,13 +267,27 @@
   </entry>
   
   <entry>
-    <title><![CDATA[DJI]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/DJI/"/>
-    <id>http://luoguochun.cn/2014/07/15/DJI/</id>
+    <title><![CDATA[小红书]]></title>
+    <link href="http://luoguochun.cn/2014/07/15/%E5%B0%8F%E7%BA%A2%E4%B9%A6/"/>
+    <id>http://luoguochun.cn/2014/07/15/小红书/</id>
     <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T02:39:14.000Z</updated>
-    <content type="html"><![CDATA[<p>全球无人飞行器控制系统及无人机生产商  </p>
-<p>更多详情请参考相关网站 <a href="http://www.dji.com/" target="_blank" rel="external">DJI</a>  </p>
+    <updated>2014-07-15T02:39:13.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/48e3899434c81bae4b5501c7c4ad8b8c.jpg" alt=""></p>
+
+<p>因为一次去日本的经历，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208354.html">我同事Raina认识了海外购物分享社区“小红书”</a>，帮她在日本做对了购物的决策。而今天，这个可以看作&quot;购物领域的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/search?q=%E8%9A%82%E8%9C%82%E7%AA%9D">蚂蜂窝</a>&quot;的产品向<span>36氪</span>确认已经完成了数百万美金A轮融资，由一家硅谷基金领投、真格基金跟投。未来小红书希望在把用户出行前的购物信息痛点解决得不错的情况下，再将场景往前延伸一些——哪怕大家近期没有出行计划，也可以随意逛逛，发现其他人出门买下的好玩物品。</p>
+
+<p>所以在最新版本的小红书里，功能性的地区入口被弱化了，发现物品的功能被增强了。首页里仅出现每日精选的大图式物品卡片，以及我所关注的人发布的内容，“地区”则被收到了第二个tab之下。小红书联合创始人Miranda说，这么做是因为此前小红书积累了很多出行前拿它做购物规划的用户，这波用户出境回来之后，就留在了社区里。他们的使用场景也就发生了迁移——不再是功利性地为了出去购物而直达目标，反而是有了更多的时间“刷”和“逛”，体验类似一个品牌版和海外版的蘑菇街。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/8e470386f217a3ece06150b56748aac1.png" alt=""></p>
+
+<p>Miranda说，他们这一阶段的目标就是让用户更多地去“发现”，如果海淘、让朋友出门玩的时候代购物品等等是用户的需求，那么他们现在就可以更多地去“逛”。不过，小红书本身的发展方向不太会是电商或者海淘，而是想去帮助用户发现更好的海外购物体验，会偏向于平台方向。</p>
+
+<p>注：现在小红书各种职位都开放招聘中~iOS，Android，前/后端工程师，产品经理，UI设计，推广运营等~在上海或者想来上海发展的小伙伴们可以把简历砸向 career[at]xingin.com（用@替换at），更具体详情可以<a target="_blank" data-no-turbolink="true" href="http://www.xiaohongshu.com/join">戳这里</a> 。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213191.html" target="_blank" rel="external">从海外购物笔记做起的“小红书”获得数百万美金A轮融资，正在探索更前端的“日常看物”使用场景</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.xiaohongshu.com/" target="_blank" rel="external">小红书</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -426,56 +476,6 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/213700.html" target="_blank" rel="external">增强现实电子游戏Ingress发布iOS版，Google希望你拿着智能手机多往外面走走</a>  </p>
 <p>更多详情请参考相关网站 <a href="https://itunes.apple.com/ca/app/ingress/id576505181" target="_blank" rel="external">Ingress</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[ColorWare]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/ColorWare/"/>
-    <id>http://luoguochun.cn/2014/07/15/ColorWare/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T01:50:26.000Z</updated>
-    <content type="html"><![CDATA[<p>ColorWare offers a unique, durable and fashionable custom colorization process to cutting edge products including headphones, Mac and PC laptops, iPad, tablets, gaming consoles, iPhone and Blackberry phones as well as iPod mp3 players.  </p>
-<p>更多详情请参考相关网站 <a href="http://www.colorware.com/" target="_blank" rel="external">ColorWare</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[小红书]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E5%B0%8F%E7%BA%A2%E4%B9%A6/"/>
-    <id>http://luoguochun.cn/2014/07/15/小红书/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T02:39:13.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/48e3899434c81bae4b5501c7c4ad8b8c.jpg" alt=""></p>
-
-<p>因为一次去日本的经历，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208354.html">我同事Raina认识了海外购物分享社区“小红书”</a>，帮她在日本做对了购物的决策。而今天，这个可以看作&quot;购物领域的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/search?q=%E8%9A%82%E8%9C%82%E7%AA%9D">蚂蜂窝</a>&quot;的产品向<span>36氪</span>确认已经完成了数百万美金A轮融资，由一家硅谷基金领投、真格基金跟投。未来小红书希望在把用户出行前的购物信息痛点解决得不错的情况下，再将场景往前延伸一些——哪怕大家近期没有出行计划，也可以随意逛逛，发现其他人出门买下的好玩物品。</p>
-
-<p>所以在最新版本的小红书里，功能性的地区入口被弱化了，发现物品的功能被增强了。首页里仅出现每日精选的大图式物品卡片，以及我所关注的人发布的内容，“地区”则被收到了第二个tab之下。小红书联合创始人Miranda说，这么做是因为此前小红书积累了很多出行前拿它做购物规划的用户，这波用户出境回来之后，就留在了社区里。他们的使用场景也就发生了迁移——不再是功利性地为了出去购物而直达目标，反而是有了更多的时间“刷”和“逛”，体验类似一个品牌版和海外版的蘑菇街。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/8e470386f217a3ece06150b56748aac1.png" alt=""></p>
-
-<p>Miranda说，他们这一阶段的目标就是让用户更多地去“发现”，如果海淘、让朋友出门玩的时候代购物品等等是用户的需求，那么他们现在就可以更多地去“逛”。不过，小红书本身的发展方向不太会是电商或者海淘，而是想去帮助用户发现更好的海外购物体验，会偏向于平台方向。</p>
-
-<p>注：现在小红书各种职位都开放招聘中~iOS，Android，前/后端工程师，产品经理，UI设计，推广运营等~在上海或者想来上海发展的小伙伴们可以把简历砸向 career[at]xingin.com（用@替换at），更具体详情可以<a target="_blank" data-no-turbolink="true" href="http://www.xiaohongshu.com/join">戳这里</a> 。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213191.html" target="_blank" rel="external">从海外购物笔记做起的“小红书”获得数百万美金A轮融资，正在探索更前端的“日常看物”使用场景</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.xiaohongshu.com/" target="_blank" rel="external">小红书</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

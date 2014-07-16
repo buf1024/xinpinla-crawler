@@ -4,7 +4,7 @@
   <subtitle><![CDATA[码农，程序猿，攻城狮，未来的地摊贩]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-15T15:39:13.835Z</updated>
+  <updated>2014-07-16T01:33:45.678Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,253 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[走着]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/%E8%B5%B0%E7%9D%80/"/>
+    <id>http://luoguochun.cn/2014/07/16/走着/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T01:32:30.000Z</updated>
+    <content type="html"><![CDATA[<p>一个极简的计步器(读取 M7 协处理器的数据)  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/zou-zhe-keep-walking/id889047549" target="_blank" rel="external">走着</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[网易云音乐 for iOS]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%20for%20iOS/"/>
+    <id>http://luoguochun.cn/2014/07/16/网易云音乐 for iOS/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T01:32:30.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/baeea0553d76a546ccdea2a191b19f10.jpg" alt=""></p>
+
+<p>5月底过完一周岁生日、<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212342.html">拥有3200万个用户自主创建歌单</a>、成为中国最大的在线歌单音乐库 的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90">网易云音乐</a> 刚刚发布了<a target="_blank" data-no-turbolink="true" href="http://itunes.apple.com/cn/app/wang-yi-yun-yin-le/id590338362?mt=8">iOS的更新</a>，主要新增了“均衡器”和“歌词生成图片分享到微信易信” 两项功能。</p>
+
+<p>“均衡器” 可在播放界面点击左下角启用，默认以“智能预设”的方式开启（根据当前播放的歌曲，自动匹配最佳音效），可以选取超重低音、流行、摇滚等各种花样的均衡器。此外，新版网易云音乐还支持音效增强，就不在这里啰嗦了，如图。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/8650ec9e08ce2eadc0e533a20d848837.jpg" alt="p3"></p>
+
+<p>分享歌词的功能其实存在挺长一段时间了，此次的更新算是对该功能的体贴升级，如图。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/7e2a6ef50db2f5837e288526287b63df.jpg" alt=""></p><br>                    <p></p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213550.html" target="_blank" rel="external">网易云音乐 for iOS 发布更新，新增均衡器和歌词图片分享功能</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://itunes.apple.com/cn/app/wang-yi-yun-yin-le/id590338362?mt=8" target="_blank" rel="external">网易云音乐 for iOS</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[番茄土豆]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/%E7%95%AA%E8%8C%84%E5%9C%9F%E8%B1%86/"/>
+    <id>http://luoguochun.cn/2014/07/16/番茄土豆/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T01:32:28.000Z</updated>
+    <content type="html"><![CDATA[<p>结合番茄工作法和 GTD，帮助你更高效的完成工作  </p>
+<p>更多详情请参考相关网站 <a href="http://pomotodo.com" target="_blank" rel="external">番茄土豆</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[奇酷网]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/%E5%A5%87%E9%85%B7%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/07/16/奇酷网/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T01:32:27.000Z</updated>
+    <content type="html"><![CDATA[<p>奇酷网是一个酷品曝光平台，在这里，你可以看到国内外最新的智能设备以及最详细的产品介绍，你也可以与众多极客分享你的想法、创意。  </p>
+<p>更多详情请参考相关网站 <a href="http://www.qikoo.com/" target="_blank" rel="external">奇酷网</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[天蓝村零食订购服务]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
+    <id>http://luoguochun.cn/2014/07/16/天蓝村零食订购服务/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T01:32:30.000Z</updated>
+    <content type="html"><![CDATA[<p>按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包  </p>
+<p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[卡夫卡]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/%E5%8D%A1%E5%A4%AB%E5%8D%A1/"/>
+    <id>http://luoguochun.cn/2014/07/16/卡夫卡/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T01:32:28.000Z</updated>
+    <content type="html"><![CDATA[<p>卡夫卡是广州市雅莉鑫皮具有限公司旗下高端女包品牌。为追求生活质感与懂得鉴赏的现代成熟女性，提供休闲、别致、内敛的精致皮具产品。  </p>
+<p>更多详情请参考相关网站 <a href="http://www.kafuka.com.cn" target="_blank" rel="external">卡夫卡</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[DIMPLE.IO]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/DIMPLE.IO/"/>
+    <id>http://luoguochun.cn/2014/07/16/DIMPLE.IO/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T01:32:28.000Z</updated>
+    <content type="html"><![CDATA[<p>Dimple是一个用在Android设备上（手机或平板电脑），具有NFC功能的粘性贴，用户可以选择2键或者4个键版，通过特定App控制智能设备  </p>
+<p>更多详情请参考相关网站 <a href="http://dimple.io/" target="_blank" rel="external">DIMPLE.IO</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[云起轻应用]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/%E4%BA%91%E8%B5%B7%E8%BD%BB%E5%BA%94%E7%94%A8/"/>
+    <id>http://luoguochun.cn/2014/07/16/云起轻应用/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T01:32:28.000Z</updated>
+    <content type="html"><![CDATA[<p>云起是一个可以快速帮助个人或商户创建官方手机轻应用（微信里的APP），展示品牌与产品，并开展移动电子商务的在线工具。3分钟、免费、顶级设计、强大业务功能、同时对接百度与微信。  </p>
+<p>更多详情请参考相关网站 <a href="http://www.cloud7.com.cn/" target="_blank" rel="external">云起轻应用</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[OGEngine]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/OGEngine/"/>
+    <id>http://luoguochun.cn/2014/07/16/OGEngine/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T01:32:27.000Z</updated>
+    <content type="html"><![CDATA[<p>基于java游戏开发开源引擎  </p>
+<p>更多详情请参考相关网站 <a href="http://www.ogengine.com" target="_blank" rel="external">OGEngine</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Newsle]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/Newsle/"/>
+    <id>http://luoguochun.cn/2014/07/16/Newsle/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T01:32:26.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/06b5039a423f877640b5ee30fd600c0a.jpg" alt=""><br><br>LinkedIn今天<a target="_blank" data-no-turbolink="true" href="http://blog.linkedin.com/2014/07/14/newsle-joins-the-linkedin-family/">宣布</a>，公司已经收购了信息聚合网站<a target="_blank" data-no-turbolink="true" href="http://newsle.com/">Newsle</a>。不过收购双方并未透彻此次收购的具体条款。</p>
+
+<p>Newsle提供的服务大致是这样的，如果你想真正的全面了解自己在Facebook或LinkedIn等社交网络的的某些联系人，你可以将这些联系人从那些社交网络导入Newsle，Newsle 会自动进行全网搜索，一旦网上出现关于这些人的最新信息，如被@，Newsle会自动提醒你，帮你及时了解所关注对象的所有新闻，一条新闻也不落下。</p>
+
+<p>Newsle被收购后暂时不会被关闭，目前仍会作为一个独立的服务继续运行。Newsle的功能也会被深度整合进LinkedIn的现有产品中去。</p>
+
+<p>LinkedIn表示：“LinkedIn和Newsle拥有共同的目标：我们都希望为用户提供更专业的信息，帮助他们更好地完成自己的工作。例如，全面地了解你的社交网络中的一些人（如他们最近在哪个新闻里被提到过）可以帮助你下次见到对方时成功打开话题。”</p><br>                    <p>[<span>36氪</span>原创文章，作者: 欧开磊]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213720.html" target="_blank" rel="external">LinkedIn收购信息聚合网站Newsle</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://newsle.com/" target="_blank" rel="external">Newsle</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[IT桔子]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/IT%E6%A1%94%E5%AD%90/"/>
+    <id>http://luoguochun.cn/2014/07/16/IT桔子/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T01:32:29.000Z</updated>
+    <content type="html"><![CDATA[<p>IT互联网公司产品数据库及商业信息服务  </p>
+<p>更多详情请参考相关网站 <a href="http://itjuzi.com/" target="_blank" rel="external">IT桔子</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[AnySDK]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/AnySDK/"/>
-    <id>http://luoguochun.cn/2014/07/15/AnySDK/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T15:38:02.000Z</updated>
+    <link href="http://luoguochun.cn/2014/07/16/AnySDK/"/>
+    <id>http://luoguochun.cn/2014/07/16/AnySDK/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T01:32:27.000Z</updated>
     <content type="html"><![CDATA[<p>快速接入第三方SDK  </p>
 <p>更多详情请参考相关网站 <a href="http://www.anysdk.com/" target="_blank" rel="external">AnySDK</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[创之网]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/%E5%88%9B%E4%B9%8B%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/07/16/创之网/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T01:32:25.000Z</updated>
+    <content type="html"><![CDATA[<p>TECH2IPO/创见旗下，专注创业内容的科技媒体  </p>
+<p>更多详情请参考相关网站 <a href="http://chuang.pro" target="_blank" rel="external">创之网</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -194,278 +434,6 @@
     <updated>2014-07-15T01:50:27.000Z</updated>
     <content type="html"><![CDATA[<p>视频租房，给你身临其境的看房体验  </p>
 <p>更多详情请参考相关网站 <a href="http://www.zhenzuwang.com/" target="_blank" rel="external">真租网</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[番茄土豆]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E7%95%AA%E8%8C%84%E5%9C%9F%E8%B1%86/"/>
-    <id>http://luoguochun.cn/2014/07/15/番茄土豆/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T04:18:48.000Z</updated>
-    <content type="html"><![CDATA[<p>结合番茄工作法和 GTD，帮助你更高效的完成工作  </p>
-<p>更多详情请参考相关网站 <a href="http://pomotodo.com" target="_blank" rel="external">番茄土豆</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[爱知乎]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E7%88%B1%E7%9F%A5%E4%B9%8E/"/>
-    <id>http://luoguochun.cn/2014/07/15/爱知乎/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T01:50:27.000Z</updated>
-    <content type="html"><![CDATA[<p>爱知乎, 知乎日报网页版, 您在电脑和平板上阅读知乎日报的最佳方式  </p>
-<p>更多详情请参考相关网站 <a href="http://youzhihu.com/" target="_blank" rel="external">爱知乎</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[暖岛网]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E6%9A%96%E5%B2%9B%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/07/15/暖岛网/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T01:50:26.000Z</updated>
-    <content type="html"><![CDATA[<p>中国最具创造力的设计电商  </p>
-<p>更多详情请参考相关网站 <a href="http://www.nuandao.com/" target="_blank" rel="external">暖岛网</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[手工客]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E6%89%8B%E5%B7%A5%E5%AE%A2/"/>
-    <id>http://luoguochun.cn/2014/07/15/手工客/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T01:50:23.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/b9c52a2dd963295b5168be69d562397d.jpg" alt=""></p>
-
-<p>想要自己进行旧衣改造，想要自己折出一只栩栩如生的蝴蝶，想给自己做一个布包……如果是以往有这些DIY的愿望，可能勤劳点的人会去搜索网上的教程，懒一点的人想想也就过去了，这都是因为没有专门的平台汇聚这些手工教程，想想找教程的难度就望而却步了。由哇噻网分支出来的<a target="_blank" data-no-turbolink="true" href="http://www.shougongke.com/">手工客</a>现在就想成为汇聚手工者的平台，他们在新发布的<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/shou-gong-ke/id635774918?ls=1&amp;mt=8">移动app</a>中采用了完全的UGC机制，希望由用户来上传教程、而其他用户则消费这些内容。</p>
-
-<p>打开手工客的新版应用，首屏是热门精选的教程内容（比如首饰盒、光印术、布钱包等等），点进具体教程之后，可以看到每一个作品的制作步骤、制作材料（类似<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206885.html">下厨房的菜谱</a>），用户完全按照步骤即可完成制作。如果有疑问的地方，还可以直接在评论区向创作该教程的创作者发问。</p>
-
-<p>手工客内也有自己的用户账号体系，用户之间可以互相关注，形成关系链，而在动态区内则可以看见全部动态和好友动态，发现大家收藏、赞了什么教程，以及又创作了什么教程。</p>
-
-<p>产品机制设定好了，有人会问真的有那么多人愿意自己动手做东西，还把制作步骤一步步拍下来上传到手工客吗？哇噻网创始人赵径文告诉我，他们的应用从6月份初版（只包含纯粹资讯的版本）上线到今天，一共有二十二万的用户，用户活跃情况也还不错。</p>
-
-<p>在推广方面，他们希望和一些既有的手工社团和组织产生联系，让他们以社团的形式来入驻。另外他们还会在线上线下同时布展，和一些艺术机构、展览馆、博物馆合作，在线下展览时在每个展品旁边露出手工客的二维码，观众扫描之后就可以直接进入到该展品的创作者主页，在手工客上和这些创作者直接交流。赵径文说，有一次折纸的线下展览后，作品创作者有半数留存在了手工客上，继续发布自己的作品并和其他爱好者交流。</p>
-
-<p><img src="http://a.36krcnd.com/photo/c8032e89a73b48ee1f625cce14f65848.jpg" alt=""></p>
-
-<p>赵径文说，他希望只要是喜欢动手的人群，都能在手工客上找到和自己同好的爱好者，这其中包括一些所有人都能做的手工，比如折纸这样的大众品，还有一些很专业的、普通用户做不了的专业手工，比如需要专业工具的银饰制作等等。他还希望后期引入更丰富的内容，比如自己做硬件的极客、爱自己改装车辆的爱好者、还有可以拼装的玩具等，使手工客整个社区可以去女性化。如果能脱离传统手工的范畴，囊括日常生活中一切可以自己动手做的东西，那手工客的想象空间还是挺广泛的。</p>
-
-<p>至于盈利模式，现阶段还不是手工客重点考虑的，因为工制作有两点先天的优势——一是手工材料不是大众产品，必须在一些专业的地方才可买到，这会是电商的机会。另外一种材料就可以做出各种各样的东西，理论上来说手工教程可以达到很大的量。未来是要和导购、线下手工培训机构还是推高级付费会员，这些都取决于现阶段能否满足用户需求，聚拢足够用户，维持好社区的氛围。</p>
-
-<p><a target="_blank" data-no-turbolink="true" href="http://www.shougongke.com/app/download.html">点击查看手工客下载地址</a></p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/207528.html" target="_blank" rel="external">让有动手愿望的年轻人都可以做出心头之好，手工客新版就要做2.0时代的手工教程</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.sogoke.com/" target="_blank" rel="external">手工客</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[微博图床]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/"/>
-    <id>http://luoguochun.cn/2014/07/15/微博图床/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T01:50:29.000Z</updated>
-    <content type="html"><![CDATA[<p>一个把图片存储到微博的图床  </p>
-<p>更多详情请参考相关网站 <a href="http://sevnx.com/tools/picdisk" target="_blank" rel="external">微博图床</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[小红书]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E5%B0%8F%E7%BA%A2%E4%B9%A6/"/>
-    <id>http://luoguochun.cn/2014/07/15/小红书/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T02:39:13.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/48e3899434c81bae4b5501c7c4ad8b8c.jpg" alt=""></p>
-
-<p>因为一次去日本的经历，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208354.html">我同事Raina认识了海外购物分享社区“小红书”</a>，帮她在日本做对了购物的决策。而今天，这个可以看作&quot;购物领域的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/search?q=%E8%9A%82%E8%9C%82%E7%AA%9D">蚂蜂窝</a>&quot;的产品向<span>36氪</span>确认已经完成了数百万美金A轮融资，由一家硅谷基金领投、真格基金跟投。未来小红书希望在把用户出行前的购物信息痛点解决得不错的情况下，再将场景往前延伸一些——哪怕大家近期没有出行计划，也可以随意逛逛，发现其他人出门买下的好玩物品。</p>
-
-<p>所以在最新版本的小红书里，功能性的地区入口被弱化了，发现物品的功能被增强了。首页里仅出现每日精选的大图式物品卡片，以及我所关注的人发布的内容，“地区”则被收到了第二个tab之下。小红书联合创始人Miranda说，这么做是因为此前小红书积累了很多出行前拿它做购物规划的用户，这波用户出境回来之后，就留在了社区里。他们的使用场景也就发生了迁移——不再是功利性地为了出去购物而直达目标，反而是有了更多的时间“刷”和“逛”，体验类似一个品牌版和海外版的蘑菇街。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/8e470386f217a3ece06150b56748aac1.png" alt=""></p>
-
-<p>Miranda说，他们这一阶段的目标就是让用户更多地去“发现”，如果海淘、让朋友出门玩的时候代购物品等等是用户的需求，那么他们现在就可以更多地去“逛”。不过，小红书本身的发展方向不太会是电商或者海淘，而是想去帮助用户发现更好的海外购物体验，会偏向于平台方向。</p>
-
-<p>注：现在小红书各种职位都开放招聘中~iOS，Android，前/后端工程师，产品经理，UI设计，推广运营等~在上海或者想来上海发展的小伙伴们可以把简历砸向 career[at]xingin.com（用@替换at），更具体详情可以<a target="_blank" data-no-turbolink="true" href="http://www.xiaohongshu.com/join">戳这里</a> 。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213191.html" target="_blank" rel="external">从海外购物笔记做起的“小红书”获得数百万美金A轮融资，正在探索更前端的“日常看物”使用场景</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.xiaohongshu.com/" target="_blank" rel="external">小红书</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[DIMPLE.IO]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/DIMPLE.IO/"/>
-    <id>http://luoguochun.cn/2014/07/15/DIMPLE.IO/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T06:30:57.000Z</updated>
-    <content type="html"><![CDATA[<p>Dimple是一个用在Android设备上（手机或平板电脑），具有NFC功能的粘性贴，用户可以选择2键或者4个键版，通过特定App控制智能设备  </p>
-<p>更多详情请参考相关网站 <a href="http://dimple.io/" target="_blank" rel="external">DIMPLE.IO</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[天蓝村零食订购服务]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
-    <id>http://luoguochun.cn/2014/07/15/天蓝村零食订购服务/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T01:50:30.000Z</updated>
-    <content type="html"><![CDATA[<p>按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包  </p>
-<p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[哇噻网]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E5%93%87%E5%99%BB%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/07/15/哇噻网/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T01:50:25.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/f4b3db2baca12a4d991dd016cc78243c.png" alt=""></p>
-
-<p>据<span>36氪</span>了解到的信息，哇噻网已经完成近2000万的A轮投资，投资人包括盛大以及国内某基金，哇噻网天使投资人王啸也有部分跟投。</p>
-
-<p><a target="_blank" data-no-turbolink="true" href="http://www.wowsai.com/">哇噻网</a>是一个类似Etsy的在线销售手工艺品的平台，最初定位于<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/38270.html">创意生活服务商</a>，之后改版开始将自身定位于更轻的平台。从之前的 B2C 转型到 C2C，将仓库、物流、客服等服务全部去除掉，转而专注于技术、运营和推广，将自己的链条缩短。</p>
-
-<p>现在他们将业务重新进行了细分，把之前在网站上的社区模块“手工客”单独出一个产品，推出了目前的纯社区产品<a target="_blank" data-no-turbolink="true" href="http://www.shougongke.com/">手工客</a>。哇噻网创始人赵径文表示，他们希望让手工客成为一个设计师的交流分享阵地，用户在这里主要是学习手工、展示作品并进行交流。在里面有各种手工教程和作品，内容全部来自UGC。<br><br><img src="http://a.36krcnd.com/photo/a04acbb012c72721d7d2db2894290393.png" alt=""></p>
-
-<p>赵径文介绍说，这款产品最早来自他们线下活动，由于场地的限制，线下活动的交流不能满足更多用户的需求，于是在5月份时他们先上线一个手工客的App以测试用户的需求。在获得大量用户的肯定后才于最近正式推出手工客这个平台，目前其应用下载用户接近6万，网站用户快接近9000。</p>
-
-<p>而哇噻网将逐渐成为一个更加专注的产品设计、定制与交易平台，通过去淘宝化来打差异化。哇噻网将打通设计师、生产商与用户之间的整个链条。举个简单的例子，如果设计师在哇噻网上给出了自己的设计原型、用户对这个原型有一些特殊定制化更改需求，由于整个后台设计师和生产厂商都已打通，用户定制化需求提交后会直接给到生产厂商，由生产厂商生产出来向消费者直接发货，省却了中间各种沟通环节。赵径文说，打通这个链条的过程非常不易，而定制化将是他们下半年的工作重点。</p>
-
-<p>两个平台账号已经打通，目前部分教程内容来自哇噻网的设计师用户，但是赵径文表示未来这两个产品有可能会做一些结合，比如说设计师可以在自己的教程里展示一些自己设计作品的链接，但手工客不会有更多商业化的东西，而是希望成为一个学习交流社区。</p>
-
-<p>在经历之前改版定位轻和慢后，赵径文表示整个哇噻网未来将继续走平台策略，而目前团队总共30多人。国外的Etsy是全球最大的在线销售手工艺品的交易网站，其2012年交易额已经接近9亿美元。同时在很多细分领域也出现了Etsy的模式，比如我们之前报道过的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/204115.html">楼下100</a>就想做烘焙业的Etsy。更多类似产品可以参看<span>36氪</span>+上的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/album/i/166">手工创意产品交易</a>专辑。</p>
-
-<p><strong>更新：</strong>在V2EX上看到一个帖子，讲的是关于“手工客”这个名称，目前有两家创业公司在用，双方也都在帖子里给出了自己的一些看法，感兴趣的朋友可以<a target="_blank" data-no-turbolink="true" href="http://v2ex.com/t/77939">点击这里</a>查看。</p><br>                    <p></p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/205256.html" target="_blank" rel="external">在线手工艺品交易平台哇噻网获盛大等近2000万A轮投资，未来将结合新上线的社区产品“手工客”继续走平台策略</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.wowsai.com/" target="_blank" rel="external">哇噻网</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[卡夫卡]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E5%8D%A1%E5%A4%AB%E5%8D%A1/"/>
-    <id>http://luoguochun.cn/2014/07/15/卡夫卡/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T06:30:57.000Z</updated>
-    <content type="html"><![CDATA[<p>卡夫卡是广州市雅莉鑫皮具有限公司旗下高端女包品牌。为追求生活质感与懂得鉴赏的现代成熟女性，提供休闲、别致、内敛的精致皮具产品。  </p>
-<p>更多详情请参考相关网站 <a href="http://www.kafuka.com.cn" target="_blank" rel="external">卡夫卡</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[云起轻应用]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E4%BA%91%E8%B5%B7%E8%BD%BB%E5%BA%94%E7%94%A8/"/>
-    <id>http://luoguochun.cn/2014/07/15/云起轻应用/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T14:16:12.000Z</updated>
-    <content type="html"><![CDATA[<p>云起是一个可以快速帮助个人或商户创建官方手机轻应用（微信里的APP），展示品牌与产品，并开展移动电子商务的在线工具。3分钟、免费、顶级设计、强大业务功能、同时对接百度与微信。  </p>
-<p>更多详情请参考相关网站 <a href="http://www.cloud7.com.cn/" target="_blank" rel="external">云起轻应用</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[loglr]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/loglr/"/>
-    <id>http://luoguochun.cn/2014/07/15/loglr/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T02:39:14.000Z</updated>
-    <content type="html"><![CDATA[<p>browsing history public  </p>
-<p>更多详情请参考相关网站 <a href="http://loglr.com/" target="_blank" rel="external">loglr</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

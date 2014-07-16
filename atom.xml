@@ -4,7 +4,7 @@
   <subtitle><![CDATA[码农，程序猿，攻城狮，未来的地摊贩]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-16T01:33:45.678Z</updated>
+  <updated>2014-07-16T02:29:11.625Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -13,6 +13,42 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[换图(安卓版)]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/%E6%8D%A2%E5%9B%BE(%E5%AE%89%E5%8D%93%E7%89%88)/"/>
+    <id>http://luoguochun.cn/2014/07/16/换图(安卓版)/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T02:27:57.000Z</updated>
+    <content type="html"><![CDATA[<p>欢聚时代旗下 Slingshot + Secret 模式图片社区  </p>
+<p>更多详情请参考相关网站 <a href="http://www.wandoujia.com/apps/com.yy.mosaic" target="_blank" rel="external">换图(安卓版)</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[MockingBot]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/MockingBot/"/>
+    <id>http://luoguochun.cn/2014/07/16/MockingBot/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T02:27:56.000Z</updated>
+    <content type="html"><![CDATA[<p>一个移动应用原型工具，目前主要针对 iOS 平台  </p>
+<p>更多详情请参考相关网站 <a href="https://mockingbot.com/" target="_blank" rel="external">MockingBot</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[走着]]></title>
@@ -119,13 +155,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[卡夫卡]]></title>
-    <link href="http://luoguochun.cn/2014/07/16/%E5%8D%A1%E5%A4%AB%E5%8D%A1/"/>
-    <id>http://luoguochun.cn/2014/07/16/卡夫卡/</id>
+    <title><![CDATA[DIMPLE.IO]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/DIMPLE.IO/"/>
+    <id>http://luoguochun.cn/2014/07/16/DIMPLE.IO/</id>
     <published>2014-07-15T16:00:00.000Z</published>
     <updated>2014-07-16T01:32:28.000Z</updated>
-    <content type="html"><![CDATA[<p>卡夫卡是广州市雅莉鑫皮具有限公司旗下高端女包品牌。为追求生活质感与懂得鉴赏的现代成熟女性，提供休闲、别致、内敛的精致皮具产品。  </p>
-<p>更多详情请参考相关网站 <a href="http://www.kafuka.com.cn" target="_blank" rel="external">卡夫卡</a>  </p>
+    <content type="html"><![CDATA[<p>Dimple是一个用在Android设备上（手机或平板电脑），具有NFC功能的粘性贴，用户可以选择2键或者4个键版，通过特定App控制智能设备  </p>
+<p>更多详情请参考相关网站 <a href="http://dimple.io/" target="_blank" rel="external">DIMPLE.IO</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -137,13 +173,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[DIMPLE.IO]]></title>
-    <link href="http://luoguochun.cn/2014/07/16/DIMPLE.IO/"/>
-    <id>http://luoguochun.cn/2014/07/16/DIMPLE.IO/</id>
+    <title><![CDATA[创之网]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/%E5%88%9B%E4%B9%8B%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/07/16/创之网/</id>
     <published>2014-07-15T16:00:00.000Z</published>
-    <updated>2014-07-16T01:32:28.000Z</updated>
-    <content type="html"><![CDATA[<p>Dimple是一个用在Android设备上（手机或平板电脑），具有NFC功能的粘性贴，用户可以选择2键或者4个键版，通过特定App控制智能设备  </p>
-<p>更多详情请参考相关网站 <a href="http://dimple.io/" target="_blank" rel="external">DIMPLE.IO</a>  </p>
+    <updated>2014-07-16T01:32:25.000Z</updated>
+    <content type="html"><![CDATA[<p>TECH2IPO/创见旗下，专注创业内容的科技媒体  </p>
+<p>更多详情请参考相关网站 <a href="http://chuang.pro" target="_blank" rel="external">创之网</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -255,13 +291,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[创之网]]></title>
-    <link href="http://luoguochun.cn/2014/07/16/%E5%88%9B%E4%B9%8B%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/07/16/创之网/</id>
+    <title><![CDATA[卡夫卡]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/%E5%8D%A1%E5%A4%AB%E5%8D%A1/"/>
+    <id>http://luoguochun.cn/2014/07/16/卡夫卡/</id>
     <published>2014-07-15T16:00:00.000Z</published>
-    <updated>2014-07-16T01:32:25.000Z</updated>
-    <content type="html"><![CDATA[<p>TECH2IPO/创见旗下，专注创业内容的科技媒体  </p>
-<p>更多详情请参考相关网站 <a href="http://chuang.pro" target="_blank" rel="external">创之网</a>  </p>
+    <updated>2014-07-16T01:32:28.000Z</updated>
+    <content type="html"><![CDATA[<p>卡夫卡是广州市雅莉鑫皮具有限公司旗下高端女包品牌。为追求生活质感与懂得鉴赏的现代成熟女性，提供休闲、别致、内敛的精致皮具产品。  </p>
+<p>更多详情请参考相关网站 <a href="http://www.kafuka.com.cn" target="_blank" rel="external">卡夫卡</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -398,42 +434,6 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/213550.html" target="_blank" rel="external">网易云音乐 for iOS 发布更新，新增均衡器和歌词图片分享功能</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://itunes.apple.com/cn/app/wang-yi-yun-yin-le/id590338362?mt=8" target="_blank" rel="external">网易云音乐 for iOS</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[知行养成社区]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E7%9F%A5%E8%A1%8C%E5%85%BB%E6%88%90%E7%A4%BE%E5%8C%BA/"/>
-    <id>http://luoguochun.cn/2014/07/15/知行养成社区/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T01:50:26.000Z</updated>
-    <content type="html"><![CDATA[<p>我们是一个习惯养成、摆脱懒人心理的在线社区。  </p>
-<p>更多详情请参考相关网站 <a href="http://www.51zhi.com" target="_blank" rel="external">知行养成社区</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[真租网]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E7%9C%9F%E7%A7%9F%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/07/15/真租网/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T01:50:27.000Z</updated>
-    <content type="html"><![CDATA[<p>视频租房，给你身临其境的看房体验  </p>
-<p>更多详情请参考相关网站 <a href="http://www.zhenzuwang.com/" target="_blank" rel="external">真租网</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

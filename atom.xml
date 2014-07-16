@@ -4,7 +4,7 @@
   <subtitle><![CDATA[码农，程序猿，攻城狮，未来的地摊贩]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-16T02:29:11.625Z</updated>
+  <updated>2014-07-16T03:25:26.414Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,31 +15,13 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[换图(安卓版)]]></title>
-    <link href="http://luoguochun.cn/2014/07/16/%E6%8D%A2%E5%9B%BE(%E5%AE%89%E5%8D%93%E7%89%88)/"/>
-    <id>http://luoguochun.cn/2014/07/16/换图(安卓版)/</id>
+    <title><![CDATA[SkyRide]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/SkyRide/"/>
+    <id>http://luoguochun.cn/2014/07/16/SkyRide/</id>
     <published>2014-07-15T16:00:00.000Z</published>
-    <updated>2014-07-16T02:27:57.000Z</updated>
-    <content type="html"><![CDATA[<p>欢聚时代旗下 Slingshot + Secret 模式图片社区  </p>
-<p>更多详情请参考相关网站 <a href="http://www.wandoujia.com/apps/com.yy.mosaic" target="_blank" rel="external">换图(安卓版)</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[MockingBot]]></title>
-    <link href="http://luoguochun.cn/2014/07/16/MockingBot/"/>
-    <id>http://luoguochun.cn/2014/07/16/MockingBot/</id>
-    <published>2014-07-15T16:00:00.000Z</published>
-    <updated>2014-07-16T02:27:56.000Z</updated>
-    <content type="html"><![CDATA[<p>一个移动应用原型工具，目前主要针对 iOS 平台  </p>
-<p>更多详情请参考相关网站 <a href="https://mockingbot.com/" target="_blank" rel="external">MockingBot</a>  </p>
+    <updated>2014-07-16T03:24:11.000Z</updated>
+    <content type="html"><![CDATA[<p>Skylock 公司推出的闲置自行车共享服务  </p>
+<p>更多详情请参考相关网站 <a href="http://www.goskyride.com/" target="_blank" rel="external">SkyRide</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -108,6 +90,24 @@
     <updated>2014-07-16T01:32:28.000Z</updated>
     <content type="html"><![CDATA[<p>结合番茄工作法和 GTD，帮助你更高效的完成工作  </p>
 <p>更多详情请参考相关网站 <a href="http://pomotodo.com" target="_blank" rel="external">番茄土豆</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[换图(安卓版)]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/%E6%8D%A2%E5%9B%BE(%E5%AE%89%E5%8D%93%E7%89%88)/"/>
+    <id>http://luoguochun.cn/2014/07/16/换图(安卓版)/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T02:27:57.000Z</updated>
+    <content type="html"><![CDATA[<p>欢聚时代旗下 Slingshot + Secret 模式图片社区  </p>
+<p>更多详情请参考相关网站 <a href="http://www.wandoujia.com/apps/com.yy.mosaic" target="_blank" rel="external">换图(安卓版)</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -244,6 +244,24 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/213720.html" target="_blank" rel="external">LinkedIn收购信息聚合网站Newsle</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://newsle.com/" target="_blank" rel="external">Newsle</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[MockingBot]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/MockingBot/"/>
+    <id>http://luoguochun.cn/2014/07/16/MockingBot/</id>
+    <published>2014-07-15T16:00:00.000Z</published>
+    <updated>2014-07-16T02:27:56.000Z</updated>
+    <content type="html"><![CDATA[<p>一个移动应用原型工具，目前主要针对 iOS 平台  </p>
+<p>更多详情请参考相关网站 <a href="https://mockingbot.com/" target="_blank" rel="external">MockingBot</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -402,38 +420,6 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/213648.html" target="_blank" rel="external">“美衣地图”，拯救线下逛街的乐趣，已获得真格基金数百万人民币天使投资</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.glammap.com/" target="_blank" rel="external">美衣地图</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[网易云音乐 for iOS]]></title>
-    <link href="http://luoguochun.cn/2014/07/15/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%20for%20iOS/"/>
-    <id>http://luoguochun.cn/2014/07/15/网易云音乐 for iOS/</id>
-    <published>2014-07-14T16:00:00.000Z</published>
-    <updated>2014-07-15T05:40:07.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/baeea0553d76a546ccdea2a191b19f10.jpg" alt=""></p>
-
-<p>5月底过完一周岁生日、<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212342.html">拥有3200万个用户自主创建歌单</a>、成为中国最大的在线歌单音乐库 的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90">网易云音乐</a> 刚刚发布了<a target="_blank" data-no-turbolink="true" href="http://itunes.apple.com/cn/app/wang-yi-yun-yin-le/id590338362?mt=8">iOS的更新</a>，主要新增了“均衡器”和“歌词生成图片分享到微信易信” 两项功能。</p>
-
-<p>“均衡器” 可在播放界面点击左下角启用，默认以“智能预设”的方式开启（根据当前播放的歌曲，自动匹配最佳音效），可以选取超重低音、流行、摇滚等各种花样的均衡器。此外，新版网易云音乐还支持音效增强，就不在这里啰嗦了，如图。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/8650ec9e08ce2eadc0e533a20d848837.jpg" alt="p3"></p>
-
-<p>分享歌词的功能其实存在挺长一段时间了，此次的更新算是对该功能的体贴升级，如图。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/7e2a6ef50db2f5837e288526287b63df.jpg" alt=""></p><br>                    <p></p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213550.html" target="_blank" rel="external">网易云音乐 for iOS 发布更新，新增均衡器和歌词图片分享功能</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://itunes.apple.com/cn/app/wang-yi-yun-yin-le/id590338362?mt=8" target="_blank" rel="external">网易云音乐 for iOS</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

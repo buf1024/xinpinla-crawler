@@ -4,7 +4,7 @@
   <subtitle><![CDATA[码农，程序猿，攻城狮，未来的地摊贩]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-16T11:37:22.551Z</updated>
+  <updated>2014-07-17T01:45:07.047Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,33 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[MessagePack]]></title>
-    <link href="http://luoguochun.cn/2014/07/16/MessagePack/"/>
-    <id>http://luoguochun.cn/2014/07/16/MessagePack/</id>
+    <title><![CDATA[Coding]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/Coding/"/>
+    <id>http://luoguochun.cn/2014/07/16/Coding/</id>
     <published>2014-07-15T16:00:00.000Z</published>
-    <updated>2014-07-16T11:36:04.000Z</updated>
-    <content type="html"><![CDATA[<p>It’s like JSON. but fast and small.  </p>
-<p>更多详情请参考相关网站 <a href="http://msgpack.org/" target="_blank" rel="external">MessagePack</a>  </p>
+    <updated>2014-07-17T01:43:47.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/12f1c486ed2331e2becea54aaf84cb55.jpg" alt=""></p>
+
+<p>提到软件开发者的社会化编程以及代码托管，很多人往往第一时间想到<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/202526.html">GitHub</a>或者<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208766.html">GitCafe</a>。这年头，不去<a target="_blank" data-no-turbolink="true" href="https://github.com/">GitHub</a>或者<a target="_blank" data-no-turbolink="true" href="https://gitcafe.com/">GitCafe</a>上托管几行代码，都不好意思说是自己是程序员。GitHub和GitCafe是以代码托管为基础的社区，用户可以在上面托管代码，团队成员可以协作修改代码。但是项目开发往往比较复杂，涉及到管理，演示，测试等等，仅仅托管代码就能很顺畅地完成开发么？我觉得显然还应该有更好的解决方案。</p>
+
+<p>基于这样的想法，Coding 开发了一个面向开发者的云端开发协作平台，目前可以实现托管代码、运行空间、质量监控、项目管理等功能。Coding的开发逻辑是以人为中心的，用户可以邀请其他用户加入到自己的项目中来，从而构建出一个基于项目的组织和工作环境。当一个用户修改完代码之后，系统会自动记录，生成新的版本，项目组内的其他成员可以看到代码的变化。Coding提供直接的运行空间，不需接入第三方服务，直接运行测试代码。不过比较遗憾的是，现在还只支持网页代码的运行、检测，暂时无法支持桌面软件和手机App的运行。通过自动化的程序，Coding还可以对代码进行检测，提供一份质量检测报告，并检测出项目中违反最佳实践的代码。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/b411ead7bca3f1c8f603314fd9950835.png" alt=""></p>
+
+<p>社交其实是开发办公协同很重要的因素。GitHub或者GitCafe本质上都是社区，给码农们提供了一个可以交流的平台。Coding是基于公有云的协同平台，用户既可以与自己项目组内的成员交流，也可以与非项目组内的成员沟通。</p>
+
+<p>虽然 Coding 与 Github，GitCafe都是定位于开发者市场，但其背后的逻辑是不一样的。GitHub、GitCafe是基于代码托管的社区，而Coding想要做的是软件开发协作平台，代码托管只是其中的一部分服务。Coding最终希望实现的是基于云计算的协同软件开发，开发者只需要拥有浏览器、拥有一个账号，就可以随时、随地完成开发工作。</p>
+
+<p>Coding公司成立于2014年2月，经过接近4个月的开发已经完成了平台的构建，本月底将会小范围内测，预计一个月内会对外开放。</p>
+
+<p>GitHub对于不开源项目会进行<a target="_blank" data-no-turbolink="true" href="http://shop.github.com/pages/faq">收费</a>，共有7种收费价格，从7美元/月到200美元/月不等。国内的GitCafe也是从2013年7月7日<a target="_blank" data-no-turbolink="true" href="http://blog.gitcafe.com/175.html">开始收费</a>，最低收费大约每天每人0.14元，比GitHub要便宜。Coding的创始人张海龙表示，Coding的基本功能会是免费的，等系统成熟以后会推出收费方案，收费模式会考虑基础版免费高级版收费。基础版比较适合小型项目以及小型小团队。高级版将会拥有更多的计算资源以及更多的功能。对于一个完全零起点的团队来说，前期的环境部署大约需要一周的工时和上万元花费。Coding虽然是收费的，但相对于自己部署环境，其实更为经济，开发团队能够更专注于软件开发本身，而不是外围系统的搭建和维护。</p>
+
+<p>事实上，以托管代码为基础的服务平台，发展空间还比较有限，都需要不断的自我拓展。GitHub从成立到现在已经有<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/202526.html">6年</a>了，在国内外都有很大的影响力。虽然最初只针对软件开发，但现在不断扩宽其应用场景和服务人群，开始<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206369.html">支持3D文件格式</a>的历史版本动态浏览，甚至支持托管的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212034.html">开源科学项目</a>包括寻找太阳系外的类地行星、分析DNA、制造开源火箭等。国内的GitCafe是由姚新宇创立的，2012年初正式上线，发展过程中也曾遇到诸多问题。 经过一年多的技术积累，2013年开始也在尝试着从代码托管社区向更大的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208766.html">在线教育平台转变</a>，推出类似 CodeSchool 这样的产品和服务。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 小石头]</p><br>                    <p>AD：<a href="http://cnrdn.com/GJWE" target="_blank">云之家</a>，一种新的工作方式。</p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/212803.html" target="_blank" rel="external">Coding推开发协作平台，想要把云端协同办公变为现实＃36氪开放日北京站＃</a>  </p>
+<p>更多详情请参考相关网站 <a href="https://coding.net/" target="_blank" rel="external">Coding</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -327,13 +347,35 @@
   </entry>
   
   <entry>
-    <title><![CDATA[AnySDK]]></title>
-    <link href="http://luoguochun.cn/2014/07/16/AnySDK/"/>
-    <id>http://luoguochun.cn/2014/07/16/AnySDK/</id>
+    <title><![CDATA[什么值得买]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0/"/>
+    <id>http://luoguochun.cn/2014/07/16/什么值得买/</id>
     <published>2014-07-15T16:00:00.000Z</published>
-    <updated>2014-07-16T01:32:27.000Z</updated>
-    <content type="html"><![CDATA[<p>快速接入第三方SDK  </p>
-<p>更多详情请参考相关网站 <a href="http://www.anysdk.com/" target="_blank" rel="external">AnySDK</a>  </p>
+    <updated>2014-07-16T09:20:46.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/a87834b7aa4bae4b0b03f0a22c88ed2e.png" alt=""></p>
+
+<p>网购信息推荐网站“<a target="_blank" data-no-turbolink="true" href="http://www.smzdm.com/">什么值得买</a>”今天推出了消费“<a target="_blank" data-no-turbolink="true" href="http://test.smzdm.com/">众测</a>”平台。如果你是他们的忠实用户，想必早已准备好支付宝等着下单了，不过“众测”可能和你想象的还不太一样。</p>
+
+<p>“什么值得买”是一个网购产品推荐网站，致力于帮助网友买到更有性价比的网上产品。</p>
+
+<p>回到“众测”，其实它很容易理解，它和众筹关系不大。这是一种<strong>通过商家提供测试产品、用户进行免费试用并发布使用体验的形式，实现对还未上市或开售产品的测试</strong>。</p>
+
+<p>如果你对众测感兴趣，有两种方式可以让你快速的加入进来。第一种叫“蓝测”，它是通过兑换账户中的用户积分（1~300不等）来换取参与名额，在后期会改为通过金币兑换。第二种叫“红测”，区别于前者，它需要使用金额不等的金币来换取参加活动的审核机会。这两种参与方式成功的概率都和申请的先后顺序无关。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/567c67b40397f295869f1230d689bdd7.png" alt=""></p>
+
+<p>目前，“众测”上包括了笔记本、耳机、化妆品、空调、运动鞋等多种日常生活类用品。这个平台最吸引人的地方在于，<strong>得到产品使用机会的用户在提交详细的使用报告后，在大部分情况下无需归还测试产品</strong>。</p>
+
+<p>“什么值得买”告诉<span>36氪</span>，上线“众测”平台的原因有两点。第一是对质量合格，但还没有开始上市销售的产品来说，需要一个用户测试平台。二是对“什么值得买”的用户来说，原创的产品开箱、使用体验是一部分有价值的原创内容。</p>
+
+<p>通过积分参与“蓝测”，使用金币加入“红测”。看似简单的兑换方式其实说明了“什么值得买”对内容和互动的需求。例如评论、回复，“什么值得买”会通过积分的形式进行奖励，而金币则需要发布原创内容才能赚取。这种方式显然会大大增强用户在网站上留言、发帖的积极性。这对一家网购信息推荐网站来说无疑很重要。</p>
+
+<p>除此之外，上线“众测”的项目都是免费的，“什么值得买”希望通过<strong>借助产品与用户进行更长时间、更多方式的互动，继续扩大其在推荐网站的覆盖度</strong>。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Daniel]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213279.html" target="_blank" rel="external">什么值得买推出消费“众测”平台，网购推荐网站在内容上的下一步是什么？</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.smzdm.com/" target="_blank" rel="external">什么值得买</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -345,13 +387,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[云适配 Amaze UI]]></title>
-    <link href="http://luoguochun.cn/2014/07/16/%E4%BA%91%E9%80%82%E9%85%8D%20Amaze%20UI/"/>
-    <id>http://luoguochun.cn/2014/07/16/云适配 Amaze UI/</id>
+    <title><![CDATA[AnySDK]]></title>
+    <link href="http://luoguochun.cn/2014/07/16/AnySDK/"/>
+    <id>http://luoguochun.cn/2014/07/16/AnySDK/</id>
     <published>2014-07-15T16:00:00.000Z</published>
-    <updated>2014-07-16T10:18:25.000Z</updated>
-    <content type="html"><![CDATA[<p>Amaze  UI 是中国首个开源 HTML5 跨屏前端框架  </p>
-<p>更多详情请参考相关网站 <a href="http://amazeui.org/" target="_blank" rel="external">云适配 Amaze UI</a>  </p>
+    <updated>2014-07-16T01:32:27.000Z</updated>
+    <content type="html"><![CDATA[<p>快速接入第三方SDK  </p>
+<p>更多详情请参考相关网站 <a href="http://www.anysdk.com/" target="_blank" rel="external">AnySDK</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

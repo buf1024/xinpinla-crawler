@@ -4,7 +4,7 @@
   <subtitle><![CDATA[码农，程序猿，攻城狮，未来的地摊贩]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-17T05:52:34.425Z</updated>
+  <updated>2014-07-17T07:27:22.380Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,49 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[优思得云计算]]></title>
-    <link href="http://luoguochun.cn/2014/07/17/%E4%BC%98%E6%80%9D%E5%BE%97%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
-    <id>http://luoguochun.cn/2014/07/17/优思得云计算/</id>
+    <title><![CDATA[小莫]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/%E5%B0%8F%E8%8E%AB/"/>
+    <id>http://luoguochun.cn/2014/07/17/小莫/</id>
     <published>2014-07-16T16:00:00.000Z</published>
-    <updated>2014-07-17T05:51:09.000Z</updated>
-    <content type="html"><![CDATA[<p>简单、可依赖的OpenStack云服务平台  </p>
-<p>更多详情请参考相关网站 <a href="https://www.ustack.com/" target="_blank" rel="external">优思得云计算</a>  </p>
+    <updated>2014-07-17T07:25:55.000Z</updated>
+    <content type="html"><![CDATA[<p>马锐拉创业项目，一个真实而有趣的校园移动应用  </p>
+<p>更多详情请参考相关网站 <a href="http://www.xiaomo.com/" target="_blank" rel="external">小莫</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[WDK.PW]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/WDK.PW/"/>
+    <id>http://luoguochun.cn/2014/07/17/WDK.PW/</id>
+    <published>2014-07-16T16:00:00.000Z</published>
+    <updated>2014-07-17T07:25:56.000Z</updated>
+    <content type="html"><![CDATA[<p>当代中国大学生的共同创作独立博客  </p>
+<p>更多详情请参考相关网站 <a href="http://www.wdk.pw/499.html" target="_blank" rel="external">WDK.PW</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[V5DG]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/V5DG/"/>
+    <id>http://luoguochun.cn/2014/07/17/V5DG/</id>
+    <published>2014-07-16T16:00:00.000Z</published>
+    <updated>2014-07-17T07:25:55.000Z</updated>
+    <content type="html"><![CDATA[<p>威武代购，视信誉如生命的海外商品代沟服务。  </p>
+<p>更多详情请参考相关网站 <a href="http://www.v5dg.com" target="_blank" rel="external">V5DG</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -167,6 +203,24 @@
   </entry>
   
   <entry>
+    <title><![CDATA[优思得云计算]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/%E4%BC%98%E6%80%9D%E5%BE%97%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
+    <id>http://luoguochun.cn/2014/07/17/优思得云计算/</id>
+    <published>2014-07-16T16:00:00.000Z</published>
+    <updated>2014-07-17T05:51:09.000Z</updated>
+    <content type="html"><![CDATA[<p>简单、可依赖的OpenStack云服务平台  </p>
+<p>更多详情请参考相关网站 <a href="https://www.ustack.com/" target="_blank" rel="external">优思得云计算</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[什么值得买]]></title>
     <link href="http://luoguochun.cn/2014/07/17/%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0/"/>
     <id>http://luoguochun.cn/2014/07/17/什么值得买/</id>
@@ -207,13 +261,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[云适配 Amaze UI]]></title>
-    <link href="http://luoguochun.cn/2014/07/17/%E4%BA%91%E9%80%82%E9%85%8D%20Amaze%20UI/"/>
-    <id>http://luoguochun.cn/2014/07/17/云适配 Amaze UI/</id>
+    <title><![CDATA[App 畅销排行 Top 200 (中国)]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/App%20%E7%95%85%E9%94%80%E6%8E%92%E8%A1%8C%20Top%20200%20(%E4%B8%AD%E5%9B%BD)/"/>
+    <id>http://luoguochun.cn/2014/07/17/App 畅销排行 Top 200 (中国)/</id>
     <published>2014-07-16T16:00:00.000Z</published>
     <updated>2014-07-17T02:43:33.000Z</updated>
-    <content type="html"><![CDATA[<p>Amaze  UI 是中国首个开源 HTML5 跨屏前端框架  </p>
-<p>更多详情请参考相关网站 <a href="http://amazeui.org/" target="_blank" rel="external">云适配 Amaze UI</a>  </p>
+    <content type="html"><![CDATA[<p>游戏嗨 App 历史排行榜，提供 App Store 中各类别的历史排行榜。  </p>
+<p>更多详情请参考相关网站 <a href="http://ranking.yxhi.com/cn/" target="_blank" rel="external">App 畅销排行 Top 200 (中国)</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -225,13 +279,27 @@
   </entry>
   
   <entry>
-    <title><![CDATA[App 畅销排行 Top 200 (中国)]]></title>
-    <link href="http://luoguochun.cn/2014/07/17/App%20%E7%95%85%E9%94%80%E6%8E%92%E8%A1%8C%20Top%20200%20(%E4%B8%AD%E5%9B%BD)/"/>
-    <id>http://luoguochun.cn/2014/07/17/App 畅销排行 Top 200 (中国)/</id>
+    <title><![CDATA[二角]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/%E4%BA%8C%E8%A7%92/"/>
+    <id>http://luoguochun.cn/2014/07/17/二角/</id>
     <published>2014-07-16T16:00:00.000Z</published>
-    <updated>2014-07-17T02:43:33.000Z</updated>
-    <content type="html"><![CDATA[<p>游戏嗨 App 历史排行榜，提供 App Store 中各类别的历史排行榜。  </p>
-<p>更多详情请参考相关网站 <a href="http://ranking.yxhi.com/cn/" target="_blank" rel="external">App 畅销排行 Top 200 (中国)</a>  </p>
+    <updated>2014-07-17T02:43:36.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/f1fefa9702c26bc9c35a4e58c501bf33.png" alt=""></p>
+
+<p>这款随机聊天工具叫做“<a target="_blank" data-no-turbolink="true" href="http://www.2jiao.com">二角</a>”，跟上世纪Chatroulette、Omegle简单粗暴不一样，“二角”是根据用户选择的兴趣标签进行随机匹配的，而前者不仅没有头像和昵称，更是一种极端的随机匹配，而且那些用户通常上来就是“gla”（gender、location、age），其实用户在这里是没太大预期的。</p>
+
+<p>不过“二角”不是，它会通过算法来匹配跟你相似度更高的人，筛出一系列某个阈值的人，然后辅以一定的随机概率进行匹配。另外比较有趣的一点是，“二角”的种子用户多来自豆瓣，其CEO赵建军觉得做兴趣社交的豆瓣在用户群体上跟“二角”会有一定的重合度，因此选择了“豆瓣小组”做推广。他告诉<span>36氪</span>，目前60％的用户都是90后。目前，“二角”仅有PC端产品，移动端还在开发当中，到时会加入一些移动端特性。“二角”团队仅有赵建军1人。</p>
+
+<p>跟大部分随机聊天工具相比，这类产品并不希望将关系链搞得太臃肿，而是着重社交的“前戏”部分，能够让需要交新朋友的不断地回到这个平台上就够了。</p>
+
+<p>近来，随机聊天也算是移动端社交产品的一个类别，这当然跟移动技术的成熟脱不了干系，人们无须守在电脑旁才能与人匹配聊天，随机聊成了一件实时响应的活动，也释放了更多碎片化的时间，移动端更多其它社交机制的介入也让随机聊天有了更多的玩法。“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212613.html">比邻</a>”这款以陌生人电话社交应用当然也是一个鲜明的例子。“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213157.html">几度”融入了通讯录的二度人脉关系，“叽叽”更偏重依托“形象”和好友对你的“评价标签”进行匹配</a>，可以匹配到个人，也能匹配到聊在群组。</p>
+
+<p>很多社交产品往往都是以解决“约X”的刚需入手，然后才以兴趣社交继续切盘子，如果“二角”一开始从豆瓣上积累的种子用户比较奏效的话，没准儿会打出一款漂亮的产品。</p><br>                    <p></p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213802.html" target="_blank" rel="external">“二角”，一款豆瓣风格的随机配对聊天应用</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.2jiao.com/" target="_blank" rel="external">二角</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -406,88 +474,6 @@
     <updated>2014-07-17T02:43:33.000Z</updated>
     <content type="html"><![CDATA[<p>专注互联网创业服务的O2O平台B座12楼  </p>
 <p>更多详情请参考相关网站 <a href="http://www.12lou.org/" target="_blank" rel="external">12楼</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[二角]]></title>
-    <link href="http://luoguochun.cn/2014/07/17/%E4%BA%8C%E8%A7%92/"/>
-    <id>http://luoguochun.cn/2014/07/17/二角/</id>
-    <published>2014-07-16T16:00:00.000Z</published>
-    <updated>2014-07-17T02:43:36.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/f1fefa9702c26bc9c35a4e58c501bf33.png" alt=""></p>
-
-<p>这款随机聊天工具叫做“<a target="_blank" data-no-turbolink="true" href="http://www.2jiao.com">二角</a>”，跟上世纪Chatroulette、Omegle简单粗暴不一样，“二角”是根据用户选择的兴趣标签进行随机匹配的，而前者不仅没有头像和昵称，更是一种极端的随机匹配，而且那些用户通常上来就是“gla”（gender、location、age），其实用户在这里是没太大预期的。</p>
-
-<p>不过“二角”不是，它会通过算法来匹配跟你相似度更高的人，筛出一系列某个阈值的人，然后辅以一定的随机概率进行匹配。另外比较有趣的一点是，“二角”的种子用户多来自豆瓣，其CEO赵建军觉得做兴趣社交的豆瓣在用户群体上跟“二角”会有一定的重合度，因此选择了“豆瓣小组”做推广。他告诉<span>36氪</span>，目前60％的用户都是90后。目前，“二角”仅有PC端产品，移动端还在开发当中，到时会加入一些移动端特性。“二角”团队仅有赵建军1人。</p>
-
-<p>跟大部分随机聊天工具相比，这类产品并不希望将关系链搞得太臃肿，而是着重社交的“前戏”部分，能够让需要交新朋友的不断地回到这个平台上就够了。</p>
-
-<p>近来，随机聊天也算是移动端社交产品的一个类别，这当然跟移动技术的成熟脱不了干系，人们无须守在电脑旁才能与人匹配聊天，随机聊成了一件实时响应的活动，也释放了更多碎片化的时间，移动端更多其它社交机制的介入也让随机聊天有了更多的玩法。“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212613.html">比邻</a>”这款以陌生人电话社交应用当然也是一个鲜明的例子。“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213157.html">几度”融入了通讯录的二度人脉关系，“叽叽”更偏重依托“形象”和好友对你的“评价标签”进行匹配</a>，可以匹配到个人，也能匹配到聊在群组。</p>
-
-<p>很多社交产品往往都是以解决“约X”的刚需入手，然后才以兴趣社交继续切盘子，如果“二角”一开始从豆瓣上积累的种子用户比较奏效的话，没准儿会打出一款漂亮的产品。</p><br>                    <p></p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213802.html" target="_blank" rel="external">“二角”，一款豆瓣风格的随机配对聊天应用</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.2jiao.com/" target="_blank" rel="external">二角</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[走着]]></title>
-    <link href="http://luoguochun.cn/2014/07/16/%E8%B5%B0%E7%9D%80/"/>
-    <id>http://luoguochun.cn/2014/07/16/走着/</id>
-    <published>2014-07-15T16:00:00.000Z</published>
-    <updated>2014-07-16T01:32:30.000Z</updated>
-    <content type="html"><![CDATA[<p>一个极简的计步器(读取 M7 协处理器的数据)  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/zou-zhe-keep-walking/id889047549" target="_blank" rel="external">走着</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[网易云音乐 for iOS]]></title>
-    <link href="http://luoguochun.cn/2014/07/16/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%20for%20iOS/"/>
-    <id>http://luoguochun.cn/2014/07/16/网易云音乐 for iOS/</id>
-    <published>2014-07-15T16:00:00.000Z</published>
-    <updated>2014-07-16T01:32:30.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/baeea0553d76a546ccdea2a191b19f10.jpg" alt=""></p>
-
-<p>5月底过完一周岁生日、<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212342.html">拥有3200万个用户自主创建歌单</a>、成为中国最大的在线歌单音乐库 的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90">网易云音乐</a> 刚刚发布了<a target="_blank" data-no-turbolink="true" href="http://itunes.apple.com/cn/app/wang-yi-yun-yin-le/id590338362?mt=8">iOS的更新</a>，主要新增了“均衡器”和“歌词生成图片分享到微信易信” 两项功能。</p>
-
-<p>“均衡器” 可在播放界面点击左下角启用，默认以“智能预设”的方式开启（根据当前播放的歌曲，自动匹配最佳音效），可以选取超重低音、流行、摇滚等各种花样的均衡器。此外，新版网易云音乐还支持音效增强，就不在这里啰嗦了，如图。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/8650ec9e08ce2eadc0e533a20d848837.jpg" alt="p3"></p>
-
-<p>分享歌词的功能其实存在挺长一段时间了，此次的更新算是对该功能的体贴升级，如图。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/7e2a6ef50db2f5837e288526287b63df.jpg" alt=""></p><br>                    <p></p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213550.html" target="_blank" rel="external">网易云音乐 for iOS 发布更新，新增均衡器和歌词图片分享功能</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://itunes.apple.com/cn/app/wang-yi-yun-yin-le/id590338362?mt=8" target="_blank" rel="external">网易云音乐 for iOS</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

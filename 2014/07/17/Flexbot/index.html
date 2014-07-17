@@ -1,0 +1,479 @@
+
+ <!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  
+    <title>Flexbot | 0xe1码农！</title>
+    <!-- BEGIN 无觅推荐
+    <meta name="wumiiVerification" content="2817ea17-c29a-4a31-b415-6be2b9c6105c" />
+     -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
+    
+    <meta name="author" content="buf1024">
+    <meta name="keywords" content="luoguochun.cn,programming,coding,爱折腾,编程博客,C/C++语言,云计算,服务端,分布式" />
+    
+    <meta name="description" content="众筹之后是针对那些成功众筹的“明星产品”做的一个系列报道，讲述这些团队众筹之后的故事。后众筹时代，这些新硬件军团现在在做什么呢？他们是否成功的将自己的极客产品转化成了大众消费品？他们又是否成功的由一个爱好 DIY 的团队发展成了良性运转的公司？我们将通过一些列文章，为大家还原一个完整的硬件创业历程。">
+    
+    
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="buf128" />
+    <meta name="twitter:title" content="Flexbot | 0xe1码农！" />
+      
+    
+    
+    <link rel="alternative" href="/atom.xml" title="0xe1码农！" type="application/atom+xml">
+    
+    
+    <link rel="icon" href="/xinpinla-crawler/img/favicon.ico">
+    
+    
+    <link rel="apple-touch-icon" href="/xinpinla-crawler/img/pacman.png">
+    <link rel="apple-touch-icon-precomposed" href="/xinpinla-crawler/img/pacman.png">
+    
+    <link rel="stylesheet" href="/xinpinla-crawler/css/style.css" type="text/css">
+</head>
+
+  <body>
+    <header>
+      <div>
+		
+			<div id="imglogo">
+				<a href="/xinpinla-crawler/"><img src="/xinpinla-crawler/img/pacman.png" alt="0xe1码农！" title="0xe1码农！"/></a>
+			</div>
+			
+			<div id="textlogo">
+				<h1 class="site-name"><a href="/xinpinla-crawler/" title="0xe1码农！">0xe1码农！</a></h1>
+				<h2 class="blog-motto">码农，程序猿，攻城狮，未来的地摊贩</h2>
+			</div>
+			<div class="navbar"><a class="navbutton navmobile" href="#" title="菜单">
+			</a></div>
+			<nav class="animated">
+				<ul>
+					<ul>
+					 
+						<li><a href="/xinpinla-crawler">首页</a></li>
+					
+						<li><a href="/xinpinla-crawler//archives">归档</a></li>
+					
+						<li><a href="/xinpinla-crawler/about">关于</a></li>
+					
+					<li>
+					
+					<form class="search" action="//google.com/search" method="get" accept-charset="utf-8">
+						<label>Search</label>
+						<input type="text" id="search" name="q" autocomplete="off" maxlength="20" placeholder="搜索" />
+						<input type="hidden" name="q" value="site:luoguochun.cn">
+					</form>
+					
+					</li>
+				</ul>
+			</nav>			
+</div>
+
+    </header>
+    <div id="container">
+      <div id="main" class="post" itemscope itemprop="blogPost">
+	<article itemprop="articleBody"> 
+		<header class="article-info clearfix">
+  <h1 itemprop="name">
+    
+      <a href="/xinpinla-crawler/2014/07/17/Flexbot/" title="Flexbot" itemprop="url">Flexbot</a>
+  </h1>
+  <p class="article-author">By
+    
+      <a href="http://luoguochun.cn" title="buf1024">buf1024</a>
+    </p>
+  <p class="article-time">
+    <time datetime="2014-07-16T16:00:00.000Z" itemprop="datePublished">7月 17 2014</time>
+    更新日期:<time datetime="2014-07-17T09:01:56.000Z" itemprop="dateModified">7月 17 2014</time>
+    
+  </p>
+</header>
+	<div class="article-content">
+		
+		
+		<div id="toc" class="toc-article">
+			<strong class="toc-title">文章目录</strong>
+		
+		</div>
+		
+		<p><img src="http://a.36krcnd.com/photo/2014/7784706ace8e1a31e58dca76ea6f74b4.jpg" alt=""></p>
+
+<p>众筹之后是针对那些成功众筹的“明星产品”做的一个系列报道，讲述这些团队众筹之后的故事。后众筹时代，这些新硬件军团现在在做什么呢？他们是否成功的将自己的极客产品转化成了大众消费品？他们又是否成功的由一个爱好 DIY 的团队发展成了良性运转的公司？我们将通过一些列文章，为大家还原一个完整的硬件创业历程。</p>
+
+<p>如果你觉得你愿意让更多人了解自己的产品，愿意和我们讲讲自己的故事，欢迎邮箱联系我们（syq # 36kr.com）。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/6d89ae7d8b9f46b93bbc6a66dce144d2.jpg" alt=""></p>
+
+<p>提起Flexbot大家可能并不熟悉，但他们的前身Hex（<a target="_blank" data-no-turbolink="true" href="https://www.kickstarter.com/projects/1387330585/hex-a-copter-that-anyone-can-fly?ref=nav_search">Kickstarter上筹款筹了56万美元</a>的那个迷你飞行器）你可能就不陌生了。因为 Hex的名称与美国一家玩具公司相近，为避免纠纷，Hex改名为<a target="_blank" data-no-turbolink="true" href="http://flexbot.cc/">Flexbot</a>，有意思的是新名字和新logo同样由用户“众筹”而来。</p>
+
+<p>Flexbot是一款基于Arduino的迷你飞行器，由简单的控制电路构成，使用 3D 打印机身架构，重量很轻，有四轴和六轴两种型号，主要针对智能手机用户。Hex 还配备了实时传输摄像头，可利用手机操控，查看空中的飞行环境。此外，Hex 完全开源，允许用户增加新功能，或者由用户个性化定制外观。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/308d4ee88f6074c53035fa936f4c8873.jpg" alt=""></p>
+
+<p>2012年，喻川和他的朋友当时正在做图像识别的云服务，偶然的机会他们认为把图像识别应用于多旋翼飞行器会非常酷，还可以帮他们到办公楼下面帮我们买咖啡、买烟。于是，2012年8月，团队开始做软硬件结合项目 HEX 飞行器；12月就完成了<a target="_blank" data-no-turbolink="true" href="http://v.youku.com/v_show/id_XNDg0MjI2OTI4.html">第一代原型机试飞</a> 。2013年5月，  在旧金山发布Hex产品原型；8月在Kickstarter发布众筹。2014年2月，  首批实验性产品生产完成，开始陆续向kickstarter支持者发货。今年4月开发完成了第二代迷你飞行器原型。</p>
+
+<p>现在除了更新了飞行器的版本外，Flexbot还研发了其他几款产品，原型已经逐渐成熟。同时建立主题为“Design，Make and Share”的<a target="_blank" data-no-turbolink="true" href="http://designmakeshare.cc/forum">用户社区</a>，围绕社区与用户需求，开发长尾产品。<strong>团队现在正在准备A轮融资，他们也很欢迎与他们志同道合的投资人接触他们。</strong></p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/cee2df159f089cca67d9b92e42714325.jpg" alt=""></p>
+
+<p>Flexbot 团队成员由六人组成，喻川是Hex项目的发起人，大学期间学的是建筑专业，后来转行负责做产品设计。团队因为兴趣聚在一起，在无固定办公室、异地协助办公的情况下，完成了Flexbot这么一款从一开始就具备工业用途的产品。</p>
+
+<p>在Flexbot的工作室里，还有一位备受注目的非人类团队成员：德国工业机器人公司<a target="_blank" data-no-turbolink="true" href="http://www.baidu.com/link?url=NgIlV0bAmDHd9P2KQFejSGFt8EFPCyfw8ISQ4LwAAKP6jGx9tog_4QAWSvVHzmtb">KUKA</a>的机械臂<a target="_blank" data-no-turbolink="true" href="http://www.kuka-robotics.com/zh/pressevents/news/nn_131217_kr_agilus_waterproof.htm">AGILUS</a>。AGILUS是目前世界上最快、精度最高的机器人之一，2013年3月曾与德国乒乓球名将波尔对战（开局打出过6:0），可连续24小时工作15年。Flexbot从电子部分到外壳，都是由AGILUS生产的。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/db665b6f56545904ebb5240905b1baf0.jpg" alt=""></p>
+
+<p>Flexbot的团队并不在深圳和北京，而是在贵州。不过，他们在国外的知名度也很高，《失控》的作者KK、《连线》主编安德森对他们的评价都很高，今年他们还入选了2014年度SXSW最具创新性团队，在美国奥斯汀做了演讲。提到国内外的硬件创业环境，喻川也有自己的看法。</p>
+
+<p>喻川觉得<strong>国内外创业环境差异很小</strong>，只是因为<strong>社会环境不同，产品选择上会有差异。</strong>比如Nest这样的设备，和国外每家都安装温控系统、烟雾报警有关系。<strong>中国有丢失小孩的社会问</strong>题，可能就有保护小孩防止丢失的穿戴设备。<strong>有些需求是有国际共性的，而有些是因国情有差异的。</strong></p>
+
+<p>刚开始做硬件创业的时候，“硬件革命”的概念还不是很热门，他们团队内部都还持怀疑态度。现在硬件创业已经炙手可热，这和<strong>开源电子平台、众筹</strong>的普及有很大关系，让原型制作和试错成本降低，大量创新项目涌现。当然也和<strong>用户入口之争、媒体和资本的关注度</strong>有关系，可以说现在硬件创业生态圈已经形成。不过，贵州硬件创业还比很少，他们现也在本地做一些分享和工作坊，引导更多年轻人关注创业。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/ec676fa173f0a432a02ab048a9ec0b9b.jpg" alt=""></p>
+
+<p>2013年1月 ，Flexbot 获得美国硅谷风投SOSventure的天使投资，并加入HAXLR8R孵化器.Haxlr8r秉持的是精益创业的精神，也给了喻川很多启发和指引。喻川说最好玩就是进去第二天，做了一个题目为<strong>Aim High</strong>的游戏，提供20根意大利面、一段棉线、一段透明胶布、一个棉花糖，15分钟内看哪个团队能用这些材料把棉花糖放到最高的位置。游戏结束后，他们瞬间明白<strong>在有限资源、有限条件下的目标如何设定</strong>，这在创业初期非常重要。</p>
+
+<p>提到改名风波，喻川说初期确实没想太多，没太在意这个问题。不过，改名确实有影响，但是对于未来来说，还算是早期，宁愿早发生。创业本身就是最有意思的事情，充满未知和挑战。 困难是相对的，创业中的困难是好事，谁能创造性解决困难，谁就具有优势。</p>
+
+<p>（注：本文最后两张图片来自Flexbot 用户社区）</p><br>                    <p>[<span>36氪</span>原创文章，作者: 小石头]</p><br>                    <p>AD：<a href="http://cnrdn.com/GJWE" target="_blank">云之家</a>，一种新的工作方式。</p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213787.html" target="_blank" rel="external">【众筹之后】专访迷你飞行器Flexbot创始人喻川: 国内外硬件创业环境差别已很小，但硬件产品仍会有国情差异</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://flexbot.cc/" target="_blank" rel="external">Flexbot</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+  
+        <!-- BEGIN 无觅推荐 
+        <div style="margin:0px auto; padding-left:23px; text-align:center;">
+        
+        <script type="text/javascript" id="wumiiRelatedItems"></script>
+        <script type="text/javascript">
+            var wumiiPermaLink = "http://luoguochun.cn/2014/07/17/Flexbot/"; //请用代码生成文章永久的链接
+            var wumiiTitle = "Flexbot"; //请用代码生成文章标题
+            var wumiiTags = "&quot;创意事物&quot;"; //请用代码生成文章标签，以英文逗号分隔，如："标签1,标签2"
+            var wumiiCategories = [&quot;网摘&quot;]; //请用代码生成文章分类，分类名放在 JSONArray 中，如: ["分类1", "分类2"]
+            var wumiiSitePrefix = "http://luoguochun.cn";
+            var wumiiParams = "&num=5&mode=3&pf=JAVASCRIPT";
+        </script>
+        <script type="text/javascript" src="http://widget.wumii.cn/ext/relatedItemsWidget"></script>
+        <!--
+        <a href="http://www.wumii.com/widget/relatedItems" style="border:0;">
+            <img src="http://static.wumii.cn/images/pixel.png" alt="无觅关联推荐，快速提升流量" style="border:0;padding:0;margin:0;" />
+        </a>
+        </div>
+         -->
+	</div>
+		<footer class="article-footer clearfix">
+
+  <div class="article-tags">
+  
+  <span></span> <a href="/xinpinla-crawler/tags/创意事物/">创意事物</a>
+  </div>
+
+
+<div class="article-categories">
+  <span></span>
+  <a class="article-category-link" href="/xinpinla-crawler/categories/网摘/">网摘</a>
+</div>
+
+
+
+<div class="article-share" id="share">
+
+  <div data-url="http://luoguochun.cn/2014/07/17/Flexbot/" data-title="Flexbot | 0xe1码农！" data-tsina="null" class="share clearfix">
+  </div>
+
+</div>
+</footer>   	       
+	</article>
+	
+<nav class="article-nav clearfix">
+ 
+ <div class="prev" >
+ <a href="/xinpinla-crawler/2014/07/17/Taco/" title="Taco">
+  <strong>前一篇:</strong><br/>
+  <span>
+  Taco</span>
+</a>
+</div>
+
+
+<div class="next">
+<a href="/xinpinla-crawler/2014/07/17/棱镜/"  title="棱镜">
+ <strong>下一篇:</strong><br/> 
+ <span>棱镜
+</span>
+</a>
+</div>
+
+</nav>
+
+	
+<section class="comment">
+	<div class="ds-thread"></div>
+</section>
+
+</div>
+
+      <div class="openaside"><a class="navbutton" href="#" title="显示侧边栏"></a></div>
+
+  <div id="toc" class="toc-aside">
+  <strong class="toc-title">文章目录</strong>
+  
+  </div>
+
+<div id="asidepart">
+<div class="closeaside"><a class="closebutton" href="#" title="隐藏侧边栏"></a></div>
+<aside class="clearfix">
+
+  
+  <div class="archiveslist">
+    <p class="asidetitle"><a href="/xinpinla-crawler/archives">归档</a></p>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/xinpinla-crawler/archives/2014/07">七月 2014</a><span class="archive-list-count">226</span></li></ul>
+  </div>
+
+
+  
+<div class="categorieslist">
+	<p class="asidetitle">分类</p>
+		<ul>
+		
+			<li><a href="/xinpinla-crawler/categories/网摘/" title="网摘">网摘<sup>226</sup></a></li>
+		
+		</ul>
+</div>
+
+
+  
+<div class="tagslist">
+	<p class="asidetitle">标签</p>
+		<ul class="clearfix">
+		
+			<li><a href="/xinpinla-crawler/tags/创意事物/" title="创意事物">创意事物<sup>226</sup></a></li>
+		
+		</ul>
+</div>
+
+
+  
+  <div class="tagcloudlist">
+    <p class="asidetitle">标签云</p>
+    <div class="tagcloudlist clearfix">
+       <a href="/xinpinla-crawler/tags/创意事物/" style="font-size: NaNpx;">创意事物</a>
+    </div>
+  </div>
+
+
+  <div class="linkslist">
+  <p class="asidetitle">友情链接</p>
+    <ul>
+      <li><a href="http://zespia.tw/hexo" target="_blank" title="Hexo静态BLOG生成器">Hexo</a></li>
+    </ul>
+</div>
+
+  <div class="rsspart">
+	<a href="/atom.xml" target="_blank" title="rss">RSS 订阅</a>
+</div>
+
+</aside>
+</div>
+    </div>
+    <footer><div id="footer" >
+	
+	<div class="line">
+		<span></span>
+		<div class="author"></div>
+	</div>
+	
+	
+	<section class="info">
+		<p> Hello ,I&#39;m luo guochun, believe it or not. <br/>
+			This is my blog, hosted in github pages.</p>
+	</section>
+	 
+	<div class="social-font" class="clearfix">
+		
+		<a href="http://weibo.com/buf1024" target="_blank" title="weibo"></a>
+		
+		
+		<a href="https://twitter.com/buf128" target="_blank" title="twitter"></a>
+		
+		
+		<a href="https://github.com/buf1024" target="_blank" title="github"></a>
+		
+		
+	</div>
+		<p class="copyright">Powered by <a href="http://zespia.tw/hexo/" target="_blank" title="hexo">hexo</a> and Theme by <a href="https://github.com/A-limon/pacman" target="_blank" title="Pacman">Pacman</a> © 2014 
+		
+		<a href="http://luoguochun.cn" target="_blank" title="buf1024">buf1024</a>
+		
+		</p>
+</div>
+</footer>
+    <script src="/xinpinla-crawler/js/jquery-2.1.0.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){ 
+  $('.navbar').click(function(){
+    $('header nav').toggleClass('shownav');
+  });
+  var myWidth = 0;
+  function getSize(){
+    if( typeof( window.innerWidth ) == 'number' ) {
+      myWidth = window.innerWidth;
+    } else if( document.documentElement && document.documentElement.clientWidth) {
+      myWidth = document.documentElement.clientWidth;
+    };
+  };
+  var m = $('#main'),
+      a = $('#asidepart'),
+      c = $('.closeaside'),
+      o = $('.openaside');
+  $(window).resize(function(){
+    getSize(); 
+    if (myWidth >= 1024) {
+      $('header nav').removeClass('shownav');
+    }else
+    {
+      m.removeClass('moveMain');
+      a.css('display', 'block').removeClass('fadeOut');
+      o.css('display', 'none');
+      
+      $('#toc.toc-aside').css('display', 'none');
+        
+    }
+  });
+  c.click(function(){
+    a.addClass('fadeOut').css('display', 'none');
+    o.css('display', 'block').addClass('fadeIn');
+    m.addClass('moveMain');
+  });
+  o.click(function(){
+    o.css('display', 'none').removeClass('beforeFadeIn');
+    a.css('display', 'block').removeClass('fadeOut').addClass('fadeIn');      
+    m.removeClass('moveMain');
+  });
+  $(window).scroll(function(){
+    o.css("top",Math.max(80,260-$(this).scrollTop()));
+  });
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+    c.click(function(){
+      ta.css('display', 'block').addClass('fadeIn');
+    });
+    o.click(function(){
+      ta.css('display', 'none');
+    });
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,320-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var $this = $('.share'),
+      url = $this.attr('data-url'),
+      encodedUrl = encodeURIComponent(url),
+      title = $this.attr('data-title'),
+      tsina = $this.attr('data-tsina');
+  var html = [
+  '<a href="#" class="overlay" id="qrcode"></a>',
+  '<div class="qrcode clearfix"><span>扫描二维码分享到微信朋友圈</span><a class="qrclose" href="#share"></a><strong>Loading...Please wait</strong><img id="qrcode-pic" data-src="http://s.jiathis.com/qrcode.php?url=' + encodedUrl + '"/></div>',
+  '<a href="#textlogo" class="article-back-to-top" title="Top"></a>',
+  '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="article-share-facebook" target="_blank" title="Facebook"></a>',
+  '<a href="#qrcode" class="article-share-qrcode" title="QRcode"></a>',
+  '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
+  '<a href="http://service.weibo.com/share/share.php?title='+title+'&url='+encodedUrl +'&ralateUid='+ tsina +'&searchPic=true&style=number' +'" class="article-share-weibo" target="_blank" title="Weibo"></a>',
+  '<span title="Share to"></span>'
+  ].join('');
+  $this.append(html);
+  $('.article-share-qrcode').click(function(){
+    var imgSrc = $('#qrcode-pic').attr('data-src');
+    $('#qrcode-pic').attr('src', imgSrc);
+    $('#qrcode-pic').load(function(){
+        $('.qrcode strong').text(' ');
+    });
+  });
+});     
+</script>
+
+
+<script type="text/javascript">
+  var duoshuoQuery = {short_name:"buf1024"};
+  (function() {
+    var ds = document.createElement('script');
+    ds.type = 'text/javascript';ds.async = true;
+    ds.src = '//static.duoshuo.com/embed.js';
+    ds.charset = 'UTF-8';
+    (document.getElementsByTagName('head')[0] 
+    || document.getElementsByTagName('body')[0]).appendChild(ds);
+  })();
+</script> 
+
+
+
+<link rel="stylesheet" href="/xinpinla-crawler/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="/xinpinla-crawler/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){ 
+  $('.article-content').each(function(i){
+    $(this).find('img').each(function(){
+      if ($(this).parent().hasClass('fancybox')) return;
+      var alt = this.alt;
+      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
+    });
+    $(this).find('.fancybox').each(function(){
+      $(this).attr('rel', 'article' + i);
+    });
+  });
+  if($.fancybox){
+    $('.fancybox').fancybox();
+  }
+}); 
+</script>
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-52295723-1', 'auto');  
+ga('send', 'pageview');
+</script>
+
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fd472d1efc21e6f821b5d392d18d5f1ab' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+
+  </body>
+</html>

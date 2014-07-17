@@ -4,7 +4,7 @@
   <subtitle><![CDATA[码农，程序猿，攻城狮，未来的地摊贩]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-17T07:27:22.380Z</updated>
+  <updated>2014-07-17T09:03:26.106Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,33 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[小莫]]></title>
-    <link href="http://luoguochun.cn/2014/07/17/%E5%B0%8F%E8%8E%AB/"/>
-    <id>http://luoguochun.cn/2014/07/17/小莫/</id>
+    <title><![CDATA[热度C]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/%E7%83%AD%E5%BA%A6C/"/>
+    <id>http://luoguochun.cn/2014/07/17/热度C/</id>
     <published>2014-07-16T16:00:00.000Z</published>
-    <updated>2014-07-17T07:25:55.000Z</updated>
-    <content type="html"><![CDATA[<p>马锐拉创业项目，一个真实而有趣的校园移动应用  </p>
-<p>更多详情请参考相关网站 <a href="http://www.xiaomo.com/" target="_blank" rel="external">小莫</a>  </p>
+    <updated>2014-07-17T09:01:56.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/deecff5131ef7542015cee06ea7de1ad.jpg" alt=""></p>
+
+<p>用新闻聚合阅读器看新闻早已是很多人获取信息的习惯，比如已积累了<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212527.html">1.2亿用户的今日头条</a>，跟头条强调的“定制你的新闻”不同，社会化热点聚合应用“<a target="_blank" data-no-turbolink="true" href="http://reduc.cn/">热度C</a>”专注根据事件发热程度定义用户的信息流。</p>
+
+<p>消息源的数量，点击、分享来都是计算热度值的参数，跟今日头条200人的团队中一半以上是工程师也不一样，热度C更强调用户阅读到的每一篇内容的质量和体验，其理念是对抓来的每篇内容都进行精炼的结构化处理。有必要的话会重拟题目，重新撰写导语，并从多消息源、多角度梳理一个事件，让人们在碎片化时间的阅读更优质、高效，提供一个热门事件缘起、进展、语录、图片、地标、图表；在排版编辑上采用卡片式设计，阅读起来清晰简明；而且只有用户当前阅读的那张卡片是清晰显示的。</p>
+
+<p>闹得沸沸扬扬的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212686.html">“今日头条”法律风波</a>已经给人造成一种感觉是—“内容好像不再为王”，其实倒不是如此，用户还是在追着内容跑，只不过会选择用起来更方便的产品。如果内容方与渠道方的经济利益严重倒挂的话，长远来看对整个行业并非好事。</p>
+
+<p><strong>有没有一种可能，这些做数据生意的渠道方在某种程度上重新定义内容的生产方式，令到参与游戏的各方都能在一个新的商业模式中受益？</strong></p>
+
+<p>加之媒体的盘子实在是有限，热度C也并不满足于做一个纯粹的信息分发渠道。热度C创始人陈磊希望公司能成长为一个根据用户注意力数据模型供用户定制内容生产内容的平台，根据数据模型找出用户关心的话题、选题，以悬赏的方式众包出去，内容完成的越好酬劳越高。不过这种内容生产的性质可能更偏向于面向过去的梳理，不一定是新闻，可能是人们感兴趣的各种内容，在报酬的前提下这种没有太高门槛的做法是可以一试的。不排除会有一些小的媒体制作团队加入进来，当然这些钱是出在客户，也就是广告商身上。反过来广告商也能实现更精准的广告投放。热度C希望VC也能在这个平台上发现一些有潜力的媒体团队。</p>
+
+<p>面向专业的媒体机构，热度C希望提供像<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208659.html">Storyful</a>那样的服务，通过监测社交网络的即时新闻线索向传统媒体提供服务，一直觉得这个事情“微博”应该做，不知道为什么没有做。</p>
+
+<p>无论是存在了几百年的媒体，还是Storyful这样的社交媒体通讯社，再者以算法推荐为卖点的音乐服务，我觉得都不能唯数据是依，Human Algorithm都是不可或缺的，用户不仅需要被迎合。碎片阅读的弊端并非热度C一个看得到，国外一款叫<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206715.html">Circa的产品</a>也是类似的思路。</p>
+
+<p>热度C创始人陈磊本人有着10年传统媒体经验，团队里有一半是媒体出身，有着丰富的传统媒体资源，其CTO徐亚波是中山大学副教授，社会化数据平台“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/204792.html">一找</a>”创始人。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213494.html" target="_blank" rel="external">热度C，2.0版的新闻聚合平台能重新定义内容的生产方式么？</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://reduc.cn/" target="_blank" rel="external">热度C</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -33,13 +53,27 @@
   </entry>
   
   <entry>
-    <title><![CDATA[WDK.PW]]></title>
-    <link href="http://luoguochun.cn/2014/07/17/WDK.PW/"/>
-    <id>http://luoguochun.cn/2014/07/17/WDK.PW/</id>
+    <title><![CDATA[点点客]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/%E7%82%B9%E7%82%B9%E5%AE%A2/"/>
+    <id>http://luoguochun.cn/2014/07/17/点点客/</id>
     <published>2014-07-16T16:00:00.000Z</published>
-    <updated>2014-07-17T07:25:56.000Z</updated>
-    <content type="html"><![CDATA[<p>当代中国大学生的共同创作独立博客  </p>
-<p>更多详情请参考相关网站 <a href="http://www.wdk.pw/499.html" target="_blank" rel="external">WDK.PW</a>  </p>
+    <updated>2014-07-17T09:01:59.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/5c780bb8070424f695c908115918fa96.jpg" alt=""></p>
+
+<p>7月10日晚间，据证监会发布的公告显示，<a target="_blank" data-no-turbolink="true" href="http://www.dodoca.com/">上海点客信息技术股份有限公司</a>（即点点客）定向增发融资2500万人民币。募集的资金主要用于企业微信公共号营销平台的研发和推广。参与增发的是两家国资机构，未来还会向另外一家国资机构进行千万级别定向增发。点点客成立于2007年，主要业务是为企业用户提供通信解决方案，2012年在新三板上市。</p>
+
+<p>点客信息此次获得融资，依靠的是微信营销管理系统。该系统为企业微信公共号提供包括页面设计、自定义菜单、图文推送、关键词回复、LBS、优惠券在内的支持。其产品的特点有所见即所得的编辑模式、微信易信平台一键兼容发布以及微信主页一键转换为App等。</p>
+
+<p>点客信息2013年的年报显示公司营收6800万元。CEO黄梦向<span>36氪</span>透露，他们去年才进入这一行业，但是目前公司营收中已经有超过50%来自于微信营销管理系统。“点点客”的计费模式是按照不同的行业和公司规模收取数千到数万元不等的年费。点点客目前面向餐饮、医疗、房产、汽车、政务等20个行业推出了公共号管理模板。</p>
+
+<p>目前从事微信第三方运营的公司数以千计，已经有免费的商业模式出现，微信本身也推出了“微信小店”来降低公共号运营和开发的门槛。对此黄梦的想法是要把已经进入的行业做精，不急于向其他行业扩张。在目前“点点客”微信业务的团队中，技术和运营人员大概各占一半。黄梦希望在已经形成优势的行业里，“点点客”的员工们可以进一步形成精耕细作的团队。</p>
+
+<p>开发除了公共号开发后台之外，“点点客”下一步计划向微信公共号提供代运营服务。他们在和企业接触的过程中，发现很多传统企业觉得培训员工的成本过高，希望直接把公共号运营业务直接外包。“点点客”计划在合肥基地建设代运营中心，建设5000个微信座席，目前已建成了200席。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Zuo]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213759.html" target="_blank" rel="external">微信公共号开发商“点点客”融资2500万元，未来深挖垂直领域并尝试微信代运营</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.dodoca.com/" target="_blank" rel="external">点点客</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -51,13 +85,169 @@
   </entry>
   
   <entry>
-    <title><![CDATA[V5DG]]></title>
-    <link href="http://luoguochun.cn/2014/07/17/V5DG/"/>
-    <id>http://luoguochun.cn/2014/07/17/V5DG/</id>
+    <title><![CDATA[叽叽]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/%E5%8F%BD%E5%8F%BD/"/>
+    <id>http://luoguochun.cn/2014/07/17/叽叽/</id>
     <published>2014-07-16T16:00:00.000Z</published>
-    <updated>2014-07-17T07:25:55.000Z</updated>
-    <content type="html"><![CDATA[<p>威武代购，视信誉如生命的海外商品代沟服务。  </p>
-<p>更多详情请参考相关网站 <a href="http://www.v5dg.com" target="_blank" rel="external">V5DG</a>  </p>
+    <updated>2014-07-17T09:01:57.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/27b7ffb26336be450da77122be88f637.png" alt=""></p>
+
+<p>非移动互联网原著民肯定都知道PC端一直存在一种叫“随机配对IM”的东西，但一直没什么下文，如今它又在移动端重出江湖了，这两天聊了两款社交产品都是主打随机配对聊天的，一款叫“<a target="_blank" data-no-turbolink="true" href="http://imjidu.com/">几度</a>”，另一款叫“<a target="_blank" data-no-turbolink="true" href="http://itunes.apple.com/cn/app/ji-ji-you-qu-de-sui-ji-jiao-you/id867887231?mt=8">叽叽</a>”（最近叫“叽叽”的产品有点多…后者已获曾李青数百万人民币天使投资）。这当然跟移动技术的成熟脱不了干系，人们无须守在电脑旁才能与人匹配聊天，随机聊成了一件实时响应的活动，也释放了更多碎片化的时间，移动端更多其它社交机制的介入也让随机聊天有了更多的玩法。“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212613.html">比邻</a>”这款以陌生人电话社交应用当然也是一个鲜明的例子。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/d035981cbf4ba4b06ab95de62ab0d379.jpg" alt=""></p>
+
+<p>说到底，“随机”只是建立关系的一味元素，做不同的加法一定都会生成完全不同的产品。两款应用都强调希望帮用户找到更相关的人，这算是移动端随机聊天与PC另一点显著差异吧。就“几度”而言，首先它融入了<strong>纯匿名</strong>的元素，没有头像，没有随机的昵称；其次它看重的是手机通讯录里“朋友的朋友”这个神奇的<strong>二度人脉群体</strong>（但凡不是两两互相认识的关系都属二度人脉），在匹配的时候也会优先匹配到二度人脉和异性，但早期用户较少的情况下三度人脉出现的频率会很高。其CEO姜宁告诉<span>36氪</span>，前期会把三、四、五、六度的人脉统归为三度，以后再把三度分出来。</p>
+
+<p>这款应用界面不能“简洁更多”，设计上大致是白描手绘风（好像没有这种风，就这么叫吧）。目前它还只是靠通讯录关系来计算人与人之间的社交距离，以后会考虑加入LBS，聊天群，还有聊天高频词等匹配维度。<strong>考虑到关系链的膨胀已经成为新一波社交应用害怕的东西</strong>，两款应用都很排斥为用户重新打造一个“QQ”或微信关系列表。关于这点几度的新版本希望加这么一个限制条—用户始终仅有权限保留两个过往联系人，而大部分的人都是擦肩而过的。关于聊天群，他们的设想也很有意思，具体人数限制到几还不有待考量，但其中一定有人是相互认识的，神秘感大概就来自若隐若现吧。By the way，这款应用由华东师范大学的几名学生开发，种子用户也多为在校大学生。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/f3a3b1316f14bca185c981cc87598a1a.jpg" alt=""></p>
+
+<p>再说另一款产品“叽叽”，它希望做的是“越远越好的社交”，它通过两步随机操作，随机匹配一个地理位置（理论上讲是全世界任何一个位置），然后会随机匹配到一个人或者一个聊天群，人数也是随机的，而且时不时会有人中途“闯”进来。“叽叽”也强调帮用户找到相关度较高的人，但并非社交距离越来越近的人，而是外貌、风格更匹配的人。用户可以为其它用户打标签（比如清纯、阳光等），而叽叽会据用户打标签的记录向你推荐更匹配的妹纸或帅哥。以后还会加入图像识别的算法，“以貌取人”是叽叽匹配的重要维度。此外，新版的“叽叽”还会支持新浪微博和QＱ登录，根据这两大社交数据库完成更精准的匹配。其实诸如此类的匹配精不精准很难评判，个人认为，能让前戏变得更有意思好像才是用户体验的关键。它同样面临着关系链长大的问题， 关于如何弱化通讯录色彩，“叽叽”采用了Like的机制，凡是被Like的用户的动态会优先出现在用户信息流中。</p>
+
+<p>其CEO认为，很多人的QQ列表常年不发生变化是一件很不正常的事，而叽叽做的就是在结识新朋友的过程中帮人搭讪这件事，跟工具性App解决痛点需求不一样，“叽叽”满足的是交友的欲望。之所以越远越好，可能是会有最早时候聊天室的快感吧，它们希望以后能围绕中外交友把这件事做起来，新加坡会是一个扩张试点。总之，跟“陌陌”相比，它是希望在线上满足用户的社交需求的。国外有款叫Meow的聊天应用跟“叽叽”很像。</p>
+
+<p>社交之所以常盛不衰，一是技术在进步，二是需求一直在。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p>AD：<a href="http://cnrdn.com/GJWE" target="_blank">云之家</a>，一种新的工作方式。</p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213157.html" target="_blank" rel="external">随机配对聊天在移动端又重出江湖了，抛出“几度”和“叽叽”两款产品聊聊</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.yx.cc/" target="_blank" rel="external">叽叽</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[去兜风]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/%E5%8E%BB%E5%85%9C%E9%A3%8E/"/>
+    <id>http://luoguochun.cn/2014/07/17/去兜风/</id>
+    <published>2014-07-16T16:00:00.000Z</published>
+    <updated>2014-07-17T09:01:55.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/35c42ab3a61f3ffd795d006f51dac3f8.jpg" alt=""></p>
+
+<p>“也许大多数人都去不了‘7+2’（指攀登七大洲最高峰，且徒步到达南北两极点的极限探险活动），无法亲自站在世界的各个极限点，但这丝毫不影响我们想去了解这个星球的热情。”</p>
+
+<p>这是去兜风团队在发给我们的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/report">寻求报道</a>资料里写的一句话，因为被这个理念吸引，才有了这篇文章。对于我这样的用户来说，攀岩、浮潜、攀冰可能是太过专业和高难度乃至一生都少有勇气和机会去尝试的项目，但是接触自然却是每个人不应该被剥夺的权利，所以那些带有小小挑战、门槛更低、更大众化的去户外接触大自然的项目就会很吸引我，<a target="_blank" data-no-turbolink="true" href="http://7doufeng.com/">“去兜风”</a>提供的就是这样的“探索旅游”产品。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/160b74ba1d521ba942c015b4e5957f99.png" alt=""></p>
+
+<p>去兜风是一个提供独特户外探索体验的精选信息和预订平台，他们通过和国外成熟的户外探险公司建立联系，将优质的目的地旅游产品信息精选出来提供给用户，比如用户可以找到“到新西兰徒步寻找地热奇观”、“埃及尼罗河巡游红海潜水”、“攀登非洲最高峰乞力马扎罗”等等很特别的项目。“去兜风”会根据项目难度进行一个体力分级，并列出线路详情和当地景色的视频，给用户提供参考。</p>
+
+<p>最后用户可以在去兜风上完成产品预订、支付费用。去兜风拿到用户需求后会提交到国外供应商处，在2-3天的时间内确认订单。未来他们打算给当地探险公司提供技术对接系统，以缩短整体预订时长。而由于去兜风直接和探险公司（而非提供旅游产品的公司）对接，少了中间加价，所以在去兜风上一般两人预订的价格可以和当地参团的价格一致甚至略低一些。</p>
+
+<p>其实目前来说，户外探索项目对于国人而言还不像参团或者去比较大众的路线自由行那么普及，因此去兜风会在用户指引上下一些功夫，比如在出行前几个月给用户锻炼的建议，让他们可以在出行前满足届时户外运动的体力需求，比如他们会尽量要求供应商在当地接送用户，不让出行的衔接过程出错。未来他们还会提供“约伴”的出行服务。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/9bd639315ccef6662d1af7ada88521b8.png" alt=""></p>
+
+<p>现阶段国内提供户外旅行产品预订的还有绿野旅行网，他们以旅游线路、户外领队为主，商业上是由<strong>供应商提供线路产品</strong>的模式，而在户外圈很知名的论坛8264也推出了“去哪玩”，主要提供<strong>自营</strong>的户外线路产品，另外还有南方的“磨房”，其盈利模式和绿野接近。国外的同类网站则有<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/t/202374">zozi</a>，他们为北美20多个城市提供服务，出行人数100多万，至今总共获得了1750万美元的风险投资。</p>
+
+<p>去兜风的联合创始人彭缔告诉我，目前国内的户外旅行行业还很初级，周边的配套设施也跟不上，比如在国外攀登乞力马扎罗山还可以住小木屋，但是如果在国内登四姑娘山，就只能自带帐篷，包括周边的自然条件也不成熟，这也是他们先选择了从国外的目的地产品信息精选这一角度入手的原因。另外国内的户外行业政策不明朗也是行业没有爆发的一大原因，如果未来标准的政策出台了，应该会有很多创业公司涌现出来。</p>
+
+<p>去兜风已经获得了100万元的天使投资，目前正在<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/">氪加</a>上挂牌进行<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/7doufeng">Pre-A轮的在线融资</a>。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213824.html" target="_blank" rel="external">休假了去冰岛步道徒个步？目的地探索旅行提供商“去兜风”正探索细分场景的旅游机会</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://7doufeng.com/" target="_blank" rel="external">去兜风</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Taco]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/Taco/"/>
+    <id>http://luoguochun.cn/2014/07/17/Taco/</id>
+    <published>2014-07-16T16:00:00.000Z</published>
+    <updated>2014-07-17T09:01:58.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/cc8e27071a70ab3667f0f4fd1327bc9a.png" alt=""></p>
+
+<p><a target="_blank" data-no-turbolink="true" href="https://tacoapp.com/">Taco</a> 是一款通过将你分散在各种服务上的信息/任务集中起来，在一个页面上呈现，来帮助你提高工作效率的个人GTD工具。</p>
+
+<p>目前 Taco 支持 30+ 种服务，主要如下：</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/163eac5f44a7816c5f6e063190fad52a.png" alt=""></p>
+
+<p>用户注册之后，可根据自己的情况，登陆不同服务的账号，之后，所有服务中涉及到的事项会以信息流的形式出现在“ For Later ” 栏目，有什么要做的，直接将任务从左边拖入到右边的“Up Next”。搞定之后，可直接在 Taco 中勾选完成，对应的服务也会做勾选动作，无需调回对应的服务。</p>
+
+<p>值得指出的是，Taco 是一款<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/203614.html">个人 GTD 工具</a>，而非类似 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/210658.html">Worktile</a>、<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/211243.html">Teambition</a> 等的协同工具，它通过将多项服务整合在一个页面，以分清主次的方式，帮助你更高效的处理来自各个渠道的“任务”。</p>
+
+<p>Taco 目前貌似只有网页版，如果有移动版，产品更加成熟一点，加上可以推送消息的话，它会相当于一个个人企业服务的消息入口，而它同本身提供沟通协作功能的 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/211519.html">Slack</a> 不同的是，Taco 面向个人而非团队或企业，同时它自身并不提供垂直的功能。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 果子]</p><br>                    <p>AD：<a href="http://cnrdn.com/GJWE" target="_blank">云之家</a>，一种新的工作方式。</p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213828.html" target="_blank" rel="external">将分散在各个协同工具上的任务集合起来，以一个页面呈现，Taco 想帮你提高效率</a>  </p>
+<p>更多详情请参考相关网站 <a href="https://tacoapp.com/" target="_blank" rel="external">Taco</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Flexbot]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/Flexbot/"/>
+    <id>http://luoguochun.cn/2014/07/17/Flexbot/</id>
+    <published>2014-07-16T16:00:00.000Z</published>
+    <updated>2014-07-17T09:01:56.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/7784706ace8e1a31e58dca76ea6f74b4.jpg" alt=""></p>
+
+<p>众筹之后是针对那些成功众筹的“明星产品”做的一个系列报道，讲述这些团队众筹之后的故事。后众筹时代，这些新硬件军团现在在做什么呢？他们是否成功的将自己的极客产品转化成了大众消费品？他们又是否成功的由一个爱好 DIY 的团队发展成了良性运转的公司？我们将通过一些列文章，为大家还原一个完整的硬件创业历程。</p>
+
+<p>如果你觉得你愿意让更多人了解自己的产品，愿意和我们讲讲自己的故事，欢迎邮箱联系我们（syq # 36kr.com）。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/6d89ae7d8b9f46b93bbc6a66dce144d2.jpg" alt=""></p>
+
+<p>提起Flexbot大家可能并不熟悉，但他们的前身Hex（<a target="_blank" data-no-turbolink="true" href="https://www.kickstarter.com/projects/1387330585/hex-a-copter-that-anyone-can-fly?ref=nav_search">Kickstarter上筹款筹了56万美元</a>的那个迷你飞行器）你可能就不陌生了。因为 Hex的名称与美国一家玩具公司相近，为避免纠纷，Hex改名为<a target="_blank" data-no-turbolink="true" href="http://flexbot.cc/">Flexbot</a>，有意思的是新名字和新logo同样由用户“众筹”而来。</p>
+
+<p>Flexbot是一款基于Arduino的迷你飞行器，由简单的控制电路构成，使用 3D 打印机身架构，重量很轻，有四轴和六轴两种型号，主要针对智能手机用户。Hex 还配备了实时传输摄像头，可利用手机操控，查看空中的飞行环境。此外，Hex 完全开源，允许用户增加新功能，或者由用户个性化定制外观。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/308d4ee88f6074c53035fa936f4c8873.jpg" alt=""></p>
+
+<p>2012年，喻川和他的朋友当时正在做图像识别的云服务，偶然的机会他们认为把图像识别应用于多旋翼飞行器会非常酷，还可以帮他们到办公楼下面帮我们买咖啡、买烟。于是，2012年8月，团队开始做软硬件结合项目 HEX 飞行器；12月就完成了<a target="_blank" data-no-turbolink="true" href="http://v.youku.com/v_show/id_XNDg0MjI2OTI4.html">第一代原型机试飞</a> 。2013年5月，  在旧金山发布Hex产品原型；8月在Kickstarter发布众筹。2014年2月，  首批实验性产品生产完成，开始陆续向kickstarter支持者发货。今年4月开发完成了第二代迷你飞行器原型。</p>
+
+<p>现在除了更新了飞行器的版本外，Flexbot还研发了其他几款产品，原型已经逐渐成熟。同时建立主题为“Design，Make and Share”的<a target="_blank" data-no-turbolink="true" href="http://designmakeshare.cc/forum">用户社区</a>，围绕社区与用户需求，开发长尾产品。<strong>团队现在正在准备A轮融资，他们也很欢迎与他们志同道合的投资人接触他们。</strong></p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/cee2df159f089cca67d9b92e42714325.jpg" alt=""></p>
+
+<p>Flexbot 团队成员由六人组成，喻川是Hex项目的发起人，大学期间学的是建筑专业，后来转行负责做产品设计。团队因为兴趣聚在一起，在无固定办公室、异地协助办公的情况下，完成了Flexbot这么一款从一开始就具备工业用途的产品。</p>
+
+<p>在Flexbot的工作室里，还有一位备受注目的非人类团队成员：德国工业机器人公司<a target="_blank" data-no-turbolink="true" href="http://www.baidu.com/link?url=NgIlV0bAmDHd9P2KQFejSGFt8EFPCyfw8ISQ4LwAAKP6jGx9tog_4QAWSvVHzmtb">KUKA</a>的机械臂<a target="_blank" data-no-turbolink="true" href="http://www.kuka-robotics.com/zh/pressevents/news/nn_131217_kr_agilus_waterproof.htm">AGILUS</a>。AGILUS是目前世界上最快、精度最高的机器人之一，2013年3月曾与德国乒乓球名将波尔对战（开局打出过6:0），可连续24小时工作15年。Flexbot从电子部分到外壳，都是由AGILUS生产的。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/db665b6f56545904ebb5240905b1baf0.jpg" alt=""></p>
+
+<p>Flexbot的团队并不在深圳和北京，而是在贵州。不过，他们在国外的知名度也很高，《失控》的作者KK、《连线》主编安德森对他们的评价都很高，今年他们还入选了2014年度SXSW最具创新性团队，在美国奥斯汀做了演讲。提到国内外的硬件创业环境，喻川也有自己的看法。</p>
+
+<p>喻川觉得<strong>国内外创业环境差异很小</strong>，只是因为<strong>社会环境不同，产品选择上会有差异。</strong>比如Nest这样的设备，和国外每家都安装温控系统、烟雾报警有关系。<strong>中国有丢失小孩的社会问</strong>题，可能就有保护小孩防止丢失的穿戴设备。<strong>有些需求是有国际共性的，而有些是因国情有差异的。</strong></p>
+
+<p>刚开始做硬件创业的时候，“硬件革命”的概念还不是很热门，他们团队内部都还持怀疑态度。现在硬件创业已经炙手可热，这和<strong>开源电子平台、众筹</strong>的普及有很大关系，让原型制作和试错成本降低，大量创新项目涌现。当然也和<strong>用户入口之争、媒体和资本的关注度</strong>有关系，可以说现在硬件创业生态圈已经形成。不过，贵州硬件创业还比很少，他们现也在本地做一些分享和工作坊，引导更多年轻人关注创业。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/ec676fa173f0a432a02ab048a9ec0b9b.jpg" alt=""></p>
+
+<p>2013年1月 ，Flexbot 获得美国硅谷风投SOSventure的天使投资，并加入HAXLR8R孵化器.Haxlr8r秉持的是精益创业的精神，也给了喻川很多启发和指引。喻川说最好玩就是进去第二天，做了一个题目为<strong>Aim High</strong>的游戏，提供20根意大利面、一段棉线、一段透明胶布、一个棉花糖，15分钟内看哪个团队能用这些材料把棉花糖放到最高的位置。游戏结束后，他们瞬间明白<strong>在有限资源、有限条件下的目标如何设定</strong>，这在创业初期非常重要。</p>
+
+<p>提到改名风波，喻川说初期确实没想太多，没太在意这个问题。不过，改名确实有影响，但是对于未来来说，还算是早期，宁愿早发生。创业本身就是最有意思的事情，充满未知和挑战。 困难是相对的，创业中的困难是好事，谁能创造性解决困难，谁就具有优势。</p>
+
+<p>（注：本文最后两张图片来自Flexbot 用户社区）</p><br>                    <p>[<span>36氪</span>原创文章，作者: 小石头]</p><br>                    <p>AD：<a href="http://cnrdn.com/GJWE" target="_blank">云之家</a>，一种新的工作方式。</p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213787.html" target="_blank" rel="external">【众筹之后】专访迷你飞行器Flexbot创始人喻川: 国内外硬件创业环境差别已很小，但硬件产品仍会有国情差异</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://flexbot.cc/" target="_blank" rel="external">Flexbot</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -167,6 +357,24 @@
   </entry>
   
   <entry>
+    <title><![CDATA[小莫]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/%E5%B0%8F%E8%8E%AB/"/>
+    <id>http://luoguochun.cn/2014/07/17/小莫/</id>
+    <published>2014-07-16T16:00:00.000Z</published>
+    <updated>2014-07-17T07:25:55.000Z</updated>
+    <content type="html"><![CDATA[<p>马锐拉创业项目，一个真实而有趣的校园移动应用  </p>
+<p>更多详情请参考相关网站 <a href="http://www.xiaomo.com/" target="_blank" rel="external">小莫</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[天蓝村零食订购服务]]></title>
     <link href="http://luoguochun.cn/2014/07/17/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
     <id>http://luoguochun.cn/2014/07/17/天蓝村零食订购服务/</id>
@@ -221,35 +429,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[什么值得买]]></title>
-    <link href="http://luoguochun.cn/2014/07/17/%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0/"/>
-    <id>http://luoguochun.cn/2014/07/17/什么值得买/</id>
+    <title><![CDATA[App 畅销排行 Top 200 (中国)]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/App%20%E7%95%85%E9%94%80%E6%8E%92%E8%A1%8C%20Top%20200%20(%E4%B8%AD%E5%9B%BD)/"/>
+    <id>http://luoguochun.cn/2014/07/17/App 畅销排行 Top 200 (中国)/</id>
     <published>2014-07-16T16:00:00.000Z</published>
-    <updated>2014-07-17T02:43:35.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/a87834b7aa4bae4b0b03f0a22c88ed2e.png" alt=""></p>
-
-<p>网购信息推荐网站“<a target="_blank" data-no-turbolink="true" href="http://www.smzdm.com/">什么值得买</a>”今天推出了消费“<a target="_blank" data-no-turbolink="true" href="http://test.smzdm.com/">众测</a>”平台。如果你是他们的忠实用户，想必早已准备好支付宝等着下单了，不过“众测”可能和你想象的还不太一样。</p>
-
-<p>“什么值得买”是一个网购产品推荐网站，致力于帮助网友买到更有性价比的网上产品。</p>
-
-<p>回到“众测”，其实它很容易理解，它和众筹关系不大。这是一种<strong>通过商家提供测试产品、用户进行免费试用并发布使用体验的形式，实现对还未上市或开售产品的测试</strong>。</p>
-
-<p>如果你对众测感兴趣，有两种方式可以让你快速的加入进来。第一种叫“蓝测”，它是通过兑换账户中的用户积分（1~300不等）来换取参与名额，在后期会改为通过金币兑换。第二种叫“红测”，区别于前者，它需要使用金额不等的金币来换取参加活动的审核机会。这两种参与方式成功的概率都和申请的先后顺序无关。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/567c67b40397f295869f1230d689bdd7.png" alt=""></p>
-
-<p>目前，“众测”上包括了笔记本、耳机、化妆品、空调、运动鞋等多种日常生活类用品。这个平台最吸引人的地方在于，<strong>得到产品使用机会的用户在提交详细的使用报告后，在大部分情况下无需归还测试产品</strong>。</p>
-
-<p>“什么值得买”告诉<span>36氪</span>，上线“众测”平台的原因有两点。第一是对质量合格，但还没有开始上市销售的产品来说，需要一个用户测试平台。二是对“什么值得买”的用户来说，原创的产品开箱、使用体验是一部分有价值的原创内容。</p>
-
-<p>通过积分参与“蓝测”，使用金币加入“红测”。看似简单的兑换方式其实说明了“什么值得买”对内容和互动的需求。例如评论、回复，“什么值得买”会通过积分的形式进行奖励，而金币则需要发布原创内容才能赚取。这种方式显然会大大增强用户在网站上留言、发帖的积极性。这对一家网购信息推荐网站来说无疑很重要。</p>
-
-<p>除此之外，上线“众测”的项目都是免费的，“什么值得买”希望通过<strong>借助产品与用户进行更长时间、更多方式的互动，继续扩大其在推荐网站的覆盖度</strong>。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Daniel]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213279.html" target="_blank" rel="external">什么值得买推出消费“众测”平台，网购推荐网站在内容上的下一步是什么？</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.smzdm.com/" target="_blank" rel="external">什么值得买</a>  </p>
+    <updated>2014-07-17T02:43:33.000Z</updated>
+    <content type="html"><![CDATA[<p>游戏嗨 App 历史排行榜，提供 App Store 中各类别的历史排行榜。  </p>
+<p>更多详情请参考相关网站 <a href="http://ranking.yxhi.com/cn/" target="_blank" rel="external">App 畅销排行 Top 200 (中国)</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -261,13 +447,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[App 畅销排行 Top 200 (中国)]]></title>
-    <link href="http://luoguochun.cn/2014/07/17/App%20%E7%95%85%E9%94%80%E6%8E%92%E8%A1%8C%20Top%20200%20(%E4%B8%AD%E5%9B%BD)/"/>
-    <id>http://luoguochun.cn/2014/07/17/App 畅销排行 Top 200 (中国)/</id>
+    <title><![CDATA[云适配 Amaze UI]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/%E4%BA%91%E9%80%82%E9%85%8D%20Amaze%20UI/"/>
+    <id>http://luoguochun.cn/2014/07/17/云适配 Amaze UI/</id>
     <published>2014-07-16T16:00:00.000Z</published>
     <updated>2014-07-17T02:43:33.000Z</updated>
-    <content type="html"><![CDATA[<p>游戏嗨 App 历史排行榜，提供 App Store 中各类别的历史排行榜。  </p>
-<p>更多详情请参考相关网站 <a href="http://ranking.yxhi.com/cn/" target="_blank" rel="external">App 畅销排行 Top 200 (中国)</a>  </p>
+    <content type="html"><![CDATA[<p>Amaze  UI 是中国首个开源 HTML5 跨屏前端框架  </p>
+<p>更多详情请参考相关网站 <a href="http://amazeui.org/" target="_blank" rel="external">云适配 Amaze UI</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -329,6 +515,42 @@
   </entry>
   
   <entry>
+    <title><![CDATA[WDK.PW]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/WDK.PW/"/>
+    <id>http://luoguochun.cn/2014/07/17/WDK.PW/</id>
+    <published>2014-07-16T16:00:00.000Z</published>
+    <updated>2014-07-17T07:25:56.000Z</updated>
+    <content type="html"><![CDATA[<p>当代中国大学生的共同创作独立博客  </p>
+<p>更多详情请参考相关网站 <a href="http://www.wdk.pw/499.html" target="_blank" rel="external">WDK.PW</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[V5DG]]></title>
+    <link href="http://luoguochun.cn/2014/07/17/V5DG/"/>
+    <id>http://luoguochun.cn/2014/07/17/V5DG/</id>
+    <published>2014-07-16T16:00:00.000Z</published>
+    <updated>2014-07-17T07:25:55.000Z</updated>
+    <content type="html"><![CDATA[<p>威武代购，视信誉如生命的海外商品代沟服务。  </p>
+<p>更多详情请参考相关网站 <a href="http://www.v5dg.com" target="_blank" rel="external">V5DG</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[V2EX]]></title>
     <link href="http://luoguochun.cn/2014/07/17/V2EX/"/>
     <id>http://luoguochun.cn/2014/07/17/V2EX/</id>
@@ -336,144 +558,6 @@
     <updated>2014-07-17T02:43:30.000Z</updated>
     <content type="html"><![CDATA[<p>创意工作者们的社区  </p>
 <p>更多详情请参考相关网站 <a href="http://www.v2ex.com/" target="_blank" rel="external">V2EX</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Pond 5]]></title>
-    <link href="http://luoguochun.cn/2014/07/17/Pond%205/"/>
-    <id>http://luoguochun.cn/2014/07/17/Pond 5/</id>
-    <published>2014-07-16T16:00:00.000Z</published>
-    <updated>2014-07-17T04:16:48.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/af64baae2018b2dfe7e56e03e3bb4972.jpg" alt=""></p>
-
-<p><a target="_blank" data-no-turbolink="true" href="http://www.pond5.com/">Pond5</a>成立于2006年，是一个不可多得的以广大艺术家资源为主的多媒体素材交易平台，目前资源已覆盖视频、音乐、音效、3D、After Effects模板、照片和插画。艺术家们可以自行定价，利润与平台方五五分成。目前该平台覆盖127个国家，共有3万名艺术家，1500万条素材。Pond 5刚刚获得Accel 领投的6100万美金A轮融资。</p>
-
-<p>很多时候如果手上刚好有优质的素材片断，不管是电影、电视、还是MV。。。，创作者将节省很多时间和精力。像《钢铁侠》、《达拉斯买家俱乐部》和《行尸走肉》《纸牌屋》这些作品中都曾用过Pond 5上的素材。</p>
-
-<p>每个人都能在该平台上购买内容，Pond5用户群体广泛，从在校学生到YouTube 和 Vimeo上的新兴艺术家、再到制作Super Bowl的大型广告公司都在其中。其服务的核心用户群体就是“创作者”。其内容的一大亮点就是其作品均“制作精良”，这点毫不夸张。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213822.html" target="_blank" rel="external">以艺术家为核心资源的多媒体素材交易平台Pond 5获A轮融资6100万美金</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.pond5.com/" target="_blank" rel="external">Pond 5</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[MessagePack]]></title>
-    <link href="http://luoguochun.cn/2014/07/17/MessagePack/"/>
-    <id>http://luoguochun.cn/2014/07/17/MessagePack/</id>
-    <published>2014-07-16T16:00:00.000Z</published>
-    <updated>2014-07-17T02:43:30.000Z</updated>
-    <content type="html"><![CDATA[<p>It’s like JSON. but fast and small.  </p>
-<p>更多详情请参考相关网站 <a href="http://msgpack.org/" target="_blank" rel="external">MessagePack</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Meow App]]></title>
-    <link href="http://luoguochun.cn/2014/07/17/Meow%20App/"/>
-    <id>http://luoguochun.cn/2014/07/17/Meow App/</id>
-    <published>2014-07-16T16:00:00.000Z</published>
-    <updated>2014-07-17T04:16:47.000Z</updated>
-    <content type="html"><![CDATA[<p>陌生人社交，和世界各地的陌生人聊天  </p>
-<p>更多详情请参考相关网站 <a href="http://meow.me/" target="_blank" rel="external">Meow App</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Introspected tunnels to localhost]]></title>
-    <link href="http://luoguochun.cn/2014/07/17/Introspected%20tunnels%20to%20localhost/"/>
-    <id>http://luoguochun.cn/2014/07/17/Introspected tunnels to localhost/</id>
-    <published>2014-07-16T16:00:00.000Z</published>
-    <updated>2014-07-17T02:43:30.000Z</updated>
-    <content type="html"><![CDATA[<p>ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool  </p>
-<p>更多详情请参考相关网站 <a href="http://ngrok.com" target="_blank" rel="external">Introspected tunnels to localhost</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Coding]]></title>
-    <link href="http://luoguochun.cn/2014/07/17/Coding/"/>
-    <id>http://luoguochun.cn/2014/07/17/Coding/</id>
-    <published>2014-07-16T16:00:00.000Z</published>
-    <updated>2014-07-17T02:43:29.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/12f1c486ed2331e2becea54aaf84cb55.jpg" alt=""></p>
-
-<p>提到软件开发者的社会化编程以及代码托管，很多人往往第一时间想到<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/202526.html">GitHub</a>或者<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208766.html">GitCafe</a>。这年头，不去<a target="_blank" data-no-turbolink="true" href="https://github.com/">GitHub</a>或者<a target="_blank" data-no-turbolink="true" href="https://gitcafe.com/">GitCafe</a>上托管几行代码，都不好意思说是自己是程序员。GitHub和GitCafe是以代码托管为基础的社区，用户可以在上面托管代码，团队成员可以协作修改代码。但是项目开发往往比较复杂，涉及到管理，演示，测试等等，仅仅托管代码就能很顺畅地完成开发么？我觉得显然还应该有更好的解决方案。</p>
-
-<p>基于这样的想法，Coding 开发了一个面向开发者的云端开发协作平台，目前可以实现托管代码、运行空间、质量监控、项目管理等功能。Coding的开发逻辑是以人为中心的，用户可以邀请其他用户加入到自己的项目中来，从而构建出一个基于项目的组织和工作环境。当一个用户修改完代码之后，系统会自动记录，生成新的版本，项目组内的其他成员可以看到代码的变化。Coding提供直接的运行空间，不需接入第三方服务，直接运行测试代码。不过比较遗憾的是，现在还只支持网页代码的运行、检测，暂时无法支持桌面软件和手机App的运行。通过自动化的程序，Coding还可以对代码进行检测，提供一份质量检测报告，并检测出项目中违反最佳实践的代码。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/b411ead7bca3f1c8f603314fd9950835.png" alt=""></p>
-
-<p>社交其实是开发办公协同很重要的因素。GitHub或者GitCafe本质上都是社区，给码农们提供了一个可以交流的平台。Coding是基于公有云的协同平台，用户既可以与自己项目组内的成员交流，也可以与非项目组内的成员沟通。</p>
-
-<p>虽然 Coding 与 Github，GitCafe都是定位于开发者市场，但其背后的逻辑是不一样的。GitHub、GitCafe是基于代码托管的社区，而Coding想要做的是软件开发协作平台，代码托管只是其中的一部分服务。Coding最终希望实现的是基于云计算的协同软件开发，开发者只需要拥有浏览器、拥有一个账号，就可以随时、随地完成开发工作。</p>
-
-<p>Coding公司成立于2014年2月，经过接近4个月的开发已经完成了平台的构建，本月底将会小范围内测，预计一个月内会对外开放。</p>
-
-<p>GitHub对于不开源项目会进行<a target="_blank" data-no-turbolink="true" href="http://shop.github.com/pages/faq">收费</a>，共有7种收费价格，从7美元/月到200美元/月不等。国内的GitCafe也是从2013年7月7日<a target="_blank" data-no-turbolink="true" href="http://blog.gitcafe.com/175.html">开始收费</a>，最低收费大约每天每人0.14元，比GitHub要便宜。Coding的创始人张海龙表示，Coding的基本功能会是免费的，等系统成熟以后会推出收费方案，收费模式会考虑基础版免费高级版收费。基础版比较适合小型项目以及小型小团队。高级版将会拥有更多的计算资源以及更多的功能。对于一个完全零起点的团队来说，前期的环境部署大约需要一周的工时和上万元花费。Coding虽然是收费的，但相对于自己部署环境，其实更为经济，开发团队能够更专注于软件开发本身，而不是外围系统的搭建和维护。</p>
-
-<p>事实上，以托管代码为基础的服务平台，发展空间还比较有限，都需要不断的自我拓展。GitHub从成立到现在已经有<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/202526.html">6年</a>了，在国内外都有很大的影响力。虽然最初只针对软件开发，但现在不断扩宽其应用场景和服务人群，开始<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206369.html">支持3D文件格式</a>的历史版本动态浏览，甚至支持托管的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212034.html">开源科学项目</a>包括寻找太阳系外的类地行星、分析DNA、制造开源火箭等。国内的GitCafe是由姚新宇创立的，2012年初正式上线，发展过程中也曾遇到诸多问题。 经过一年多的技术积累，2013年开始也在尝试着从代码托管社区向更大的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208766.html">在线教育平台转变</a>，推出类似 CodeSchool 这样的产品和服务。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 小石头]</p><br>                    <p>AD：<a href="http://cnrdn.com/GJWE" target="_blank">云之家</a>，一种新的工作方式。</p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/212803.html" target="_blank" rel="external">Coding推开发协作平台，想要把云端协同办公变为现实＃36氪开放日北京站＃</a>  </p>
-<p>更多详情请参考相关网站 <a href="https://coding.net/" target="_blank" rel="external">Coding</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[12楼]]></title>
-    <link href="http://luoguochun.cn/2014/07/17/12%E6%A5%BC/"/>
-    <id>http://luoguochun.cn/2014/07/17/12楼/</id>
-    <published>2014-07-16T16:00:00.000Z</published>
-    <updated>2014-07-17T02:43:33.000Z</updated>
-    <content type="html"><![CDATA[<p>专注互联网创业服务的O2O平台B座12楼  </p>
-<p>更多详情请参考相关网站 <a href="http://www.12lou.org/" target="_blank" rel="external">12楼</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

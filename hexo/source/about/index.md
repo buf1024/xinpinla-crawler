@@ -2,7 +2,7 @@ title: 关于
 date: 2014-06-24 16:17:24
 ---
 
-为了*好玩*而写一些东西:  
+为了*好玩*而写的东西:  
 - [xinpinla-crawler](http://luoguochun.cn/xinpinla-crawler/)  
   从[新品啦](http://xinpinla.com)爬取数据，然后在以下页面（搜索网络待完善）搜索结果:  
 

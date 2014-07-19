@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[0xe1码农！]]></title>
-  <subtitle><![CDATA[码农，程序猿，攻城狮，未来的地摊贩]]></subtitle>
+  <title><![CDATA[发现，DISCOVERY！]]></title>
+  <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-19T07:40:15.968Z</updated>
+  <updated>2014-07-19T13:24:25.209Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -13,6 +13,52 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Text]]></title>
+    <link href="http://luoguochun.cn/2014/07/19/Text/"/>
+    <id>http://luoguochun.cn/2014/07/19/Text/</id>
+    <published>2014-07-18T16:00:00.000Z</published>
+    <updated>2014-07-19T09:59:35.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/6470cacde3400aace7cbfcc246ab4380.png" alt=""></p>
+
+<p><a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/text./id877756966?ls=1&amp;amp;mt=8">Text</a> 这枚前天刚上线的短消息应的太酷了。</p>
+
+<p>注册之后，你可以通过通讯录(暂不支持国内)或者用户名来添加好友。添加之后，左划可看到联系人列表，右划可添加新好友。</p>
+
+<p>Text 的内容输入框(如下)，默认是将消息发送给所有联系人的，如果你想发送给单个的人，可左滑先选中，然后发送消息。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/992d9bf7ea8cd8809218f853d312b3d8.png" alt=""></p>
+
+<p>而 Text 的亮点在于：所有经由 Text 发送的消息，在接收方都会以推送消息的形式呈现。消息不会保存在 Text 中，你可以通过通知中心查看其他人给你发的消息，点击打开 Text 进行回复。点Text 推送栏右上角的&quot;X&quot;后，消息就永久消失了。</p>
+
+<p>换句话说，如果你不主动发送消息的话，这枚 Text 将只存在于通知中心里，不自带信息存储功能，也颇有点文字阅后即焚的味道。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/9c6d296fe8f74bb6014b581c729f4646.png" alt=""></p>
+
+<p>月初，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213306.html">MG Siegler 曾提到过</a>：“大部分 App 未来都不用打开，它们可直接通过通知中心来完成信息获取和交互。”当时，他以锁屏式匿名聊天应用 WUT 为例，表明这类 App 都有一个非常重要的特性：你在通知中心所看到的，就是它所传达的主要信息。</p>
+
+<p>而现在，至少我们能看到的这类应用已经开始逐渐涌现，比如<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213897.html">今天获得150万美元种子轮融资</a>、<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213906.html">有发展成推送平台潜力</a>的 Yo，还有今天这枚 Text。</p>
+
+<p>未来，类似的应用应该还会有更多，而这一批新的产品相较与之对应的传统的那一套产品，操作上要更为高效(你只用通知中心)、设计上更为简洁(一次做好一件事情)、内容上更为真实(阅后即焚，无记录，无负担)。</p>
+
+<p><em>P.S. 如果你对Text 也有兴趣，可以加我：guo</em></p>
+
+<p><strong>关于「氪星人的应用」：该栏目旨在给用户推荐好玩、有趣、试用过后想说 Wow! 的应用。同时，也欢迎大家关注 “氪星人的应用”(krapps) 微信公众账号，我们每天会给大家推荐一枚。如果你有想要推荐给其他用户的应用，也可以直接在微信中回复哦！</strong></p><br>                    <p>[<span>36氪</span>原创文章，作者: 果子]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213917.html" target="_blank" rel="external">Text : 你只能在通知中心里查看好友消息，阅后即焚</a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/us/app/text./id877756966" target="_blank" rel="external">Text</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[蒲公英]]></title>
@@ -576,46 +622,6 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/213759.html" target="_blank" rel="external">微信公共号开发商“点点客”融资2500万元，未来深挖垂直领域并尝试微信代运营</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.dodoca.com/" target="_blank" rel="external">点点客</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[有柚]]></title>
-    <link href="http://luoguochun.cn/2014/07/18/%E6%9C%89%E6%9F%9A/"/>
-    <id>http://luoguochun.cn/2014/07/18/有柚/</id>
-    <published>2014-07-17T16:00:00.000Z</published>
-    <updated>2014-07-18T04:57:42.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/d77685c42a4f22580ac06a3fd41a56be.png" alt=""></p>
-
-<p>国内用户，尤其是白领女性对健康减肥一直很重视，如今移动互联网深入的同时，不仅用户O2O的购物习惯形成、外卖O2O市场也开始兴起。而且加上美食送、顺丰“生鲜速配服务”等生鲜配送行业趋于完善，使得像有柚这种健康功能餐成为可能。</p>
-
-<p><a target="_blank" data-no-turbolink="true" href="http://uudiet.cn/">有柚</a>是一款高效保证健康、快速瘦身的系列功能餐外卖。提前预定一个周期的产品，在这个期间的每天下午会收到第二天一整天的功能餐，通过沙拉、三明治等一些简单的形式，不仅保证了低油低盐低脂，同时也满足了日常所必须的基本热量。为了验证效果，我体验了下，虽然对于男生会出现一些饥饿感，但一周后体重减轻2.8kg，体脂肪率减少0.7%。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/8b00902c932ef9ceb43a4f51a4a77124.png" alt=""></p>
-
-<p>有柚创始人赵银实表示，以快时尚的方式做餐饮，是一个全新的尝试，而有柚这样子的“预定周配模式”相对于传统餐饮损耗少，而且这种提前付费对于现金流也是一个充分的保障。目前市场上类似的健康外卖产品有<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/JuiceUp">JuiceUp</a>、<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/Hey-Juice">HeyJuice</a>等果汁类产品。相对于这些产品，有柚作为完整的餐品来说，样式多、品类多，这样也给物流环节带来很多困难，虽然委托第三方运送，但是有柚还得承担由中央厨房到第三方物流区域配送点的运送任务。</p>
-
-<p>对于赵银实来说，从一张大厨的菜单和自家厨房开始到每月一百五十单左右的规模，去年十月份开始积累的经验是值得肯定的，不仅建立了完善的制作体系，而且在这个的基础上得到的用户的数据和需求对于整个有柚的走向也是至关重要的。</p>
-
-<p>有柚现在主打的两款产品是瘦身功能餐，接下来可能根据需求会与健身营养师合作推出健身功能餐、排毒养颜流食功能餐等适合其他不同人群使用的产品。规模方面，接下来会在一些偏远地区，开放小规模的体验店，供顾客随时参观品尝。</p>
-
-<p>相对于国内刚刚兴起的健康外卖，韩国和美国走的更远，韩国的Eatsslim突出减肥盒饭这一概念，主打办公室女性等市场，与有柚现在产品类似。而美国的FreshDiet则可以根据用户的需求，真正做到让大厨在特定的阶段保证特定营养、定制化的菜单。</p>
-
-<p>赵银实表示，美国韩国等市场相对成熟，包括美国老牌diettogo以及福布斯2013年最有潜力的公司freshdiet，巨大的海外瘦身餐外卖市场已形成几巨头领跑，品牌杂多的竞争格局。对于国内未来的市场，如何更好的接触到真正自己的用户，如何做出差异化，如何做出自己的品牌等问题，可能是接下来最值得大家思考的问题了。</p>
-
-<p>目前，有柚正在氪加平台上<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/product/finance">挂牌融资</a>。</p><br>                    <p>[<span>36氪</span>原创文章，作者: ker]</p><br>                    <p>AD：<a href="http://cnrdn.com/GJWE" target="_blank">云之家</a>，一种新的工作方式。</p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213788.html" target="_blank" rel="external">以快时尚的方式做餐饮，有柚尝试瘦身功能餐外卖</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://uudiet.cn/" target="_blank" rel="external">有柚</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

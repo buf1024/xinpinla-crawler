@@ -2,23 +2,13 @@ title: 关于
 date: 2014-06-24 16:17:24
 ---
 
-### 关于
+为了*好玩*而写一些东西:  
+- [xinpinla-crawler](http://luoguochun.cn/xinpinla-crawler/)  
+  从[新品啦](http://xinpinla.com)爬取数据，然后在以下页面（搜索网络待完善）搜索结果:  
 
-普通码农一枚，感觉除了编码外不知道能干什么会干什么。  
+  - [36氪--关注互联网创业官网](http://www.36kr.com)
 
-目前从事基于Linux/Unix的C/C++服务端开发，当然用过各种各样的开发工具。
-
-曾从事Win32开发近2年，2年的Win32开发经验收获甚大，虽然某些公司不屑一顾。
-
-技术兴趣甚广，涉猎甚泛，泛则不精，觉得没非常必要了解精髓，用到了自然会去了解。
-
-记忆力爆弱，学习能力较强，接触后能挖到一定深度，然后忘记。
-
-相信简单的哲学，崇尚“talk is cheap, show me/you the code”。
+ 对于搜索不到的数据，则使用[新品啦](http://xinpinla.com)的简略数据。通过[hexo](http://hexo.io)生成[github pages](http://pages.github.com)，并部署在[github](https://github.com)上面。爬虫程序部署在[树莓派](http://www.raspberrypi.org)上面，通过自己写的[mysch](https://github.com/buf1024/mysch)调度监控。爬虫程序源码[xinpinla-crawler](https://github.com/buf1024/xinpinla-crawler)。  
 
 
-### 联系方式
-
-邮箱： [buf1024@gmail.com](mailto:buf1024@gmail)  
-站点： [http://luoguochun.cn](http://luoguochun.cn)
 

@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-21T01:09:01.139Z</updated>
+  <updated>2014-07-21T03:15:05.750Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,59 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Flightradar24.com]]></title>
-    <link href="http://luoguochun.cn/2014/07/21/Flightradar24.com/"/>
-    <id>http://luoguochun.cn/2014/07/21/Flightradar24.com/</id>
+    <title><![CDATA[FullStory]]></title>
+    <link href="http://luoguochun.cn/2014/07/21/FullStory/"/>
+    <id>http://luoguochun.cn/2014/07/21/FullStory/</id>
     <published>2014-07-20T16:00:00.000Z</published>
-    <updated>2014-07-20T16:30:18.000Z</updated>
-    <content type="html"><![CDATA[<p>实时飞机跟踪  </p>
-<p>更多详情请参考相关网站 <a href="http://www.flightradar24.com/" target="_blank" rel="external">Flightradar24.com</a>  </p>
+    <updated>2014-07-20T16:30:26.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/94c908bbf557d35efc1303e4cc69fe09.png" alt=""></p>
+
+<p>在设计产品功能的时候，如何可以根据客观的用户需求和行为分析结果来设计？而不是主观臆断：“嗯，我觉得这个功能很赞所以用户一定也喜欢”……</p>
+
+<p><a target="_blank" data-no-turbolink="true" href="https://www.fullstory.com">Fullstory</a>的想法是，只有通过<strong>录屏</strong>记录用户在网站上的使用路径，才能真正客观地反应他们的真实想法，因为他们所说的需求往往不是他们所做的那样。因此Fullstory提供了内嵌的代码，将这段嵌入到网页中，它就可以自动为用户的行为录屏，方便产品锦鲤在上线或者迭代新功能时了解用户的反馈。</p>
+
+<p>当然，Fullstory除了录屏之外，还提供用户单点行为的记录数据，比如用户在浏览页面时的点击、滑动、跳转行为，并且Fullstory还可以把这些单点行为串联起来，梳理出用户的行为路径逻辑。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/75092d0311301fa3e7cb7927a283f56b.png" alt=""></p>
+
+<p>其实这类追踪工具已经有不少人做过了，我们之前<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/t/202611">报道过</a>YC孵化的Heap也是想追踪用户轨迹，但没有录屏的功能。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213909.html" target="_blank" rel="external">用户们都是怎么使用你产品的你造吗？Fullstory想为所有用户行为录屏</a>  </p>
+<p>更多详情请参考相关网站 <a href="https://www.fullstory.com/" target="_blank" rel="external">FullStory</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[简书]]></title>
+    <link href="http://luoguochun.cn/2014/07/21/%E7%AE%80%E4%B9%A6/"/>
+    <id>http://luoguochun.cn/2014/07/21/简书/</id>
+    <published>2014-07-20T16:00:00.000Z</published>
+    <updated>2014-07-21T03:12:39.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/0b4b2d8487c4e28ee953d22175706097.jpg" alt=""></p>
+
+<p>国内类Medium博客平台“<a target="_blank" data-no-turbolink="true" href="http://jianshu.io/">简书</a>”刚刚获得500万人民币天使轮融资，投资方为戈壁。</p>
+
+<p>不管是<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208436.html">Medium</a>、writings.io（该网站已关闭，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206974.html">其创始人讲述了失败的原因</a>）、<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/209449.html">Svbtle</a>还是“简书”，目的都是为用户营造一种沉浸式的写作环境，杂志般的阅读体验。跟Medium的Collections类似，用户也可以订阅不同的专题和某作者的文集。无论从篇幅、还是排版设计上都更像是一本杂志。写作后台的编辑手法可以概括为“满足文字写作的刚需”。简书也推出了<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/jian-shu/id888237539?mt=8">移动端产品</a>，跟Medium一样，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/210566.html">只能读，不能写</a>。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/66d1c23f96055aced0dce60e0bdbf602.jpg" alt=""></p>
+
+<p>文字创作如何转化成商业价值自版权概念诞生以来都是不得不考虑的问题，也是一个平台得以向产业链上下游拓展的关键。这次“简书”正式上线了“作者成书计划”，仅保留在线发行权，有一定写作量的作者可以申请该计划，它会选择一些比较成熟的电子读物分发平台帮作者出版。此外，“简书”还开始向用户放开了专题编辑权限，这意味着每个人都可以是充当“杂志”编辑的角色。简书告诉<span>36氪</span>，下一步希望引入更多的名人作者到平台上来，并进一营造社区氛围，以挖掘用户更多的潜在需求。</p>
+
+<p>此次融资，“简书”将着重发展其移动端版本，目前仅有iOS版本，Android 版将于1月左右后上线。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213520.html" target="_blank" rel="external">类Medium服务“简书”获500万人民币天使融资，推出“成书计划”探索商业化之路</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://jianshu.io/" target="_blank" rel="external">简书</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -247,6 +293,24 @@
   </entry>
   
   <entry>
+    <title><![CDATA[卷皮网]]></title>
+    <link href="http://luoguochun.cn/2014/07/21/%E5%8D%B7%E7%9A%AE%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/07/21/卷皮网/</id>
+    <published>2014-07-20T16:00:00.000Z</published>
+    <updated>2014-07-21T01:06:39.000Z</updated>
+    <content type="html"><![CDATA[<p>电商导购平台  </p>
+<p>更多详情请参考相关网站 <a href="http://www.juanpi.com/" target="_blank" rel="external">卷皮网</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[一路财富年轻人的理财首选,让理财简单点，再简单点]]></title>
     <link href="http://luoguochun.cn/2014/07/21/%E4%B8%80%E8%B7%AF%E8%B4%A2%E5%AF%8C%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%90%86%E8%B4%A2%E9%A6%96%E9%80%89,%E8%AE%A9%E7%90%86%E8%B4%A2%E7%AE%80%E5%8D%95%E7%82%B9%EF%BC%8C%E5%86%8D%E7%AE%80%E5%8D%95%E7%82%B9/"/>
     <id>http://luoguochun.cn/2014/07/21/一路财富年轻人的理财首选,让理财简单点，再简单点/</id>
@@ -427,27 +491,45 @@
   </entry>
   
   <entry>
-    <title><![CDATA[FullStory]]></title>
-    <link href="http://luoguochun.cn/2014/07/21/FullStory/"/>
-    <id>http://luoguochun.cn/2014/07/21/FullStory/</id>
+    <title><![CDATA[蜜芽宝贝]]></title>
+    <link href="http://luoguochun.cn/2014/07/21/%E8%9C%9C%E8%8A%BD%E5%AE%9D%E8%B4%9D/"/>
+    <id>http://luoguochun.cn/2014/07/21/蜜芽宝贝/</id>
     <published>2014-07-20T16:00:00.000Z</published>
-    <updated>2014-07-20T16:30:26.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/94c908bbf557d35efc1303e4cc69fe09.png" alt=""></p>
+    <updated>2014-07-21T03:12:40.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/c7ff97e80bf25700ec71e85c06d6d91d.png" alt=""><br><br>母婴电商<a target="_blank" data-no-turbolink="true" href="http://www.miyabaobei.com/">蜜芽宝贝</a>刚刚完成B轮融资，金额为2000万美元，创始人刘楠向我透露，B轮由红杉资本领投，真格基金和险峰华兴跟投。而交易完成后，红杉资本管理合伙人周逵则会进入蜜芽公司董事会。</p>
 
-<p>在设计产品功能的时候，如何可以根据客观的用户需求和行为分析结果来设计？而不是主观臆断：“嗯，我觉得这个功能很赞所以用户一定也喜欢”……</p>
+<p>蜜芽宝贝的千万级人民币A轮是由真格基金与险峰华兴投资的。</p>
 
-<p><a target="_blank" data-no-turbolink="true" href="https://www.fullstory.com">Fullstory</a>的想法是，只有通过<strong>录屏</strong>记录用户在网站上的使用路径，才能真正客观地反应他们的真实想法，因为他们所说的需求往往不是他们所做的那样。因此Fullstory提供了内嵌的代码，将这段嵌入到网页中，它就可以自动为用户的行为录屏，方便产品锦鲤在上线或者迭代新功能时了解用户的反馈。</p>
+<p>蜜芽宝贝最早是在2011年于淘宝上线，主要的商业模式是限时出售：每天在网站推荐热门的进口母婴产品，放在页面限时限量出售。根据之前官方给出的消息，蜜芽上线第一个月就突破千万销售额，每天订单1200单以上，月重复购买率44%。</p>
 
-<p>当然，Fullstory除了录屏之外，还提供用户单点行为的记录数据，比如用户在浏览页面时的点击、滑动、跳转行为，并且Fullstory还可以把这些单点行为串联起来，梳理出用户的行为路径逻辑。</p>
+<p>2013年，淘宝上的收益已经很好看了。这时候真格基金的徐小平和蜜芽宝贝创始人兼CEO刘楠聊起“出淘”的事儿，说：希望刘楠走出自己的Comfort Room。于是，蜜芽宝贝垂直电商在当年正式上线。</p>
 
-<p><img src="http://a.36krcnd.com/photo/2014/75092d0311301fa3e7cb7927a283f56b.png" alt=""></p>
+<p>关于运作模式，刘楠根据之前做妈妈的经验，总结了几个能解决母婴产品购买痛点的方法：</p>
 
-<p>其实这类追踪工具已经有不少人做过了，我们之前<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/t/202611">报道过</a>YC孵化的Heap也是想追踪用户轨迹，但没有录屏的功能。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
+<p><strong>1.海外产品引进，自建仓库物流</strong></p>
 
+<p><strong>解决痛点：</strong>海淘的繁琐，供应不足以及产品真假难以辨别。</p>
 
+<p>刘楠给我介绍，在分辨母婴产品真伪时，渠道是一个很好的判断指标。</p>
 
-<p>原文发表于 <a href="http://www.36kr.com/p/213909.html" target="_blank" rel="external">用户们都是怎么使用你产品的你造吗？Fullstory想为所有用户行为录屏</a>  </p>
-<p>更多详情请参考相关网站 <a href="https://www.fullstory.com/" target="_blank" rel="external">FullStory</a>  </p>
+<p><strong>2.根据妈妈们的投票来进货</strong></p>
+
+<p><strong>解决痛点：</strong>受欢迎的母婴产品常常没有在国内承销，导致口碑产品买不到。</p>
+
+<p><strong>3.限时抢购</strong></p>
+
+<p><strong>解决痛点：</strong>货物囤积；季节产品买不到或者不敢进货</p>
+
+<p>而且限时抢购在营销的角度，也是抓住了妈妈们给孩子囤货时候的跟风心理，更有吸引力。</p>
+
+<p>从成本控制和物流角度来看，做限时抢购还有几个好处：</p>
+
+<p><ul></ul></p>
+<p><li><p>先确认客户订单再进行商品采购、检测、包装、分发、物流等程序，可以缩短商品的平均在库时间，节省库存处理成本，提高了产品的毛利率，降低仓库和库存商品所占用的资本金；</p></li></p>
+<p><li><p>通过剥离品牌商、中间商、百货公司三层的成本，得以用一半的价格来吸引消费者；</p></li></p>
+<p><li><p>驱动客户重新参与，增加回访率；</p></li><br><br>                    </p><p>[<span>36氪</span>原创文章，作者: Leah]</p><br>                    <p></p>  <p></p>
+<p>原文发表于 <a href="http://www.36kr.com/p/212090.html" target="_blank" rel="external">母婴电商蜜芽宝贝获得2000万美元B轮融资：主打热门+品牌+限时抢购</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.miyabaobei.com/" target="_blank" rel="external">蜜芽宝贝</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -459,13 +541,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[卷皮网]]></title>
-    <link href="http://luoguochun.cn/2014/07/21/%E5%8D%B7%E7%9A%AE%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/07/21/卷皮网/</id>
+    <title><![CDATA[Flightradar24.com]]></title>
+    <link href="http://luoguochun.cn/2014/07/21/Flightradar24.com/"/>
+    <id>http://luoguochun.cn/2014/07/21/Flightradar24.com/</id>
     <published>2014-07-20T16:00:00.000Z</published>
-    <updated>2014-07-21T01:06:39.000Z</updated>
-    <content type="html"><![CDATA[<p>电商导购平台  </p>
-<p>更多详情请参考相关网站 <a href="http://www.juanpi.com/" target="_blank" rel="external">卷皮网</a>  </p>
+    <updated>2014-07-20T16:30:18.000Z</updated>
+    <content type="html"><![CDATA[<p>实时飞机跟踪  </p>
+<p>更多详情请参考相关网站 <a href="http://www.flightradar24.com/" target="_blank" rel="external">Flightradar24.com</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -592,56 +674,6 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/91317.html" target="_blank" rel="external">移动应用“缘创派”帮创业者找创业伙伴</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.ycpai.com" target="_blank" rel="external">缘创派</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[点点客]]></title>
-    <link href="http://luoguochun.cn/2014/07/19/%E7%82%B9%E7%82%B9%E5%AE%A2/"/>
-    <id>http://luoguochun.cn/2014/07/19/点点客/</id>
-    <published>2014-07-18T16:00:00.000Z</published>
-    <updated>2014-07-19T07:38:28.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/5c780bb8070424f695c908115918fa96.jpg" alt=""></p>
-
-<p>7月10日晚间，据证监会发布的公告显示，<a target="_blank" data-no-turbolink="true" href="http://www.dodoca.com/">上海点客信息技术股份有限公司</a>（即点点客）定向增发融资2500万人民币。募集的资金主要用于企业微信公共号营销平台的研发和推广。参与增发的是两家国资机构，未来还会向另外一家国资机构进行千万级别定向增发。点点客成立于2007年，主要业务是为企业用户提供通信解决方案，2012年在新三板上市。</p>
-
-<p>点客信息此次获得融资，依靠的是微信营销管理系统。该系统为企业微信公共号提供包括页面设计、自定义菜单、图文推送、关键词回复、LBS、优惠券在内的支持。其产品的特点有所见即所得的编辑模式、微信易信平台一键兼容发布以及微信主页一键转换为App等。</p>
-
-<p>点客信息2013年的年报显示公司营收6800万元。CEO黄梦向<span>36氪</span>透露，他们去年才进入这一行业，但是目前公司营收中已经有超过50%来自于微信营销管理系统。“点点客”的计费模式是按照不同的行业和公司规模收取数千到数万元不等的年费。点点客目前面向餐饮、医疗、房产、汽车、政务等20个行业推出了公共号管理模板。</p>
-
-<p>目前从事微信第三方运营的公司数以千计，已经有免费的商业模式出现，微信本身也推出了“微信小店”来降低公共号运营和开发的门槛。对此黄梦的想法是要把已经进入的行业做精，不急于向其他行业扩张。在目前“点点客”微信业务的团队中，技术和运营人员大概各占一半。黄梦希望在已经形成优势的行业里，“点点客”的员工们可以进一步形成精耕细作的团队。</p>
-
-<p>开发除了公共号开发后台之外，“点点客”下一步计划向微信公共号提供代运营服务。他们在和企业接触的过程中，发现很多传统企业觉得培训员工的成本过高，希望直接把公共号运营业务直接外包。“点点客”计划在合肥基地建设代运营中心，建设5000个微信座席，目前已建成了200席。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Zuo]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213759.html" target="_blank" rel="external">微信公共号开发商“点点客”融资2500万元，未来深挖垂直领域并尝试微信代运营</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.dodoca.com/" target="_blank" rel="external">点点客</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[广告终结者]]></title>
-    <link href="http://luoguochun.cn/2014/07/19/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/"/>
-    <id>http://luoguochun.cn/2014/07/19/广告终结者/</id>
-    <published>2014-07-18T16:00:00.000Z</published>
-    <updated>2014-07-19T07:38:27.000Z</updated>
-    <content type="html"><![CDATA[<p>广告终结者可以清除所有网页广告，恶意弹窗，视频广告，跟踪代码，加快网页加载速度  </p>
-<p>更多详情请参考相关网站 <a href="http://adtchrome.com/" target="_blank" rel="external">广告终结者</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

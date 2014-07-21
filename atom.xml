@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-20T16:32:46.995Z</updated>
+  <updated>2014-07-21T01:09:01.139Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -13,6 +13,24 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Flightradar24.com]]></title>
+    <link href="http://luoguochun.cn/2014/07/21/Flightradar24.com/"/>
+    <id>http://luoguochun.cn/2014/07/21/Flightradar24.com/</id>
+    <published>2014-07-20T16:00:00.000Z</published>
+    <updated>2014-07-20T16:30:18.000Z</updated>
+    <content type="html"><![CDATA[<p>实时飞机跟踪  </p>
+<p>更多详情请参考相关网站 <a href="http://www.flightradar24.com/" target="_blank" rel="external">Flightradar24.com</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[蒲公英]]></title>
@@ -187,27 +205,37 @@
   </entry>
   
   <entry>
-    <title><![CDATA[FullStory]]></title>
-    <link href="http://luoguochun.cn/2014/07/21/FullStory/"/>
-    <id>http://luoguochun.cn/2014/07/21/FullStory/</id>
+    <title><![CDATA[去兜风]]></title>
+    <link href="http://luoguochun.cn/2014/07/21/%E5%8E%BB%E5%85%9C%E9%A3%8E/"/>
+    <id>http://luoguochun.cn/2014/07/21/去兜风/</id>
     <published>2014-07-20T16:00:00.000Z</published>
-    <updated>2014-07-20T16:30:26.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/94c908bbf557d35efc1303e4cc69fe09.png" alt=""></p>
+    <updated>2014-07-20T16:30:25.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/35c42ab3a61f3ffd795d006f51dac3f8.jpg" alt=""></p>
 
-<p>在设计产品功能的时候，如何可以根据客观的用户需求和行为分析结果来设计？而不是主观臆断：“嗯，我觉得这个功能很赞所以用户一定也喜欢”……</p>
+<p>“也许大多数人都去不了‘7+2’（指攀登七大洲最高峰，且徒步到达南北两极点的极限探险活动），无法亲自站在世界的各个极限点，但这丝毫不影响我们想去了解这个星球的热情。”</p>
 
-<p><a target="_blank" data-no-turbolink="true" href="https://www.fullstory.com">Fullstory</a>的想法是，只有通过<strong>录屏</strong>记录用户在网站上的使用路径，才能真正客观地反应他们的真实想法，因为他们所说的需求往往不是他们所做的那样。因此Fullstory提供了内嵌的代码，将这段嵌入到网页中，它就可以自动为用户的行为录屏，方便产品锦鲤在上线或者迭代新功能时了解用户的反馈。</p>
+<p>这是去兜风团队在发给我们的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/report">寻求报道</a>资料里写的一句话，因为被这个理念吸引，才有了这篇文章。对于我这样的用户来说，攀岩、浮潜、攀冰可能是太过专业和高难度乃至一生都少有勇气和机会去尝试的项目，但是接触自然却是每个人不应该被剥夺的权利，所以那些带有小小挑战、门槛更低、更大众化的去户外接触大自然的项目就会很吸引我，<a target="_blank" data-no-turbolink="true" href="http://7doufeng.com/">“去兜风”</a>提供的就是这样的“探索旅游”产品。</p>
 
-<p>当然，Fullstory除了录屏之外，还提供用户单点行为的记录数据，比如用户在浏览页面时的点击、滑动、跳转行为，并且Fullstory还可以把这些单点行为串联起来，梳理出用户的行为路径逻辑。</p>
+<p><img src="http://a.36krcnd.com/photo/2014/160b74ba1d521ba942c015b4e5957f99.png" alt=""></p>
 
-<p><img src="http://a.36krcnd.com/photo/2014/75092d0311301fa3e7cb7927a283f56b.png" alt=""></p>
+<p>去兜风是一个提供独特户外探索体验的精选信息和预订平台，他们通过和国外成熟的户外探险公司建立联系，将优质的目的地旅游产品信息精选出来提供给用户，比如用户可以找到“到新西兰徒步寻找地热奇观”、“埃及尼罗河巡游红海潜水”、“攀登非洲最高峰乞力马扎罗”等等很特别的项目。“去兜风”会根据项目难度进行一个体力分级，并列出线路详情和当地景色的视频，给用户提供参考。</p>
 
-<p>其实这类追踪工具已经有不少人做过了，我们之前<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/t/202611">报道过</a>YC孵化的Heap也是想追踪用户轨迹，但没有录屏的功能。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
+<p>最后用户可以在去兜风上完成产品预订、支付费用。去兜风拿到用户需求后会提交到国外供应商处，在2-3天的时间内确认订单。未来他们打算给当地探险公司提供技术对接系统，以缩短整体预订时长。而由于去兜风直接和探险公司（而非提供旅游产品的公司）对接，少了中间加价，所以在去兜风上一般两人预订的价格可以和当地参团的价格一致甚至略低一些。</p>
+
+<p>其实目前来说，户外探索项目对于国人而言还不像参团或者去比较大众的路线自由行那么普及，因此去兜风会在用户指引上下一些功夫，比如在出行前几个月给用户锻炼的建议，让他们可以在出行前满足届时户外运动的体力需求，比如他们会尽量要求供应商在当地接送用户，不让出行的衔接过程出错。未来他们还会提供“约伴”的出行服务。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/9bd639315ccef6662d1af7ada88521b8.png" alt=""></p>
+
+<p>现阶段国内提供户外旅行产品预订的还有绿野旅行网，他们以旅游线路、户外领队为主，商业上是由<strong>供应商提供线路产品</strong>的模式，而在户外圈很知名的论坛8264也推出了“去哪玩”，主要提供<strong>自营</strong>的户外线路产品，另外还有南方的“磨房”，其盈利模式和绿野接近。国外的同类网站则有<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/t/202374">zozi</a>，他们为北美20多个城市提供服务，出行人数100多万，至今总共获得了1750万美元的风险投资。</p>
+
+<p>去兜风的联合创始人彭缔告诉我，目前国内的户外旅行行业还很初级，周边的配套设施也跟不上，比如在国外攀登乞力马扎罗山还可以住小木屋，但是如果在国内登四姑娘山，就只能自带帐篷，包括周边的自然条件也不成熟，这也是他们先选择了从国外的目的地产品信息精选这一角度入手的原因。另外国内的户外行业政策不明朗也是行业没有爆发的一大原因，如果未来标准的政策出台了，应该会有很多创业公司涌现出来。</p>
+
+<p>去兜风已经获得了100万元的天使投资，目前正在<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/">氪加</a>上挂牌进行<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/7doufeng">Pre-A轮的在线融资</a>。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
 
 
 
-<p>原文发表于 <a href="http://www.36kr.com/p/213909.html" target="_blank" rel="external">用户们都是怎么使用你产品的你造吗？Fullstory想为所有用户行为录屏</a>  </p>
-<p>更多详情请参考相关网站 <a href="https://www.fullstory.com/" target="_blank" rel="external">FullStory</a>  </p>
+<p>原文发表于 <a href="http://www.36kr.com/p/213824.html" target="_blank" rel="external">休假了去冰岛步道徒个步？目的地探索旅行提供商“去兜风”正探索细分场景的旅游机会</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://7doufeng.com/" target="_blank" rel="external">去兜风</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -399,13 +427,27 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Flightradar24.com]]></title>
-    <link href="http://luoguochun.cn/2014/07/21/Flightradar24.com/"/>
-    <id>http://luoguochun.cn/2014/07/21/Flightradar24.com/</id>
+    <title><![CDATA[FullStory]]></title>
+    <link href="http://luoguochun.cn/2014/07/21/FullStory/"/>
+    <id>http://luoguochun.cn/2014/07/21/FullStory/</id>
     <published>2014-07-20T16:00:00.000Z</published>
-    <updated>2014-07-20T16:30:18.000Z</updated>
-    <content type="html"><![CDATA[<p>实时飞机跟踪  </p>
-<p>更多详情请参考相关网站 <a href="http://www.flightradar24.com/" target="_blank" rel="external">Flightradar24.com</a>  </p>
+    <updated>2014-07-20T16:30:26.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/94c908bbf557d35efc1303e4cc69fe09.png" alt=""></p>
+
+<p>在设计产品功能的时候，如何可以根据客观的用户需求和行为分析结果来设计？而不是主观臆断：“嗯，我觉得这个功能很赞所以用户一定也喜欢”……</p>
+
+<p><a target="_blank" data-no-turbolink="true" href="https://www.fullstory.com">Fullstory</a>的想法是，只有通过<strong>录屏</strong>记录用户在网站上的使用路径，才能真正客观地反应他们的真实想法，因为他们所说的需求往往不是他们所做的那样。因此Fullstory提供了内嵌的代码，将这段嵌入到网页中，它就可以自动为用户的行为录屏，方便产品锦鲤在上线或者迭代新功能时了解用户的反馈。</p>
+
+<p>当然，Fullstory除了录屏之外，还提供用户单点行为的记录数据，比如用户在浏览页面时的点击、滑动、跳转行为，并且Fullstory还可以把这些单点行为串联起来，梳理出用户的行为路径逻辑。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/75092d0311301fa3e7cb7927a283f56b.png" alt=""></p>
+
+<p>其实这类追踪工具已经有不少人做过了，我们之前<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/t/202611">报道过</a>YC孵化的Heap也是想追踪用户轨迹，但没有录屏的功能。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213909.html" target="_blank" rel="external">用户们都是怎么使用你产品的你造吗？Fullstory想为所有用户行为录屏</a>  </p>
+<p>更多详情请参考相关网站 <a href="https://www.fullstory.com/" target="_blank" rel="external">FullStory</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -417,37 +459,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[去兜风]]></title>
-    <link href="http://luoguochun.cn/2014/07/21/%E5%8E%BB%E5%85%9C%E9%A3%8E/"/>
-    <id>http://luoguochun.cn/2014/07/21/去兜风/</id>
+    <title><![CDATA[卷皮网]]></title>
+    <link href="http://luoguochun.cn/2014/07/21/%E5%8D%B7%E7%9A%AE%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/07/21/卷皮网/</id>
     <published>2014-07-20T16:00:00.000Z</published>
-    <updated>2014-07-20T16:30:25.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/35c42ab3a61f3ffd795d006f51dac3f8.jpg" alt=""></p>
-
-<p>“也许大多数人都去不了‘7+2’（指攀登七大洲最高峰，且徒步到达南北两极点的极限探险活动），无法亲自站在世界的各个极限点，但这丝毫不影响我们想去了解这个星球的热情。”</p>
-
-<p>这是去兜风团队在发给我们的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/report">寻求报道</a>资料里写的一句话，因为被这个理念吸引，才有了这篇文章。对于我这样的用户来说，攀岩、浮潜、攀冰可能是太过专业和高难度乃至一生都少有勇气和机会去尝试的项目，但是接触自然却是每个人不应该被剥夺的权利，所以那些带有小小挑战、门槛更低、更大众化的去户外接触大自然的项目就会很吸引我，<a target="_blank" data-no-turbolink="true" href="http://7doufeng.com/">“去兜风”</a>提供的就是这样的“探索旅游”产品。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/160b74ba1d521ba942c015b4e5957f99.png" alt=""></p>
-
-<p>去兜风是一个提供独特户外探索体验的精选信息和预订平台，他们通过和国外成熟的户外探险公司建立联系，将优质的目的地旅游产品信息精选出来提供给用户，比如用户可以找到“到新西兰徒步寻找地热奇观”、“埃及尼罗河巡游红海潜水”、“攀登非洲最高峰乞力马扎罗”等等很特别的项目。“去兜风”会根据项目难度进行一个体力分级，并列出线路详情和当地景色的视频，给用户提供参考。</p>
-
-<p>最后用户可以在去兜风上完成产品预订、支付费用。去兜风拿到用户需求后会提交到国外供应商处，在2-3天的时间内确认订单。未来他们打算给当地探险公司提供技术对接系统，以缩短整体预订时长。而由于去兜风直接和探险公司（而非提供旅游产品的公司）对接，少了中间加价，所以在去兜风上一般两人预订的价格可以和当地参团的价格一致甚至略低一些。</p>
-
-<p>其实目前来说，户外探索项目对于国人而言还不像参团或者去比较大众的路线自由行那么普及，因此去兜风会在用户指引上下一些功夫，比如在出行前几个月给用户锻炼的建议，让他们可以在出行前满足届时户外运动的体力需求，比如他们会尽量要求供应商在当地接送用户，不让出行的衔接过程出错。未来他们还会提供“约伴”的出行服务。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/9bd639315ccef6662d1af7ada88521b8.png" alt=""></p>
-
-<p>现阶段国内提供户外旅行产品预订的还有绿野旅行网，他们以旅游线路、户外领队为主，商业上是由<strong>供应商提供线路产品</strong>的模式，而在户外圈很知名的论坛8264也推出了“去哪玩”，主要提供<strong>自营</strong>的户外线路产品，另外还有南方的“磨房”，其盈利模式和绿野接近。国外的同类网站则有<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/t/202374">zozi</a>，他们为北美20多个城市提供服务，出行人数100多万，至今总共获得了1750万美元的风险投资。</p>
-
-<p>去兜风的联合创始人彭缔告诉我，目前国内的户外旅行行业还很初级，周边的配套设施也跟不上，比如在国外攀登乞力马扎罗山还可以住小木屋，但是如果在国内登四姑娘山，就只能自带帐篷，包括周边的自然条件也不成熟，这也是他们先选择了从国外的目的地产品信息精选这一角度入手的原因。另外国内的户外行业政策不明朗也是行业没有爆发的一大原因，如果未来标准的政策出台了，应该会有很多创业公司涌现出来。</p>
-
-<p>去兜风已经获得了100万元的天使投资，目前正在<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/">氪加</a>上挂牌进行<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/7doufeng">Pre-A轮的在线融资</a>。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213824.html" target="_blank" rel="external">休假了去冰岛步道徒个步？目的地探索旅行提供商“去兜风”正探索细分场景的旅游机会</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://7doufeng.com/" target="_blank" rel="external">去兜风</a>  </p>
+    <updated>2014-07-21T01:06:39.000Z</updated>
+    <content type="html"><![CDATA[<p>电商导购平台  </p>
+<p>更多详情请参考相关网站 <a href="http://www.juanpi.com/" target="_blank" rel="external">卷皮网</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -502,6 +520,42 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/213869.html" target="_blank" rel="external">有没有比移动电源更好的电源方案？InkCase Plus给手机增加第二屏幕来节电</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.oaxis.com/cn/" target="_blank" rel="external">InkCase Plus</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[蒲公英]]></title>
+    <link href="http://luoguochun.cn/2014/07/19/%E8%92%B2%E5%85%AC%E8%8B%B1/"/>
+    <id>http://luoguochun.cn/2014/07/19/蒲公英/</id>
+    <published>2014-07-18T16:00:00.000Z</published>
+    <updated>2014-07-19T07:38:27.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://static.36kr.com/wp-content/uploads/2011/04/dandelion2.jpg" alt=""></p>
+
+<p>编者按：本文由硅谷创业家 <a target="_blank" data-no-turbolink="true" href="http://www.about.me/semilshah">Semil Shah</a>撰写，他在文中同大家分享了自己对种子投资的看法，以及他所推崇的“<br><br><strong>种子投资的蒲公英效应</strong><br><br>”理论。文章值得一读，以下为<br><br><strong>正文部分</strong><br><br>：</p>
+
+<p>我经常听到创业者所说的两句话就是：<br><br><strong>1.我正在找一个技术联合创始人；2.</strong><br><br><strong>我们正在招聘工程师，开发者和设计师</strong><br><br>。不过除非他们有非常好的渠道，否则招聘行动完全依靠运气，甚至招到好的人才的可能性也不高。那些需要寻找技术联合创始人的创业者如果不采取外包或者自学编程可能很难将自己的创意付诸实施；而那些已经拿到了种子投资的创业者寻找技术人才的过程也将既耗时又耗力，而投资者投给他们做产品的钱也都被花在寻找人才上了。不过尽管许多新公司都在争抢人才，最后肯定只有其中少数能够步入到真正的A轮融资阶段。其他的要么仍是 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/myspace-bleak-project-numbers/">勉强度日</a>，要么 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/stylehop-start-ups-last-before-closing-review/">关门大吉</a>，而他们旗下的那些技术人才则会再次流入劳动市场。</p>
+
+<p>在这个过程中，许许多多的力量都会参与进来。比如说线上活动的成本已经大幅降低，社交平台的发展使得产品推广变得更加迅速，而且受到应用创新的影响，宏观经济产业也已经开始发生变革，<br><br><strong>普通大众创建下一个<br><br>Facebook</strong><br><br><strong>的激情都已经被彻底点燃了</strong><br><br>。此外，与之相伴的则是 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/this-tech-bubble-is-different-part-5/">大量的资本会涌入到种子投资阶段</a>，以期抢到下一个Facebook。那么这么多的公司和这么多的种子投资涌入会造成一个什么样的结果呢？有人会说我们已经到了一个“种子投资的泡沫”阶段，但我认为这么说不太对，我觉得将之称作“种子投资的蒲公英效应”更加合理。</p>
+
+<p>事实上，当一个真正的泡沫破灭时，肯定会有许许多多的参与者甚至宏观经济都会受到巨大的负面影响。但是在种子投资方面，大部分的创业公司都不会存活到<br><br>A轮融资阶段，所以其带来的消极影响是可控的而且不会延伸到经济的其他领域。虽然也确实会有一些投资者蒙受到损失，但是他们在投资之初就应该知道其行为的高风险性，而且也并没有人逼迫他们作出这样的投资决定。<br><br><strong>我所说的“种子投资的蒲公英效应”具体可以这样看</strong><strong>——</strong><br><br><strong>那些失败的创业公司中的许多人才都会再次转移到这个创业生态系统的其他部分中去，而且由于具备了创业经验，在新的项目中他们会 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/are-you-a-pirate/">表现得更富胆识和创新</a></strong><br><br>。最近我就听说到这样一个例子：一家融资接近100万美元的创业公司倒闭了，该公司的4位工程师就都踏上了不同的道路。甲去了一家技术巨头，乙去了一家风投公司，丙开始了一个全新的项目，丁则加盟了一家已经拿到A轮融资的创业公司。这个故事就很好的说明了人才的多样化选择，以前他们被集中在某个创业公司中，但是现在该公司关门了，他们则自由的进入到了这个创业生态圈的其他部分。</p>
+
+<p>事实上，我并不是以一种消极的态度来分享这个故事的，恰恰相反，这个故事很积极。其一，这些人才还可以去到其他许许多多已经拿到了种子投资的创业公司中；其二， <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/google-q1-2011-earnings/">许多的互联网技术巨头也都在招聘</a>。其三，有一些已经拿到<br><br>A轮融资并且开始同巨头公司展开竞争的 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/foursquare-wants-to-help-googlers-to-get-massive-counteroffers-too/">创业公司也需要大量的招聘人才</a>。</p>
+
+<p>所有的这些因素作用尽管在短期内也会造成一些波动，但是在长期来看却是对整个生态系统都是有利的，而且还会促进人才向技术市场集中。所以在我看来，<br><br><strong>种子投资和创业公司不会像泡沫一样被捅破，而是会像许许多多的蒲公英一样，随风到处飘荡，然后落在合适的地里，再生根发芽，开出一朵朵更加鲜艳的希望之花</strong><br><br>。</p>
+
+<p>Via  <a target="_blank" data-no-turbolink="true" href="http://techcrunch.com/2011/04/19/the-seed-stage-dandelion-effect/">TC</a><br><br> </p><br>                    <p></p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/21778.html" target="_blank" rel="external">种子投资的蒲公英效应</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://pgyer.com/" target="_blank" rel="external">蒲公英</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -588,42 +642,6 @@
     <updated>2014-07-19T07:38:27.000Z</updated>
     <content type="html"><![CDATA[<p>广告终结者可以清除所有网页广告，恶意弹窗，视频广告，跟踪代码，加快网页加载速度  </p>
 <p>更多详情请参考相关网站 <a href="http://adtchrome.com/" target="_blank" rel="external">广告终结者</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[天蓝村零食订购服务]]></title>
-    <link href="http://luoguochun.cn/2014/07/19/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
-    <id>http://luoguochun.cn/2014/07/19/天蓝村零食订购服务/</id>
-    <published>2014-07-18T16:00:00.000Z</published>
-    <updated>2014-07-19T07:38:30.000Z</updated>
-    <content type="html"><![CDATA[<p>按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包  </p>
-<p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[友群是一款以群聊为核心的移动社交产品]]></title>
-    <link href="http://luoguochun.cn/2014/07/19/%E5%8F%8B%E7%BE%A4%E6%98%AF%E4%B8%80%E6%AC%BE%E4%BB%A5%E7%BE%A4%E8%81%8A%E4%B8%BA%E6%A0%B8%E5%BF%83%E7%9A%84%E7%A7%BB%E5%8A%A8%E7%A4%BE%E4%BA%A4%E4%BA%A7%E5%93%81/"/>
-    <id>http://luoguochun.cn/2014/07/19/友群是一款以群聊为核心的移动社交产品/</id>
-    <published>2014-07-18T16:00:00.000Z</published>
-    <updated>2014-07-19T07:38:31.000Z</updated>
-    <content type="html"><![CDATA[<p>友群是一款以群聊为核心的移动社交产品。  你可以通过选择自己喜欢的标签，来加入附近同样标签的人组成的群组，与和你同样爱好的人一起聊天。  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/you-qun-rang-wo-men-zhong/id822546925?mt=8" target="_blank" rel="external">友群是一款以群聊为核心的移动社交产品</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

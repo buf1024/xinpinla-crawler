@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-22T02:26:15.884Z</updated>
+  <updated>2014-07-22T04:44:44.628Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,103 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Pingly]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/Pingly/"/>
-    <id>http://luoguochun.cn/2014/07/22/Pingly/</id>
+    <title><![CDATA[码农周刊]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/%E7%A0%81%E5%86%9C%E5%91%A8%E5%88%8A/"/>
+    <id>http://luoguochun.cn/2014/07/22/码农周刊/</id>
     <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-22T02:23:46.000Z</updated>
-    <content type="html"><![CDATA[<p>一个新的基于邮件的信息平台  </p>
-<p>更多详情请参考相关网站 <a href="http://pingly.me/" target="_blank" rel="external">Pingly</a>  </p>
+    <updated>2014-07-22T04:42:12.000Z</updated>
+    <content type="html"><![CDATA[<p>一份专为程序员打造的IT技术周刊，精选一周IT技术干货，每周五发送。  </p>
+<p>更多详情请参考相关网站 <a href="http://weekly.manong.io/" target="_blank" rel="external">码农周刊</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[我家Family]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/%E6%88%91%E5%AE%B6Family/"/>
+    <id>http://luoguochun.cn/2014/07/22/我家Family/</id>
+    <published>2014-07-21T16:00:00.000Z</published>
+    <updated>2014-07-22T04:42:12.000Z</updated>
+    <content type="html"><![CDATA[<p>Family 做最好的家庭照片分享  </p>
+<p>更多详情请参考相关网站 <a href="http://www.familyday.com.cn/" target="_blank" rel="external">我家Family</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[TeaHour]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/TeaHour/"/>
+    <id>http://luoguochun.cn/2014/07/22/TeaHour/</id>
+    <published>2014-07-21T16:00:00.000Z</published>
+    <updated>2014-07-22T04:42:12.000Z</updated>
+    <content type="html"><![CDATA[<p>一个聚焦于编程、创业、极客的中文 Podcast  </p>
+<p>更多详情请参考相关网站 <a href="http://teahour.fm/" target="_blank" rel="external">TeaHour</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Socket.IO]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/Socket.IO/"/>
+    <id>http://luoguochun.cn/2014/07/22/Socket.IO/</id>
+    <published>2014-07-21T16:00:00.000Z</published>
+    <updated>2014-07-22T04:42:13.000Z</updated>
+    <content type="html"><![CDATA[<p>Socket.IO 发布 1.0 版本  </p>
+<p>更多详情请参考相关网站 <a href="http://socket.io/" target="_blank" rel="external">Socket.IO</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Last Ninja Pro]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/Last%20Ninja%20Pro/"/>
+    <id>http://luoguochun.cn/2014/07/22/Last Ninja Pro/</id>
+    <published>2014-07-21T16:00:00.000Z</published>
+    <updated>2014-07-22T04:42:13.000Z</updated>
+    <content type="html"><![CDATA[<p>类似于《涂鸦跳跃》的动作类小游戏，非自动跳跃  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/us/app/last-ninja-pro-endless-funny/id880612121?ls=1&amp;mt=8" target="_blank" rel="external">Last Ninja Pro</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[HOSTLOC]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/HOSTLOC/"/>
+    <id>http://luoguochun.cn/2014/07/22/HOSTLOC/</id>
+    <published>2014-07-21T16:00:00.000Z</published>
+    <updated>2014-07-22T04:42:13.000Z</updated>
+    <content type="html"><![CDATA[<p>美国服务器主机交流  </p>
+<p>更多详情请参考相关网站 <a href="http://www.hostloc.com/" target="_blank" rel="external">HOSTLOC</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -155,56 +245,6 @@
   </entry>
   
   <entry>
-    <title><![CDATA[简书]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/%E7%AE%80%E4%B9%A6/"/>
-    <id>http://luoguochun.cn/2014/07/22/简书/</id>
-    <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-21T17:06:55.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/0b4b2d8487c4e28ee953d22175706097.jpg" alt=""></p>
-
-<p>国内类Medium博客平台“<a target="_blank" data-no-turbolink="true" href="http://jianshu.io/">简书</a>”刚刚获得500万人民币天使轮融资，投资方为戈壁。</p>
-
-<p>不管是<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208436.html">Medium</a>、writings.io（该网站已关闭，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206974.html">其创始人讲述了失败的原因</a>）、<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/209449.html">Svbtle</a>还是“简书”，目的都是为用户营造一种沉浸式的写作环境，杂志般的阅读体验。跟Medium的Collections类似，用户也可以订阅不同的专题和某作者的文集。无论从篇幅、还是排版设计上都更像是一本杂志。写作后台的编辑手法可以概括为“满足文字写作的刚需”。简书也推出了<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/jian-shu/id888237539?mt=8">移动端产品</a>，跟Medium一样，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/210566.html">只能读，不能写</a>。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/66d1c23f96055aced0dce60e0bdbf602.jpg" alt=""></p>
-
-<p>文字创作如何转化成商业价值自版权概念诞生以来都是不得不考虑的问题，也是一个平台得以向产业链上下游拓展的关键。这次“简书”正式上线了“作者成书计划”，仅保留在线发行权，有一定写作量的作者可以申请该计划，它会选择一些比较成熟的电子读物分发平台帮作者出版。此外，“简书”还开始向用户放开了专题编辑权限，这意味着每个人都可以是充当“杂志”编辑的角色。简书告诉<span>36氪</span>，下一步希望引入更多的名人作者到平台上来，并进一营造社区氛围，以挖掘用户更多的潜在需求。</p>
-
-<p>此次融资，“简书”将着重发展其移动端版本，目前仅有iOS版本，Android 版将于1月左右后上线。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213520.html" target="_blank" rel="external">类Medium服务“简书”获500万人民币天使融资，推出“成书计划”探索商业化之路</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://jianshu.io/" target="_blank" rel="external">简书</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[潮流台]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/%E6%BD%AE%E6%B5%81%E5%8F%B0/"/>
-    <id>http://luoguochun.cn/2014/07/22/潮流台/</id>
-    <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-21T17:06:53.000Z</updated>
-    <content type="html"><![CDATA[<p>潮流台-潮人网络生活杂志，提供高品质时尚潮流消息，了解最新潮流装扮。潮流生活，从潮流台开始！  </p>
-<p>更多详情请参考相关网站 <a href="http://chaoliutai.com" target="_blank" rel="external">潮流台</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
     <title><![CDATA[Jink]]></title>
     <link href="http://luoguochun.cn/2014/07/22/Jink/"/>
     <id>http://luoguochun.cn/2014/07/22/Jink/</id>
@@ -238,6 +278,42 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/213879.html" target="_blank" rel="external">呆萌实时地理位置分享应用 Jink，让“碰头”更轻松</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.jinkapp.com/" target="_blank" rel="external">Jink</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[潮流台]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/%E6%BD%AE%E6%B5%81%E5%8F%B0/"/>
+    <id>http://luoguochun.cn/2014/07/22/潮流台/</id>
+    <published>2014-07-21T16:00:00.000Z</published>
+    <updated>2014-07-21T17:06:53.000Z</updated>
+    <content type="html"><![CDATA[<p>潮流台-潮人网络生活杂志，提供高品质时尚潮流消息，了解最新潮流装扮。潮流生活，从潮流台开始！  </p>
+<p>更多详情请参考相关网站 <a href="http://chaoliutai.com" target="_blank" rel="external">潮流台</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[易宝收藏网]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/%E6%98%93%E5%AE%9D%E6%94%B6%E8%97%8F%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/07/22/易宝收藏网/</id>
+    <published>2014-07-21T16:00:00.000Z</published>
+    <updated>2014-07-21T17:06:53.000Z</updated>
+    <content type="html"><![CDATA[<p>和田玉收藏  </p>
+<p>更多详情请参考相关网站 <a href="http://www.yibaosc.com" target="_blank" rel="external">易宝收藏网</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -405,181 +481,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[FullStory]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/FullStory/"/>
-    <id>http://luoguochun.cn/2014/07/22/FullStory/</id>
+    <title><![CDATA[Pingly]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/Pingly/"/>
+    <id>http://luoguochun.cn/2014/07/22/Pingly/</id>
     <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-21T17:06:57.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/94c908bbf557d35efc1303e4cc69fe09.png" alt=""></p>
-
-<p>在设计产品功能的时候，如何可以根据客观的用户需求和行为分析结果来设计？而不是主观臆断：“嗯，我觉得这个功能很赞所以用户一定也喜欢”……</p>
-
-<p><a target="_blank" data-no-turbolink="true" href="https://www.fullstory.com">Fullstory</a>的想法是，只有通过<strong>录屏</strong>记录用户在网站上的使用路径，才能真正客观地反应他们的真实想法，因为他们所说的需求往往不是他们所做的那样。因此Fullstory提供了内嵌的代码，将这段嵌入到网页中，它就可以自动为用户的行为录屏，方便产品锦鲤在上线或者迭代新功能时了解用户的反馈。</p>
-
-<p>当然，Fullstory除了录屏之外，还提供用户单点行为的记录数据，比如用户在浏览页面时的点击、滑动、跳转行为，并且Fullstory还可以把这些单点行为串联起来，梳理出用户的行为路径逻辑。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/75092d0311301fa3e7cb7927a283f56b.png" alt=""></p>
-
-<p>其实这类追踪工具已经有不少人做过了，我们之前<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/t/202611">报道过</a>YC孵化的Heap也是想追踪用户轨迹，但没有录屏的功能。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213909.html" target="_blank" rel="external">用户们都是怎么使用你产品的你造吗？Fullstory想为所有用户行为录屏</a>  </p>
-<p>更多详情请参考相关网站 <a href="https://www.fullstory.com/" target="_blank" rel="external">FullStory</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[易宝收藏网]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/%E6%98%93%E5%AE%9D%E6%94%B6%E8%97%8F%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/07/22/易宝收藏网/</id>
-    <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-21T17:06:53.000Z</updated>
-    <content type="html"><![CDATA[<p>和田玉收藏  </p>
-<p>更多详情请参考相关网站 <a href="http://www.yibaosc.com" target="_blank" rel="external">易宝收藏网</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[FullStory]]></title>
-    <link href="http://luoguochun.cn/2014/07/21/FullStory/"/>
-    <id>http://luoguochun.cn/2014/07/21/FullStory/</id>
-    <published>2014-07-20T16:00:00.000Z</published>
-    <updated>2014-07-20T16:30:26.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/94c908bbf557d35efc1303e4cc69fe09.png" alt=""></p>
-
-<p>在设计产品功能的时候，如何可以根据客观的用户需求和行为分析结果来设计？而不是主观臆断：“嗯，我觉得这个功能很赞所以用户一定也喜欢”……</p>
-
-<p><a target="_blank" data-no-turbolink="true" href="https://www.fullstory.com">Fullstory</a>的想法是，只有通过<strong>录屏</strong>记录用户在网站上的使用路径，才能真正客观地反应他们的真实想法，因为他们所说的需求往往不是他们所做的那样。因此Fullstory提供了内嵌的代码，将这段嵌入到网页中，它就可以自动为用户的行为录屏，方便产品锦鲤在上线或者迭代新功能时了解用户的反馈。</p>
-
-<p>当然，Fullstory除了录屏之外，还提供用户单点行为的记录数据，比如用户在浏览页面时的点击、滑动、跳转行为，并且Fullstory还可以把这些单点行为串联起来，梳理出用户的行为路径逻辑。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/75092d0311301fa3e7cb7927a283f56b.png" alt=""></p>
-
-<p>其实这类追踪工具已经有不少人做过了，我们之前<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/t/202611">报道过</a>YC孵化的Heap也是想追踪用户轨迹，但没有录屏的功能。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213909.html" target="_blank" rel="external">用户们都是怎么使用你产品的你造吗？Fullstory想为所有用户行为录屏</a>  </p>
-<p>更多详情请参考相关网站 <a href="https://www.fullstory.com/" target="_blank" rel="external">FullStory</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[蒲公英]]></title>
-    <link href="http://luoguochun.cn/2014/07/21/%E8%92%B2%E5%85%AC%E8%8B%B1/"/>
-    <id>http://luoguochun.cn/2014/07/21/蒲公英/</id>
-    <published>2014-07-20T16:00:00.000Z</published>
-    <updated>2014-07-20T16:30:23.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://static.36kr.com/wp-content/uploads/2011/04/dandelion2.jpg" alt=""></p>
-
-<p>编者按：本文由硅谷创业家 <a target="_blank" data-no-turbolink="true" href="http://www.about.me/semilshah">Semil Shah</a>撰写，他在文中同大家分享了自己对种子投资的看法，以及他所推崇的“<br><br><strong>种子投资的蒲公英效应</strong><br><br>”理论。文章值得一读，以下为<br><br><strong>正文部分</strong><br><br>：</p>
-
-<p>我经常听到创业者所说的两句话就是：<br><br><strong>1.我正在找一个技术联合创始人；2.</strong><br><br><strong>我们正在招聘工程师，开发者和设计师</strong><br><br>。不过除非他们有非常好的渠道，否则招聘行动完全依靠运气，甚至招到好的人才的可能性也不高。那些需要寻找技术联合创始人的创业者如果不采取外包或者自学编程可能很难将自己的创意付诸实施；而那些已经拿到了种子投资的创业者寻找技术人才的过程也将既耗时又耗力，而投资者投给他们做产品的钱也都被花在寻找人才上了。不过尽管许多新公司都在争抢人才，最后肯定只有其中少数能够步入到真正的A轮融资阶段。其他的要么仍是 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/myspace-bleak-project-numbers/">勉强度日</a>，要么 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/stylehop-start-ups-last-before-closing-review/">关门大吉</a>，而他们旗下的那些技术人才则会再次流入劳动市场。</p>
-
-<p>在这个过程中，许许多多的力量都会参与进来。比如说线上活动的成本已经大幅降低，社交平台的发展使得产品推广变得更加迅速，而且受到应用创新的影响，宏观经济产业也已经开始发生变革，<br><br><strong>普通大众创建下一个<br><br>Facebook</strong><br><br><strong>的激情都已经被彻底点燃了</strong><br><br>。此外，与之相伴的则是 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/this-tech-bubble-is-different-part-5/">大量的资本会涌入到种子投资阶段</a>，以期抢到下一个Facebook。那么这么多的公司和这么多的种子投资涌入会造成一个什么样的结果呢？有人会说我们已经到了一个“种子投资的泡沫”阶段，但我认为这么说不太对，我觉得将之称作“种子投资的蒲公英效应”更加合理。</p>
-
-<p>事实上，当一个真正的泡沫破灭时，肯定会有许许多多的参与者甚至宏观经济都会受到巨大的负面影响。但是在种子投资方面，大部分的创业公司都不会存活到<br><br>A轮融资阶段，所以其带来的消极影响是可控的而且不会延伸到经济的其他领域。虽然也确实会有一些投资者蒙受到损失，但是他们在投资之初就应该知道其行为的高风险性，而且也并没有人逼迫他们作出这样的投资决定。<br><br><strong>我所说的“种子投资的蒲公英效应”具体可以这样看</strong><strong>——</strong><br><br><strong>那些失败的创业公司中的许多人才都会再次转移到这个创业生态系统的其他部分中去，而且由于具备了创业经验，在新的项目中他们会 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/are-you-a-pirate/">表现得更富胆识和创新</a></strong><br><br>。最近我就听说到这样一个例子：一家融资接近100万美元的创业公司倒闭了，该公司的4位工程师就都踏上了不同的道路。甲去了一家技术巨头，乙去了一家风投公司，丙开始了一个全新的项目，丁则加盟了一家已经拿到A轮融资的创业公司。这个故事就很好的说明了人才的多样化选择，以前他们被集中在某个创业公司中，但是现在该公司关门了，他们则自由的进入到了这个创业生态圈的其他部分。</p>
-
-<p>事实上，我并不是以一种消极的态度来分享这个故事的，恰恰相反，这个故事很积极。其一，这些人才还可以去到其他许许多多已经拿到了种子投资的创业公司中；其二， <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/google-q1-2011-earnings/">许多的互联网技术巨头也都在招聘</a>。其三，有一些已经拿到<br><br>A轮融资并且开始同巨头公司展开竞争的 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/foursquare-wants-to-help-googlers-to-get-massive-counteroffers-too/">创业公司也需要大量的招聘人才</a>。</p>
-
-<p>所有的这些因素作用尽管在短期内也会造成一些波动，但是在长期来看却是对整个生态系统都是有利的，而且还会促进人才向技术市场集中。所以在我看来，<br><br><strong>种子投资和创业公司不会像泡沫一样被捅破，而是会像许许多多的蒲公英一样，随风到处飘荡，然后落在合适的地里，再生根发芽，开出一朵朵更加鲜艳的希望之花</strong><br><br>。</p>
-
-<p>Via  <a target="_blank" data-no-turbolink="true" href="http://techcrunch.com/2011/04/19/the-seed-stage-dandelion-effect/">TC</a><br><br> </p><br>                    <p></p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/21778.html" target="_blank" rel="external">种子投资的蒲公英效应</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://pgyer.com/" target="_blank" rel="external">蒲公英</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[缘创派]]></title>
-    <link href="http://luoguochun.cn/2014/07/21/%E7%BC%98%E5%88%9B%E6%B4%BE/"/>
-    <id>http://luoguochun.cn/2014/07/21/缘创派/</id>
-    <published>2014-07-20T16:00:00.000Z</published>
-    <updated>2014-07-20T16:30:22.000Z</updated>
-    <content type="html"><![CDATA[<p><a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/91317.html/img_0749"><img src="http://static.36kr.com/wp-content/uploads/2012/03/IMG_0749.png" alt=""></a><br><br>如果你有一个创业想法想找合伙人，如果你没有想法但想加入创业团队参与创业，如果你在外地想来北京创业、如果你在国外想回国创业，你会怎么办？</p>
-
-<p>对大多数人来说，找到志同道合创业伙伴的难度不亚于相亲的难度。现在有一个移动应用 <a target="_blank" data-no-turbolink="true" href="http://www.ycpai.com/">缘创派</a>希望通过线上的方式，帮创业者省下很多麻烦，更方便的找到合适的创业伙伴。</p>
-
-<p>缘创派只支持通过新浪微博登陆，登陆后填写一些必要信息：包括你关注的方向（互联网、移动互联网、广告、电商等），你的个人定位、联系方式等，无论是想找人还是想被人找到，填写这些信息都会很有帮助。</p>
-
-<p>在缘创派上用户可以按人来找创业伙伴，也可以按项目来找创业伙伴，如果你对某个人或项目感兴趣，系统支持向对方发起约聊功能，可以是通过电话或是见面聊，发起之后对方会收到短信和邮件通知。</p>
-
-<p>缘创派联合创始人Gary告诉我们，他从国外回来创业，花了将近一年的时间才找到合作伙伴，“因为我在线下走了很多弯路，所以我希望可以帮助人们在线上就能找到人。”</p>
-
-<p>现在国内创业热情高涨，一个帮助找合作伙伴的社区显得非常有用，由于用户群精准（想创业），除了有助于创业者寻找创业伙伴，创业公司来找里找人也是个不错的选择。</p>
-
-<p>不过如何让社区里的信息流动起来，让用户真正在这里活跃对缘创派来说是个不小的挑战。找创业伙伴实际上和相亲很像，都是最终找到那个有缘的人，或许世纪佳缘的运营方式他们可以借鉴。</p>
-
-<p>缘创派目前最主要的访问方式是一个 <a target="_blank" data-no-turbolink="true" href="http://www.ycpai.com">移动版的网站</a>，同时他们也提供了一个 <a target="_blank" data-no-turbolink="true" href="http://appchina.com/market/e/232155/download.pc/0/3A0F06060FBAFC5F11110AC447533FB9/com.wafec78cf14d2692b77237b8066ad94e0.1331560454859.apk">Android应用</a>。</p><br>                    <p></p><br>                    <p>AD：<a href="http://cnrdn.com/GJWE" target="_blank">云之家</a>，一种新的工作方式。</p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/91317.html" target="_blank" rel="external">移动应用“缘创派”帮创业者找创业伙伴</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.ycpai.com" target="_blank" rel="external">缘创派</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[简书]]></title>
-    <link href="http://luoguochun.cn/2014/07/21/%E7%AE%80%E4%B9%A6/"/>
-    <id>http://luoguochun.cn/2014/07/21/简书/</id>
-    <published>2014-07-20T16:00:00.000Z</published>
-    <updated>2014-07-21T03:12:39.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/0b4b2d8487c4e28ee953d22175706097.jpg" alt=""></p>
-
-<p>国内类Medium博客平台“<a target="_blank" data-no-turbolink="true" href="http://jianshu.io/">简书</a>”刚刚获得500万人民币天使轮融资，投资方为戈壁。</p>
-
-<p>不管是<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208436.html">Medium</a>、writings.io（该网站已关闭，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206974.html">其创始人讲述了失败的原因</a>）、<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/209449.html">Svbtle</a>还是“简书”，目的都是为用户营造一种沉浸式的写作环境，杂志般的阅读体验。跟Medium的Collections类似，用户也可以订阅不同的专题和某作者的文集。无论从篇幅、还是排版设计上都更像是一本杂志。写作后台的编辑手法可以概括为“满足文字写作的刚需”。简书也推出了<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/jian-shu/id888237539?mt=8">移动端产品</a>，跟Medium一样，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/210566.html">只能读，不能写</a>。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/66d1c23f96055aced0dce60e0bdbf602.jpg" alt=""></p>
-
-<p>文字创作如何转化成商业价值自版权概念诞生以来都是不得不考虑的问题，也是一个平台得以向产业链上下游拓展的关键。这次“简书”正式上线了“作者成书计划”，仅保留在线发行权，有一定写作量的作者可以申请该计划，它会选择一些比较成熟的电子读物分发平台帮作者出版。此外，“简书”还开始向用户放开了专题编辑权限，这意味着每个人都可以是充当“杂志”编辑的角色。简书告诉<span>36氪</span>，下一步希望引入更多的名人作者到平台上来，并进一营造社区氛围，以挖掘用户更多的潜在需求。</p>
-
-<p>此次融资，“简书”将着重发展其移动端版本，目前仅有iOS版本，Android 版将于1月左右后上线。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213520.html" target="_blank" rel="external">类Medium服务“简书”获500万人民币天使融资，推出“成书计划”探索商业化之路</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://jianshu.io/" target="_blank" rel="external">简书</a>  </p>
+    <updated>2014-07-22T02:23:46.000Z</updated>
+    <content type="html"><![CDATA[<p>一个新的基于邮件的信息平台  </p>
+<p>更多详情请参考相关网站 <a href="http://pingly.me/" target="_blank" rel="external">Pingly</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

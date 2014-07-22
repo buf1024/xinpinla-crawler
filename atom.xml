@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-22T04:44:44.628Z</updated>
+  <updated>2014-07-22T07:04:04.543Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,13 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[码农周刊]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/%E7%A0%81%E5%86%9C%E5%91%A8%E5%88%8A/"/>
-    <id>http://luoguochun.cn/2014/07/22/码农周刊/</id>
+    <title><![CDATA[食日谈]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/%E9%A3%9F%E6%97%A5%E8%B0%88/"/>
+    <id>http://luoguochun.cn/2014/07/22/食日谈/</id>
     <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-22T04:42:12.000Z</updated>
-    <content type="html"><![CDATA[<p>一份专为程序员打造的IT技术周刊，精选一周IT技术干货，每周五发送。  </p>
-<p>更多详情请参考相关网站 <a href="http://weekly.manong.io/" target="_blank" rel="external">码农周刊</a>  </p>
+    <updated>2014-07-22T07:01:33.000Z</updated>
+    <content type="html"><![CDATA[<p>一个关于食物的精美 APP ，那画面太美，你一定要看  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/shi-ri-tan/id587176822?mt=8" target="_blank" rel="external">食日谈</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -33,85 +33,73 @@
   </entry>
   
   <entry>
-    <title><![CDATA[我家Family]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/%E6%88%91%E5%AE%B6Family/"/>
-    <id>http://luoguochun.cn/2014/07/22/我家Family/</id>
+    <title><![CDATA[小交易]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/%E5%B0%8F%E4%BA%A4%E6%98%93/"/>
+    <id>http://luoguochun.cn/2014/07/22/小交易/</id>
     <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-22T04:42:12.000Z</updated>
-    <content type="html"><![CDATA[<p>Family 做最好的家庭照片分享  </p>
-<p>更多详情请参考相关网站 <a href="http://www.familyday.com.cn/" target="_blank" rel="external">我家Family</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[TeaHour]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/TeaHour/"/>
-    <id>http://luoguochun.cn/2014/07/22/TeaHour/</id>
-    <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-22T04:42:12.000Z</updated>
-    <content type="html"><![CDATA[<p>一个聚焦于编程、创业、极客的中文 Podcast  </p>
-<p>更多详情请参考相关网站 <a href="http://teahour.fm/" target="_blank" rel="external">TeaHour</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Socket.IO]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/Socket.IO/"/>
-    <id>http://luoguochun.cn/2014/07/22/Socket.IO/</id>
-    <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-22T04:42:13.000Z</updated>
-    <content type="html"><![CDATA[<p>Socket.IO 发布 1.0 版本  </p>
-<p>更多详情请参考相关网站 <a href="http://socket.io/" target="_blank" rel="external">Socket.IO</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Last Ninja Pro]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/Last%20Ninja%20Pro/"/>
-    <id>http://luoguochun.cn/2014/07/22/Last Ninja Pro/</id>
-    <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-22T04:42:13.000Z</updated>
-    <content type="html"><![CDATA[<p>类似于《涂鸦跳跃》的动作类小游戏，非自动跳跃  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/us/app/last-ninja-pro-endless-funny/id880612121?ls=1&amp;mt=8" target="_blank" rel="external">Last Ninja Pro</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[HOSTLOC]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/HOSTLOC/"/>
-    <id>http://luoguochun.cn/2014/07/22/HOSTLOC/</id>
-    <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-22T04:42:13.000Z</updated>
-    <content type="html"><![CDATA[<p>美国服务器主机交流  </p>
-<p>更多详情请参考相关网站 <a href="http://www.hostloc.com/" target="_blank" rel="external">HOSTLOC</a>  </p>
+    <updated>2014-07-22T07:01:32.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/1bfc5a3b4806fe1e25e70cf4194d990b.jpeg" alt=""></p>
+
+<p><strong>一、C2C电商？淘宝早已名不副实</strong></p>
+
+<p>说起C2C我们总是想到淘宝，但现在的淘宝也是无数个小B的集合，和早期个人商家充斥的生态已经大为不同。早期淘宝个人商家对整个流通价值链的贡献，主要是商品发现和营销功能。但当信息流通更加充分，个人商家的商品发现价值被弱化，进而被厂家直销、各种导购平台和买手店所取代。而营销方面，随着淘宝专业分工越发精细，个人不再胜任复杂的营销管理工作，高度组织化的企业登上前台。</p>
+
+<p>抛开这些宏观论述，对于“为什么个人商家在淘宝越来越难做”的现实原因，我们能找到最直接的两点：<strong>信用成本和流量获取成本过高</strong>。</p>
+
+<p>一方面，淘宝信用对个人商家来说过于昂贵。淘宝为了创造一个相对诚信的环境，有时甚至要牺牲一些交易效率和商家体验（比如不断提高商家入驻门槛，当买卖双方发生争议时则对买家过度保护）。而店铺评级、保证金、客服、售后、账期等种种负担，也让个人商家心力交瘁。</p>
+
+<p>另一方面，随着淘宝生态的成熟，市场也由商品稀缺转向流量稀缺。打造爆款、上活动、买直通车、做淘宝客，甚至包括刷钻等行为，商家为了争夺流量无所不为，最后可能却发现毫无成效。根本上流量入口并未被扩展，而大商家显然比个人商家更具资金和品牌实力，即使淘宝不对大商家做政策倾斜，个人商家也没有活路。</p>
+
+<p>由信用和流量问题出发，我们能看到基于社交图谱（不是美丽说、淘宝U站这类兴趣图谱）的社会化电商正在萌芽。用真实社交关系解决信用，用好友圈的注意力盈余供给流量（尤其是品牌成型前的早期流量）——这一模式提供了媲美淘宝的想象力。目前在这一领域可供参考的案例还很少，微信朋友圈生意算是一个，暂时动向不明的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206354.html">阿里浪</a>”算是半个。这里还要介绍一个叫“<a target="_blank" data-no-turbolink="true" href="http://www.xiaojiaoyi.com/">小交易</a>（<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/cn/app/xiao-jiao-yi/id609706406?mt=8">iOS</a>/<a target="_blank" data-no-turbolink="true" href="http://www.wandoujia.com/apps/com.xiaojiaoyi">Android</a>）”的产品——这个主打好友、邻里交易的项目，能给我们不少启发。</p>
+
+<p><img src="http://a.36krcnd.com/photo/4eb631575bb1462521221aad7b174a86.jpg" alt=""></p>
+
+<p><strong>二、所谓“小交易”模式，就是从你的熟人、半熟人网络中挖掘交易机会</strong></p>
+
+<p>其实“<a target="_blank" data-no-turbolink="true" href="http://www.xiaojiaoyi.com/down.do">小交易</a>”的理念并不复杂。基本上，这是个基于地理位置的个人交易平台——这毫不稀奇，包括“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/taoshenbian1">淘身边</a>”在内的类似产品遍地都是。但“小交易”的革新之处在于，它除了位置距离外，还结合了人际距离来撮合交易。</p>
+
+<p>在信任机制上，“小交易”通过微博、QQ、通讯录等社交平台导入你的熟人关系链，通过评估不同交易者之间人脉距离的远近（几度人脉、共同好友数、好友质量等），创造了一个完全可信的交易环境。在传播链上，“小交易”整合了多种社交分享机制，使得商品信息可以沿着你的一度人脉、二度人脉逐级扩散开去，流量入口瞬间被打开。</p>
+
+<p>这么说你可能没有感觉，我来描述一个典型的使用过程：卖家A有一个二手商品准备出售，他用“小交易”生成一个商品信息卡片，既可以直接分享到自己的社交网络，也可以用“邀请”功能让熟人帮忙扩散，或者生成一条链接粘到任何地方。这时有一个潜在买家B，从微信、微博、或者App中发现了这件商品，进入交易页面后他将得到这么几种信息辅助购买决策：</p>
+
+<p>1、A的地理位置远近。如果发现A就在你身边几百米，完全可以当面验货验人。</p>
+
+<p>2、与A交易的靠谱度分值。这一分值基于双方人际距离远近、个人资料的完整度、商品有无位置信息以及历史交易记录等维度得出。</p>
+
+<p>3、该交易有哪些好友提供了背书。由于“邀请好友帮忙”这一机制的存在，如果你发现该商品有许多共同好友都推荐了，则可以认为商品发布者至少在人格上是可信的。</p>
+
+<p>4、卖家A有无参与保障计划，包括身份认证和保证金等措施。</p>
+
+<p><img src="http://a.36krcnd.com/photo/c238724da4c1e31d0cdff01135c11663.png" alt=""></p>
+
+<p>于是就结果而言，无论卖家A还是买家B都处于一个真实的社交环境中，失信行为将会在朋友圈中被广泛传播，没有人敢冒着现实声誉受损的风险赚取短期利益。而且基于一定的匹配算法，资料越完善、与你关系越接近的交易将得到更多曝光，不靠谱的信息将排除在你的视野之外。</p>
+
+<p>这里面还存在着一种信任传导，如果一度人脉中的交易信息是可信的，那么沿着一度人脉扩展出来的二度人脉也基本可信。做异性社交的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205503.html">某某</a>”、做职场社交的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/207177.html">脉脉</a>”、以及“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/202424.html">人人猎头</a>”这类社会化招聘产品也是同样思路，但“小交易”做得更好的一点是让一度人脉直接参与了交易背书。当然，一个“萍水相逢”式的一度人脉同样不可靠，“小交易”通过将你的微博、QQ、通讯录关系整合，不仅关注你与他人处于几度人脉，还用一些方式对你们之间的关系强弱做出评估。</p>
+
+<p>这个产品的本质，就是从你身边熟人、半熟人关系网络中挖掘出交易机会。</p>
+
+<p><img src="http://a.36krcnd.com/photo/c30dd34e3fce5017ad8ee72e28db2e0e.png" alt=""></p>
+
+<p><strong>三、由创造信用带来的颠覆</strong></p>
+
+<p>有信用才有市场，而创造信用的行为隐含着就是在创造财富。不完全数一下“小交易”的潜在挑战对象，我们能看到如下名单：</p>
+
+<p>1、代购等各种朋友圈生意。</p>
+
+<p>2、分类信息站。不用多说，公告板式的信息沟通基本算是上世纪遗产，不解决信用缺失和信息过载。</p>
+
+<p>3、社区电商。“熟人”定义是比较宽泛的，你的邻居、经常光顾的社区超市、附近餐馆都包含在内。比如我们公司旁边的糕点铺每天晚上都要将存货打折出售，这时就可以用“小交易”向我们这些老主顾广播。某个厨艺精湛的阿姨闲坐无聊，可以弄一桌私房菜放到“小交易”供附近上班族预定。</p>
+
+<p>4、闲置物品交易。这个市场在国内一直不温不火，很多产品都迈不过冷启动这一关，但“小交易”取巧的是利用了现成的关系链和传播链，一个用户可以带来一串熟人。</p>
+
+<p>5、小额借贷。这一领域有一些做关系挖掘的公司，比如用微博数据做小额P2P贷款的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205659.html">卡小二</a>”。线下本来就普遍存在着熟人借贷，类似“小交易”的平台可以让这一过程更高效透明。</p>
+
+<p>当然想象不局限在这里，一切需要利用口碑、关系的个人生意，几乎都可以用类似思路做出一款产品，这样的垂直领域有很多。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 沈超]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/208628.html" target="_blank" rel="external">当C2C在淘宝衰落之后，“小交易”能否用“关系链+地理位置”让真正意义上的C2C复兴？</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.xiaojiaoyi.com/" target="_blank" rel="external">小交易</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -245,39 +233,45 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Jink]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/Jink/"/>
-    <id>http://luoguochun.cn/2014/07/22/Jink/</id>
+    <title><![CDATA[简书]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/%E7%AE%80%E4%B9%A6/"/>
+    <id>http://luoguochun.cn/2014/07/22/简书/</id>
     <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-21T17:06:51.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/97fd7a81edddff508ea8157b61ad4454.png" alt=""></p>
+    <updated>2014-07-21T17:06:55.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/0b4b2d8487c4e28ee953d22175706097.jpg" alt=""></p>
 
-<p><a target="_blank" data-no-turbolink="true" href="http://www.jinkapp.com/">Jink</a> 是一枚呆萌实时地理位置分享应用，目的是让你跟好友约定地点见面后，“碰头”更方便。通过通讯录加入好友之后，Jink 会在地图上实时显示你跟好友的位置，你可以同好友发送文字消息，比如：“我快到了”、“怎么没看到你”之类的。这些文字会浮在用户头像上方，非常呆萌。</p>
+<p>国内类Medium博客平台“<a target="_blank" data-no-turbolink="true" href="http://jianshu.io/">简书</a>”刚刚获得500万人民币天使轮融资，投资方为戈壁。</p>
 
-<p>点好友头像，可查看对话，也可点击左上角的按钮，查看好友状态，选择导航或直接拨打电话。</p>
+<p>不管是<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208436.html">Medium</a>、writings.io（该网站已关闭，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206974.html">其创始人讲述了失败的原因</a>）、<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/209449.html">Svbtle</a>还是“简书”，目的都是为用户营造一种沉浸式的写作环境，杂志般的阅读体验。跟Medium的Collections类似，用户也可以订阅不同的专题和某作者的文集。无论从篇幅、还是排版设计上都更像是一本杂志。写作后台的编辑手法可以概括为“满足文字写作的刚需”。简书也推出了<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/jian-shu/id888237539?mt=8">移动端产品</a>，跟Medium一样，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/210566.html">只能读，不能写</a>。</p>
 
-<p>Jink 整体来看，相当于微信里位置共享的子功能，不同的是，微信中沟通是通过语音，而 Jink 采用的是文字。使用体验上，没有微信方便，但 Jink 因为一次只解决一个让你跟好友更方便的“碰头”的问题，它在产品形态上要更轻，设计也更为小清新，尤其文字会浮在头像上这一点。</p>
+<p><img src="http://a.36krcnd.com/photo/2014/66d1c23f96055aced0dce60e0bdbf602.jpg" alt=""></p>
 
-<p>类似 Jink 的应用有微信、苹果自家的 Find my Friend、已经关掉的 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/clipped/4420">Google Latitude</a>等。</p>
+<p>文字创作如何转化成商业价值自版权概念诞生以来都是不得不考虑的问题，也是一个平台得以向产业链上下游拓展的关键。这次“简书”正式上线了“作者成书计划”，仅保留在线发行权，有一定写作量的作者可以申请该计划，它会选择一些比较成熟的电子读物分发平台帮作者出版。此外，“简书”还开始向用户放开了专题编辑权限，这意味着每个人都可以是充当“杂志”编辑的角色。简书告诉<span>36氪</span>，下一步希望引入更多的名人作者到平台上来，并进一营造社区氛围，以挖掘用户更多的潜在需求。</p>
 
-<p>如果 Jink 跟 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213133.html">Yo!</a> 和 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213342.html">emoji</a> 结合一下，快到了在实时地址位置上给好友一个 Yo 或 emoji 表情，会好有意思。而未来，Jink 可能也会支持语音功能。</p>
-
-<p>应用免费，有 <a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/jink-delightful-location-sharing/id789646743?mt=8">iOS</a> 和 <a target="_blank" data-no-turbolink="true" href="https://play.google.com/store/apps/details?id=com.greenhouseapps.jink">Android 版</a>。</p>
-
-<p>产品截图：</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/2317bb9c4a9e85a15b17645ba309876a.png" alt=""></p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/286debb4b33d56780de571e80a26abd2.png" alt=""></p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/d6b78d388680ea8d9e695a3dcd7a4e70.png" alt=""></p>
-
-<p><strong>关于「氪星人的应用」：该栏目旨在给用户推荐好玩、有趣、试用过后想说 Wow! 的应用。同时，也欢迎大家关注 “氪星人的应用”(krapps) 微信公众账号，我们每天会给大家推荐一枚。如果你有想要推荐给其他用户的应用，也可以直接在微信中回复哦！</strong></p><br>                    <p>[<span>36氪</span>原创文章，作者: 果子]</p><br>                    <p></p>  
+<p>此次融资，“简书”将着重发展其移动端版本，目前仅有iOS版本，Android 版将于1月左右后上线。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
 
 
 
-<p>原文发表于 <a href="http://www.36kr.com/p/213879.html" target="_blank" rel="external">呆萌实时地理位置分享应用 Jink，让“碰头”更轻松</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.jinkapp.com/" target="_blank" rel="external">Jink</a>  </p>
+<p>原文发表于 <a href="http://www.36kr.com/p/213520.html" target="_blank" rel="external">类Medium服务“简书”获500万人民币天使融资，推出“成书计划”探索商业化之路</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://jianshu.io/" target="_blank" rel="external">简书</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[码农周刊]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/%E7%A0%81%E5%86%9C%E5%91%A8%E5%88%8A/"/>
+    <id>http://luoguochun.cn/2014/07/22/码农周刊/</id>
+    <published>2014-07-21T16:00:00.000Z</published>
+    <updated>2014-07-22T04:42:12.000Z</updated>
+    <content type="html"><![CDATA[<p>一份专为程序员打造的IT技术周刊，精选一周IT技术干货，每周五发送。  </p>
+<p>更多详情请参考相关网站 <a href="http://weekly.manong.io/" target="_blank" rel="external">码农周刊</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -325,13 +319,31 @@
   </entry>
   
   <entry>
-    <title><![CDATA[悦读FM]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/%E6%82%A6%E8%AF%BBFM/"/>
-    <id>http://luoguochun.cn/2014/07/22/悦读FM/</id>
+    <title><![CDATA[我家Family]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/%E6%88%91%E5%AE%B6Family/"/>
+    <id>http://luoguochun.cn/2014/07/22/我家Family/</id>
     <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-21T17:06:52.000Z</updated>
-    <content type="html"><![CDATA[<p>悦读FM，倾听文字的声音网络广播  </p>
-<p>更多详情请参考相关网站 <a href="http://yuedu.fm/" target="_blank" rel="external">悦读FM</a>  </p>
+    <updated>2014-07-22T04:42:12.000Z</updated>
+    <content type="html"><![CDATA[<p>Family 做最好的家庭照片分享  </p>
+<p>更多详情请参考相关网站 <a href="http://www.familyday.com.cn/" target="_blank" rel="external">我家Family</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[HOSTLOC]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/HOSTLOC/"/>
+    <id>http://luoguochun.cn/2014/07/22/HOSTLOC/</id>
+    <published>2014-07-21T16:00:00.000Z</published>
+    <updated>2014-07-22T04:42:13.000Z</updated>
+    <content type="html"><![CDATA[<p>美国服务器主机交流  </p>
+<p>更多详情请参考相关网站 <a href="http://www.hostloc.com/" target="_blank" rel="external">HOSTLOC</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -470,6 +482,42 @@
     <updated>2014-07-21T17:06:50.000Z</updated>
     <content type="html"><![CDATA[<p>在网页上标注笔记并分享  </p>
 <p>更多详情请参考相关网站 <a href="http://collamark.com" target="_blank" rel="external">collamark</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[TeaHour]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/TeaHour/"/>
+    <id>http://luoguochun.cn/2014/07/22/TeaHour/</id>
+    <published>2014-07-21T16:00:00.000Z</published>
+    <updated>2014-07-22T04:42:12.000Z</updated>
+    <content type="html"><![CDATA[<p>一个聚焦于编程、创业、极客的中文 Podcast  </p>
+<p>更多详情请参考相关网站 <a href="http://teahour.fm/" target="_blank" rel="external">TeaHour</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Socket.IO]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/Socket.IO/"/>
+    <id>http://luoguochun.cn/2014/07/22/Socket.IO/</id>
+    <published>2014-07-21T16:00:00.000Z</published>
+    <updated>2014-07-22T04:42:13.000Z</updated>
+    <content type="html"><![CDATA[<p>Socket.IO 发布 1.0 版本  </p>
+<p>更多详情请参考相关网站 <a href="http://socket.io/" target="_blank" rel="external">Socket.IO</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

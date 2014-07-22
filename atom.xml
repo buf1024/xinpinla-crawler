@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-22T09:54:12.981Z</updated>
+  <updated>2014-07-22T12:14:25.536Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,13 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[帮我选 APP]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/%E5%B8%AE%E6%88%91%E9%80%89%20APP/"/>
-    <id>http://luoguochun.cn/2014/07/22/帮我选 APP/</id>
+    <title><![CDATA[收货宝]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/%E6%94%B6%E8%B4%A7%E5%AE%9D/"/>
+    <id>http://luoguochun.cn/2014/07/22/收货宝/</id>
     <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-22T09:51:40.000Z</updated>
-    <content type="html"><![CDATA[<p>选择困难户的福音  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/us/app/bang-wo-xuan/id892274635" target="_blank" rel="external">帮我选 APP</a>  </p>
+    <updated>2014-07-22T12:11:52.000Z</updated>
+    <content type="html"><![CDATA[<p>为用户提供固定的地点用来收取快递  </p>
+<p>更多详情请参考相关网站 <a href="http://www.shouhuobao.com/" target="_blank" rel="external">收货宝</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -33,13 +33,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[500 美乐网]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/500%20%E7%BE%8E%E4%B9%90%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/07/22/500 美乐网/</id>
+    <title><![CDATA[Sobrr]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/Sobrr/"/>
+    <id>http://luoguochun.cn/2014/07/22/Sobrr/</id>
     <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-22T09:51:40.000Z</updated>
-    <content type="html"><![CDATA[<p>美乐网(meile.com)，更海量的音乐曲库、更流畅的视听体验、更懂您的音乐喜好、更多您喜爱的音乐人、让您在分享音乐的同时发现志同道合的朋友，美乐网是一个基于兴趣社交的音乐试听、分享主题社区  </p>
-<p>更多详情请参考相关网站 <a href="http://www.meile.com/" target="_blank" rel="external">500 美乐网</a>  </p>
+    <updated>2014-07-22T12:11:52.000Z</updated>
+    <content type="html"><![CDATA[<p>一个发送的内容只会存在24个小时、基于地理位置进行分享的社交网络  </p>
+<p>更多详情请参考相关网站 <a href="http://sobrr.me/" target="_blank" rel="external">Sobrr</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -295,13 +295,45 @@
   </entry>
   
   <entry>
-    <title><![CDATA[HOSTLOC]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/HOSTLOC/"/>
-    <id>http://luoguochun.cn/2014/07/22/HOSTLOC/</id>
+    <title><![CDATA[悦读FM]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/%E6%82%A6%E8%AF%BBFM/"/>
+    <id>http://luoguochun.cn/2014/07/22/悦读FM/</id>
     <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-22T04:42:13.000Z</updated>
-    <content type="html"><![CDATA[<p>美国服务器主机交流  </p>
-<p>更多详情请参考相关网站 <a href="http://www.hostloc.com/" target="_blank" rel="external">HOSTLOC</a>  </p>
+    <updated>2014-07-21T17:06:52.000Z</updated>
+    <content type="html"><![CDATA[<p>悦读FM，倾听文字的声音网络广播  </p>
+<p>更多详情请参考相关网站 <a href="http://yuedu.fm/" target="_blank" rel="external">悦读FM</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[FullStory]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/FullStory/"/>
+    <id>http://luoguochun.cn/2014/07/22/FullStory/</id>
+    <published>2014-07-21T16:00:00.000Z</published>
+    <updated>2014-07-21T17:06:57.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/94c908bbf557d35efc1303e4cc69fe09.png" alt=""></p>
+
+<p>在设计产品功能的时候，如何可以根据客观的用户需求和行为分析结果来设计？而不是主观臆断：“嗯，我觉得这个功能很赞所以用户一定也喜欢”……</p>
+
+<p><a target="_blank" data-no-turbolink="true" href="https://www.fullstory.com">Fullstory</a>的想法是，只有通过<strong>录屏</strong>记录用户在网站上的使用路径，才能真正客观地反应他们的真实想法，因为他们所说的需求往往不是他们所做的那样。因此Fullstory提供了内嵌的代码，将这段嵌入到网页中，它就可以自动为用户的行为录屏，方便产品锦鲤在上线或者迭代新功能时了解用户的反馈。</p>
+
+<p>当然，Fullstory除了录屏之外，还提供用户单点行为的记录数据，比如用户在浏览页面时的点击、滑动、跳转行为，并且Fullstory还可以把这些单点行为串联起来，梳理出用户的行为路径逻辑。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/75092d0311301fa3e7cb7927a283f56b.png" alt=""></p>
+
+<p>其实这类追踪工具已经有不少人做过了，我们之前<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/t/202611">报道过</a>YC孵化的Heap也是想追踪用户轨迹，但没有录屏的功能。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213909.html" target="_blank" rel="external">用户们都是怎么使用你产品的你造吗？Fullstory想为所有用户行为录屏</a>  </p>
+<p>更多详情请参考相关网站 <a href="https://www.fullstory.com/" target="_blank" rel="external">FullStory</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -518,24 +550,6 @@
     <updated>2014-07-21T17:06:50.000Z</updated>
     <content type="html"><![CDATA[<p>在网页上标注笔记并分享  </p>
 <p>更多详情请参考相关网站 <a href="http://collamark.com" target="_blank" rel="external">collamark</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[TeaHour]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/TeaHour/"/>
-    <id>http://luoguochun.cn/2014/07/22/TeaHour/</id>
-    <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-22T04:42:12.000Z</updated>
-    <content type="html"><![CDATA[<p>一个聚焦于编程、创业、极客的中文 Podcast  </p>
-<p>更多详情请参考相关网站 <a href="http://teahour.fm/" target="_blank" rel="external">TeaHour</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-22T07:04:04.543Z</updated>
+  <updated>2014-07-22T09:54:12.981Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,13 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[食日谈]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/%E9%A3%9F%E6%97%A5%E8%B0%88/"/>
-    <id>http://luoguochun.cn/2014/07/22/食日谈/</id>
+    <title><![CDATA[帮我选 APP]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/%E5%B8%AE%E6%88%91%E9%80%89%20APP/"/>
+    <id>http://luoguochun.cn/2014/07/22/帮我选 APP/</id>
     <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-22T07:01:33.000Z</updated>
-    <content type="html"><![CDATA[<p>一个关于食物的精美 APP ，那画面太美，你一定要看  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/shi-ri-tan/id587176822?mt=8" target="_blank" rel="external">食日谈</a>  </p>
+    <updated>2014-07-22T09:51:40.000Z</updated>
+    <content type="html"><![CDATA[<p>选择困难户的福音  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/us/app/bang-wo-xuan/id892274635" target="_blank" rel="external">帮我选 APP</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -33,73 +33,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[小交易]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/%E5%B0%8F%E4%BA%A4%E6%98%93/"/>
-    <id>http://luoguochun.cn/2014/07/22/小交易/</id>
+    <title><![CDATA[500 美乐网]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/500%20%E7%BE%8E%E4%B9%90%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/07/22/500 美乐网/</id>
     <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-22T07:01:32.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/1bfc5a3b4806fe1e25e70cf4194d990b.jpeg" alt=""></p>
-
-<p><strong>一、C2C电商？淘宝早已名不副实</strong></p>
-
-<p>说起C2C我们总是想到淘宝，但现在的淘宝也是无数个小B的集合，和早期个人商家充斥的生态已经大为不同。早期淘宝个人商家对整个流通价值链的贡献，主要是商品发现和营销功能。但当信息流通更加充分，个人商家的商品发现价值被弱化，进而被厂家直销、各种导购平台和买手店所取代。而营销方面，随着淘宝专业分工越发精细，个人不再胜任复杂的营销管理工作，高度组织化的企业登上前台。</p>
-
-<p>抛开这些宏观论述，对于“为什么个人商家在淘宝越来越难做”的现实原因，我们能找到最直接的两点：<strong>信用成本和流量获取成本过高</strong>。</p>
-
-<p>一方面，淘宝信用对个人商家来说过于昂贵。淘宝为了创造一个相对诚信的环境，有时甚至要牺牲一些交易效率和商家体验（比如不断提高商家入驻门槛，当买卖双方发生争议时则对买家过度保护）。而店铺评级、保证金、客服、售后、账期等种种负担，也让个人商家心力交瘁。</p>
-
-<p>另一方面，随着淘宝生态的成熟，市场也由商品稀缺转向流量稀缺。打造爆款、上活动、买直通车、做淘宝客，甚至包括刷钻等行为，商家为了争夺流量无所不为，最后可能却发现毫无成效。根本上流量入口并未被扩展，而大商家显然比个人商家更具资金和品牌实力，即使淘宝不对大商家做政策倾斜，个人商家也没有活路。</p>
-
-<p>由信用和流量问题出发，我们能看到基于社交图谱（不是美丽说、淘宝U站这类兴趣图谱）的社会化电商正在萌芽。用真实社交关系解决信用，用好友圈的注意力盈余供给流量（尤其是品牌成型前的早期流量）——这一模式提供了媲美淘宝的想象力。目前在这一领域可供参考的案例还很少，微信朋友圈生意算是一个，暂时动向不明的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206354.html">阿里浪</a>”算是半个。这里还要介绍一个叫“<a target="_blank" data-no-turbolink="true" href="http://www.xiaojiaoyi.com/">小交易</a>（<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/cn/app/xiao-jiao-yi/id609706406?mt=8">iOS</a>/<a target="_blank" data-no-turbolink="true" href="http://www.wandoujia.com/apps/com.xiaojiaoyi">Android</a>）”的产品——这个主打好友、邻里交易的项目，能给我们不少启发。</p>
-
-<p><img src="http://a.36krcnd.com/photo/4eb631575bb1462521221aad7b174a86.jpg" alt=""></p>
-
-<p><strong>二、所谓“小交易”模式，就是从你的熟人、半熟人网络中挖掘交易机会</strong></p>
-
-<p>其实“<a target="_blank" data-no-turbolink="true" href="http://www.xiaojiaoyi.com/down.do">小交易</a>”的理念并不复杂。基本上，这是个基于地理位置的个人交易平台——这毫不稀奇，包括“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/taoshenbian1">淘身边</a>”在内的类似产品遍地都是。但“小交易”的革新之处在于，它除了位置距离外，还结合了人际距离来撮合交易。</p>
-
-<p>在信任机制上，“小交易”通过微博、QQ、通讯录等社交平台导入你的熟人关系链，通过评估不同交易者之间人脉距离的远近（几度人脉、共同好友数、好友质量等），创造了一个完全可信的交易环境。在传播链上，“小交易”整合了多种社交分享机制，使得商品信息可以沿着你的一度人脉、二度人脉逐级扩散开去，流量入口瞬间被打开。</p>
-
-<p>这么说你可能没有感觉，我来描述一个典型的使用过程：卖家A有一个二手商品准备出售，他用“小交易”生成一个商品信息卡片，既可以直接分享到自己的社交网络，也可以用“邀请”功能让熟人帮忙扩散，或者生成一条链接粘到任何地方。这时有一个潜在买家B，从微信、微博、或者App中发现了这件商品，进入交易页面后他将得到这么几种信息辅助购买决策：</p>
-
-<p>1、A的地理位置远近。如果发现A就在你身边几百米，完全可以当面验货验人。</p>
-
-<p>2、与A交易的靠谱度分值。这一分值基于双方人际距离远近、个人资料的完整度、商品有无位置信息以及历史交易记录等维度得出。</p>
-
-<p>3、该交易有哪些好友提供了背书。由于“邀请好友帮忙”这一机制的存在，如果你发现该商品有许多共同好友都推荐了，则可以认为商品发布者至少在人格上是可信的。</p>
-
-<p>4、卖家A有无参与保障计划，包括身份认证和保证金等措施。</p>
-
-<p><img src="http://a.36krcnd.com/photo/c238724da4c1e31d0cdff01135c11663.png" alt=""></p>
-
-<p>于是就结果而言，无论卖家A还是买家B都处于一个真实的社交环境中，失信行为将会在朋友圈中被广泛传播，没有人敢冒着现实声誉受损的风险赚取短期利益。而且基于一定的匹配算法，资料越完善、与你关系越接近的交易将得到更多曝光，不靠谱的信息将排除在你的视野之外。</p>
-
-<p>这里面还存在着一种信任传导，如果一度人脉中的交易信息是可信的，那么沿着一度人脉扩展出来的二度人脉也基本可信。做异性社交的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205503.html">某某</a>”、做职场社交的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/207177.html">脉脉</a>”、以及“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/202424.html">人人猎头</a>”这类社会化招聘产品也是同样思路，但“小交易”做得更好的一点是让一度人脉直接参与了交易背书。当然，一个“萍水相逢”式的一度人脉同样不可靠，“小交易”通过将你的微博、QQ、通讯录关系整合，不仅关注你与他人处于几度人脉，还用一些方式对你们之间的关系强弱做出评估。</p>
-
-<p>这个产品的本质，就是从你身边熟人、半熟人关系网络中挖掘出交易机会。</p>
-
-<p><img src="http://a.36krcnd.com/photo/c30dd34e3fce5017ad8ee72e28db2e0e.png" alt=""></p>
-
-<p><strong>三、由创造信用带来的颠覆</strong></p>
-
-<p>有信用才有市场，而创造信用的行为隐含着就是在创造财富。不完全数一下“小交易”的潜在挑战对象，我们能看到如下名单：</p>
-
-<p>1、代购等各种朋友圈生意。</p>
-
-<p>2、分类信息站。不用多说，公告板式的信息沟通基本算是上世纪遗产，不解决信用缺失和信息过载。</p>
-
-<p>3、社区电商。“熟人”定义是比较宽泛的，你的邻居、经常光顾的社区超市、附近餐馆都包含在内。比如我们公司旁边的糕点铺每天晚上都要将存货打折出售，这时就可以用“小交易”向我们这些老主顾广播。某个厨艺精湛的阿姨闲坐无聊，可以弄一桌私房菜放到“小交易”供附近上班族预定。</p>
-
-<p>4、闲置物品交易。这个市场在国内一直不温不火，很多产品都迈不过冷启动这一关，但“小交易”取巧的是利用了现成的关系链和传播链，一个用户可以带来一串熟人。</p>
-
-<p>5、小额借贷。这一领域有一些做关系挖掘的公司，比如用微博数据做小额P2P贷款的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205659.html">卡小二</a>”。线下本来就普遍存在着熟人借贷，类似“小交易”的平台可以让这一过程更高效透明。</p>
-
-<p>当然想象不局限在这里，一切需要利用口碑、关系的个人生意，几乎都可以用类似思路做出一款产品，这样的垂直领域有很多。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 沈超]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/208628.html" target="_blank" rel="external">当C2C在淘宝衰落之后，“小交易”能否用“关系链+地理位置”让真正意义上的C2C复兴？</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.xiaojiaoyi.com/" target="_blank" rel="external">小交易</a>  </p>
+    <updated>2014-07-22T09:51:40.000Z</updated>
+    <content type="html"><![CDATA[<p>美乐网(meile.com)，更海量的音乐曲库、更流畅的视听体验、更懂您的音乐喜好、更多您喜爱的音乐人、让您在分享音乐的同时发现志同道合的朋友，美乐网是一个基于兴趣社交的音乐试听、分享主题社区  </p>
+<p>更多详情请参考相关网站 <a href="http://www.meile.com/" target="_blank" rel="external">500 美乐网</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -118,6 +58,24 @@
     <updated>2014-07-21T17:06:51.000Z</updated>
     <content type="html"><![CDATA[<p>一个特别的宠物社区  </p>
 <p>更多详情请参考相关网站 <a href="http://ermiao.com" target="_blank" rel="external">鸸鹋动物园</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[食日谈]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/%E9%A3%9F%E6%97%A5%E8%B0%88/"/>
+    <id>http://luoguochun.cn/2014/07/22/食日谈/</id>
+    <published>2014-07-21T16:00:00.000Z</published>
+    <updated>2014-07-22T07:01:33.000Z</updated>
+    <content type="html"><![CDATA[<p>一个关于食物的精美 APP ，那画面太美，你一定要看  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/shi-ri-tan/id587176822?mt=8" target="_blank" rel="external">食日谈</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -355,6 +313,84 @@
   </entry>
   
   <entry>
+    <title><![CDATA[小交易]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/%E5%B0%8F%E4%BA%A4%E6%98%93/"/>
+    <id>http://luoguochun.cn/2014/07/22/小交易/</id>
+    <published>2014-07-21T16:00:00.000Z</published>
+    <updated>2014-07-22T07:01:32.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/1bfc5a3b4806fe1e25e70cf4194d990b.jpeg" alt=""></p>
+
+<p><strong>一、C2C电商？淘宝早已名不副实</strong></p>
+
+<p>说起C2C我们总是想到淘宝，但现在的淘宝也是无数个小B的集合，和早期个人商家充斥的生态已经大为不同。早期淘宝个人商家对整个流通价值链的贡献，主要是商品发现和营销功能。但当信息流通更加充分，个人商家的商品发现价值被弱化，进而被厂家直销、各种导购平台和买手店所取代。而营销方面，随着淘宝专业分工越发精细，个人不再胜任复杂的营销管理工作，高度组织化的企业登上前台。</p>
+
+<p>抛开这些宏观论述，对于“为什么个人商家在淘宝越来越难做”的现实原因，我们能找到最直接的两点：<strong>信用成本和流量获取成本过高</strong>。</p>
+
+<p>一方面，淘宝信用对个人商家来说过于昂贵。淘宝为了创造一个相对诚信的环境，有时甚至要牺牲一些交易效率和商家体验（比如不断提高商家入驻门槛，当买卖双方发生争议时则对买家过度保护）。而店铺评级、保证金、客服、售后、账期等种种负担，也让个人商家心力交瘁。</p>
+
+<p>另一方面，随着淘宝生态的成熟，市场也由商品稀缺转向流量稀缺。打造爆款、上活动、买直通车、做淘宝客，甚至包括刷钻等行为，商家为了争夺流量无所不为，最后可能却发现毫无成效。根本上流量入口并未被扩展，而大商家显然比个人商家更具资金和品牌实力，即使淘宝不对大商家做政策倾斜，个人商家也没有活路。</p>
+
+<p>由信用和流量问题出发，我们能看到基于社交图谱（不是美丽说、淘宝U站这类兴趣图谱）的社会化电商正在萌芽。用真实社交关系解决信用，用好友圈的注意力盈余供给流量（尤其是品牌成型前的早期流量）——这一模式提供了媲美淘宝的想象力。目前在这一领域可供参考的案例还很少，微信朋友圈生意算是一个，暂时动向不明的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206354.html">阿里浪</a>”算是半个。这里还要介绍一个叫“<a target="_blank" data-no-turbolink="true" href="http://www.xiaojiaoyi.com/">小交易</a>（<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/cn/app/xiao-jiao-yi/id609706406?mt=8">iOS</a>/<a target="_blank" data-no-turbolink="true" href="http://www.wandoujia.com/apps/com.xiaojiaoyi">Android</a>）”的产品——这个主打好友、邻里交易的项目，能给我们不少启发。</p>
+
+<p><img src="http://a.36krcnd.com/photo/4eb631575bb1462521221aad7b174a86.jpg" alt=""></p>
+
+<p><strong>二、所谓“小交易”模式，就是从你的熟人、半熟人网络中挖掘交易机会</strong></p>
+
+<p>其实“<a target="_blank" data-no-turbolink="true" href="http://www.xiaojiaoyi.com/down.do">小交易</a>”的理念并不复杂。基本上，这是个基于地理位置的个人交易平台——这毫不稀奇，包括“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/taoshenbian1">淘身边</a>”在内的类似产品遍地都是。但“小交易”的革新之处在于，它除了位置距离外，还结合了人际距离来撮合交易。</p>
+
+<p>在信任机制上，“小交易”通过微博、QQ、通讯录等社交平台导入你的熟人关系链，通过评估不同交易者之间人脉距离的远近（几度人脉、共同好友数、好友质量等），创造了一个完全可信的交易环境。在传播链上，“小交易”整合了多种社交分享机制，使得商品信息可以沿着你的一度人脉、二度人脉逐级扩散开去，流量入口瞬间被打开。</p>
+
+<p>这么说你可能没有感觉，我来描述一个典型的使用过程：卖家A有一个二手商品准备出售，他用“小交易”生成一个商品信息卡片，既可以直接分享到自己的社交网络，也可以用“邀请”功能让熟人帮忙扩散，或者生成一条链接粘到任何地方。这时有一个潜在买家B，从微信、微博、或者App中发现了这件商品，进入交易页面后他将得到这么几种信息辅助购买决策：</p>
+
+<p>1、A的地理位置远近。如果发现A就在你身边几百米，完全可以当面验货验人。</p>
+
+<p>2、与A交易的靠谱度分值。这一分值基于双方人际距离远近、个人资料的完整度、商品有无位置信息以及历史交易记录等维度得出。</p>
+
+<p>3、该交易有哪些好友提供了背书。由于“邀请好友帮忙”这一机制的存在，如果你发现该商品有许多共同好友都推荐了，则可以认为商品发布者至少在人格上是可信的。</p>
+
+<p>4、卖家A有无参与保障计划，包括身份认证和保证金等措施。</p>
+
+<p><img src="http://a.36krcnd.com/photo/c238724da4c1e31d0cdff01135c11663.png" alt=""></p>
+
+<p>于是就结果而言，无论卖家A还是买家B都处于一个真实的社交环境中，失信行为将会在朋友圈中被广泛传播，没有人敢冒着现实声誉受损的风险赚取短期利益。而且基于一定的匹配算法，资料越完善、与你关系越接近的交易将得到更多曝光，不靠谱的信息将排除在你的视野之外。</p>
+
+<p>这里面还存在着一种信任传导，如果一度人脉中的交易信息是可信的，那么沿着一度人脉扩展出来的二度人脉也基本可信。做异性社交的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205503.html">某某</a>”、做职场社交的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/207177.html">脉脉</a>”、以及“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/202424.html">人人猎头</a>”这类社会化招聘产品也是同样思路，但“小交易”做得更好的一点是让一度人脉直接参与了交易背书。当然，一个“萍水相逢”式的一度人脉同样不可靠，“小交易”通过将你的微博、QQ、通讯录关系整合，不仅关注你与他人处于几度人脉，还用一些方式对你们之间的关系强弱做出评估。</p>
+
+<p>这个产品的本质，就是从你身边熟人、半熟人关系网络中挖掘出交易机会。</p>
+
+<p><img src="http://a.36krcnd.com/photo/c30dd34e3fce5017ad8ee72e28db2e0e.png" alt=""></p>
+
+<p><strong>三、由创造信用带来的颠覆</strong></p>
+
+<p>有信用才有市场，而创造信用的行为隐含着就是在创造财富。不完全数一下“小交易”的潜在挑战对象，我们能看到如下名单：</p>
+
+<p>1、代购等各种朋友圈生意。</p>
+
+<p>2、分类信息站。不用多说，公告板式的信息沟通基本算是上世纪遗产，不解决信用缺失和信息过载。</p>
+
+<p>3、社区电商。“熟人”定义是比较宽泛的，你的邻居、经常光顾的社区超市、附近餐馆都包含在内。比如我们公司旁边的糕点铺每天晚上都要将存货打折出售，这时就可以用“小交易”向我们这些老主顾广播。某个厨艺精湛的阿姨闲坐无聊，可以弄一桌私房菜放到“小交易”供附近上班族预定。</p>
+
+<p>4、闲置物品交易。这个市场在国内一直不温不火，很多产品都迈不过冷启动这一关，但“小交易”取巧的是利用了现成的关系链和传播链，一个用户可以带来一串熟人。</p>
+
+<p>5、小额借贷。这一领域有一些做关系挖掘的公司，比如用微博数据做小额P2P贷款的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205659.html">卡小二</a>”。线下本来就普遍存在着熟人借贷，类似“小交易”的平台可以让这一过程更高效透明。</p>
+
+<p>当然想象不局限在这里，一切需要利用口碑、关系的个人生意，几乎都可以用类似思路做出一款产品，这样的垂直领域有很多。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 沈超]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/208628.html" target="_blank" rel="external">当C2C在淘宝衰落之后，“小交易”能否用“关系链+地理位置”让真正意义上的C2C复兴？</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.xiaojiaoyi.com/" target="_blank" rel="external">小交易</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[唯美系]]></title>
     <link href="http://luoguochun.cn/2014/07/22/%E5%94%AF%E7%BE%8E%E7%B3%BB/"/>
     <id>http://luoguochun.cn/2014/07/22/唯美系/</id>
@@ -500,42 +536,6 @@
     <updated>2014-07-22T04:42:12.000Z</updated>
     <content type="html"><![CDATA[<p>一个聚焦于编程、创业、极客的中文 Podcast  </p>
 <p>更多详情请参考相关网站 <a href="http://teahour.fm/" target="_blank" rel="external">TeaHour</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Socket.IO]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/Socket.IO/"/>
-    <id>http://luoguochun.cn/2014/07/22/Socket.IO/</id>
-    <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-22T04:42:13.000Z</updated>
-    <content type="html"><![CDATA[<p>Socket.IO 发布 1.0 版本  </p>
-<p>更多详情请参考相关网站 <a href="http://socket.io/" target="_blank" rel="external">Socket.IO</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Pingly]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/Pingly/"/>
-    <id>http://luoguochun.cn/2014/07/22/Pingly/</id>
-    <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-22T02:23:46.000Z</updated>
-    <content type="html"><![CDATA[<p>一个新的基于邮件的信息平台  </p>
-<p>更多详情请参考相关网站 <a href="http://pingly.me/" target="_blank" rel="external">Pingly</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

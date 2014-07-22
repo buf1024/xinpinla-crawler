@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-21T17:09:24.498Z</updated>
+  <updated>2014-07-22T02:26:15.884Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -13,6 +13,24 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Pingly]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/Pingly/"/>
+    <id>http://luoguochun.cn/2014/07/22/Pingly/</id>
+    <published>2014-07-21T16:00:00.000Z</published>
+    <updated>2014-07-22T02:23:46.000Z</updated>
+    <content type="html"><![CDATA[<p>一个新的基于邮件的信息平台  </p>
+<p>更多详情请参考相关网站 <a href="http://pingly.me/" target="_blank" rel="external">Pingly</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[鸸鹋动物园]]></title>
@@ -187,24 +205,6 @@
   </entry>
   
   <entry>
-    <title><![CDATA[易宝收藏网]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/%E6%98%93%E5%AE%9D%E6%94%B6%E8%97%8F%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/07/22/易宝收藏网/</id>
-    <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-21T17:06:53.000Z</updated>
-    <content type="html"><![CDATA[<p>和田玉收藏  </p>
-<p>更多详情请参考相关网站 <a href="http://www.yibaosc.com" target="_blank" rel="external">易宝收藏网</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
     <title><![CDATA[Jink]]></title>
     <link href="http://luoguochun.cn/2014/07/22/Jink/"/>
     <id>http://luoguochun.cn/2014/07/22/Jink/</id>
@@ -238,6 +238,24 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/213879.html" target="_blank" rel="external">呆萌实时地理位置分享应用 Jink，让“碰头”更轻松</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.jinkapp.com/" target="_blank" rel="external">Jink</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[悦读FM]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/%E6%82%A6%E8%AF%BBFM/"/>
+    <id>http://luoguochun.cn/2014/07/22/悦读FM/</id>
+    <published>2014-07-21T16:00:00.000Z</published>
+    <updated>2014-07-21T17:06:52.000Z</updated>
+    <content type="html"><![CDATA[<p>悦读FM，倾听文字的声音网络广播  </p>
+<p>更多详情请参考相关网站 <a href="http://yuedu.fm/" target="_blank" rel="external">悦读FM</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -419,13 +437,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[悦读FM]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/%E6%82%A6%E8%AF%BBFM/"/>
-    <id>http://luoguochun.cn/2014/07/22/悦读FM/</id>
+    <title><![CDATA[易宝收藏网]]></title>
+    <link href="http://luoguochun.cn/2014/07/22/%E6%98%93%E5%AE%9D%E6%94%B6%E8%97%8F%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/07/22/易宝收藏网/</id>
     <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-21T17:06:52.000Z</updated>
-    <content type="html"><![CDATA[<p>悦读FM，倾听文字的声音网络广播  </p>
-<p>更多详情请参考相关网站 <a href="http://yuedu.fm/" target="_blank" rel="external">悦读FM</a>  </p>
+    <updated>2014-07-21T17:06:53.000Z</updated>
+    <content type="html"><![CDATA[<p>和田玉收藏  </p>
+<p>更多详情请参考相关网站 <a href="http://www.yibaosc.com" target="_blank" rel="external">易宝收藏网</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -562,38 +580,6 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/213520.html" target="_blank" rel="external">类Medium服务“简书”获500万人民币天使融资，推出“成书计划”探索商业化之路</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://jianshu.io/" target="_blank" rel="external">简书</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[点点客]]></title>
-    <link href="http://luoguochun.cn/2014/07/21/%E7%82%B9%E7%82%B9%E5%AE%A2/"/>
-    <id>http://luoguochun.cn/2014/07/21/点点客/</id>
-    <published>2014-07-20T16:00:00.000Z</published>
-    <updated>2014-07-20T16:30:24.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/5c780bb8070424f695c908115918fa96.jpg" alt=""></p>
-
-<p>7月10日晚间，据证监会发布的公告显示，<a target="_blank" data-no-turbolink="true" href="http://www.dodoca.com/">上海点客信息技术股份有限公司</a>（即点点客）定向增发融资2500万人民币。募集的资金主要用于企业微信公共号营销平台的研发和推广。参与增发的是两家国资机构，未来还会向另外一家国资机构进行千万级别定向增发。点点客成立于2007年，主要业务是为企业用户提供通信解决方案，2012年在新三板上市。</p>
-
-<p>点客信息此次获得融资，依靠的是微信营销管理系统。该系统为企业微信公共号提供包括页面设计、自定义菜单、图文推送、关键词回复、LBS、优惠券在内的支持。其产品的特点有所见即所得的编辑模式、微信易信平台一键兼容发布以及微信主页一键转换为App等。</p>
-
-<p>点客信息2013年的年报显示公司营收6800万元。CEO黄梦向<span>36氪</span>透露，他们去年才进入这一行业，但是目前公司营收中已经有超过50%来自于微信营销管理系统。“点点客”的计费模式是按照不同的行业和公司规模收取数千到数万元不等的年费。点点客目前面向餐饮、医疗、房产、汽车、政务等20个行业推出了公共号管理模板。</p>
-
-<p>目前从事微信第三方运营的公司数以千计，已经有免费的商业模式出现，微信本身也推出了“微信小店”来降低公共号运营和开发的门槛。对此黄梦的想法是要把已经进入的行业做精，不急于向其他行业扩张。在目前“点点客”微信业务的团队中，技术和运营人员大概各占一半。黄梦希望在已经形成优势的行业里，“点点客”的员工们可以进一步形成精耕细作的团队。</p>
-
-<p>开发除了公共号开发后台之外，“点点客”下一步计划向微信公共号提供代运营服务。他们在和企业接触的过程中，发现很多传统企业觉得培训员工的成本过高，希望直接把公共号运营业务直接外包。“点点客”计划在合肥基地建设代运营中心，建设5000个微信座席，目前已建成了200席。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Zuo]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213759.html" target="_blank" rel="external">微信公共号开发商“点点客”融资2500万元，未来深挖垂直领域并尝试微信代运营</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.dodoca.com/" target="_blank" rel="external">点点客</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

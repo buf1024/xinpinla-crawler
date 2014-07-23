@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-22T17:59:13.561Z</updated>
+  <updated>2014-07-23T01:28:50.385Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -13,6 +13,62 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[小嘴]]></title>
+    <link href="http://luoguochun.cn/2014/07/23/%E5%B0%8F%E5%98%B4/"/>
+    <id>http://luoguochun.cn/2014/07/23/小嘴/</id>
+    <published>2014-07-22T16:00:00.000Z</published>
+    <updated>2014-07-23T01:26:07.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/251" title="查看产品详情" target="_blank" rel="external"><br>                                一个通过拍照来帮助吃货管理自己健康的应用                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.zuijiao.net/health/app" target="_blank" rel="external">小嘴</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[WiFi免费通]]></title>
+    <link href="http://luoguochun.cn/2014/07/23/WiFi%E5%85%8D%E8%B4%B9%E9%80%9A/"/>
+    <id>http://luoguochun.cn/2014/07/23/WiFi免费通/</id>
+    <published>2014-07-22T16:00:00.000Z</published>
+    <updated>2014-07-23T01:26:08.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/9dd9a4396d3ff0ffdcc1e943539c51ac.png" alt=""></p>
+
+<p>炒了这么久的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/%E8%99%9A%E6%8B%9F%E8%BF%90%E8%90%A5%E5%95%86">虚拟运营商</a>”终于来了点实质性的进展，阿里巴巴集团旗下的虚拟运营商“<a target="_blank" data-no-turbolink="true" href="http://yy.aliqin.tmall.com/preheat/priceIntro.htm">阿里通信</a>”（我一直以为会叫做“中国阿里通”，或者是“中国云通”……）推出了首批170号段SIM卡的资费标准。和传统运营商相比，虚拟运营商最大的不同就是资费的灵活性，尤其是在数据流量方面。</p>
+
+<p>根据“阿里通信”<a target="_blank" data-no-turbolink="true" href="http://yy.aliqin.tmall.com/preheat/priceIntro.htm">官方的介绍</a>，阿里通信170号段上网、语音、短信均以流量计费，通话1分钟=0.75M，1条短信=0.5M；流量0.125-0.2元/M，单价随使用量递减；流量费每满1元跳1档，用多少收多少，账单不足1元的零头直接抹掉。</p>
+
+<p>阿里通信170号将不设任何强制性费用，无服务费、无月租、无来电显示费、无漫游费，全国免费接听，但从<span class="s1">入网次月开始，<span class="s1">将设有每月<span class="s2">7<span class="s1">元的保底消费。用户入网首月，可以从0元起步，按照1元加油包自动叠加收费：0-37元间，每使用5M流量计费1元；37-77元间，每6M计费1元；77-127元间，每7M计费1元；127元以上，每8M计费1元。语音流量之间的兑换、计费升档、不足1元抹零，这些均由阿里通信后台自动完成，不需要用户费神选择、设置。</span></span></span></span></p>
+
+<p>由于目前“虚拟运营商”业务刚刚兴起，像阿里这样的虚拟运营商租赁实体运营商网络的费用还相对较高，因此“虚拟运营商”们在资费上并不是主打便宜，而是主打灵活。目前阿里通信已获得中国联通、中国电信、中国移动三家运营商转售资格。“阿里通信”会使用170号段，1700号段为中国电信，1705号段为中国移动，1709号段为中国联通。</p>
+
+<p>其实早在一个多月前，阿里就曾经对外宣布已经完成“阿里通信”的计费系统，以流量经营为核心，打通淘宝、支付宝、云OS等阿里系业务，提供互联网化的通信服务。例如淘宝会员可获信用额度透支话费，消费者可在淘宝和天猫的平台上享受在线选号入网、充值缴费、阿里合约计划等一站式服务。</p>
+
+<p>另外值得一提的是，“阿里通信”正在探索“<strong>WiFi免费通话</strong>”，即在WiFi环境下，阿里通信170号码可免费打电话、发短信，真正做到用流量免费打电话。其实在昨晚发布的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212509.html">iOS 8</a>上，苹果就已经在尝试引入“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212519.html">通过WiFi收发传统电话的功能</a>”。或许是由于对与运营商的冲击过大，iOS 8上的这一功能将取决于当地的运营商是否支持。</p>
+
+<p>无论是虚拟运营商，还是向苹果这样的手机厂商，都不约而同的尝试利用WiFi，或者是数据流量拨打电话，这对于运营商的冲击是可想而知的。之前就<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/201824.html">微信对于运营商的冲击</a>已经被讨论过无数遍了，通过流量拨打电话，还将进一步冲击运营商。但在这样的环境之下，也催生了中国虚拟运营商的发展。</p>
+
+<p>除了阿里巴巴外，苏宁、京东、天音、迪信通等多家企业都获得了“虚拟运营商牌照”，相信很快就会有相应的资费标准出炉。</p><br>                    <p>[<span>36氪</span>原创文章，作者: WANGJINGYU]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/212550.html" target="_blank" rel="external">阿里公布虚拟运营商资费标准：可以用流量打电话发短信，正在探索WiFi免费通话</a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/wifi-mian-fei-tong-mian-fei/id521069195?mt=8&amp;v0=WWW-GCCN-ITSTOP100-FREEAPPS&amp;l=&amp;ign-mpt=uo%3D4" target="_blank" rel="external">WiFi免费通</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[食日谈]]></title>
@@ -143,13 +199,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[帮我选 APP]]></title>
-    <link href="http://luoguochun.cn/2014/07/23/%E5%B8%AE%E6%88%91%E9%80%89%20APP/"/>
-    <id>http://luoguochun.cn/2014/07/23/帮我选 APP/</id>
+    <title><![CDATA[Sobrr]]></title>
+    <link href="http://luoguochun.cn/2014/07/23/Sobrr/"/>
+    <id>http://luoguochun.cn/2014/07/23/Sobrr/</id>
     <published>2014-07-22T16:00:00.000Z</published>
-    <updated>2014-07-22T17:56:32.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/242" title="查看产品详情" target="_blank" rel="external"><br>                                选择困难户的福音                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/us/app/bang-wo-xuan/id892274635" target="_blank" rel="external">帮我选 APP</a>  </p>
+    <updated>2014-07-22T17:56:31.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/244" title="查看产品详情" target="_blank" rel="external"><br>                                一个发送的内容只会存在24个小时、基于地理位置进行分享的社交网络                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://sobrr.me/" target="_blank" rel="external">Sobrr</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -161,13 +217,73 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Sobrr]]></title>
-    <link href="http://luoguochun.cn/2014/07/23/Sobrr/"/>
-    <id>http://luoguochun.cn/2014/07/23/Sobrr/</id>
+    <title><![CDATA[小交易]]></title>
+    <link href="http://luoguochun.cn/2014/07/23/%E5%B0%8F%E4%BA%A4%E6%98%93/"/>
+    <id>http://luoguochun.cn/2014/07/23/小交易/</id>
     <published>2014-07-22T16:00:00.000Z</published>
-    <updated>2014-07-22T17:56:31.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/244" title="查看产品详情" target="_blank" rel="external"><br>                                一个发送的内容只会存在24个小时、基于地理位置进行分享的社交网络                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://sobrr.me/" target="_blank" rel="external">Sobrr</a>  </p>
+    <updated>2014-07-22T17:56:30.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/1bfc5a3b4806fe1e25e70cf4194d990b.jpeg" alt=""></p>
+
+<p><strong>一、C2C电商？淘宝早已名不副实</strong></p>
+
+<p>说起C2C我们总是想到淘宝，但现在的淘宝也是无数个小B的集合，和早期个人商家充斥的生态已经大为不同。早期淘宝个人商家对整个流通价值链的贡献，主要是商品发现和营销功能。但当信息流通更加充分，个人商家的商品发现价值被弱化，进而被厂家直销、各种导购平台和买手店所取代。而营销方面，随着淘宝专业分工越发精细，个人不再胜任复杂的营销管理工作，高度组织化的企业登上前台。</p>
+
+<p>抛开这些宏观论述，对于“为什么个人商家在淘宝越来越难做”的现实原因，我们能找到最直接的两点：<strong>信用成本和流量获取成本过高</strong>。</p>
+
+<p>一方面，淘宝信用对个人商家来说过于昂贵。淘宝为了创造一个相对诚信的环境，有时甚至要牺牲一些交易效率和商家体验（比如不断提高商家入驻门槛，当买卖双方发生争议时则对买家过度保护）。而店铺评级、保证金、客服、售后、账期等种种负担，也让个人商家心力交瘁。</p>
+
+<p>另一方面，随着淘宝生态的成熟，市场也由商品稀缺转向流量稀缺。打造爆款、上活动、买直通车、做淘宝客，甚至包括刷钻等行为，商家为了争夺流量无所不为，最后可能却发现毫无成效。根本上流量入口并未被扩展，而大商家显然比个人商家更具资金和品牌实力，即使淘宝不对大商家做政策倾斜，个人商家也没有活路。</p>
+
+<p>由信用和流量问题出发，我们能看到基于社交图谱（不是美丽说、淘宝U站这类兴趣图谱）的社会化电商正在萌芽。用真实社交关系解决信用，用好友圈的注意力盈余供给流量（尤其是品牌成型前的早期流量）——这一模式提供了媲美淘宝的想象力。目前在这一领域可供参考的案例还很少，微信朋友圈生意算是一个，暂时动向不明的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206354.html">阿里浪</a>”算是半个。这里还要介绍一个叫“<a target="_blank" data-no-turbolink="true" href="http://www.xiaojiaoyi.com/">小交易</a>（<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/cn/app/xiao-jiao-yi/id609706406?mt=8">iOS</a>/<a target="_blank" data-no-turbolink="true" href="http://www.wandoujia.com/apps/com.xiaojiaoyi">Android</a>）”的产品——这个主打好友、邻里交易的项目，能给我们不少启发。</p>
+
+<p><img src="http://a.36krcnd.com/photo/4eb631575bb1462521221aad7b174a86.jpg" alt=""></p>
+
+<p><strong>二、所谓“小交易”模式，就是从你的熟人、半熟人网络中挖掘交易机会</strong></p>
+
+<p>其实“<a target="_blank" data-no-turbolink="true" href="http://www.xiaojiaoyi.com/down.do">小交易</a>”的理念并不复杂。基本上，这是个基于地理位置的个人交易平台——这毫不稀奇，包括“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/taoshenbian1">淘身边</a>”在内的类似产品遍地都是。但“小交易”的革新之处在于，它除了位置距离外，还结合了人际距离来撮合交易。</p>
+
+<p>在信任机制上，“小交易”通过微博、QQ、通讯录等社交平台导入你的熟人关系链，通过评估不同交易者之间人脉距离的远近（几度人脉、共同好友数、好友质量等），创造了一个完全可信的交易环境。在传播链上，“小交易”整合了多种社交分享机制，使得商品信息可以沿着你的一度人脉、二度人脉逐级扩散开去，流量入口瞬间被打开。</p>
+
+<p>这么说你可能没有感觉，我来描述一个典型的使用过程：卖家A有一个二手商品准备出售，他用“小交易”生成一个商品信息卡片，既可以直接分享到自己的社交网络，也可以用“邀请”功能让熟人帮忙扩散，或者生成一条链接粘到任何地方。这时有一个潜在买家B，从微信、微博、或者App中发现了这件商品，进入交易页面后他将得到这么几种信息辅助购买决策：</p>
+
+<p>1、A的地理位置远近。如果发现A就在你身边几百米，完全可以当面验货验人。</p>
+
+<p>2、与A交易的靠谱度分值。这一分值基于双方人际距离远近、个人资料的完整度、商品有无位置信息以及历史交易记录等维度得出。</p>
+
+<p>3、该交易有哪些好友提供了背书。由于“邀请好友帮忙”这一机制的存在，如果你发现该商品有许多共同好友都推荐了，则可以认为商品发布者至少在人格上是可信的。</p>
+
+<p>4、卖家A有无参与保障计划，包括身份认证和保证金等措施。</p>
+
+<p><img src="http://a.36krcnd.com/photo/c238724da4c1e31d0cdff01135c11663.png" alt=""></p>
+
+<p>于是就结果而言，无论卖家A还是买家B都处于一个真实的社交环境中，失信行为将会在朋友圈中被广泛传播，没有人敢冒着现实声誉受损的风险赚取短期利益。而且基于一定的匹配算法，资料越完善、与你关系越接近的交易将得到更多曝光，不靠谱的信息将排除在你的视野之外。</p>
+
+<p>这里面还存在着一种信任传导，如果一度人脉中的交易信息是可信的，那么沿着一度人脉扩展出来的二度人脉也基本可信。做异性社交的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205503.html">某某</a>”、做职场社交的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/207177.html">脉脉</a>”、以及“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/202424.html">人人猎头</a>”这类社会化招聘产品也是同样思路，但“小交易”做得更好的一点是让一度人脉直接参与了交易背书。当然，一个“萍水相逢”式的一度人脉同样不可靠，“小交易”通过将你的微博、QQ、通讯录关系整合，不仅关注你与他人处于几度人脉，还用一些方式对你们之间的关系强弱做出评估。</p>
+
+<p>这个产品的本质，就是从你身边熟人、半熟人关系网络中挖掘出交易机会。</p>
+
+<p><img src="http://a.36krcnd.com/photo/c30dd34e3fce5017ad8ee72e28db2e0e.png" alt=""></p>
+
+<p><strong>三、由创造信用带来的颠覆</strong></p>
+
+<p>有信用才有市场，而创造信用的行为隐含着就是在创造财富。不完全数一下“小交易”的潜在挑战对象，我们能看到如下名单：</p>
+
+<p>1、代购等各种朋友圈生意。</p>
+
+<p>2、分类信息站。不用多说，公告板式的信息沟通基本算是上世纪遗产，不解决信用缺失和信息过载。</p>
+
+<p>3、社区电商。“熟人”定义是比较宽泛的，你的邻居、经常光顾的社区超市、附近餐馆都包含在内。比如我们公司旁边的糕点铺每天晚上都要将存货打折出售，这时就可以用“小交易”向我们这些老主顾广播。某个厨艺精湛的阿姨闲坐无聊，可以弄一桌私房菜放到“小交易”供附近上班族预定。</p>
+
+<p>4、闲置物品交易。这个市场在国内一直不温不火，很多产品都迈不过冷启动这一关，但“小交易”取巧的是利用了现成的关系链和传播链，一个用户可以带来一串熟人。</p>
+
+<p>5、小额借贷。这一领域有一些做关系挖掘的公司，比如用微博数据做小额P2P贷款的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205659.html">卡小二</a>”。线下本来就普遍存在着熟人借贷，类似“小交易”的平台可以让这一过程更高效透明。</p>
+
+<p>当然想象不局限在这里，一切需要利用口碑、关系的个人生意，几乎都可以用类似思路做出一款产品，这样的垂直领域有很多。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 沈超]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/208628.html" target="_blank" rel="external">当C2C在淘宝衰落之后，“小交易”能否用“关系链+地理位置”让真正意义上的C2C复兴？</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.xiaojiaoyi.com/" target="_blank" rel="external">小交易</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -319,73 +435,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[小交易]]></title>
-    <link href="http://luoguochun.cn/2014/07/23/%E5%B0%8F%E4%BA%A4%E6%98%93/"/>
-    <id>http://luoguochun.cn/2014/07/23/小交易/</id>
+    <title><![CDATA[帮我选 APP]]></title>
+    <link href="http://luoguochun.cn/2014/07/23/%E5%B8%AE%E6%88%91%E9%80%89%20APP/"/>
+    <id>http://luoguochun.cn/2014/07/23/帮我选 APP/</id>
     <published>2014-07-22T16:00:00.000Z</published>
-    <updated>2014-07-22T17:56:30.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/1bfc5a3b4806fe1e25e70cf4194d990b.jpeg" alt=""></p>
-
-<p><strong>一、C2C电商？淘宝早已名不副实</strong></p>
-
-<p>说起C2C我们总是想到淘宝，但现在的淘宝也是无数个小B的集合，和早期个人商家充斥的生态已经大为不同。早期淘宝个人商家对整个流通价值链的贡献，主要是商品发现和营销功能。但当信息流通更加充分，个人商家的商品发现价值被弱化，进而被厂家直销、各种导购平台和买手店所取代。而营销方面，随着淘宝专业分工越发精细，个人不再胜任复杂的营销管理工作，高度组织化的企业登上前台。</p>
-
-<p>抛开这些宏观论述，对于“为什么个人商家在淘宝越来越难做”的现实原因，我们能找到最直接的两点：<strong>信用成本和流量获取成本过高</strong>。</p>
-
-<p>一方面，淘宝信用对个人商家来说过于昂贵。淘宝为了创造一个相对诚信的环境，有时甚至要牺牲一些交易效率和商家体验（比如不断提高商家入驻门槛，当买卖双方发生争议时则对买家过度保护）。而店铺评级、保证金、客服、售后、账期等种种负担，也让个人商家心力交瘁。</p>
-
-<p>另一方面，随着淘宝生态的成熟，市场也由商品稀缺转向流量稀缺。打造爆款、上活动、买直通车、做淘宝客，甚至包括刷钻等行为，商家为了争夺流量无所不为，最后可能却发现毫无成效。根本上流量入口并未被扩展，而大商家显然比个人商家更具资金和品牌实力，即使淘宝不对大商家做政策倾斜，个人商家也没有活路。</p>
-
-<p>由信用和流量问题出发，我们能看到基于社交图谱（不是美丽说、淘宝U站这类兴趣图谱）的社会化电商正在萌芽。用真实社交关系解决信用，用好友圈的注意力盈余供给流量（尤其是品牌成型前的早期流量）——这一模式提供了媲美淘宝的想象力。目前在这一领域可供参考的案例还很少，微信朋友圈生意算是一个，暂时动向不明的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206354.html">阿里浪</a>”算是半个。这里还要介绍一个叫“<a target="_blank" data-no-turbolink="true" href="http://www.xiaojiaoyi.com/">小交易</a>（<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/cn/app/xiao-jiao-yi/id609706406?mt=8">iOS</a>/<a target="_blank" data-no-turbolink="true" href="http://www.wandoujia.com/apps/com.xiaojiaoyi">Android</a>）”的产品——这个主打好友、邻里交易的项目，能给我们不少启发。</p>
-
-<p><img src="http://a.36krcnd.com/photo/4eb631575bb1462521221aad7b174a86.jpg" alt=""></p>
-
-<p><strong>二、所谓“小交易”模式，就是从你的熟人、半熟人网络中挖掘交易机会</strong></p>
-
-<p>其实“<a target="_blank" data-no-turbolink="true" href="http://www.xiaojiaoyi.com/down.do">小交易</a>”的理念并不复杂。基本上，这是个基于地理位置的个人交易平台——这毫不稀奇，包括“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/taoshenbian1">淘身边</a>”在内的类似产品遍地都是。但“小交易”的革新之处在于，它除了位置距离外，还结合了人际距离来撮合交易。</p>
-
-<p>在信任机制上，“小交易”通过微博、QQ、通讯录等社交平台导入你的熟人关系链，通过评估不同交易者之间人脉距离的远近（几度人脉、共同好友数、好友质量等），创造了一个完全可信的交易环境。在传播链上，“小交易”整合了多种社交分享机制，使得商品信息可以沿着你的一度人脉、二度人脉逐级扩散开去，流量入口瞬间被打开。</p>
-
-<p>这么说你可能没有感觉，我来描述一个典型的使用过程：卖家A有一个二手商品准备出售，他用“小交易”生成一个商品信息卡片，既可以直接分享到自己的社交网络，也可以用“邀请”功能让熟人帮忙扩散，或者生成一条链接粘到任何地方。这时有一个潜在买家B，从微信、微博、或者App中发现了这件商品，进入交易页面后他将得到这么几种信息辅助购买决策：</p>
-
-<p>1、A的地理位置远近。如果发现A就在你身边几百米，完全可以当面验货验人。</p>
-
-<p>2、与A交易的靠谱度分值。这一分值基于双方人际距离远近、个人资料的完整度、商品有无位置信息以及历史交易记录等维度得出。</p>
-
-<p>3、该交易有哪些好友提供了背书。由于“邀请好友帮忙”这一机制的存在，如果你发现该商品有许多共同好友都推荐了，则可以认为商品发布者至少在人格上是可信的。</p>
-
-<p>4、卖家A有无参与保障计划，包括身份认证和保证金等措施。</p>
-
-<p><img src="http://a.36krcnd.com/photo/c238724da4c1e31d0cdff01135c11663.png" alt=""></p>
-
-<p>于是就结果而言，无论卖家A还是买家B都处于一个真实的社交环境中，失信行为将会在朋友圈中被广泛传播，没有人敢冒着现实声誉受损的风险赚取短期利益。而且基于一定的匹配算法，资料越完善、与你关系越接近的交易将得到更多曝光，不靠谱的信息将排除在你的视野之外。</p>
-
-<p>这里面还存在着一种信任传导，如果一度人脉中的交易信息是可信的，那么沿着一度人脉扩展出来的二度人脉也基本可信。做异性社交的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205503.html">某某</a>”、做职场社交的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/207177.html">脉脉</a>”、以及“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/202424.html">人人猎头</a>”这类社会化招聘产品也是同样思路，但“小交易”做得更好的一点是让一度人脉直接参与了交易背书。当然，一个“萍水相逢”式的一度人脉同样不可靠，“小交易”通过将你的微博、QQ、通讯录关系整合，不仅关注你与他人处于几度人脉，还用一些方式对你们之间的关系强弱做出评估。</p>
-
-<p>这个产品的本质，就是从你身边熟人、半熟人关系网络中挖掘出交易机会。</p>
-
-<p><img src="http://a.36krcnd.com/photo/c30dd34e3fce5017ad8ee72e28db2e0e.png" alt=""></p>
-
-<p><strong>三、由创造信用带来的颠覆</strong></p>
-
-<p>有信用才有市场，而创造信用的行为隐含着就是在创造财富。不完全数一下“小交易”的潜在挑战对象，我们能看到如下名单：</p>
-
-<p>1、代购等各种朋友圈生意。</p>
-
-<p>2、分类信息站。不用多说，公告板式的信息沟通基本算是上世纪遗产，不解决信用缺失和信息过载。</p>
-
-<p>3、社区电商。“熟人”定义是比较宽泛的，你的邻居、经常光顾的社区超市、附近餐馆都包含在内。比如我们公司旁边的糕点铺每天晚上都要将存货打折出售，这时就可以用“小交易”向我们这些老主顾广播。某个厨艺精湛的阿姨闲坐无聊，可以弄一桌私房菜放到“小交易”供附近上班族预定。</p>
-
-<p>4、闲置物品交易。这个市场在国内一直不温不火，很多产品都迈不过冷启动这一关，但“小交易”取巧的是利用了现成的关系链和传播链，一个用户可以带来一串熟人。</p>
-
-<p>5、小额借贷。这一领域有一些做关系挖掘的公司，比如用微博数据做小额P2P贷款的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205659.html">卡小二</a>”。线下本来就普遍存在着熟人借贷，类似“小交易”的平台可以让这一过程更高效透明。</p>
-
-<p>当然想象不局限在这里，一切需要利用口碑、关系的个人生意，几乎都可以用类似思路做出一款产品，这样的垂直领域有很多。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 沈超]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/208628.html" target="_blank" rel="external">当C2C在淘宝衰落之后，“小交易”能否用“关系链+地理位置”让真正意义上的C2C复兴？</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.xiaojiaoyi.com/" target="_blank" rel="external">小交易</a>  </p>
+    <updated>2014-07-22T17:56:32.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/242" title="查看产品详情" target="_blank" rel="external"><br>                                选择困难户的福音                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/us/app/bang-wo-xuan/id892274635" target="_blank" rel="external">帮我选 APP</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -440,92 +496,6 @@
     <updated>2014-07-21T17:06:52.000Z</updated>
     <content type="html"><![CDATA[<p>分享国内外原创设计作品，推荐优质、创意的商品，在这里发现属于你的轻文艺慢生活。  </p>
 <p>更多详情请参考相关网站 <a href="http://qingwenyi.com/" target="_blank" rel="external">轻文艺生活</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[蜜芽宝贝]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/%E8%9C%9C%E8%8A%BD%E5%AE%9D%E8%B4%9D/"/>
-    <id>http://luoguochun.cn/2014/07/22/蜜芽宝贝/</id>
-    <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-21T17:06:56.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/c7ff97e80bf25700ec71e85c06d6d91d.png" alt=""><br><br>母婴电商<a target="_blank" data-no-turbolink="true" href="http://www.miyabaobei.com/">蜜芽宝贝</a>刚刚完成B轮融资，金额为2000万美元，创始人刘楠向我透露，B轮由红杉资本领投，真格基金和险峰华兴跟投。而交易完成后，红杉资本管理合伙人周逵则会进入蜜芽公司董事会。</p>
-
-<p>蜜芽宝贝的千万级人民币A轮是由真格基金与险峰华兴投资的。</p>
-
-<p>蜜芽宝贝最早是在2011年于淘宝上线，主要的商业模式是限时出售：每天在网站推荐热门的进口母婴产品，放在页面限时限量出售。根据之前官方给出的消息，蜜芽上线第一个月就突破千万销售额，每天订单1200单以上，月重复购买率44%。</p>
-
-<p>2013年，淘宝上的收益已经很好看了。这时候真格基金的徐小平和蜜芽宝贝创始人兼CEO刘楠聊起“出淘”的事儿，说：希望刘楠走出自己的Comfort Room。于是，蜜芽宝贝垂直电商在当年正式上线。</p>
-
-<p>关于运作模式，刘楠根据之前做妈妈的经验，总结了几个能解决母婴产品购买痛点的方法：</p>
-
-<p><strong>1.海外产品引进，自建仓库物流</strong></p>
-
-<p><strong>解决痛点：</strong>海淘的繁琐，供应不足以及产品真假难以辨别。</p>
-
-<p>刘楠给我介绍，在分辨母婴产品真伪时，渠道是一个很好的判断指标。</p>
-
-<p><strong>2.根据妈妈们的投票来进货</strong></p>
-
-<p><strong>解决痛点：</strong>受欢迎的母婴产品常常没有在国内承销，导致口碑产品买不到。</p>
-
-<p><strong>3.限时抢购</strong></p>
-
-<p><strong>解决痛点：</strong>货物囤积；季节产品买不到或者不敢进货</p>
-
-<p>而且限时抢购在营销的角度，也是抓住了妈妈们给孩子囤货时候的跟风心理，更有吸引力。</p>
-
-<p>从成本控制和物流角度来看，做限时抢购还有几个好处：</p>
-
-<p><ul></ul></p>
-<p><li><p>先确认客户订单再进行商品采购、检测、包装、分发、物流等程序，可以缩短商品的平均在库时间，节省库存处理成本，提高了产品的毛利率，降低仓库和库存商品所占用的资本金；</p></li></p>
-<p><li><p>通过剥离品牌商、中间商、百货公司三层的成本，得以用一半的价格来吸引消费者；</p></li></p>
-<p><li><p>驱动客户重新参与，增加回访率；</p></li><br><br>                    </p><p>[<span>36氪</span>原创文章，作者: Leah]</p><br>                    <p></p>  <p></p>
-<p>原文发表于 <a href="http://www.36kr.com/p/212090.html" target="_blank" rel="external">母婴电商蜜芽宝贝获得2000万美元B轮融资：主打热门+品牌+限时抢购</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.miyabaobei.com/" target="_blank" rel="external">蜜芽宝贝</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[蒲公英]]></title>
-    <link href="http://luoguochun.cn/2014/07/22/%E8%92%B2%E5%85%AC%E8%8B%B1/"/>
-    <id>http://luoguochun.cn/2014/07/22/蒲公英/</id>
-    <published>2014-07-21T16:00:00.000Z</published>
-    <updated>2014-07-21T17:06:54.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://static.36kr.com/wp-content/uploads/2011/04/dandelion2.jpg" alt=""></p>
-
-<p>编者按：本文由硅谷创业家 <a target="_blank" data-no-turbolink="true" href="http://www.about.me/semilshah">Semil Shah</a>撰写，他在文中同大家分享了自己对种子投资的看法，以及他所推崇的“<br><br><strong>种子投资的蒲公英效应</strong><br><br>”理论。文章值得一读，以下为<br><br><strong>正文部分</strong><br><br>：</p>
-
-<p>我经常听到创业者所说的两句话就是：<br><br><strong>1.我正在找一个技术联合创始人；2.</strong><br><br><strong>我们正在招聘工程师，开发者和设计师</strong><br><br>。不过除非他们有非常好的渠道，否则招聘行动完全依靠运气，甚至招到好的人才的可能性也不高。那些需要寻找技术联合创始人的创业者如果不采取外包或者自学编程可能很难将自己的创意付诸实施；而那些已经拿到了种子投资的创业者寻找技术人才的过程也将既耗时又耗力，而投资者投给他们做产品的钱也都被花在寻找人才上了。不过尽管许多新公司都在争抢人才，最后肯定只有其中少数能够步入到真正的A轮融资阶段。其他的要么仍是 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/myspace-bleak-project-numbers/">勉强度日</a>，要么 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/stylehop-start-ups-last-before-closing-review/">关门大吉</a>，而他们旗下的那些技术人才则会再次流入劳动市场。</p>
-
-<p>在这个过程中，许许多多的力量都会参与进来。比如说线上活动的成本已经大幅降低，社交平台的发展使得产品推广变得更加迅速，而且受到应用创新的影响，宏观经济产业也已经开始发生变革，<br><br><strong>普通大众创建下一个<br><br>Facebook</strong><br><br><strong>的激情都已经被彻底点燃了</strong><br><br>。此外，与之相伴的则是 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/this-tech-bubble-is-different-part-5/">大量的资本会涌入到种子投资阶段</a>，以期抢到下一个Facebook。那么这么多的公司和这么多的种子投资涌入会造成一个什么样的结果呢？有人会说我们已经到了一个“种子投资的泡沫”阶段，但我认为这么说不太对，我觉得将之称作“种子投资的蒲公英效应”更加合理。</p>
-
-<p>事实上，当一个真正的泡沫破灭时，肯定会有许许多多的参与者甚至宏观经济都会受到巨大的负面影响。但是在种子投资方面，大部分的创业公司都不会存活到<br><br>A轮融资阶段，所以其带来的消极影响是可控的而且不会延伸到经济的其他领域。虽然也确实会有一些投资者蒙受到损失，但是他们在投资之初就应该知道其行为的高风险性，而且也并没有人逼迫他们作出这样的投资决定。<br><br><strong>我所说的“种子投资的蒲公英效应”具体可以这样看</strong><strong>——</strong><br><br><strong>那些失败的创业公司中的许多人才都会再次转移到这个创业生态系统的其他部分中去，而且由于具备了创业经验，在新的项目中他们会 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/are-you-a-pirate/">表现得更富胆识和创新</a></strong><br><br>。最近我就听说到这样一个例子：一家融资接近100万美元的创业公司倒闭了，该公司的4位工程师就都踏上了不同的道路。甲去了一家技术巨头，乙去了一家风投公司，丙开始了一个全新的项目，丁则加盟了一家已经拿到A轮融资的创业公司。这个故事就很好的说明了人才的多样化选择，以前他们被集中在某个创业公司中，但是现在该公司关门了，他们则自由的进入到了这个创业生态圈的其他部分。</p>
-
-<p>事实上，我并不是以一种消极的态度来分享这个故事的，恰恰相反，这个故事很积极。其一，这些人才还可以去到其他许许多多已经拿到了种子投资的创业公司中；其二， <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/google-q1-2011-earnings/">许多的互联网技术巨头也都在招聘</a>。其三，有一些已经拿到<br><br>A轮融资并且开始同巨头公司展开竞争的 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/foursquare-wants-to-help-googlers-to-get-massive-counteroffers-too/">创业公司也需要大量的招聘人才</a>。</p>
-
-<p>所有的这些因素作用尽管在短期内也会造成一些波动，但是在长期来看却是对整个生态系统都是有利的，而且还会促进人才向技术市场集中。所以在我看来，<br><br><strong>种子投资和创业公司不会像泡沫一样被捅破，而是会像许许多多的蒲公英一样，随风到处飘荡，然后落在合适的地里，再生根发芽，开出一朵朵更加鲜艳的希望之花</strong><br><br>。</p>
-
-<p>Via  <a target="_blank" data-no-turbolink="true" href="http://techcrunch.com/2011/04/19/the-seed-stage-dandelion-effect/">TC</a><br><br> </p><br>                    <p></p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/21778.html" target="_blank" rel="external">种子投资的蒲公英效应</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://pgyer.com/" target="_blank" rel="external">蒲公英</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

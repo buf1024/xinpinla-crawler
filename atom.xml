@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-24T07:14:03.797Z</updated>
+  <updated>2014-07-24T10:08:50.334Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,13 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[看准网职业体检]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/%E7%9C%8B%E5%87%86%E7%BD%91%E8%81%8C%E4%B8%9A%E4%BD%93%E6%A3%80/"/>
-    <id>http://luoguochun.cn/2014/07/24/看准网职业体检/</id>
+    <title><![CDATA[Pangu越狱工具]]></title>
+    <link href="http://luoguochun.cn/2014/07/24/Pangu%E8%B6%8A%E7%8B%B1%E5%B7%A5%E5%85%B7/"/>
+    <id>http://luoguochun.cn/2014/07/24/Pangu越狱工具/</id>
     <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-24T07:11:05.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/272" title="查看产品详情" target="_blank" rel="external"><br>                                分智网转型                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.kanzhun.com/zhiji/" target="_blank" rel="external">看准网职业体检</a>  </p>
+    <updated>2014-07-24T10:05:50.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/274" title="查看产品详情" target="_blank" rel="external"><br>                                一款国产越狱工具                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://pangu.io/" target="_blank" rel="external">Pangu越狱工具</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -33,31 +33,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[每日番茄_知行]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/%E6%AF%8F%E6%97%A5%E7%95%AA%E8%8C%84_%E7%9F%A5%E8%A1%8C/"/>
-    <id>http://luoguochun.cn/2014/07/24/每日番茄_知行/</id>
+    <title><![CDATA[Egret]]></title>
+    <link href="http://luoguochun.cn/2014/07/24/Egret/"/>
+    <id>http://luoguochun.cn/2014/07/24/Egret/</id>
     <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-24T07:11:04.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/271" title="查看产品详情" target="_blank" rel="external"><br>                                用番茄法来跟踪时间，历史上今天你在做什么呢？                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.51zhi.com/task/" target="_blank" rel="external">每日番茄_知行</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[易停车]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/%E6%98%93%E5%81%9C%E8%BD%A6/"/>
-    <id>http://luoguochun.cn/2014/07/24/易停车/</id>
-    <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-24T07:11:04.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/273" title="查看产品详情" target="_blank" rel="external"><br>                                快速定位所在位置，并且查找周边停车场                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://axetime.com/product.html" target="_blank" rel="external">易停车</a>  </p>
+    <updated>2014-07-24T10:05:49.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/275" title="查看产品详情" target="_blank" rel="external"><br>                                开源跨平台游戏框架（微信朋友圈爆红游戏“神经猫”用此框架开发）                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.egret-labs.org/" target="_blank" rel="external">Egret</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -76,6 +58,24 @@
     <updated>2014-07-23T17:10:19.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/261" title="查看产品详情" target="_blank" rel="external"><br>                                手机上的装修设计应用                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.lingduohome.com" target="_blank" rel="external">窝牛装修</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[看准网职业体检]]></title>
+    <link href="http://luoguochun.cn/2014/07/24/%E7%9C%8B%E5%87%86%E7%BD%91%E8%81%8C%E4%B8%9A%E4%BD%93%E6%A3%80/"/>
+    <id>http://luoguochun.cn/2014/07/24/看准网职业体检/</id>
+    <published>2014-07-23T16:00:00.000Z</published>
+    <updated>2014-07-24T07:11:05.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/272" title="查看产品详情" target="_blank" rel="external"><br>                                分智网转型                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.kanzhun.com/zhiji/" target="_blank" rel="external">看准网职业体检</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -213,6 +213,24 @@
   </entry>
   
   <entry>
+    <title><![CDATA[每日番茄_知行]]></title>
+    <link href="http://luoguochun.cn/2014/07/24/%E6%AF%8F%E6%97%A5%E7%95%AA%E8%8C%84_%E7%9F%A5%E8%A1%8C/"/>
+    <id>http://luoguochun.cn/2014/07/24/每日番茄_知行/</id>
+    <published>2014-07-23T16:00:00.000Z</published>
+    <updated>2014-07-24T07:11:04.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/271" title="查看产品详情" target="_blank" rel="external"><br>                                用番茄法来跟踪时间，历史上今天你在做什么呢？                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.51zhi.com/task/" target="_blank" rel="external">每日番茄_知行</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[树熊WiFi]]></title>
     <link href="http://luoguochun.cn/2014/07/24/%E6%A0%91%E7%86%8AWiFi/"/>
     <id>http://luoguochun.cn/2014/07/24/树熊WiFi/</id>
@@ -249,13 +267,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[无限壁纸]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/%E6%97%A0%E9%99%90%E5%A3%81%E7%BA%B8/"/>
-    <id>http://luoguochun.cn/2014/07/24/无限壁纸/</id>
+    <title><![CDATA[易停车]]></title>
+    <link href="http://luoguochun.cn/2014/07/24/%E6%98%93%E5%81%9C%E8%BD%A6/"/>
+    <id>http://luoguochun.cn/2014/07/24/易停车/</id>
     <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-23T17:10:16.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/259" title="查看产品详情" target="_blank" rel="external"><br>                                Jing.Fm 创始人 施凯文 新项目                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/wu-xian-bi-zhi/id891704316?mt=8" target="_blank" rel="external">无限壁纸</a>  </p>
+    <updated>2014-07-24T07:11:04.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/273" title="查看产品详情" target="_blank" rel="external"><br>                                快速定位所在位置，并且查找周边停车场                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://axetime.com/product.html" target="_blank" rel="external">易停车</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -274,6 +292,24 @@
     <updated>2014-07-24T04:14:53.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/270" title="查看产品详情" target="_blank" rel="external"><br>                                20美元即可进行标准化语言考试                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="https://testcenter.duolingo.com/" target="_blank" rel="external">Duolingo Test Center</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[掌柜的]]></title>
+    <link href="http://luoguochun.cn/2014/07/24/%E6%8E%8C%E6%9F%9C%E7%9A%84/"/>
+    <id>http://luoguochun.cn/2014/07/24/掌柜的/</id>
+    <published>2014-07-23T16:00:00.000Z</published>
+    <updated>2014-07-23T17:10:21.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/247" title="查看产品详情" target="_blank" rel="external"><br>                                业界唯一彻底免费的微信店铺，免费创建微信外卖店,微信便利店                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.zhanguide.com" target="_blank" rel="external">掌柜的</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -398,62 +434,6 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/214022.html" target="_blank" rel="external">为酒店供应商和分销商提供电商化服务的SaaS，“天下房仓”获青松基金一千万元大天使轮融资</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.fangcang.com/" target="_blank" rel="external">天下房仓</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[唯美系]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/%E5%94%AF%E7%BE%8E%E7%B3%BB/"/>
-    <id>http://luoguochun.cn/2014/07/24/唯美系/</id>
-    <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-23T17:10:18.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/225" title="查看产品详情" target="_blank" rel="external"><br>                                唯美系 { 创意・家居・设计 } 精选，分享来自全球的奇妙创意和优秀设计作品。涉及创意家居设计、创意家具设计、家居装饰品、新奇创意玩意、创意设计图片、手工diy、时尚生活等。                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.weimeixi.com" target="_blank" rel="external">唯美系</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[WiFi免费通]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/WiFi%E5%85%8D%E8%B4%B9%E9%80%9A/"/>
-    <id>http://luoguochun.cn/2014/07/24/WiFi免费通/</id>
-    <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-23T17:10:16.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/9dd9a4396d3ff0ffdcc1e943539c51ac.png" alt=""></p>
-
-<p>炒了这么久的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/%E8%99%9A%E6%8B%9F%E8%BF%90%E8%90%A5%E5%95%86">虚拟运营商</a>”终于来了点实质性的进展，阿里巴巴集团旗下的虚拟运营商“<a target="_blank" data-no-turbolink="true" href="http://yy.aliqin.tmall.com/preheat/priceIntro.htm">阿里通信</a>”（我一直以为会叫做“中国阿里通”，或者是“中国云通”……）推出了首批170号段SIM卡的资费标准。和传统运营商相比，虚拟运营商最大的不同就是资费的灵活性，尤其是在数据流量方面。</p>
-
-<p>根据“阿里通信”<a target="_blank" data-no-turbolink="true" href="http://yy.aliqin.tmall.com/preheat/priceIntro.htm">官方的介绍</a>，阿里通信170号段上网、语音、短信均以流量计费，通话1分钟=0.75M，1条短信=0.5M；流量0.125-0.2元/M，单价随使用量递减；流量费每满1元跳1档，用多少收多少，账单不足1元的零头直接抹掉。</p>
-
-<p>阿里通信170号将不设任何强制性费用，无服务费、无月租、无来电显示费、无漫游费，全国免费接听，但从<span class="s1">入网次月开始，<span class="s1">将设有每月<span class="s2">7<span class="s1">元的保底消费。用户入网首月，可以从0元起步，按照1元加油包自动叠加收费：0-37元间，每使用5M流量计费1元；37-77元间，每6M计费1元；77-127元间，每7M计费1元；127元以上，每8M计费1元。语音流量之间的兑换、计费升档、不足1元抹零，这些均由阿里通信后台自动完成，不需要用户费神选择、设置。</span></span></span></span></p>
-
-<p>由于目前“虚拟运营商”业务刚刚兴起，像阿里这样的虚拟运营商租赁实体运营商网络的费用还相对较高，因此“虚拟运营商”们在资费上并不是主打便宜，而是主打灵活。目前阿里通信已获得中国联通、中国电信、中国移动三家运营商转售资格。“阿里通信”会使用170号段，1700号段为中国电信，1705号段为中国移动，1709号段为中国联通。</p>
-
-<p>其实早在一个多月前，阿里就曾经对外宣布已经完成“阿里通信”的计费系统，以流量经营为核心，打通淘宝、支付宝、云OS等阿里系业务，提供互联网化的通信服务。例如淘宝会员可获信用额度透支话费，消费者可在淘宝和天猫的平台上享受在线选号入网、充值缴费、阿里合约计划等一站式服务。</p>
-
-<p>另外值得一提的是，“阿里通信”正在探索“<strong>WiFi免费通话</strong>”，即在WiFi环境下，阿里通信170号码可免费打电话、发短信，真正做到用流量免费打电话。其实在昨晚发布的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212509.html">iOS 8</a>上，苹果就已经在尝试引入“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212519.html">通过WiFi收发传统电话的功能</a>”。或许是由于对与运营商的冲击过大，iOS 8上的这一功能将取决于当地的运营商是否支持。</p>
-
-<p>无论是虚拟运营商，还是向苹果这样的手机厂商，都不约而同的尝试利用WiFi，或者是数据流量拨打电话，这对于运营商的冲击是可想而知的。之前就<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/201824.html">微信对于运营商的冲击</a>已经被讨论过无数遍了，通过流量拨打电话，还将进一步冲击运营商。但在这样的环境之下，也催生了中国虚拟运营商的发展。</p>
-
-<p>除了阿里巴巴外，苏宁、京东、天音、迪信通等多家企业都获得了“虚拟运营商牌照”，相信很快就会有相应的资费标准出炉。</p><br>                    <p>[<span>36氪</span>原创文章，作者: WANGJINGYU]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/212550.html" target="_blank" rel="external">阿里公布虚拟运营商资费标准：可以用流量打电话发短信，正在探索WiFi免费通话</a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/wifi-mian-fei-tong-mian-fei/id521069195?mt=8&amp;v0=WWW-GCCN-ITSTOP100-FREEAPPS&amp;l=&amp;ign-mpt=uo%3D4" target="_blank" rel="external">WiFi免费通</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

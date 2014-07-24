@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-24T04:17:56.021Z</updated>
+  <updated>2014-07-24T07:14:03.797Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,27 +15,13 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Reddit Live]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/Reddit%20Live/"/>
-    <id>http://luoguochun.cn/2014/07/24/Reddit Live/</id>
+    <title><![CDATA[看准网职业体检]]></title>
+    <link href="http://luoguochun.cn/2014/07/24/%E7%9C%8B%E5%87%86%E7%BD%91%E8%81%8C%E4%B8%9A%E4%BD%93%E6%A3%80/"/>
+    <id>http://luoguochun.cn/2014/07/24/看准网职业体检/</id>
     <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-24T04:14:54.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/484fde4c1d8062ed5078b00320d52684.png" alt=""></p>
-
-<p>今天，Reddit 正式上线旗下自博客平台 <a target="_blank" data-no-turbolink="true" href="http://www.reddit.com/live">Reddit Live</a>。</p>
-
-<p>该产品已测试数月——在<a target="_blank" data-no-turbolink="true" href="http://www.reddit.com/r/changelog/comments/1yki7m/reddit_change_some_information_about_live_update/">早期 beta 阶段</a>，只有 Reddit 雇员才能享受内容流（Live Streams）、授权信任的 “报导者” 来贡献内容。</p>
-
-<p>与 Reddit 传统的帖文（Post）不同，所有的话题都会在浏览器中自动、实时更新。另外，它还支持嵌入推文（Tweet）——包括其中的图片、YouTube 视频，以及文章链接。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/30e5017984bfb4226fdc59c180745bea.png" alt=""></p>
-
-<p>Reddit 并非传统出版服务商，但它庞大的用户基数能方便它迅速打造起强大的 UGC。另外，它在内容众包上具有资深经验，在信息越来越多、越杂的今天，用户对优质内容的需求更加旺盛。如果 Reddit Live 能建立起一套可续模式，那有理由相信，它将成为一个很棒的阅读源。</p><br>                    <p></p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214051.html" target="_blank" rel="external">Reddit Live 自博客平台上线，支持浏览器内自动实时更新，并能整合 Twitter 内容</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.reddit.com/live" target="_blank" rel="external">Reddit Live</a>  </p>
+    <updated>2014-07-24T07:11:05.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/272" title="查看产品详情" target="_blank" rel="external"><br>                                分智网转型                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.kanzhun.com/zhiji/" target="_blank" rel="external">看准网职业体检</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -47,13 +33,31 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Duolingo Test Center]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/Duolingo%20Test%20Center/"/>
-    <id>http://luoguochun.cn/2014/07/24/Duolingo Test Center/</id>
+    <title><![CDATA[每日番茄_知行]]></title>
+    <link href="http://luoguochun.cn/2014/07/24/%E6%AF%8F%E6%97%A5%E7%95%AA%E8%8C%84_%E7%9F%A5%E8%A1%8C/"/>
+    <id>http://luoguochun.cn/2014/07/24/每日番茄_知行/</id>
     <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-24T04:14:53.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/270" title="查看产品详情" target="_blank" rel="external"><br>                                20美元即可进行标准化语言考试                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://testcenter.duolingo.com/" target="_blank" rel="external">Duolingo Test Center</a>  </p>
+    <updated>2014-07-24T07:11:04.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/271" title="查看产品详情" target="_blank" rel="external"><br>                                用番茄法来跟踪时间，历史上今天你在做什么呢？                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.51zhi.com/task/" target="_blank" rel="external">每日番茄_知行</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[易停车]]></title>
+    <link href="http://luoguochun.cn/2014/07/24/%E6%98%93%E5%81%9C%E8%BD%A6/"/>
+    <id>http://luoguochun.cn/2014/07/24/易停车/</id>
+    <published>2014-07-23T16:00:00.000Z</published>
+    <updated>2014-07-24T07:11:04.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/273" title="查看产品详情" target="_blank" rel="external"><br>                                快速定位所在位置，并且查找周边停车场                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://axetime.com/product.html" target="_blank" rel="external">易停车</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -263,13 +267,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Picturelife]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/Picturelife/"/>
-    <id>http://luoguochun.cn/2014/07/24/Picturelife/</id>
+    <title><![CDATA[Duolingo Test Center]]></title>
+    <link href="http://luoguochun.cn/2014/07/24/Duolingo%20Test%20Center/"/>
+    <id>http://luoguochun.cn/2014/07/24/Duolingo Test Center/</id>
     <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-23T17:10:16.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/267" title="查看产品详情" target="_blank" rel="external"><br>                                一个照片储存分享平台                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://picturelife.com" target="_blank" rel="external">Picturelife</a>  </p>
+    <updated>2014-07-24T04:14:53.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/270" title="查看产品详情" target="_blank" rel="external"><br>                                20美元即可进行标准化语言考试                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://testcenter.duolingo.com/" target="_blank" rel="external">Duolingo Test Center</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -450,36 +454,6 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/212550.html" target="_blank" rel="external">阿里公布虚拟运营商资费标准：可以用流量打电话发短信，正在探索WiFi免费通话</a>  </p>
 <p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/wifi-mian-fei-tong-mian-fei/id521069195?mt=8&amp;v0=WWW-GCCN-ITSTOP100-FREEAPPS&amp;l=&amp;ign-mpt=uo%3D4" target="_blank" rel="external">WiFi免费通</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Timehop]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/Timehop/"/>
-    <id>http://luoguochun.cn/2014/07/24/Timehop/</id>
-    <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-23T17:10:21.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/c85e1a982e400ba0219fe194d68b403f.jpg" alt=""></p>
-
-<p>今天，“翻旧账”的时光机应用<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/210719.html">Timehop</a>宣布获得了1000万美金B轮融资，Shasta Ventures领投，Spark 、 O’Reilly Alpha Tech Ventures 和天使投资人 Randi Zuckerberg跟投。</p>
-
-<p>Timehop就是一家帮用户“时光旅行”的创业公司，在 2012 年 10 月的时候，它推出了一款iPhone app，可以帮你将往年今日写过的 tweet，Facebook 状态，Instagram 、Flickr、本地照片，以及 Foursquare 的足迹通通翻出来，让你看到过去的自己。</p>
-
-<p>目前，Timehop iOS和Android上两个平台每天的打开次数已有300万次。作为一个记录过去事情的工具，Timehop希望以后能帮用户记录更多其它痕迹，比如可穿戴设备数据，信用卡刷卡记录等等。它甚至有可能开发更好用的日记工具，以达到记录生活的目的。</p>
-
-<p>Timehop现在还没有着手变现的事情，不过好像也不难，最直接的思路是在信息流中加入赞助商信息，比如xxx年的今天，香奈尔开了第一家女帽店等等。</p><br>                    <p></p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214009.html" target="_blank" rel="external">回忆“去年今日”的时光机应用Timehop获得B轮融资1000万美金</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://timehop.com/" target="_blank" rel="external">Timehop</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

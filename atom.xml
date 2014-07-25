@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-24T16:08:30.748Z</updated>
+  <updated>2014-07-25T05:42:34.601Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -13,6 +13,86 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[品读]]></title>
+    <link href="http://luoguochun.cn/2014/07/25/%E5%93%81%E8%AF%BB/"/>
+    <id>http://luoguochun.cn/2014/07/25/品读/</id>
+    <published>2014-07-24T16:00:00.000Z</published>
+    <updated>2014-07-25T05:39:17.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/288" title="查看产品详情" target="_blank" rel="external"><br>                                一个基于内容的Zaker跟Pocket的合体                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.pento.cn/" target="_blank" rel="external">品读</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[配音秀]]></title>
+    <link href="http://luoguochun.cn/2014/07/25/%E9%85%8D%E9%9F%B3%E7%A7%80/"/>
+    <id>http://luoguochun.cn/2014/07/25/配音秀/</id>
+    <published>2014-07-24T16:00:00.000Z</published>
+    <updated>2014-07-25T03:14:06.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/5f6114faeddd93f22db6335b45d7f4b6.jpg" alt=""></p>
+
+<p>优酷上的雪姨和容嬷嬷你是否已经看腻？至少我在看到“傅文佩，快出来”的时候，脑海中闪过无数其他的版本想要去实践呢！</p>
+
+<p>配音秀（<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/cn/app/pei-yin-xiu-shou-ji-pei-yin/id746925035?mt=8">iOS</a>、<a target="_blank" data-no-turbolink="true" href="http://as.baidu.com/a/item?docid=5828321&amp;amp;pre=web_am_software&amp;amp;pos=software_1010_6&amp;amp;f=topic_3001_328_6%40software_1010_6">Android</a>）就是这样一款视频配音UGC应用，你可以自己通过手机给各种视频片段配音，最后生成自己原创的作品。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/250d0657118620bd8f596c957b98ae4f.jpg" alt=""></p>
+
+<p>做UGC，其实最重要的就是降低使用门槛，并且网罗一批发烧用户。比如美拍降低的是视频剪辑制作渲染成本，而自拍神器则是降低修图成本。视频配音方面，在配音秀上找寻素材制作配音的过程也非常简单：</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/e86d45d3a1a1ddf601273b606b2bced0.jpg" alt=""></p>
+
+<p>选择喜欢的视频素材，接着出现像卡拉OK一样的字幕，只要跟读就不用担心对不上嘴型，当然，你也可以随意改变台词。视频下面紧贴的进度条也可以提示你什么时候要开始说话了，我试了一下，确实可以实现“无缝对接”。可能唯一还不够满意的就是字幕不可以自定义，不过创始人殷明告诉我，这个在接下来的升级版本中就可以实现。</p>
+
+<p>配音秀的用户群很特别，主要用户是大学生和高中生群体，一般来说没有专业技能背景，但是有很强的声音表现欲；但是核心用户是一批发烧友，包括三线主持人、专业配音演员、以及视频制作发烧友等。他们在产品使用中可以扮演内容引导者和素材编辑人员。其实配音门槛比较低，但是素材的制作和上传需要走网页通道，一般都是专业人士在弄。</p>
+
+<p>对于之后即将新增的功能，我个人是比较期待的。用户可以选择喜欢的素材，邀请合适的陌生用户去配音或者编写文案，最后多个人完成一部作品。比如你觉得这段视频一定要类似周星驰的声音才能达到效果，你就可以搜索“周星驰”，然后找到满意的用户，给他发送邀请。而视频结尾处也会贴心的放上：编辑——XX；配音——XX等。</p>
+
+<p>同时团队还会邀请更多的专业编辑，给内容做一些引导作用。将原有一个专门自嗨的内容社区，变成积累部分高质量视频的团队原创成品集合地，一下子高大上了起来。</p>
+
+<p>殷明说，视频配音和录歌恶搞等等，是我们从大学就很感兴趣的内容，希望能通过这个平台让更多人表现自己，发挥优势。</p>
+
+<p>目前配音秀团队一共有14个人，已经完成数百万人民币的天使轮融资，来自于盛大资本。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Leah]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213738.html" target="_blank" rel="external">降低做声优的门槛，视频配音UGC应用“配音秀”获盛大资本数百万人民币天使</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.peiyinxiu.com/" target="_blank" rel="external">配音秀</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[窝牛装修]]></title>
+    <link href="http://luoguochun.cn/2014/07/25/%E7%AA%9D%E7%89%9B%E8%A3%85%E4%BF%AE/"/>
+    <id>http://luoguochun.cn/2014/07/25/窝牛装修/</id>
+    <published>2014-07-24T16:00:00.000Z</published>
+    <updated>2014-07-25T03:14:00.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/261" title="查看产品详情" target="_blank" rel="external"><br>                                手机上的装修设计应用                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.lingduohome.com" target="_blank" rel="external">窝牛装修</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[看准网职业体检]]></title>
@@ -40,6 +120,40 @@
     <updated>2014-07-24T16:05:20.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/224" title="查看产品详情" target="_blank" rel="external"><br>                                潮流台-潮人网络生活杂志，提供高品质时尚潮流消息，了解最新潮流装扮。潮流生活，从潮流台开始！                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://chaoliutai.com" target="_blank" rel="external">潮流台</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[氧气]]></title>
+    <link href="http://luoguochun.cn/2014/07/25/%E6%B0%A7%E6%B0%94/"/>
+    <id>http://luoguochun.cn/2014/07/25/氧气/</id>
+    <published>2014-07-24T16:00:00.000Z</published>
+    <updated>2014-07-25T03:14:01.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/5abc459b932efea91a44903f3ef89fc1.jpg" alt=""></p>
+
+<p>有多少女生可以说自己懂得内衣呢？什么品牌、款式的内衣更适合自己的胸型？穿什么样的内衣可以塑形而不是起到反效果？在大家对衣服、包包、鞋帽的品牌了然于胸的今天，仍有大多数女生对内衣并不够了解，有限的接触就仅仅是购买内衣时听导购员的解说。在这样的市场空白之下，“氧气”就想做一款专注做内衣搭配推荐的应用。</p>
+
+<p>和<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/204704.html">Pick</a>很像，“氧气”app几乎就像一本讲诉内衣搭配的精品杂志，它每天更新不同的品牌内衣，这些内衣都是由专门的买手去发现、试穿，最后根据亲身经验写成编辑推荐语推荐给用户。对于女性用户来说，“氧气”提供的是适合工作、约会、独处等一个个不同场景的内衣推荐、背后的品牌故事和相关知识，它缩窄了年轻女生对全球内衣品牌的认知鸿沟，因此也拥有决策入口的价值，可以做品牌合作和代销。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/0aed0499e0909fb271284405c5bc3745.jpg" alt=""></p>
+
+<p>而内衣电商最大的问题就在于购买前不能试穿，氧气解决这个问题的方式是提供尽量清晰的文字说明，以及“魔镜”试穿功能——用户可以打开魔镜，将镜头中已有的内衣对准胸部，做一个基本的样式匹配和试穿（不过个人感觉目前试穿更像是为了趣味性效果&gt;&lt;）。</p>
+
+<p>盈利模式上，氧气会如上文所说做一些品牌合作和代销，不过目前第一版仍是纯粹的媒体形态，未来会一步步试水电商，尝试去打通进货、存储、物流等环节。以后还会推出按月订购的小盒子。</p>
+
+<p>其实国外内衣电商的市场早有创业者切入，比如我们报道过的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/116289.html">Adore Me</a>和<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/87184.html">Brayola</a>、<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/114182.html">True&amp;Co</a>，但国内的内衣电商目前还算是一个很空白的市场，垂直化妆品的电商<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212058.html">聚美优品已经上市</a>了，未来会不会有一个内衣电商的巨头出现呢？</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/212871.html" target="_blank" rel="external">一场景一内衣，“氧气”想用精品杂志的思路做内衣搭配推荐app#36氪开放日北京站#</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.o2bra.com/" target="_blank" rel="external">氧气</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -105,6 +219,62 @@
   </entry>
   
   <entry>
+    <title><![CDATA[收留我]]></title>
+    <link href="http://luoguochun.cn/2014/07/25/%E6%94%B6%E7%95%99%E6%88%91/"/>
+    <id>http://luoguochun.cn/2014/07/25/收留我/</id>
+    <published>2014-07-24T16:00:00.000Z</published>
+    <updated>2014-07-25T03:14:05.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/cf8309e732db2bd9adcb48e6c0e150e1.jpg" alt=""></p>
+
+<p>P2P旅游是近几年兴起的新的旅游经济形态。在大工业时代，旅游服务总是由旅行社和职业导游提供，通过专业人士将餐饮、交通、住宿、景点等资源整合成标准化产品，以供不特定的消费者购买——标准化是这一模式的核心，原因在于资源提供者、整合者和消费者之间过高的沟通成本。而在信息时代，沟通和交易变得极其低廉，长尾资源得以进入市场，结果带来消费者个性的解放。比如<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208572.html">Airbnb</a>给了我们更丰富的住宿选择，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/209644.html">Uber</a>和<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/136127.html">RelayRides</a>让我们即使到了外地也能享受高品质的驾驶体验，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/156043.html">Spinlister</a>使我们不必再背着自行车和冲浪板长途旅行——以上这些网站的共同特征，一是聚合来自个人的闲置资源，二是通过一个去中心化的P2P市场将资源灵活配置给需求者。</p>
+
+<p>有形的物可以这么操作，无形的知识经验和社会关系当然也可以。为了让外地游客能够买到本地人的生活经验，国外的<a target="_blank" data-no-turbolink="true" href="https://www.vayable.com/experiences/4656-lets-make-street-art-tour-of-los-angeles">Vayable</a>和<a target="_blank" data-no-turbolink="true" href="http://www.withlocals.com/">Withlocals</a>，以及国内的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205948.html">丸子地球</a>和<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205810.html">E地游</a>等产品相继出现。去年11月底上线的“<a target="_blank" data-no-turbolink="true" href="http://www.shou65.com/">收留我</a>”与这些前辈类似，试图让外地游客能在当地向导的帮助下体验最真实的“土著”生活。</p>
+
+<p>从交易机制上看。“收留我”提供了“客人”和“主人”两种身份。客人可以搜索旅游目的地愿意接待你的主人，主人则可以将其本地资源贡献出来，按照客人要求为其定制体验，比如一顿湘西山村最地道的农家菜，或者绍兴本地人才知道的精品旅馆。如果主人有一些“特殊关系”，比如工作单位与当地酒店签有协议价格，也可以借此帮助客人省钱。</p>
+
+<p>为了解决信任问题，“收留我”设计了一套诚信度+美誉度的机制。诚信度得分由主人提供的身份资料详细程度决定，基本要求包括身份证、手机、两个以上SNS账号等，经平台认证后可获得更多曝光机会。而美誉度则同时受主人缴付的保证金水平和完成订单数影响。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/877277a6d47d3f4ffe274e8193695d87.jpg" alt=""></p>
+
+<p>相比同类产品，“收留我”认为其主要特色是强调主人的“顾问”而非“导游”角色，试图给客人最大限度的游玩自由。每个主人都需要填写一份结构化表单，包括服务项目、语言、费用等信息被详细约定。反映在客人一端，他们得到的不是一条固定的旅行线路，也不是丝毫没有规划的单纯陪游，而是一份可选的游玩菜单。客人像点菜一样选取主人提供的体验项目，既满足个性化需要，又不会造成主客人间反复沟通的困扰。可以说，“收留我”整个线上流程的设计都以轻运营为目标，尽量减少平台对交易双方的介入。</p>
+
+<p>不过与“轻运营”相反的是，该产品在推广上却显得有些“重”。除微博和微信运营外，“收留我”主要采取分级招募地区大使的方式做线下推广。“大使”负责寻找当地的旅行爱好者社区，组织旅行爱好者见面会并借此获取早期用户。据收留我团队介绍，这个做法比想象中还有效，虽然目前订单量不多，但注册用户已经到50000左右，40%有做主人的意愿。</p>
+
+<p>“收留我”创始人罗准是个旅游大拿，亲身走过将近50个城市和地区。据罗准介绍，目前网站已有一些东南亚订单，多语言版和App将于下一步上线。盈利模式设计上，主要依靠10%的交易佣金和保证金资金沉淀。“收留我”目前已获天使湾投资，金额据称在数百万人民币。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 沈超]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/209815.html" target="_blank" rel="external">P2P旅游地接平台“收留我”帮游客寻找本地顾问，不到三个月已有5万注册</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.shou65.com/" target="_blank" rel="external">收留我</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[小莫]]></title>
+    <link href="http://luoguochun.cn/2014/07/25/%E5%B0%8F%E8%8E%AB/"/>
+    <id>http://luoguochun.cn/2014/07/25/小莫/</id>
+    <published>2014-07-24T16:00:00.000Z</published>
+    <updated>2014-07-25T03:14:03.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/196" title="查看产品详情" target="_blank" rel="external"><br>                                马锐拉创业项目，一个真实而有趣的校园移动应用                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.xiaomo.com/" target="_blank" rel="external">小莫</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[奇趣事]]></title>
     <link href="http://luoguochun.cn/2014/07/25/%E5%A5%87%E8%B6%A3%E4%BA%8B/"/>
     <id>http://luoguochun.cn/2014/07/25/奇趣事/</id>
@@ -112,148 +282,6 @@
     <updated>2014-07-24T16:05:22.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/268" title="查看产品详情" target="_blank" rel="external"><br>                                微笑着去发现身边的奇闻趣事，再小的创意都可以点亮生活。                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.uispot.com" target="_blank" rel="external">奇趣事</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Egret]]></title>
-    <link href="http://luoguochun.cn/2014/07/25/Egret/"/>
-    <id>http://luoguochun.cn/2014/07/25/Egret/</id>
-    <published>2014-07-24T16:00:00.000Z</published>
-    <updated>2014-07-24T16:05:19.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/275" title="查看产品详情" target="_blank" rel="external"><br>                                开源跨平台游戏框架（微信朋友圈爆红游戏“神经猫”用此框架开发）                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.egret-labs.org/" target="_blank" rel="external">Egret</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[WiFi免费通]]></title>
-    <link href="http://luoguochun.cn/2014/07/25/WiFi%E5%85%8D%E8%B4%B9%E9%80%9A/"/>
-    <id>http://luoguochun.cn/2014/07/25/WiFi免费通/</id>
-    <published>2014-07-24T16:00:00.000Z</published>
-    <updated>2014-07-24T16:05:23.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/9dd9a4396d3ff0ffdcc1e943539c51ac.png" alt=""></p>
-
-<p>炒了这么久的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/%E8%99%9A%E6%8B%9F%E8%BF%90%E8%90%A5%E5%95%86">虚拟运营商</a>”终于来了点实质性的进展，阿里巴巴集团旗下的虚拟运营商“<a target="_blank" data-no-turbolink="true" href="http://yy.aliqin.tmall.com/preheat/priceIntro.htm">阿里通信</a>”（我一直以为会叫做“中国阿里通”，或者是“中国云通”……）推出了首批170号段SIM卡的资费标准。和传统运营商相比，虚拟运营商最大的不同就是资费的灵活性，尤其是在数据流量方面。</p>
-
-<p>根据“阿里通信”<a target="_blank" data-no-turbolink="true" href="http://yy.aliqin.tmall.com/preheat/priceIntro.htm">官方的介绍</a>，阿里通信170号段上网、语音、短信均以流量计费，通话1分钟=0.75M，1条短信=0.5M；流量0.125-0.2元/M，单价随使用量递减；流量费每满1元跳1档，用多少收多少，账单不足1元的零头直接抹掉。</p>
-
-<p>阿里通信170号将不设任何强制性费用，无服务费、无月租、无来电显示费、无漫游费，全国免费接听，但从<span class="s1">入网次月开始，<span class="s1">将设有每月<span class="s2">7<span class="s1">元的保底消费。用户入网首月，可以从0元起步，按照1元加油包自动叠加收费：0-37元间，每使用5M流量计费1元；37-77元间，每6M计费1元；77-127元间，每7M计费1元；127元以上，每8M计费1元。语音流量之间的兑换、计费升档、不足1元抹零，这些均由阿里通信后台自动完成，不需要用户费神选择、设置。</span></span></span></span></p>
-
-<p>由于目前“虚拟运营商”业务刚刚兴起，像阿里这样的虚拟运营商租赁实体运营商网络的费用还相对较高，因此“虚拟运营商”们在资费上并不是主打便宜，而是主打灵活。目前阿里通信已获得中国联通、中国电信、中国移动三家运营商转售资格。“阿里通信”会使用170号段，1700号段为中国电信，1705号段为中国移动，1709号段为中国联通。</p>
-
-<p>其实早在一个多月前，阿里就曾经对外宣布已经完成“阿里通信”的计费系统，以流量经营为核心，打通淘宝、支付宝、云OS等阿里系业务，提供互联网化的通信服务。例如淘宝会员可获信用额度透支话费，消费者可在淘宝和天猫的平台上享受在线选号入网、充值缴费、阿里合约计划等一站式服务。</p>
-
-<p>另外值得一提的是，“阿里通信”正在探索“<strong>WiFi免费通话</strong>”，即在WiFi环境下，阿里通信170号码可免费打电话、发短信，真正做到用流量免费打电话。其实在昨晚发布的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212509.html">iOS 8</a>上，苹果就已经在尝试引入“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212519.html">通过WiFi收发传统电话的功能</a>”。或许是由于对与运营商的冲击过大，iOS 8上的这一功能将取决于当地的运营商是否支持。</p>
-
-<p>无论是虚拟运营商，还是向苹果这样的手机厂商，都不约而同的尝试利用WiFi，或者是数据流量拨打电话，这对于运营商的冲击是可想而知的。之前就<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/201824.html">微信对于运营商的冲击</a>已经被讨论过无数遍了，通过流量拨打电话，还将进一步冲击运营商。但在这样的环境之下，也催生了中国虚拟运营商的发展。</p>
-
-<p>除了阿里巴巴外，苏宁、京东、天音、迪信通等多家企业都获得了“虚拟运营商牌照”，相信很快就会有相应的资费标准出炉。</p><br>                    <p>[<span>36氪</span>原创文章，作者: WANGJINGYU]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/212550.html" target="_blank" rel="external">阿里公布虚拟运营商资费标准：可以用流量打电话发短信，正在探索WiFi免费通话</a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/wifi-mian-fei-tong-mian-fei/id521069195?mt=8&amp;v0=WWW-GCCN-ITSTOP100-FREEAPPS&amp;l=&amp;ign-mpt=uo%3D4" target="_blank" rel="external">WiFi免费通</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Reddit Live]]></title>
-    <link href="http://luoguochun.cn/2014/07/25/Reddit%20Live/"/>
-    <id>http://luoguochun.cn/2014/07/25/Reddit Live/</id>
-    <published>2014-07-24T16:00:00.000Z</published>
-    <updated>2014-07-24T16:05:22.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/484fde4c1d8062ed5078b00320d52684.png" alt=""></p>
-
-<p>今天，Reddit 正式上线旗下自博客平台 <a target="_blank" data-no-turbolink="true" href="http://www.reddit.com/live">Reddit Live</a>。</p>
-
-<p>该产品已测试数月——在<a target="_blank" data-no-turbolink="true" href="http://www.reddit.com/r/changelog/comments/1yki7m/reddit_change_some_information_about_live_update/">早期 beta 阶段</a>，只有 Reddit 雇员才能享受内容流（Live Streams）、授权信任的 “报导者” 来贡献内容。</p>
-
-<p>与 Reddit 传统的帖文（Post）不同，所有的话题都会在浏览器中自动、实时更新。另外，它还支持嵌入推文（Tweet）——包括其中的图片、YouTube 视频，以及文章链接。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/30e5017984bfb4226fdc59c180745bea.png" alt=""></p>
-
-<p>Reddit 并非传统出版服务商，但它庞大的用户基数能方便它迅速打造起强大的 UGC。另外，它在内容众包上具有资深经验，在信息越来越多、越杂的今天，用户对优质内容的需求更加旺盛。如果 Reddit Live 能建立起一套可续模式，那有理由相信，它将成为一个很棒的阅读源。</p><br>                    <p></p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214051.html" target="_blank" rel="external">Reddit Live 自博客平台上线，支持浏览器内自动实时更新，并能整合 Twitter 内容</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.reddit.com/live" target="_blank" rel="external">Reddit Live</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Picturelife]]></title>
-    <link href="http://luoguochun.cn/2014/07/25/Picturelife/"/>
-    <id>http://luoguochun.cn/2014/07/25/Picturelife/</id>
-    <published>2014-07-24T16:00:00.000Z</published>
-    <updated>2014-07-24T16:05:23.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/267" title="查看产品详情" target="_blank" rel="external"><br>                                一个照片储存分享平台                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://picturelife.com" target="_blank" rel="external">Picturelife</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Pangu越狱工具]]></title>
-    <link href="http://luoguochun.cn/2014/07/25/Pangu%E8%B6%8A%E7%8B%B1%E5%B7%A5%E5%85%B7/"/>
-    <id>http://luoguochun.cn/2014/07/25/Pangu越狱工具/</id>
-    <published>2014-07-24T16:00:00.000Z</published>
-    <updated>2014-07-24T16:05:20.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/274" title="查看产品详情" target="_blank" rel="external"><br>                                一款国产越狱工具                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://pangu.io/" target="_blank" rel="external">Pangu越狱工具</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Duolingo Test Center]]></title>
-    <link href="http://luoguochun.cn/2014/07/25/Duolingo%20Test%20Center/"/>
-    <id>http://luoguochun.cn/2014/07/25/Duolingo Test Center/</id>
-    <published>2014-07-24T16:00:00.000Z</published>
-    <updated>2014-07-24T16:05:21.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/270" title="查看产品详情" target="_blank" rel="external"><br>                                20美元即可进行标准化语言考试                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://testcenter.duolingo.com/" target="_blank" rel="external">Duolingo Test Center</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -283,13 +311,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Candy 定位糖]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/Candy%20%E5%AE%9A%E4%BD%8D%E7%B3%96/"/>
-    <id>http://luoguochun.cn/2014/07/24/Candy 定位糖/</id>
-    <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-23T17:10:22.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/257" title="查看产品详情" target="_blank" rel="external"><br>                                市面上最小的家用定位器                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.demohour.com/projects/347705" target="_blank" rel="external">Candy 定位糖</a>  </p>
+    <title><![CDATA[免费短信验证码SDK]]></title>
+    <link href="http://luoguochun.cn/2014/07/25/%E5%85%8D%E8%B4%B9%E7%9F%AD%E4%BF%A1%E9%AA%8C%E8%AF%81%E7%A0%81SDK/"/>
+    <id>http://luoguochun.cn/2014/07/25/免费短信验证码SDK/</id>
+    <published>2014-07-24T16:00:00.000Z</published>
+    <updated>2014-07-25T03:14:08.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/281" title="查看产品详情" target="_blank" rel="external"><br>                                mob 旗下产品                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://mob.com/sms" target="_blank" rel="external">免费短信验证码SDK</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -301,13 +329,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[窝牛装修]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/%E7%AA%9D%E7%89%9B%E8%A3%85%E4%BF%AE/"/>
-    <id>http://luoguochun.cn/2014/07/24/窝牛装修/</id>
-    <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-23T17:10:19.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/261" title="查看产品详情" target="_blank" rel="external"><br>                                手机上的装修设计应用                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.lingduohome.com" target="_blank" rel="external">窝牛装修</a>  </p>
+    <title><![CDATA[mob]]></title>
+    <link href="http://luoguochun.cn/2014/07/25/mob/"/>
+    <id>http://luoguochun.cn/2014/07/25/mob/</id>
+    <published>2014-07-24T16:00:00.000Z</published>
+    <updated>2014-07-25T03:14:08.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/279" title="查看产品详情" target="_blank" rel="external"><br>                                移动平台分享服务提供商 ShareSDK 转型为移动开发者服务平台                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://mob.com/" target="_blank" rel="external">mob</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -319,13 +347,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[看准网职业体检]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/%E7%9C%8B%E5%87%86%E7%BD%91%E8%81%8C%E4%B8%9A%E4%BD%93%E6%A3%80/"/>
-    <id>http://luoguochun.cn/2014/07/24/看准网职业体检/</id>
-    <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-24T07:11:05.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/272" title="查看产品详情" target="_blank" rel="external"><br>                                分智网转型                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.kanzhun.com/zhiji/" target="_blank" rel="external">看准网职业体检</a>  </p>
+    <title><![CDATA[bong II]]></title>
+    <link href="http://luoguochun.cn/2014/07/25/bong%20II/"/>
+    <id>http://luoguochun.cn/2014/07/25/bong II/</id>
+    <published>2014-07-24T16:00:00.000Z</published>
+    <updated>2014-07-25T03:14:10.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/276" title="查看产品详情" target="_blank" rel="external"><br>                                国内最好用的手环 bong 二代产品                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://bong.cn/" target="_blank" rel="external">bong II</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -337,13 +365,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[猫小爪 购物比价]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/%E7%8C%AB%E5%B0%8F%E7%88%AA%20%E8%B4%AD%E7%89%A9%E6%AF%94%E4%BB%B7/"/>
-    <id>http://luoguochun.cn/2014/07/24/猫小爪 购物比价/</id>
-    <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-23T17:10:17.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/266" title="查看产品详情" target="_blank" rel="external"><br>                                猫小爪—最具性价比购物网站！                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.maoxiaozhua.com" target="_blank" rel="external">猫小爪| 购物比价</a>  </p>
+    <title><![CDATA[360路由器助手]]></title>
+    <link href="http://luoguochun.cn/2014/07/25/360%E8%B7%AF%E7%94%B1%E5%99%A8%E5%8A%A9%E6%89%8B/"/>
+    <id>http://luoguochun.cn/2014/07/25/360路由器助手/</id>
+    <published>2014-07-24T16:00:00.000Z</published>
+    <updated>2014-07-25T03:14:06.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/278" title="查看产品详情" target="_blank" rel="external"><br>                                360出品的路由器软件                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://iwifi.360.cn/" target="_blank" rel="external">360路由器助手</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -355,13 +383,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[澎湃新闻]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB/"/>
-    <id>http://luoguochun.cn/2014/07/24/澎湃新闻/</id>
-    <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-23T17:10:23.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/253" title="查看产品详情" target="_blank" rel="external"><br>                                上海报业集团新媒体项目                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.thepaper.cn/" target="_blank" rel="external">澎湃新闻</a>  </p>
+    <title><![CDATA[Sobrr]]></title>
+    <link href="http://luoguochun.cn/2014/07/25/Sobrr/"/>
+    <id>http://luoguochun.cn/2014/07/25/Sobrr/</id>
+    <published>2014-07-24T16:00:00.000Z</published>
+    <updated>2014-07-25T03:14:02.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/244" title="查看产品详情" target="_blank" rel="external"><br>                                一个发送的内容只会存在24个小时、基于地理位置进行分享的社交网络                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://sobrr.me/" target="_blank" rel="external">Sobrr</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -373,13 +401,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[潮流台]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/%E6%BD%AE%E6%B5%81%E5%8F%B0/"/>
-    <id>http://luoguochun.cn/2014/07/24/潮流台/</id>
-    <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-23T17:10:17.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/224" title="查看产品详情" target="_blank" rel="external"><br>                                潮流台-潮人网络生活杂志，提供高品质时尚潮流消息，了解最新潮流装扮。潮流生活，从潮流台开始！                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://chaoliutai.com" target="_blank" rel="external">潮流台</a>  </p>
+    <title><![CDATA[ShareSDK评论和赞]]></title>
+    <link href="http://luoguochun.cn/2014/07/25/ShareSDK%E8%AF%84%E8%AE%BA%E5%92%8C%E8%B5%9E/"/>
+    <id>http://luoguochun.cn/2014/07/25/ShareSDK评论和赞/</id>
+    <published>2014-07-24T16:00:00.000Z</published>
+    <updated>2014-07-25T03:14:07.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/282" title="查看产品详情" target="_blank" rel="external"><br>                                为移动应用快速集成评论和赞功能                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://mob.com/comment" target="_blank" rel="external">ShareSDK评论和赞</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -391,33 +419,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[河狸家]]></title>
-    <link href="http://luoguochun.cn/2014/07/24/%E6%B2%B3%E7%8B%B8%E5%AE%B6/"/>
-    <id>http://luoguochun.cn/2014/07/24/河狸家/</id>
-    <published>2014-07-23T16:00:00.000Z</published>
-    <updated>2014-07-23T17:10:23.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/2bbd31ea8d040b056af564c6c1f83eec.png" alt=""></p>
-
-<p>今天采访了一位很拉风的连续创业者，就是雕爷了。继名声响亮的阿芙精油和雕爷牛腩之后，雕爷这次祭出是一个从美甲服务切入的上门O2O项目—<a target="_blank" data-no-turbolink="true" href="http://www.helijia.cn/index.html">河狸家</a>。由于他人远在巴黎，在雕爷建议下<span>36氪</span>就做了一个简短微信采访。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/323b1644ccebc6b3613e73cdfd6cf067.jpg" alt="p3"></p>
-
-<p>从精油到牛腩再到美甲，看似很跳脱，其实里面有雕爷选项目的一套思路。他选的都是中产阶级项目，一般定位是客单价较高、品质较好，比如阿芙精油就是摸到了国产化妆品中的较高价位，雕爷牛腩在Shopping Mall中也是略有溢价；而且，这些都是非常注重服务体验的，雕爷和他的小伙伴们也是深谙服务之道，以及牛B服务给品牌带来的价值的；此外，雕爷说自己喜欢做跟美相关的事情，“牛腩的口味可能不是人人满意，但摆盘、及美食的设计美感是没有人挑剔的”。不消说，美甲自然是一个客单价高（至少100多块）、服务属性强而又富有美感的事情。</p>
-
-<p>而跟雕爷牛腩和阿芙精油不一样的地方在于，定位“手艺人上门服务”的河狸家不需要店面的，也就是说这个O2O项目不像大众点评那样是给线下导流的，其关键在于砍掉店面以及跟店面关系紧密的作坊模式（商业模式）。用雕爷的话说，就是解放生产力。</p>
-
-<p>其实这改变的是美甲行业的订价模式，本来跟美甲服务订价紧密挂钩的不是美甲师的技艺，而是店面的地段和装修，加之美甲店老板的抽成，其实美甲师最后拿到手的钱只有1/3。而在河狸家的平台上，美甲则可以根据手艺自主定价，虽然价格是门店价的5折但其实是更挣钱，同时用户也享受到了实惠，而且能够按照美甲师的排班表预约上门服务，在家里就能够享受更舒适的服务。雕爷告诉<span>36氪</span>，据他们调查北京上海的美甲师收入门槛在12000左右，不过河狸家的美甲师已经有收入过3万的了。此外，评价系统也让用户在挑选服务时信息更加对称，广受好评的美甲师也能享有更灵活的订价权。</p>
-
-<p>相比实物商品，美甲作为一项服务在体验上更不容易标准化，雕爷说现在他们99%的时间都花在关注每个环节上的体验，从美甲师的招聘、培训都非常严格，美甲师上传的图都必须是自己的作品，如果发现盗图则是要被下架的；整个服务流程也有一套规范，比如上门服务自备鞋套，服务时间段内尽量不借用用户家的洗手间等等；同时也有配套的惩罚机制保证服务质量以及保证用户利益，将服务的理念灌输到全体。雕爷说，其实就是把开餐馆的功夫移植到美甲服务上，这正是他们一直在做的事儿。</p>
-
-<p>河狸家作为一个“手艺人上门服务”的O2O平台，肯定不满足于做美甲一种服务，雕爷向<span>36氪</span>透露，其服务延展的思路大致是：女人相关；美丽相关；中高价位的、有较高技术含量的服务业。目前已经在试水的另一项服务是车内空气净化—由专门技师上门为车主的空调滤芯加装专业HEPA滤网。国外有家叫<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/209253.html">Vensette</a>的项目做的正是上门提供美发服务的事情，没准上门服务以后会成为像滴滴打车那样能影响人们生活方式的项目。</p>
-
-<p>此外，该项目已获得IDG 3000万人民币A轮投资，雕爷说其自己的启动资金有2000万人民币算是天使，而且已启动了B轮融资计划。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213986.html" target="_blank" rel="external">雕爷的新作，定位“手艺人上门”的O2O项目“河狸家”是如何解放美甲师生产力的，已获IDG 3000万人民币A轮投资</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.helijia.cn/index.html" target="_blank" rel="external">河狸家</a>  </p>
+    <title><![CDATA[ShareRec]]></title>
+    <link href="http://luoguochun.cn/2014/07/25/ShareRec/"/>
+    <id>http://luoguochun.cn/2014/07/25/ShareRec/</id>
+    <published>2014-07-24T16:00:00.000Z</published>
+    <updated>2014-07-25T03:14:08.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/280" title="查看产品详情" target="_blank" rel="external"><br>                                mob 旗下手游录像分享服务                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://rec.mob.com/" target="_blank" rel="external">ShareRec</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

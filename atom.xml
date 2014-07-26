@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-26T10:00:51.964Z</updated>
+  <updated>2014-07-26T13:49:18.187Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,49 +15,13 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[开放静态文件 CDN]]></title>
-    <link href="http://luoguochun.cn/2014/07/26/%E5%BC%80%E6%94%BE%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6%20CDN/"/>
-    <id>http://luoguochun.cn/2014/07/26/开放静态文件 CDN/</id>
+    <title><![CDATA[护驾]]></title>
+    <link href="http://luoguochun.cn/2014/07/26/%E6%8A%A4%E9%A9%BE/"/>
+    <id>http://luoguochun.cn/2014/07/26/护驾/</id>
     <published>2014-07-25T16:00:00.000Z</published>
-    <updated>2014-07-26T09:57:15.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/299" title="查看产品详情" target="_blank" rel="external"><br>                                为开源库提供稳定、快速的免费 CDN 服务                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.staticfile.org/" target="_blank" rel="external">开放静态文件 CDN</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[外刊IT评论]]></title>
-    <link href="http://luoguochun.cn/2014/07/26/%E5%A4%96%E5%88%8AIT%E8%AF%84%E8%AE%BA/"/>
-    <id>http://luoguochun.cn/2014/07/26/外刊IT评论/</id>
-    <published>2014-07-25T16:00:00.000Z</published>
-    <updated>2014-07-26T09:57:15.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/298" title="查看产品详情" target="_blank" rel="external"><br>                                程序员工作、生活、爱情、事业                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.vaikan.com/" target="_blank" rel="external">外刊IT评论</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[mount devbrain &amp;&amp; tail]]></title>
-    <link href="http://luoguochun.cn/2014/07/26/mount%20devbrain%20&amp;&amp;%20tail/"/>
-    <id>http://luoguochun.cn/2014/07/26/mount devbrain &amp;&amp; tail/</id>
-    <published>2014-07-25T16:00:00.000Z</published>
-    <updated>2014-07-26T09:57:15.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/301" title="查看产品详情" target="_blank" rel="external"><br>                                非常好的博客                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://edwin.baculsoft.com/" target="_blank" rel="external">mount /dev/brain &amp;&amp; tail</a>  </p>
+    <updated>2014-07-26T13:45:42.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/302" title="查看产品详情" target="_blank" rel="external"><br>                                一款防追尾的手机应用                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.cherui.cn/" target="_blank" rel="external">护驾</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -337,6 +301,24 @@
   </entry>
   
   <entry>
+    <title><![CDATA[开放静态文件 CDN]]></title>
+    <link href="http://luoguochun.cn/2014/07/26/%E5%BC%80%E6%94%BE%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6%20CDN/"/>
+    <id>http://luoguochun.cn/2014/07/26/开放静态文件 CDN/</id>
+    <published>2014-07-25T16:00:00.000Z</published>
+    <updated>2014-07-26T09:57:15.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/299" title="查看产品详情" target="_blank" rel="external"><br>                                为开源库提供稳定、快速的免费 CDN 服务                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.staticfile.org/" target="_blank" rel="external">开放静态文件 CDN</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[帮我选 APP]]></title>
     <link href="http://luoguochun.cn/2014/07/26/%E5%B8%AE%E6%88%91%E9%80%89%20APP/"/>
     <id>http://luoguochun.cn/2014/07/26/帮我选 APP/</id>
@@ -391,13 +373,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[360路由器助手]]></title>
-    <link href="http://luoguochun.cn/2014/07/26/360%E8%B7%AF%E7%94%B1%E5%99%A8%E5%8A%A9%E6%89%8B/"/>
-    <id>http://luoguochun.cn/2014/07/26/360路由器助手/</id>
+    <title><![CDATA[天蓝村零食订购服务]]></title>
+    <link href="http://luoguochun.cn/2014/07/26/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
+    <id>http://luoguochun.cn/2014/07/26/天蓝村零食订购服务/</id>
     <published>2014-07-25T16:00:00.000Z</published>
-    <updated>2014-07-26T00:44:49.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/278" title="查看产品详情" target="_blank" rel="external"><br>                                360出品的路由器软件                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://iwifi.360.cn/" target="_blank" rel="external">360路由器助手</a>  </p>
+    <updated>2014-07-26T00:44:46.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/8" title="查看产品详情" target="_blank" rel="external"><br>                                按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -409,13 +391,31 @@
   </entry>
   
   <entry>
-    <title><![CDATA[品读]]></title>
-    <link href="http://luoguochun.cn/2014/07/26/%E5%93%81%E8%AF%BB/"/>
-    <id>http://luoguochun.cn/2014/07/26/品读/</id>
+    <title><![CDATA[外刊IT评论]]></title>
+    <link href="http://luoguochun.cn/2014/07/26/%E5%A4%96%E5%88%8AIT%E8%AF%84%E8%AE%BA/"/>
+    <id>http://luoguochun.cn/2014/07/26/外刊IT评论/</id>
+    <published>2014-07-25T16:00:00.000Z</published>
+    <updated>2014-07-26T09:57:15.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/298" title="查看产品详情" target="_blank" rel="external"><br>                                程序员工作、生活、爱情、事业                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.vaikan.com/" target="_blank" rel="external">外刊IT评论</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[360路由器助手]]></title>
+    <link href="http://luoguochun.cn/2014/07/26/360%E8%B7%AF%E7%94%B1%E5%99%A8%E5%8A%A9%E6%89%8B/"/>
+    <id>http://luoguochun.cn/2014/07/26/360路由器助手/</id>
     <published>2014-07-25T16:00:00.000Z</published>
     <updated>2014-07-26T00:44:49.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/288" title="查看产品详情" target="_blank" rel="external"><br>                                一个基于内容的Zaker跟Pocket的合体                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.pento.cn/" target="_blank" rel="external">品读</a>  </p>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/278" title="查看产品详情" target="_blank" rel="external"><br>                                360出品的路由器软件                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://iwifi.360.cn/" target="_blank" rel="external">360路由器助手</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -463,13 +463,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[mob]]></title>
-    <link href="http://luoguochun.cn/2014/07/26/mob/"/>
-    <id>http://luoguochun.cn/2014/07/26/mob/</id>
+    <title><![CDATA[mount devbrain &amp;&amp; tail]]></title>
+    <link href="http://luoguochun.cn/2014/07/26/mount%20devbrain%20&amp;&amp;%20tail/"/>
+    <id>http://luoguochun.cn/2014/07/26/mount devbrain &amp;&amp; tail/</id>
     <published>2014-07-25T16:00:00.000Z</published>
-    <updated>2014-07-26T00:44:51.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/279" title="查看产品详情" target="_blank" rel="external"><br>                                移动平台分享服务提供商 ShareSDK 转型为移动开发者服务平台                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://mob.com/" target="_blank" rel="external">mob</a>  </p>
+    <updated>2014-07-26T09:57:15.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/301" title="查看产品详情" target="_blank" rel="external"><br>                                非常好的博客                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://edwin.baculsoft.com/" target="_blank" rel="external">mount /dev/brain &amp;&amp; tail</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -481,13 +481,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[itemspot]]></title>
-    <link href="http://luoguochun.cn/2014/07/26/itemspot/"/>
-    <id>http://luoguochun.cn/2014/07/26/itemspot/</id>
+    <title><![CDATA[mob]]></title>
+    <link href="http://luoguochun.cn/2014/07/26/mob/"/>
+    <id>http://luoguochun.cn/2014/07/26/mob/</id>
     <published>2014-07-25T16:00:00.000Z</published>
-    <updated>2014-07-26T00:44:45.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/291" title="查看产品详情" target="_blank" rel="external"><br>                                帮助消费者作出更好的购物决策，为用户提供商品信息检索、比较、推荐，点评等服务                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://itemspot.com" target="_blank" rel="external">itemspot</a>  </p>
+    <updated>2014-07-26T00:44:51.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/279" title="查看产品详情" target="_blank" rel="external"><br>                                移动平台分享服务提供商 ShareSDK 转型为移动开发者服务平台                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://mob.com/" target="_blank" rel="external">mob</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

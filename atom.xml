@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-27T16:48:16.454Z</updated>
+  <updated>2014-07-28T06:13:11.107Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -13,6 +13,42 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[答疑君]]></title>
+    <link href="http://luoguochun.cn/2014/07/28/%E7%AD%94%E7%96%91%E5%90%9B/"/>
+    <id>http://luoguochun.cn/2014/07/28/答疑君/</id>
+    <published>2014-07-27T16:00:00.000Z</published>
+    <updated>2014-07-28T06:09:17.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/309" title="查看产品详情" target="_blank" rel="external"><br>                                中学生的掌中家教                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://dayi.im/" target="_blank" rel="external">答疑君</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[码农周刊]]></title>
+    <link href="http://luoguochun.cn/2014/07/28/%E7%A0%81%E5%86%9C%E5%91%A8%E5%88%8A/"/>
+    <id>http://luoguochun.cn/2014/07/28/码农周刊/</id>
+    <published>2014-07-27T16:00:00.000Z</published>
+    <updated>2014-07-28T06:09:17.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/237" title="查看产品详情" target="_blank" rel="external"><br>                                一份专为程序员打造的IT技术周刊，精选一周IT技术干货，每周五发送。                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://weekly.manong.io/" target="_blank" rel="external">码农周刊</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[美乐网]]></title>
@@ -163,13 +199,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[开放静态文件 CDN]]></title>
-    <link href="http://luoguochun.cn/2014/07/28/%E5%BC%80%E6%94%BE%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6%20CDN/"/>
-    <id>http://luoguochun.cn/2014/07/28/开放静态文件 CDN/</id>
+    <title><![CDATA[Div.IO]]></title>
+    <link href="http://luoguochun.cn/2014/07/28/Div.IO/"/>
+    <id>http://luoguochun.cn/2014/07/28/Div.IO/</id>
     <published>2014-07-27T16:00:00.000Z</published>
-    <updated>2014-07-27T16:44:18.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/299" title="查看产品详情" target="_blank" rel="external"><br>                                为开源库提供稳定、快速的免费 CDN 服务                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.staticfile.org/" target="_blank" rel="external">开放静态文件 CDN</a>  </p>
+    <updated>2014-07-27T16:44:21.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/38" title="查看产品详情" target="_blank" rel="external"><br>                                一个高质量的前端社区                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://div.io" target="_blank" rel="external">Div.IO</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -181,13 +217,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Div.IO]]></title>
-    <link href="http://luoguochun.cn/2014/07/28/Div.IO/"/>
-    <id>http://luoguochun.cn/2014/07/28/Div.IO/</id>
+    <title><![CDATA[天蓝村零食订购服务]]></title>
+    <link href="http://luoguochun.cn/2014/07/28/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
+    <id>http://luoguochun.cn/2014/07/28/天蓝村零食订购服务/</id>
     <published>2014-07-27T16:00:00.000Z</published>
-    <updated>2014-07-27T16:44:21.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/38" title="查看产品详情" target="_blank" rel="external"><br>                                一个高质量的前端社区                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://div.io" target="_blank" rel="external">Div.IO</a>  </p>
+    <updated>2014-07-27T16:44:23.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/8" title="查看产品详情" target="_blank" rel="external"><br>                                按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -224,6 +260,24 @@
     <updated>2014-07-27T16:44:19.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/296" title="查看产品详情" target="_blank" rel="external"><br>                                分享新奇有趣免费的 APP                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.apprcn.com/" target="_blank" rel="external">“反”斗软件</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[SmartAndroid官方文档]]></title>
+    <link href="http://luoguochun.cn/2014/07/28/SmartAndroid%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/"/>
+    <id>http://luoguochun.cn/2014/07/28/SmartAndroid官方文档/</id>
+    <published>2014-07-27T16:00:00.000Z</published>
+    <updated>2014-07-28T02:27:11.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/308" title="查看产品详情" target="_blank" rel="external"><br>                                Android强劲开发框架SmartAndroid                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.aplesson.com/smartAndroid/demos/" target="_blank" rel="external">SmartAndroid官方文档</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -299,13 +353,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[天蓝村零食订购服务]]></title>
-    <link href="http://luoguochun.cn/2014/07/28/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
-    <id>http://luoguochun.cn/2014/07/28/天蓝村零食订购服务/</id>
+    <title><![CDATA[开放静态文件 CDN]]></title>
+    <link href="http://luoguochun.cn/2014/07/28/%E5%BC%80%E6%94%BE%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6%20CDN/"/>
+    <id>http://luoguochun.cn/2014/07/28/开放静态文件 CDN/</id>
     <published>2014-07-27T16:00:00.000Z</published>
-    <updated>2014-07-27T16:44:23.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/8" title="查看产品详情" target="_blank" rel="external"><br>                                按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
+    <updated>2014-07-27T16:44:18.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/299" title="查看产品详情" target="_blank" rel="external"><br>                                为开源库提供稳定、快速的免费 CDN 服务                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.staticfile.org/" target="_blank" rel="external">开放静态文件 CDN</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -317,13 +371,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Div.IO]]></title>
-    <link href="http://luoguochun.cn/2014/07/27/Div.IO/"/>
-    <id>http://luoguochun.cn/2014/07/27/Div.IO/</id>
+    <title><![CDATA[美乐网]]></title>
+    <link href="http://luoguochun.cn/2014/07/27/%E7%BE%8E%E4%B9%90%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/07/27/美乐网/</id>
     <published>2014-07-26T16:00:00.000Z</published>
-    <updated>2014-07-26T17:35:18.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/38" title="查看产品详情" target="_blank" rel="external"><br>                                一个高质量的前端社区                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://div.io" target="_blank" rel="external">Div.IO</a>  </p>
+    <updated>2014-07-26T17:35:15.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/241" title="查看产品详情" target="_blank" rel="external"><br>                                美乐网(meile.com)，更海量的音乐曲库、更流畅的视听体验、更懂您的音乐喜好、更多您喜爱的音乐人、让您在分享音乐的同时发现志同道合的朋友，美乐网是一个基于兴趣社交的音乐试听、分享主题社区                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.meile.com/" target="_blank" rel="external">美乐网</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -436,80 +490,6 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/213501.html" target="_blank" rel="external">足球就应该边看边侃，洋葱圈欲以足球为切入点打造一个移动泛体育社区</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.sponia.com/" target="_blank" rel="external">洋葱圈</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[河狸家]]></title>
-    <link href="http://luoguochun.cn/2014/07/27/%E6%B2%B3%E7%8B%B8%E5%AE%B6/"/>
-    <id>http://luoguochun.cn/2014/07/27/河狸家/</id>
-    <published>2014-07-26T16:00:00.000Z</published>
-    <updated>2014-07-26T17:35:20.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/2bbd31ea8d040b056af564c6c1f83eec.png" alt=""></p>
-
-<p>今天采访了一位很拉风的连续创业者，就是雕爷了。继名声响亮的阿芙精油和雕爷牛腩之后，雕爷这次祭出是一个从美甲服务切入的上门O2O项目—<a target="_blank" data-no-turbolink="true" href="http://www.helijia.cn/index.html">河狸家</a>。由于他人远在巴黎，在雕爷建议下<span>36氪</span>就做了一个简短微信采访。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/323b1644ccebc6b3613e73cdfd6cf067.jpg" alt="p3"></p>
-
-<p>从精油到牛腩再到美甲，看似很跳脱，其实里面有雕爷选项目的一套思路。他选的都是中产阶级项目，一般定位是客单价较高、品质较好，比如阿芙精油就是摸到了国产化妆品中的较高价位，雕爷牛腩在Shopping Mall中也是略有溢价；而且，这些都是非常注重服务体验的，雕爷和他的小伙伴们也是深谙服务之道，以及牛B服务给品牌带来的价值的；此外，雕爷说自己喜欢做跟美相关的事情，“牛腩的口味可能不是人人满意，但摆盘、及美食的设计美感是没有人挑剔的”。不消说，美甲自然是一个客单价高（至少100多块）、服务属性强而又富有美感的事情。</p>
-
-<p>而跟雕爷牛腩和阿芙精油不一样的地方在于，定位“手艺人上门服务”的河狸家不需要店面的，也就是说这个O2O项目不像大众点评那样是给线下导流的，其关键在于砍掉店面以及跟店面关系紧密的作坊模式（商业模式）。用雕爷的话说，就是解放生产力。</p>
-
-<p>其实这改变的是美甲行业的订价模式，本来跟美甲服务订价紧密挂钩的不是美甲师的技艺，而是店面的地段和装修，加之美甲店老板的抽成，其实美甲师最后拿到手的钱只有1/3。而在河狸家的平台上，美甲则可以根据手艺自主定价，虽然价格是门店价的5折但其实是更挣钱，同时用户也享受到了实惠，而且能够按照美甲师的排班表预约上门服务，在家里就能够享受更舒适的服务。雕爷告诉<span>36氪</span>，据他们调查北京上海的美甲师收入门槛在12000左右，不过河狸家的美甲师已经有收入过3万的了。此外，评价系统也让用户在挑选服务时信息更加对称，广受好评的美甲师也能享有更灵活的订价权。</p>
-
-<p>相比实物商品，美甲作为一项服务在体验上更不容易标准化，雕爷说现在他们99%的时间都花在关注每个环节上的体验，从美甲师的招聘、培训都非常严格，美甲师上传的图都必须是自己的作品，如果发现盗图则是要被下架的；整个服务流程也有一套规范，比如上门服务自备鞋套，服务时间段内尽量不借用用户家的洗手间等等；同时也有配套的惩罚机制保证服务质量以及保证用户利益，将服务的理念灌输到全体。雕爷说，其实就是把开餐馆的功夫移植到美甲服务上，这正是他们一直在做的事儿。</p>
-
-<p>河狸家作为一个“手艺人上门服务”的O2O平台，肯定不满足于做美甲一种服务，雕爷向<span>36氪</span>透露，其服务延展的思路大致是：女人相关；美丽相关；中高价位的、有较高技术含量的服务业。目前已经在试水的另一项服务是车内空气净化—由专门技师上门为车主的空调滤芯加装专业HEPA滤网。国外有家叫<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/209253.html">Vensette</a>的项目做的正是上门提供美发服务的事情，没准上门服务以后会成为像滴滴打车那样能影响人们生活方式的项目。</p>
-
-<p>此外，该项目已获得IDG 3000万人民币A轮投资，雕爷说其自己的启动资金有2000万人民币算是天使，而且已启动了B轮融资计划。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213986.html" target="_blank" rel="external">雕爷的新作，定位“手艺人上门”的O2O项目“河狸家”是如何解放美甲师生产力的，已获IDG 3000万人民币A轮投资</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.helijia.cn/index.html" target="_blank" rel="external">河狸家</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[掌柜的]]></title>
-    <link href="http://luoguochun.cn/2014/07/27/%E6%8E%8C%E6%9F%9C%E7%9A%84/"/>
-    <id>http://luoguochun.cn/2014/07/27/掌柜的/</id>
-    <published>2014-07-26T16:00:00.000Z</published>
-    <updated>2014-07-26T17:35:19.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/247" title="查看产品详情" target="_blank" rel="external"><br>                                业界唯一彻底免费的微信店铺，免费创建微信外卖店,微信便利店                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.zhanguide.com" target="_blank" rel="external">掌柜的</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[护驾]]></title>
-    <link href="http://luoguochun.cn/2014/07/27/%E6%8A%A4%E9%A9%BE/"/>
-    <id>http://luoguochun.cn/2014/07/27/护驾/</id>
-    <published>2014-07-26T16:00:00.000Z</published>
-    <updated>2014-07-26T17:35:14.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/302" title="查看产品详情" target="_blank" rel="external"><br>                                一款防追尾的手机应用                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.cherui.cn/" target="_blank" rel="external">护驾</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

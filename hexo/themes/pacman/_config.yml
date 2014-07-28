@@ -22,7 +22,7 @@ widgets:
 ## modify links in `/layout/_widget/links.ejs`.
 
 #### RSS
-rss: /atom.xml ## RSS address.
+rss: /xinpinla-crawler/atom.xml ## RSS address.
 
 #### Image
 imglogo:

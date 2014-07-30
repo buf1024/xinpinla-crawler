@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-29T17:03:45.595Z</updated>
+  <updated>2014-07-30T01:44:50.277Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -13,6 +13,98 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[IT桔子]]></title>
+    <link href="http://luoguochun.cn/2014/07/30/IT%E6%A1%94%E5%AD%90/"/>
+    <id>http://luoguochun.cn/2014/07/30/IT桔子/</id>
+    <published>2014-07-29T16:00:00.000Z</published>
+    <updated>2014-07-29T16:59:35.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/104" title="查看产品详情" target="_blank" rel="external"><br>                                IT互联网公司产品数据库及商业信息服务                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://itjuzi.com/" target="_blank" rel="external">IT桔子</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[叽叽]]></title>
+    <link href="http://luoguochun.cn/2014/07/30/%E5%8F%BD%E5%8F%BD/"/>
+    <id>http://luoguochun.cn/2014/07/30/叽叽/</id>
+    <published>2014-07-29T16:00:00.000Z</published>
+    <updated>2014-07-30T01:40:38.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/27b7ffb26336be450da77122be88f637.png" alt=""></p>
+
+<p>非移动互联网原著民肯定都知道PC端一直存在一种叫“随机配对IM”的东西，但一直没什么下文，如今它又在移动端重出江湖了，这两天聊了两款社交产品都是主打随机配对聊天的，一款叫“<a target="_blank" data-no-turbolink="true" href="http://imjidu.com/">几度</a>”，另一款叫“<a target="_blank" data-no-turbolink="true" href="http://itunes.apple.com/cn/app/ji-ji-you-qu-de-sui-ji-jiao-you/id867887231?mt=8">叽叽</a>”（最近叫“叽叽”的产品有点多…后者已获曾李青数百万人民币天使投资）。这当然跟移动技术的成熟脱不了干系，人们无须守在电脑旁才能与人匹配聊天，随机聊成了一件实时响应的活动，也释放了更多碎片化的时间，移动端更多其它社交机制的介入也让随机聊天有了更多的玩法。“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212613.html">比邻</a>”这款以陌生人电话社交应用当然也是一个鲜明的例子。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/d035981cbf4ba4b06ab95de62ab0d379.jpg" alt=""></p>
+
+<p>说到底，“随机”只是建立关系的一味元素，做不同的加法一定都会生成完全不同的产品。两款应用都强调希望帮用户找到更相关的人，这算是移动端随机聊天与PC另一点显著差异吧。就“几度”而言，首先它融入了<strong>纯匿名</strong>的元素，没有头像，没有随机的昵称；其次它看重的是手机通讯录里“朋友的朋友”这个神奇的<strong>二度人脉群体</strong>（但凡不是两两互相认识的关系都属二度人脉），在匹配的时候也会优先匹配到二度人脉和异性，但早期用户较少的情况下三度人脉出现的频率会很高。其CEO姜宁告诉<span>36氪</span>，前期会把三、四、五、六度的人脉统归为三度，以后再把三度分出来。</p>
+
+<p>这款应用界面不能“简洁更多”，设计上大致是白描手绘风（好像没有这种风，就这么叫吧）。目前它还只是靠通讯录关系来计算人与人之间的社交距离，以后会考虑加入LBS，聊天群，还有聊天高频词等匹配维度。<strong>考虑到关系链的膨胀已经成为新一波社交应用害怕的东西</strong>，两款应用都很排斥为用户重新打造一个“QQ”或微信关系列表。关于这点几度的新版本希望加这么一个限制条—用户始终仅有权限保留两个过往联系人，而大部分的人都是擦肩而过的。关于聊天群，他们的设想也很有意思，具体人数限制到几还不有待考量，但其中一定有人是相互认识的，神秘感大概就来自若隐若现吧。By the way，这款应用由华东师范大学的几名学生开发，种子用户也多为在校大学生。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/f3a3b1316f14bca185c981cc87598a1a.jpg" alt=""></p>
+
+<p>再说另一款产品“叽叽”，它希望做的是“越远越好的社交”，它通过两步随机操作，随机匹配一个地理位置（理论上讲是全世界任何一个位置），然后会随机匹配到一个人或者一个聊天群，人数也是随机的，而且时不时会有人中途“闯”进来。“叽叽”也强调帮用户找到相关度较高的人，但并非社交距离越来越近的人，而是外貌、风格更匹配的人。用户可以为其它用户打标签（比如清纯、阳光等），而叽叽会据用户打标签的记录向你推荐更匹配的妹纸或帅哥。以后还会加入图像识别的算法，“以貌取人”是叽叽匹配的重要维度。此外，新版的“叽叽”还会支持新浪微博和QＱ登录，根据这两大社交数据库完成更精准的匹配。其实诸如此类的匹配精不精准很难评判，个人认为，能让前戏变得更有意思好像才是用户体验的关键。它同样面临着关系链长大的问题， 关于如何弱化通讯录色彩，“叽叽”采用了Like的机制，凡是被Like的用户的动态会优先出现在用户信息流中。</p>
+
+<p>其CEO认为，很多人的QQ列表常年不发生变化是一件很不正常的事，而叽叽做的就是在结识新朋友的过程中帮人搭讪这件事，跟工具性App解决痛点需求不一样，“叽叽”满足的是交友的欲望。之所以越远越好，可能是会有最早时候聊天室的快感吧，它们希望以后能围绕中外交友把这件事做起来，新加坡会是一个扩张试点。总之，跟“陌陌”相比，它是希望在线上满足用户的社交需求的。国外有款叫Meow的聊天应用跟“叽叽”很像。</p>
+
+<p>社交之所以常盛不衰，一是技术在进步，二是需求一直在。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p>AD：<a href="http://kdweibo.com/home?utm_source=36kr&utm_medium=keyword" target="_blank">云之家</a>，一种新的工作方式。</p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213157.html" target="_blank" rel="external">随机配对聊天在移动端又重出江湖了，抛出“几度”和“叽叽”两款产品聊聊</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.yx.cc" target="_blank" rel="external">叽叽</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[ShireSoccer]]></title>
+    <link href="http://luoguochun.cn/2014/07/30/ShireSoccer/"/>
+    <id>http://luoguochun.cn/2014/07/30/ShireSoccer/</id>
+    <published>2014-07-29T16:00:00.000Z</published>
+    <updated>2014-07-30T01:40:39.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/319" title="查看产品详情" target="_blank" rel="external"><br>                                垂直足球文化媒体                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.shiresoccer.com/" target="_blank" rel="external">ShireSoccer</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Bolt]]></title>
+    <link href="http://luoguochun.cn/2014/07/30/Bolt/"/>
+    <id>http://luoguochun.cn/2014/07/30/Bolt/</id>
+    <published>2014-07-29T16:00:00.000Z</published>
+    <updated>2014-07-30T01:40:40.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/318" title="查看产品详情" target="_blank" rel="external"><br>                                Instagram 推出的照片短视频聊天应用，TapTalk + Slingshot + Snapchat 合体                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://bolt.instagram.com/" target="_blank" rel="external">Bolt</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[缘创派]]></title>
@@ -137,13 +229,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[IT面试宝典]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/IT%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8/"/>
-    <id>http://luoguochun.cn/2014/07/30/IT面试宝典/</id>
+    <title><![CDATA[天蓝村零食订购服务]]></title>
+    <link href="http://luoguochun.cn/2014/07/30/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
+    <id>http://luoguochun.cn/2014/07/30/天蓝村零食订购服务/</id>
     <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-29T16:59:35.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/313" title="查看产品详情" target="_blank" rel="external"><br>                                IT面试宝典是一款专为所属IT行业的朋友提供面试帮助的一款APP，及时更新最新的分类面试题库，如iOS、Android、C++等，能收藏重点面试题，也能隐藏和显示答案，可以分享面试题给你的小伙伴们。                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/it-mian-shi-bao-dian-kai-fa/id866117100?l=en&amp;mt=8" target="_blank" rel="external">IT面试宝典</a>  </p>
+    <updated>2014-07-29T16:59:36.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/8" title="查看产品详情" target="_blank" rel="external"><br>                                按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -247,13 +339,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[IT桔子]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/IT%E6%A1%94%E5%AD%90/"/>
-    <id>http://luoguochun.cn/2014/07/30/IT桔子/</id>
+    <title><![CDATA[IT面试宝典]]></title>
+    <link href="http://luoguochun.cn/2014/07/30/IT%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8/"/>
+    <id>http://luoguochun.cn/2014/07/30/IT面试宝典/</id>
     <published>2014-07-29T16:00:00.000Z</published>
     <updated>2014-07-29T16:59:35.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/104" title="查看产品详情" target="_blank" rel="external"><br>                                IT互联网公司产品数据库及商业信息服务                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://itjuzi.com/" target="_blank" rel="external">IT桔子</a>  </p>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/313" title="查看产品详情" target="_blank" rel="external"><br>                                IT面试宝典是一款专为所属IT行业的朋友提供面试帮助的一款APP，及时更新最新的分类面试题库，如iOS、Android、C++等，能收藏重点面试题，也能隐藏和显示答案，可以分享面试题给你的小伙伴们。                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/it-mian-shi-bao-dian-kai-fa/id866117100?l=en&amp;mt=8" target="_blank" rel="external">IT面试宝典</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -265,13 +357,51 @@
   </entry>
   
   <entry>
-    <title><![CDATA[天蓝村零食订购服务]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
-    <id>http://luoguochun.cn/2014/07/30/天蓝村零食订购服务/</id>
+    <title><![CDATA[秒视]]></title>
+    <link href="http://luoguochun.cn/2014/07/30/%E7%A7%92%E8%A7%86/"/>
+    <id>http://luoguochun.cn/2014/07/30/秒视/</id>
     <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-29T16:59:36.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/8" title="查看产品详情" target="_blank" rel="external"><br>                                按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
+    <updated>2014-07-30T01:40:39.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/60317f80b44a0c4a296320fca724bd0b.png" alt=""></p>
+
+<p>两个月前<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/yelp/id284910350?mt=8">Yelp</a>内测的视频点评功能已正式上线其iOS客户端（Android版本稍后推出），用户在点评时可以添加3-12 秒的视频来展示自己到店消费的经历。跟传照片是一个道理，不过视频应该能够更好地佐证文字描述吧——“更好再现餐厅、商店等的气氛，比如现场灯光、音乐都会被抓进来”。</p>
+
+<p>个人认为，这些很适合这些注重“体验式消费”的产品使用，比如<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/210799.html">饭本</a>，食色，如果其点评系统里能加入展示现场信息的短视频的话，无疑更利于人们发现满意的消费场所。</p>
+
+<p>短视频是未来趋势想必没人反对，而Yelp把它用在了娱乐以外的地方还蛮值得思考的，无独有偶，还有为淘宝卖家提供视频服务的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212006.html">粉我吧</a> &quot; 也是如此，短视频成为移动端广泛使用的一种信息展示形态并不稀奇。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/214158.html" target="_blank" rel="external">短视频不局限于娱乐，点评服务Yelp正式上线3-12秒视频功能</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://catchchat.me/" target="_blank" rel="external">秒视</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Homer]]></title>
+    <link href="http://luoguochun.cn/2014/07/29/Homer/"/>
+    <id>http://luoguochun.cn/2014/07/29/Homer/</id>
+    <published>2014-07-28T16:00:00.000Z</published>
+    <updated>2014-07-28T16:57:38.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/5ccb0fd34ae3c21a635b1d04bd627797.jpg" alt=""><br><br>Max Levchin 23 岁时作为联合创始人在 Paypal 担任 CTO，之后又创立了 Slide 并高价卖给了 Google。2011年离开 Google后，他又创立了一家名为 HVF的半实验室半孵化器的机构。今天，Levchin的HVF推出了一款名为<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/homer-apps-with-friends/id879373172?mt=8">Homer</a>的iOS应用。</p>
+
+<p>Homer是一款基于社交网络的应用发现类的应用。使用这款应用，你可以看到你关注和关心的人的手机里都装有哪些应用。如果你对健身类应用比较感兴趣，你可以看看你的那些健身达人朋友的手机里的应用。如果你对美食类应用比较感兴趣，你可以看看你的那些吃货好友的手机里都装有哪些应用。</p>
+
+<p>Homer的使用方法和原理大致是这样的：下载应用后，你首先需要设置，应用会自动提醒你要对手机上的所有屏幕页面进行截屏上传。这样一来，Homer上关注你的好友就能看到你的手机里都有哪些应用。同理，你也可以看到你关注的人的手机里的应用。HVF通过利用图像识别技术来分析屏幕截屏上的应用图标，然后将应用图标链接到App Store，这样一来，如果发现感兴趣的应用，点击相应的应用图标便可进入应用商店直接下载。此外，如果你不想让别人看到自己手机上的某款应用，你也可以进行相应的权限设置。</p>
+
+<p>除了刚推出的Homer，Levchin目前将大部分精力都放在去年推出的移动支付公司Affirm上。上个月，Affirm刚获得一轮<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212722.html">4500万美元的融资</a>。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 欧开磊]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/214116.html" target="_blank" rel="external">Paypal联合创始人Max Levchin推出应用发现类应用Homer，让你一窥朋友们都在使用哪些应用</a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/us/app/homer-apps-with-friends/id879373172?mt=8" target="_blank" rel="external">Homer</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -319,23 +449,27 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Homer]]></title>
-    <link href="http://luoguochun.cn/2014/07/29/Homer/"/>
-    <id>http://luoguochun.cn/2014/07/29/Homer/</id>
+    <title><![CDATA[简书]]></title>
+    <link href="http://luoguochun.cn/2014/07/29/%E7%AE%80%E4%B9%A6/"/>
+    <id>http://luoguochun.cn/2014/07/29/简书/</id>
     <published>2014-07-28T16:00:00.000Z</published>
-    <updated>2014-07-28T16:57:38.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/5ccb0fd34ae3c21a635b1d04bd627797.jpg" alt=""><br><br>Max Levchin 23 岁时作为联合创始人在 Paypal 担任 CTO，之后又创立了 Slide 并高价卖给了 Google。2011年离开 Google后，他又创立了一家名为 HVF的半实验室半孵化器的机构。今天，Levchin的HVF推出了一款名为<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/homer-apps-with-friends/id879373172?mt=8">Homer</a>的iOS应用。</p>
+    <updated>2014-07-28T16:57:35.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/0b4b2d8487c4e28ee953d22175706097.jpg" alt=""></p>
 
-<p>Homer是一款基于社交网络的应用发现类的应用。使用这款应用，你可以看到你关注和关心的人的手机里都装有哪些应用。如果你对健身类应用比较感兴趣，你可以看看你的那些健身达人朋友的手机里的应用。如果你对美食类应用比较感兴趣，你可以看看你的那些吃货好友的手机里都装有哪些应用。</p>
+<p>国内类Medium博客平台“<a target="_blank" data-no-turbolink="true" href="http://jianshu.io/">简书</a>”刚刚获得500万人民币天使轮融资，投资方为戈壁。</p>
 
-<p>Homer的使用方法和原理大致是这样的：下载应用后，你首先需要设置，应用会自动提醒你要对手机上的所有屏幕页面进行截屏上传。这样一来，Homer上关注你的好友就能看到你的手机里都有哪些应用。同理，你也可以看到你关注的人的手机里的应用。HVF通过利用图像识别技术来分析屏幕截屏上的应用图标，然后将应用图标链接到App Store，这样一来，如果发现感兴趣的应用，点击相应的应用图标便可进入应用商店直接下载。此外，如果你不想让别人看到自己手机上的某款应用，你也可以进行相应的权限设置。</p>
+<p>不管是<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208436.html">Medium</a>、writings.io（该网站已关闭，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206974.html">其创始人讲述了失败的原因</a>）、<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/209449.html">Svbtle</a>还是“简书”，目的都是为用户营造一种沉浸式的写作环境，杂志般的阅读体验。跟Medium的Collections类似，用户也可以订阅不同的专题和某作者的文集。无论从篇幅、还是排版设计上都更像是一本杂志。写作后台的编辑手法可以概括为“满足文字写作的刚需”。简书也推出了<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/jian-shu/id888237539?mt=8">移动端产品</a>，跟Medium一样，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/210566.html">只能读，不能写</a>。</p>
 
-<p>除了刚推出的Homer，Levchin目前将大部分精力都放在去年推出的移动支付公司Affirm上。上个月，Affirm刚获得一轮<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212722.html">4500万美元的融资</a>。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 欧开磊]</p><br>                    <p></p>  
+<p><img src="http://a.36krcnd.com/photo/2014/66d1c23f96055aced0dce60e0bdbf602.jpg" alt=""></p>
+
+<p>文字创作如何转化成商业价值自版权概念诞生以来都是不得不考虑的问题，也是一个平台得以向产业链上下游拓展的关键。这次“简书”正式上线了“作者成书计划”，仅保留在线发行权，有一定写作量的作者可以申请该计划，它会选择一些比较成熟的电子读物分发平台帮作者出版。此外，“简书”还开始向用户放开了专题编辑权限，这意味着每个人都可以是充当“杂志”编辑的角色。简书告诉<span>36氪</span>，下一步希望引入更多的名人作者到平台上来，并进一营造社区氛围，以挖掘用户更多的潜在需求。</p>
+
+<p>此次融资，“简书”将着重发展其移动端版本，目前仅有iOS版本，Android 版将于1月左右后上线。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
 
 
 
-<p>原文发表于 <a href="http://www.36kr.com/p/214116.html" target="_blank" rel="external">Paypal联合创始人Max Levchin推出应用发现类应用Homer，让你一窥朋友们都在使用哪些应用</a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/us/app/homer-apps-with-friends/id879373172?mt=8" target="_blank" rel="external">Homer</a>  </p>
+<p>原文发表于 <a href="http://www.36kr.com/p/213520.html" target="_blank" rel="external">类Medium服务“简书”获500万人民币天使融资，推出“成书计划”探索商业化之路</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://jianshu.io/" target="_blank" rel="external">简书</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -372,96 +506,6 @@
     <updated>2014-07-28T16:57:35.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/237" title="查看产品详情" target="_blank" rel="external"><br>                                一份专为程序员打造的IT技术周刊，精选一周IT技术干货，每周五发送。                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://weekly.manong.io/" target="_blank" rel="external">码农周刊</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[最美创意]]></title>
-    <link href="http://luoguochun.cn/2014/07/29/%E6%9C%80%E7%BE%8E%E5%88%9B%E6%84%8F/"/>
-    <id>http://luoguochun.cn/2014/07/29/最美创意/</id>
-    <published>2014-07-28T16:00:00.000Z</published>
-    <updated>2014-07-29T03:27:42.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/314" title="查看产品详情" target="_blank" rel="external"><br>                                不知道是小团队还是个人开发者，是一个以创意广告视频为主的客户端，遵循了Android Design，值得推荐                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://zhushou.360.cn/detail/index/soft_id/1886047?recrefer=SE_D_%E6%9C%80%E7%BE%8E%E5%88%9B%E6%84%8F" target="_blank" rel="external">最美创意</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[护驾]]></title>
-    <link href="http://luoguochun.cn/2014/07/29/%E6%8A%A4%E9%A9%BE/"/>
-    <id>http://luoguochun.cn/2014/07/29/护驾/</id>
-    <published>2014-07-28T16:00:00.000Z</published>
-    <updated>2014-07-28T16:57:39.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/302" title="查看产品详情" target="_blank" rel="external"><br>                                一款防追尾的手机应用                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.cherui.cn/" target="_blank" rel="external">护驾</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[开放静态文件 CDN]]></title>
-    <link href="http://luoguochun.cn/2014/07/29/%E5%BC%80%E6%94%BE%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6%20CDN/"/>
-    <id>http://luoguochun.cn/2014/07/29/开放静态文件 CDN/</id>
-    <published>2014-07-28T16:00:00.000Z</published>
-    <updated>2014-07-28T16:57:38.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/299" title="查看产品详情" target="_blank" rel="external"><br>                                为开源库提供稳定、快速的免费 CDN 服务                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.staticfile.org/" target="_blank" rel="external">开放静态文件 CDN</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[天蓝村零食订购服务]]></title>
-    <link href="http://luoguochun.cn/2014/07/29/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
-    <id>http://luoguochun.cn/2014/07/29/天蓝村零食订购服务/</id>
-    <published>2014-07-28T16:00:00.000Z</published>
-    <updated>2014-07-28T16:57:39.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/8" title="查看产品详情" target="_blank" rel="external"><br>                                按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[SmartAndroid官方文档]]></title>
-    <link href="http://luoguochun.cn/2014/07/29/SmartAndroid%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/"/>
-    <id>http://luoguochun.cn/2014/07/29/SmartAndroid官方文档/</id>
-    <published>2014-07-28T16:00:00.000Z</published>
-    <updated>2014-07-28T16:57:37.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/308" title="查看产品详情" target="_blank" rel="external"><br>                                Android强劲开发框架SmartAndroid                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.aplesson.com/smartAndroid/demos/" target="_blank" rel="external">SmartAndroid官方文档</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

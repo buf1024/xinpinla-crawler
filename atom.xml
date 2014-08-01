@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-07-30T07:55:51.838Z</updated>
+  <updated>2014-08-01T14:28:00.143Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,31 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[品趣]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/%E5%93%81%E8%B6%A3/"/>
-    <id>http://luoguochun.cn/2014/07/30/品趣/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-30T07:51:44.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/322" title="查看产品详情" target="_blank" rel="external"><br>                                集合各种创意，好玩，有趣的设计                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/pin-qu-chuang-yi-she-ji-jia-ju/id900399266" target="_blank" rel="external">品趣</a>  </p>
+    <title><![CDATA[IN]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/IN/"/>
+    <id>http://luoguochun.cn/2014/08/01/IN/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:17.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/916aec5b3fe5c3acd3832a5b8f0eae97.png" alt=""></p>
+
+<p><a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/hoteltonight">当日低价酒店预订服务HotelTonight</a>正在其Android app上酝酿两项新功能： “Express Check-In” （超快速登记入住）和 “Keyless Entry”（不用钥匙即可解锁房门），HotelTonight认为这两项功能代表了人们未来的酒店入住方式。</p>
+
+<p>“Express Check-In” 功能可以让用户在预订酒店后，收到及时的入住提醒——一旦房间被收拾打扫完成，用户可以入住时，HotelTonight就会通过app推送提醒消息，届时用户只要到前台拿上房间钥匙就能上楼入住，不再需要耗时在办理麻烦的登记手续上。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/a57f7c34517d52ad1eb7f9f867b38d5f.png" alt=""></p>
+
+<p>第二项功能“Keyless Entry”则可以让“拿钥匙开房门”这步都省了——用户只需要用Android手机的NFC功能就可以感应解锁房门（<a target="_blank" data-no-turbolink="true" href="http://www.brivolabs.com/#sam">Brivo Labs</a>提供这种API）。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/5ee9d29446b90e89959b68ac5f9136ce.png" alt=""></p>
+
+<p>目前HotelTonight正在几家酒店小范围内测这两项功能，但尚未确定具体推出的日期。另外，HotelTonight的新版Android app还深度整合了Google Place和Google Now，用户可以预先查看酒店360°的全景图，并且用Google Now来进行预订和支付。</p>
+
+<p>截图来自：<a target="_blank" data-no-turbolink="true" href="http://thenextweb.com/apps/2014/06/26/hoteltonights-newest-features-will-let-you-check-in-and-unlock-your-hotel-room-using-only-its-app/">TNW</a></p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213258.html" target="_blank" rel="external">住进酒店只用两步：HotelTonight将允许用户通过移动端来check-in并解锁房门</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://in.itugo.com/meng" target="_blank" rel="external">IN</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -33,31 +51,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Leak]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/Leak/"/>
-    <id>http://luoguochun.cn/2014/07/30/Leak/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-30T07:51:44.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/d376aa11aed88f494ca3943f8bdb8599.jpg" alt=""></p>
-
-<p>前几天我们提到过“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/214067.html">匿名定向沟通</a>”的功能，不管是私信，还是@某人，如果剥离出来的话，就很像早已存在的一种匿名交流方式—匿名信件。说着说着，搭着匿名的顺风，这件事就有人做了—Leak，给认识的人发匿名信件的Web端应用，这个功能可以宽泛地定义为“表白”—向熟悉的人表达自己的心声。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/fe152c8f31f3450615ecd949879ce482.png" alt=""></p>
-
-<p>它大概有以下几点设定：</p>
-
-<ol><br><li><p>像一封匿名信那样落款，其实是把熟人分了5类，friend，coworker，family member，friend of friend，someone。</p></li><br><li><p>跟匿名应用里的私信不一样，用户只能接收，不能回复，也不大可能有别的反馈。</p></li><br><li><p>只要有一个邮箱账号就可接收信息，通讯成本很低。</p></li><br></ol>
-
-<p>下面是应该Leak精选出来的匿名墙，蛮有意思，其实可以类比Secret的内容精选。不过，区别也有—以上设定使得一个用户从潜意识里很难跟一个人发那些负能量的东西，本身起到了<strong>内容运营的效果</strong>。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/0aa4e82cfb4a423df6db3c738b1df717.jpg" alt=""></p>
-
-<p>目前，Leak还是一个工具属性很强的东西，下一步如何朝社交方向踏步我还无从判断，欢迎交流，xyy#36kr.com，:)。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214166.html" target="_blank" rel="external">Leak，  搭着匿名之风回归的匿名邮件应用</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://justleak.it/" target="_blank" rel="external">Leak</a>  </p>
+    <title><![CDATA[莲蓬网]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E8%8E%B2%E8%93%AC%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/08/01/莲蓬网/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:18.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/338" title="查看产品详情" target="_blank" rel="external"><br>                                简单好用的网络书签                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://lianpeng.me/" target="_blank" rel="external">莲蓬网</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -69,31 +69,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[缘创派]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/%E7%BC%98%E5%88%9B%E6%B4%BE/"/>
-    <id>http://luoguochun.cn/2014/07/30/缘创派/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-29T16:59:39.000Z</updated>
-    <content type="html"><![CDATA[<p><a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/91317.html/img_0749"><img src="http://static.36kr.com/wp-content/uploads/2012/03/IMG_0749.png" alt=""></a><br><br>如果你有一个创业想法想找合伙人，如果你没有想法但想加入创业团队参与创业，如果你在外地想来北京创业、如果你在国外想回国创业，你会怎么办？</p>
-
-<p>对大多数人来说，找到志同道合创业伙伴的难度不亚于相亲的难度。现在有一个移动应用 <a target="_blank" data-no-turbolink="true" href="http://www.ycpai.com/">缘创派</a>希望通过线上的方式，帮创业者省下很多麻烦，更方便的找到合适的创业伙伴。</p>
-
-<p>缘创派只支持通过新浪微博登陆，登陆后填写一些必要信息：包括你关注的方向（互联网、移动互联网、广告、电商等），你的个人定位、联系方式等，无论是想找人还是想被人找到，填写这些信息都会很有帮助。</p>
-
-<p>在缘创派上用户可以按人来找创业伙伴，也可以按项目来找创业伙伴，如果你对某个人或项目感兴趣，系统支持向对方发起约聊功能，可以是通过电话或是见面聊，发起之后对方会收到短信和邮件通知。</p>
-
-<p>缘创派联合创始人Gary告诉我们，他从国外回来创业，花了将近一年的时间才找到合作伙伴，“因为我在线下走了很多弯路，所以我希望可以帮助人们在线上就能找到人。”</p>
-
-<p>现在国内创业热情高涨，一个帮助找合作伙伴的社区显得非常有用，由于用户群精准（想创业），除了有助于创业者寻找创业伙伴，创业公司来找里找人也是个不错的选择。</p>
-
-<p>不过如何让社区里的信息流动起来，让用户真正在这里活跃对缘创派来说是个不小的挑战。找创业伙伴实际上和相亲很像，都是最终找到那个有缘的人，或许世纪佳缘的运营方式他们可以借鉴。</p>
-
-<p>缘创派目前最主要的访问方式是一个 <a target="_blank" data-no-turbolink="true" href="http://www.ycpai.com">移动版的网站</a>，同时他们也提供了一个 <a target="_blank" data-no-turbolink="true" href="http://appchina.com/market/e/232155/download.pc/0/3A0F06060FBAFC5F11110AC447533FB9/com.wafec78cf14d2692b77237b8066ad94e0.1331560454859.apk">Android应用</a>。</p><br>                    <p></p><br>                    <p>AD：<a href="http://kdweibo.com/home?utm_source=36kr&utm_medium=keyword" target="_blank">云之家</a>，一种新的工作方式。</p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/91317.html" target="_blank" rel="external">移动应用“缘创派”帮创业者找创业伙伴</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.ycpai.com" target="_blank" rel="external">缘创派</a>  </p>
+    <title><![CDATA[腾讯全民WiFi]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E8%85%BE%E8%AE%AF%E5%85%A8%E6%B0%91WiFi/"/>
+    <id>http://luoguochun.cn/2014/08/01/腾讯全民WiFi/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:15.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/326" title="查看产品详情" target="_blank" rel="external"><br>                                腾讯公司推出的一款便携式随身 WiFi                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://wifi.qq.com/" target="_blank" rel="external">腾讯全民WiFi</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -105,27 +87,31 @@
   </entry>
   
   <entry>
-    <title><![CDATA[简书]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/%E7%AE%80%E4%B9%A6/"/>
-    <id>http://luoguochun.cn/2014/07/30/简书/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-29T16:59:38.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/0b4b2d8487c4e28ee953d22175706097.jpg" alt=""></p>
+    <title><![CDATA[美衣地图]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E7%BE%8E%E8%A1%A3%E5%9C%B0%E5%9B%BE/"/>
+    <id>http://luoguochun.cn/2014/08/01/美衣地图/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:24.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/ad1d859b858c70b72fbeeca2fa20d9a9.jpg" alt=""></p>
 
-<p>国内类Medium博客平台“<a target="_blank" data-no-turbolink="true" href="http://jianshu.io/">简书</a>”刚刚获得500万人民币天使轮融资，投资方为戈壁。</p>
+<p>女孩子逛街的小乐趣肯定是不会被科技消灭的，智能手机反而能够把体验变得更好，“<a target="_blank" data-no-turbolink="true" href="http://www.glammap.com/">美衣地图</a>”是一个基于LBS的线下购物的导购应用，跟很多电商类购物应用一样，有着内容、社区这样的版块，当然，<strong>目前</strong>，其目的重点是导流到线下。该项目已经获得真格基金数百万人民币融资。</p>
 
-<p>不管是<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208436.html">Medium</a>、writings.io（该网站已关闭，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206974.html">其创始人讲述了失败的原因</a>）、<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/209449.html">Svbtle</a>还是“简书”，目的都是为用户营造一种沉浸式的写作环境，杂志般的阅读体验。跟Medium的Collections类似，用户也可以订阅不同的专题和某作者的文集。无论从篇幅、还是排版设计上都更像是一本杂志。写作后台的编辑手法可以概括为“满足文字写作的刚需”。简书也推出了<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/jian-shu/id888237539?mt=8">移动端产品</a>，跟Medium一样，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/210566.html">只能读，不能写</a>。</p>
+<p>基于LBS特性，用户不仅可以即时发现离自己最近的商场（目前已与50家品牌达成了合作协议），同时也能进一步查看到哪些品牌、店面正在打折；用户还可以查看到一哪家店面在商场的楼层位置。及时地同步打折信息对美衣地图而言是个挺累的活儿，有些合作商场会主动向他们同步信息，但还有一些则需要人为线下采点才行。</p>
 
-<p><img src="http://a.36krcnd.com/photo/2014/66d1c23f96055aced0dce60e0bdbf602.jpg" alt=""></p>
+<p>通过优质的内容驱动消费几乎已是移动电商的标配，越优质的内容就意味着越精致的场景，“美衣地图”的内容是根据时装周潮流热点制作的，这不是重点，重点在于设计师会把大牌的搭配跟线下门店的类似款式匹配起来。人们很方便地能在线下买到。每天展示的Collection都会有一个主题。</p>
 
-<p>文字创作如何转化成商业价值自版权概念诞生以来都是不得不考虑的问题，也是一个平台得以向产业链上下游拓展的关键。这次“简书”正式上线了“作者成书计划”，仅保留在线发行权，有一定写作量的作者可以申请该计划，它会选择一些比较成熟的电子读物分发平台帮作者出版。此外，“简书”还开始向用户放开了专题编辑权限，这意味着每个人都可以是充当“杂志”编辑的角色。简书告诉<span>36氪</span>，下一步希望引入更多的名人作者到平台上来，并进一营造社区氛围，以挖掘用户更多的潜在需求。</p>
+<p>目前，美衣地图服务用户的环节主要在逛街前、逛街中，与门店还未有太深度的合作；不过从商场这个大场景讲，应该还有不少比如像影院、餐厅等等，不过个人认为导流的方式都会趋向于<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213572.html">更精致的场景化推荐</a>。关于商业模式，美衣地图目前并不急于考虑。</p>
 
-<p>此次融资，“简书”将着重发展其移动端版本，目前仅有iOS版本，Android 版将于1月左右后上线。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
+<p>关注线下购物体验的不止美衣地图一家，有家叫<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213165.html">Shophop</a>的公司也在做这件事，可视作一个专为 hunt fashion 而做的路线定制产品，不过融入了一些游戏化机制来采集用户喜好；早期时候，也有一家做电商O2O的公司叫“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/207743.html">购引</a>”，但并考虑“逛”中的线下需求，而是线上预定，线下试穿，算是O2O版的淘宝吧。</p>
+
+<p>美衣地图两位联合创始人都是斯坦福MBA毕业，其中一名Wendy在咨询领域有多年消费品方面的经验。负责内容的时尚编辑负责人毕业于波士顿服装专业，后去米兰学院进修。曾在香港工作3年，主要负责欧洲品牌进入大中华地区的重新规划。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/58dbeadf850e058c5fc2d605037fcd54.jpg" alt="p5"></p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
 
 
 
-<p>原文发表于 <a href="http://www.36kr.com/p/213520.html" target="_blank" rel="external">类Medium服务“简书”获500万人民币天使融资，推出“成书计划”探索商业化之路</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://jianshu.io/" target="_blank" rel="external">简书</a>  </p>
+<p>原文发表于 <a href="http://www.36kr.com/p/213648.html" target="_blank" rel="external">“美衣地图”，拯救线下逛街的乐趣，已获得真格基金数百万人民币天使投资</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.glammap.com/" target="_blank" rel="external">美衣地图</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -137,13 +123,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[答疑君]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/%E7%AD%94%E7%96%91%E5%90%9B/"/>
-    <id>http://luoguochun.cn/2014/07/30/答疑君/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-29T16:59:39.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/309" title="查看产品详情" target="_blank" rel="external"><br>                                中学生的掌中家教                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://dayi.im/" target="_blank" rel="external">答疑君</a>  </p>
+    <title><![CDATA[窝牛装修]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E7%AA%9D%E7%89%9B%E8%A3%85%E4%BF%AE/"/>
+    <id>http://luoguochun.cn/2014/08/01/窝牛装修/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:15.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/261" title="查看产品详情" target="_blank" rel="external"><br>                                手机上的装修设计应用                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.lingduohome.com" target="_blank" rel="external">窝牛装修</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -155,23 +141,45 @@
   </entry>
   
   <entry>
-    <title><![CDATA[秒视]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/%E7%A7%92%E8%A7%86/"/>
-    <id>http://luoguochun.cn/2014/07/30/秒视/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-30T01:40:39.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/60317f80b44a0c4a296320fca724bd0b.png" alt=""></p>
+    <title><![CDATA[研究生]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
+    <id>http://luoguochun.cn/2014/08/01/研究生/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:11.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/1e3bd57490dd65a3be7c507336343f6b.png" alt=""></p>
 
-<p>两个月前<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/yelp/id284910350?mt=8">Yelp</a>内测的视频点评功能已正式上线其iOS客户端（Android版本稍后推出），用户在点评时可以添加3-12 秒的视频来展示自己到店消费的经历。跟传照片是一个道理，不过视频应该能够更好地佐证文字描述吧——“更好再现餐厅、商店等的气氛，比如现场灯光、音乐都会被抓进来”。</p>
+<p>刚刚看到“<a target="_blank" data-no-turbolink="true" href="http://www.17yjs.com/">研究生</a>”时，实话说我是很诧异的，为实在是想不到，究竟是出于何种理由，果壳居然出了一个备孕APP，再加上这个 APP 诞生在一个大龄单身男青年领导的团队里，注意到这么细致的用户需求这件事本身就很有趣。</p>
 
-<p>个人认为，这些很适合这些注重“体验式消费”的产品使用，比如<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/210799.html">饭本</a>，食色，如果其点评系统里能加入展示现场信息的短视频的话，无疑更利于人们发现满意的消费场所。</p>
+<p>“研究生”是果壳团队出品的<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/yan-jiu-sheng-bei-yun-zhu/id766234125?ls=1&amp;amp;mt=8">全新APP</a>，主打女性备孕管理。具体的做法是帮助女性了解基础体温（BBT）的概念，并通过产品来持续监督、帮助女性养成基础体温的记录习惯。在此基础上，通过基础体温数据的分析，来帮助想要生宝宝的女性预测排卵期。</p>
 
-<p>短视频是未来趋势想必没人反对，而Yelp把它用在了娱乐以外的地方还蛮值得思考的，无独有偶，还有为淘宝卖家提供视频服务的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212006.html">粉我吧</a> &quot; 也是如此，短视频成为移动端广泛使用的一种信息展示形态并不稀奇。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
+<p><img src="http://a.36krcnd.com/photo/2014/7598f770a1010151531ca8445fcbdd42.jpg" alt=""></p>
+
+<p>“研究生”的主要功能也围绕着基础体温记录来进行设计，在记录内容中，除了常规的体温之外，还有一些近期的生活状况以及身体状况选项，还有专门记录排卵试纸的拍照记录模块。用户可以尽可能全面地记录自己的身体状态，并且操作简便。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/db5b84729f292fcd2aea1cd864ee0669.jpg" alt=""></p>
+
+<p>记录数据之后，“研究生”会自动根据女性的生理周期来划分体温曲线，并且还会有标准参考曲线来辅助用户读懂体温曲线的意义。在此之外，还有来源于果壳的丰富科普内容，来帮助用户了解关于备孕的方方面面的知识。</p>
+
+<p>“研究生”在设计时就花了很大的功夫来考虑应用使用的场景，并根据这些考量尽量人性化地设计APP交互。“我们希望我们的设计是专业严肃的，但同时又能充满了温馨感。” UI设计师白云跟我聊道：“我们希望能够彻底消除用户在使用产品时的焦虑感，专注在自己的体温数据上。”</p>
+
+<p>在和果壳创始人姬十三交流时，他说了这么一句话：“科普的本质，就是把先进的生活方式带给一部分人。”这是果壳存在的目的，同时也是果壳开始通过“研究生”切入移动互联网领域的真正逻辑。</p>
+
+<p>事实上在中国，绝大部分的人会将怀孕生孩子看做是一件顺其自然的事情，与之对应的状况就是，从孕前准备，到孕中的身体状况监测等等一系列过程中，科学有效的备孕是缺乏的，再加上现在越发严峻的城市环境，就造成了越来越多的悲剧，比如越来越多希望生个健康宝宝的女性会遇到流产、生下不健康的胎儿等等。“自己身边其实有很多这样的例子，很多女性好朋友都经历过，觉得能用自己的方式帮助别人很符合果壳一贯的价值观。”姬十三这样告诉我。</p>
+
+<p>除此之外，选择女性备孕工具也有着很现实意义上的思考，首先，果壳网承载的内容，有一半以上都是与健康相关的内容，而女性用户则是占到了果壳用户总数的40%左右，因而女性健康是一个很好的切入点，并且变现能力和商业潜力都比较高。</p>
+
+<p>特别值得一提的是，“研究生”的产品经理赵峥是医学专业出身，有相关专业的知识，她特别能够了解到备孕阶段的重要性，再加上之前有自己的好朋友，接二连三因为备孕阶段的大意失去了宝宝之后，赵峥希望能用自己的知识做一些事，改变这些状况，就和果壳一起开发了“研究生”。</p>
+
+<p>备孕类的APP，<span>36氪</span>此前已经报道过很多次了，比如“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/210069.html">爱丁医生</a>”“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208048.html">小花生</a>”以及“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/%E5%A4%A7%E5%A7%A8%E5%90%97">大姨吗</a>”，还有个专注于体温检测的智能硬件产品<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/210514.html"> Raiing</a>，这些产品都以相思的逻辑考虑后续的发展，比如做强工具，再转向社区，还可以再向O2O方向延伸，或是与可穿戴设备结合等等。对于“研究生”来讲，依托于果壳的社区内容，“研究生”很容易在内容营造上与竞品拉开距离，相对专业的内容也可以成为工具的补充，进一步提升用户的黏性。</p>
+
+<p>目前，“研究生”iOS版本已有超过20万下载量，并且曾三次获得苹果App Store官方推荐，截止目前已经帮助超过千人成功怀孕，Android客户端7月14日上线。</p>
+
+<p>从“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213281.html">知性</a>”，到“研究生”，我们看到果壳正在将自有的内容在移动端做出全新的玩法，并非是强硬地把内容搬到移动端，再造一个移动“果壳阅读器”，而是通过内容生成的场景，考量内容更加垂直的应用方式，期望成为果壳的下一个增长点。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 段钦]</p><br>                    <p>AD：<a href="http://kdweibo.com/home?utm_source=36kr&utm_medium=keyword" target="_blank">云之家</a>，一种新的工作方式。</p>  
 
 
 
-<p>原文发表于 <a href="http://www.36kr.com/p/214158.html" target="_blank" rel="external">短视频不局限于娱乐，点评服务Yelp正式上线3-12秒视频功能</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://catchchat.me/" target="_blank" rel="external">秒视</a>  </p>
+<p>原文发表于 <a href="http://www.36kr.com/p/213250.html" target="_blank" rel="external">果壳网进军女性健康领域，推出专业备孕应用“研究生”</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.17yjs.com/" target="_blank" rel="external">研究生</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -183,13 +191,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[码农周刊]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/%E7%A0%81%E5%86%9C%E5%91%A8%E5%88%8A/"/>
-    <id>http://luoguochun.cn/2014/07/30/码农周刊/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-29T16:59:38.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/237" title="查看产品详情" target="_blank" rel="external"><br>                                一份专为程序员打造的IT技术周刊，精选一周IT技术干货，每周五发送。                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://weekly.manong.io/" target="_blank" rel="external">码农周刊</a>  </p>
+    <title><![CDATA[真租网]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E7%9C%9F%E7%A7%9F%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/08/01/真租网/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:14.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/151" title="查看产品详情" target="_blank" rel="external"><br>                                视频租房，给你身临其境的看房体验                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.zhenzuwang.com/" target="_blank" rel="external">真租网</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -201,13 +209,47 @@
   </entry>
   
   <entry>
-    <title><![CDATA[最美创意]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/%E6%9C%80%E7%BE%8E%E5%88%9B%E6%84%8F/"/>
-    <id>http://luoguochun.cn/2014/07/30/最美创意/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-29T16:59:36.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/314" title="查看产品详情" target="_blank" rel="external"><br>                                不知道是小团队还是个人开发者，是一个以创意广告视频为主的客户端，遵循了Android Design，值得推荐                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://zhushou.360.cn/detail/index/soft_id/1886047?recrefer=SE_D_%E6%9C%80%E7%BE%8E%E5%88%9B%E6%84%8F" target="_blank" rel="external">最美创意</a>  </p>
+    <title><![CDATA[榫卯]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E6%A6%AB%E5%8D%AF/"/>
+    <id>http://luoguochun.cn/2014/08/01/榫卯/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:13.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/504a3b0f62f494a3e14600541f91b5bd.png" alt=""><br><br>当我打开<a target="_blank" data-no-turbolink="true" href="http://itunes.apple.com/cn/app/wood-joints/id837964581?l=cn&amp;amp;amp;mt=8">榫卯</a>，看到工匠、木凿、和刨花映入眼中，我的第一反应就是，如果老罗要推荐锤子手机的官方应用，那一定应该是榫卯，因为这是一款懂设计，有情怀的应用。</p>
+
+<iframe height="420" width="640" src="http://player.youku.com/embed/XNzE3MzIyOTIw" frameborder="0" allowfullscreen></iframe>
+
+<p>首先，这款应用有一个很有“逼格”的名字，榫卯。大多数人都念不出这两个字，更不知道这两个字分别是什么意思。事实上，这两字念sǔn mǎo。榫卯就是木结构的建筑和家具用来连接各个模块的接头部分。其中，“榫”又叫榫头，指木质接头中突出的部分；“卯”又叫榫槽，指接头中凹进去的部分。下图的直榫便是一个最简单的榫卯。<br><br><img src="http://a.36krcnd.com/photo/2014/8abc530677cae0720db938ac1433aacd.png" alt=""></p>
+
+<p>榫卯这款应用所做的是将一些有趣的榫卯构造以三维建模的形式重现出来，让用户可以从各个角度对他们进行观察和研究。而在榫卯的三维模型的界面上拉则可以看到这个榫卯结构的手绘图和一些应用场景。不同的榫卯结构会被运用到桌椅，建筑，门窗等不同木制品的不同部分。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/c20c909edd621ea294ff76bc5311c0de.jpg" alt=""></p>
+
+<p>目前榫卯内有27个可以免费查看的榫卯结构，并提供15个较为复杂的榫卯结构的18元付费解锁。</p>
+
+<p>除了榫卯的构造本身，榫卯还提供榫卯的历史，工具，以及木料的介绍。具体的知识大家可以自行下载这款应用查看。不过在我自己一页一页的翻看每一种木头的纹理，每一个工具的构造的时候，我有一种感动——原来做木工是这么美的。<img src="http://a.36krcnd.com/photo/2014/61292140520a70bfc6cb6c03a7e0a9e6.jpg" alt=""></p>
+
+<p>是的，尽管这款应用还存在一些bug，在交互等方面也有值得改进的地方，我依然难以吝惜自己的赞美。在老罗的锤子手机发布后，许多创业者都开始牵强附会的称自己的是一家“有情怀”的公司。然而我们都知道，情怀不能当饭吃，大多数这样自称的人都完全不懂所谓的情怀。真正沉下心来做出的“有情怀”的应用，榫卯一定算一个。</p>
+
+<p>榫卯是设计公司<a target="_blank" data-no-turbolink="true" href="http://www.taguxdesign.com">Tag Design</a>出品的一款应用。Tag Design的创始人孙勇的父亲便是一名木匠，因此他一直希望以应用的形式将木工中的一些精微之处呈现出来。不过毫无疑问，这款应用本身是很难挣钱的，Tag Design基本是贴钱做这款应用。</p>
+
+<p>尽管如此小众，榫卯已经取得了不错的影响力。上线20日来，榫卯取得了16万的下载量，并连续一周停留在App Stote教育类排名第二的位置，目前在教育类排名第十。</p>
+
+<p>坦率而言，我期待这样一款讲述榫卯的移动应用已经很多年了。我身边几乎所有建筑专业的朋友都和我感慨过榫卯结构的多样和美丽，中国的几千年来的木结构建筑诞生了无数简单易用，复杂精巧，甚至是巧夺天工的榫卯。然而现代化带来的材料革新和焊接技术的产生，使得原本常见的榫卯变得难得一见。而移动端的三维模型，显然是让大众了解榫卯的最好的方式之一。</p>
+
+<p>不过非常显然，这样一款小众的应用并不能直接赚钱，因此，即便有人想过要做，之前也并没有人做这样一款应用。现在有人做了，而且反响颇为不错，这让我感到榫卯如同当年的<a target="_blank" data-no-turbolink="true" href="http://itunes.apple.com/tw/app/solar-walk-3d-solar-system/id347546771?mt=8">Solar Walk</a>一样，在告诉大家，App Store在渴望着长尾的小众应用。</p>
+
+<p>榫卯的出现让我看到的是一个更为多元化的应用生态的可能性。目前的App Store几乎是游戏和工具类应用二分天下的局面，和乔布斯当年的所期望的，能下载到任何应用的应用商店还有差距。但榫卯的出现和走红却让我看到了两点：</p>
+
+<p>首先，App Store的推荐制度对于非游戏和工具类的应用是利好的，比如音乐类的Magic Pinao和锻炼类的Yoga Studio时常被App Store在首页推荐。也就说App Store本身十分强调其生态内的多样性，只要是App Store里应用较少的领域，出了一款精致的应用，非常容易被得到推荐。</p>
+
+<p>其次，现在应用开发的成本正在逐渐降低。后端的实现正在逐渐接口化，我相信未来的大多数应用的后端代码都不需要自己写，只需要用高质量的后端服务的接口。而前端的模块化也在逐步进行，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212612.html">Swift语言</a>的现代性也在降低前端门槛。所以我相信，未来会涌现出更多的微型团队甚至个人开发者，做更多细分领域内容的应用。</p>
+
+<p>因此，我觉得榫卯是一个信号，它标志着小众的精美应用也可以在App Store的应用生态里受到大众和资本市场的重视。而这样的事实，可以让更多创业者朝着这个方向努力。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 甘源]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213149.html" target="_blank" rel="external">榫卯，一款罗永浩一定会喜欢的工匠应用</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://itunes.apple.com/cn/app/wood-joints/id837964581" target="_blank" rel="external">榫卯</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -219,13 +261,33 @@
   </entry>
   
   <entry>
-    <title><![CDATA[IT桔子]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/IT%E6%A1%94%E5%AD%90/"/>
-    <id>http://luoguochun.cn/2014/07/30/IT桔子/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-29T16:59:35.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/104" title="查看产品详情" target="_blank" rel="external"><br>                                IT互联网公司产品数据库及商业信息服务                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://itjuzi.com/" target="_blank" rel="external">IT桔子</a>  </p>
+    <title><![CDATA[极客学院]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E6%9E%81%E5%AE%A2%E5%AD%A6%E9%99%A2/"/>
+    <id>http://luoguochun.cn/2014/08/01/极客学院/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:14.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/0744ebfa3a18120340667304882d642f.jpg" alt=""></p>
+
+<p>自制内容、自有版权，定位于内容提供商而非平台——这是“慢公司”<a target="_blank" data-no-turbolink="true" href="http://www.lynda.com/">Lynda</a>在18年的在线教育长跑中胜出的原因。这家95年即告成立的公司，曾经<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/106030.html">仅依靠自有资本就实现了7000万美元营收</a>（当年全年营收1个亿），并最终在2013年初宣布了它的第一笔、也是最大一笔融资——1.03亿美元，从而奠定了它在在线教育领域的地位。</p>
+
+<p>对于一家科技公司来说，18年时间可能让人有些难以接受，但即便如此，靳岩仍决意追随Lynda的脚步。靳岩是IT教育网站“<a target="_blank" data-no-turbolink="true" href="http://www.jikexueyuan.com/">极客学院</a>”创始人之一，他的另一个项目是“<a target="_blank" data-no-turbolink="true" href="http://www.eoeandroid.com/">eoe</a>”社区，后者可能是国内最大的移动开发者聚集地。再往前推，他也是《Android开发入门与实战》的作者，这本手册启迪了中国早期的一批Android开发者，也让“靳岩”这个名字变得广为人知。</p>
+
+<p>从开发者社区到IT教育似乎只是顺水推舟，但靳岩一再跟我强调，“极客学院”是他全新创业的项目，不仅仅是搭建了新的班底，他也不希望用户在两者之间建立过多联想。把“极客学院”当做独立项目来做，是想打造一个能够独立发展的品牌。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/34d9686f895d3e664539deb1c8fccd96.jpg" alt="p1"></p>
+
+<p>在“以职业需要为导向”这一点上，极客学院其实与国内的其他IT教育网站类似。不过靳岩认为，他们理想中的IT教育，除了实用之外还应该更新潮、更好玩。比如前不久，当我们所有人都被Flappy Bird的一只贱鸟玩弄得死去活来时，极客学院便适时推出了《一小时学会开发Flappy Bird》的课程。该课程从策划到执行只用了一晚，这成为靳岩向我夸耀其团队之精干的例证。</p>
+
+<p>8个讲师，20们课程，每周保持2到4门的上新频率，而且全部课程都需要自己制作。靳岩希望在团队效率上向Lynda看齐，在Lynda依靠200名员工取得现在地位的前提下，靳岩希望在这一点上能做到更好。</p>
+
+<p>与Lynda类似，极客学院要求所有课程都在自己的录音室录制，至少90%课程要自主开发、自有版权，对课程体系设计和课程质量的要有直接把控。Lynda用户只需支付25美元即可订阅整月课程，而极客学院每节课程从20元到400元不等，这在国内动辄上千的课程单价中算是一个异类。由于极客学院走的是内容路线，所以并不介意与高校、在线教育平台等第三方渠道合作。同时，对于团队能力所不能覆盖的那10%的内容，靳岩也乐于让业内实战专家来讲授。</p>
+
+<p>在靳岩看来，他们的长远努力方向是“虚拟职业大学”，这需要取得官方、高校、社会的承认。目前国内大学的IT教育与市场需求严重脱节，教师缺乏项目经验，课程内容过于陈旧，导致毕业生在进入工作后往往需要“二次启蒙”。早年在学校挂科，后来靠拼命自学才成为编程高手的经历让靳岩始终难以忘怀。靳岩认为，中国的IT教育已经到了一个变革的时代，在这样的时代背景下做一个教育网站，不仅仅是经营一个项目这么简单。这是一件充满历史意义的事情，需要有理念和团队的支撑，而且将考验一家企业如何去树立理想、品味和互联网思维。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 沈超]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/210004.html" target="_blank" rel="external">目标：中国版Lynda！——eoe创始人靳岩投身IT教育，创办新项目“极客学院”</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.jikexueyuan.com/" target="_blank" rel="external">极客学院</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -237,33 +299,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[叽叽]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/%E5%8F%BD%E5%8F%BD/"/>
-    <id>http://luoguochun.cn/2014/07/30/叽叽/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-30T01:40:38.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/27b7ffb26336be450da77122be88f637.png" alt=""></p>
-
-<p>非移动互联网原著民肯定都知道PC端一直存在一种叫“随机配对IM”的东西，但一直没什么下文，如今它又在移动端重出江湖了，这两天聊了两款社交产品都是主打随机配对聊天的，一款叫“<a target="_blank" data-no-turbolink="true" href="http://imjidu.com/">几度</a>”，另一款叫“<a target="_blank" data-no-turbolink="true" href="http://itunes.apple.com/cn/app/ji-ji-you-qu-de-sui-ji-jiao-you/id867887231?mt=8">叽叽</a>”（最近叫“叽叽”的产品有点多…后者已获曾李青数百万人民币天使投资）。这当然跟移动技术的成熟脱不了干系，人们无须守在电脑旁才能与人匹配聊天，随机聊成了一件实时响应的活动，也释放了更多碎片化的时间，移动端更多其它社交机制的介入也让随机聊天有了更多的玩法。“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212613.html">比邻</a>”这款以陌生人电话社交应用当然也是一个鲜明的例子。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/d035981cbf4ba4b06ab95de62ab0d379.jpg" alt=""></p>
-
-<p>说到底，“随机”只是建立关系的一味元素，做不同的加法一定都会生成完全不同的产品。两款应用都强调希望帮用户找到更相关的人，这算是移动端随机聊天与PC另一点显著差异吧。就“几度”而言，首先它融入了<strong>纯匿名</strong>的元素，没有头像，没有随机的昵称；其次它看重的是手机通讯录里“朋友的朋友”这个神奇的<strong>二度人脉群体</strong>（但凡不是两两互相认识的关系都属二度人脉），在匹配的时候也会优先匹配到二度人脉和异性，但早期用户较少的情况下三度人脉出现的频率会很高。其CEO姜宁告诉<span>36氪</span>，前期会把三、四、五、六度的人脉统归为三度，以后再把三度分出来。</p>
-
-<p>这款应用界面不能“简洁更多”，设计上大致是白描手绘风（好像没有这种风，就这么叫吧）。目前它还只是靠通讯录关系来计算人与人之间的社交距离，以后会考虑加入LBS，聊天群，还有聊天高频词等匹配维度。<strong>考虑到关系链的膨胀已经成为新一波社交应用害怕的东西</strong>，两款应用都很排斥为用户重新打造一个“QQ”或微信关系列表。关于这点几度的新版本希望加这么一个限制条—用户始终仅有权限保留两个过往联系人，而大部分的人都是擦肩而过的。关于聊天群，他们的设想也很有意思，具体人数限制到几还不有待考量，但其中一定有人是相互认识的，神秘感大概就来自若隐若现吧。By the way，这款应用由华东师范大学的几名学生开发，种子用户也多为在校大学生。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/f3a3b1316f14bca185c981cc87598a1a.jpg" alt=""></p>
-
-<p>再说另一款产品“叽叽”，它希望做的是“越远越好的社交”，它通过两步随机操作，随机匹配一个地理位置（理论上讲是全世界任何一个位置），然后会随机匹配到一个人或者一个聊天群，人数也是随机的，而且时不时会有人中途“闯”进来。“叽叽”也强调帮用户找到相关度较高的人，但并非社交距离越来越近的人，而是外貌、风格更匹配的人。用户可以为其它用户打标签（比如清纯、阳光等），而叽叽会据用户打标签的记录向你推荐更匹配的妹纸或帅哥。以后还会加入图像识别的算法，“以貌取人”是叽叽匹配的重要维度。此外，新版的“叽叽”还会支持新浪微博和QＱ登录，根据这两大社交数据库完成更精准的匹配。其实诸如此类的匹配精不精准很难评判，个人认为，能让前戏变得更有意思好像才是用户体验的关键。它同样面临着关系链长大的问题， 关于如何弱化通讯录色彩，“叽叽”采用了Like的机制，凡是被Like的用户的动态会优先出现在用户信息流中。</p>
-
-<p>其CEO认为，很多人的QQ列表常年不发生变化是一件很不正常的事，而叽叽做的就是在结识新朋友的过程中帮人搭讪这件事，跟工具性App解决痛点需求不一样，“叽叽”满足的是交友的欲望。之所以越远越好，可能是会有最早时候聊天室的快感吧，它们希望以后能围绕中外交友把这件事做起来，新加坡会是一个扩张试点。总之，跟“陌陌”相比，它是希望在线上满足用户的社交需求的。国外有款叫Meow的聊天应用跟“叽叽”很像。</p>
-
-<p>社交之所以常盛不衰，一是技术在进步，二是需求一直在。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p>AD：<a href="http://kdweibo.com/home?utm_source=36kr&utm_medium=keyword" target="_blank">云之家</a>，一种新的工作方式。</p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213157.html" target="_blank" rel="external">随机配对聊天在移动端又重出江湖了，抛出“几度”和“叽叽”两款产品聊聊</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.yx.cc" target="_blank" rel="external">叽叽</a>  </p>
+    <title><![CDATA[无限壁纸]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E6%97%A0%E9%99%90%E5%A3%81%E7%BA%B8/"/>
+    <id>http://luoguochun.cn/2014/08/01/无限壁纸/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:10.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/259" title="查看产品详情" target="_blank" rel="external"><br>                                Jing.Fm 创始人 施凯文 新项目                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/wu-xian-bi-zhi/id891704316?mt=8" target="_blank" rel="external">无限壁纸</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -275,13 +317,33 @@
   </entry>
   
   <entry>
-    <title><![CDATA[SmartAndroid官方文档]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/SmartAndroid%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/"/>
-    <id>http://luoguochun.cn/2014/07/30/SmartAndroid官方文档/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-29T16:59:39.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/308" title="查看产品详情" target="_blank" rel="external"><br>                                Android强劲开发框架SmartAndroid                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.aplesson.com/smartAndroid/demos/" target="_blank" rel="external">SmartAndroid官方文档</a>  </p>
+    <title><![CDATA[微推]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E5%BE%AE%E6%8E%A8/"/>
+    <id>http://luoguochun.cn/2014/08/01/微推/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:17.000Z</updated>
+    <content type="html"><![CDATA[<p><a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/98209.html/%e5%b1%8f%e5%b9%95%e5%bf%ab%e7%85%a7-2012-04-09-%e4%b8%8b%e5%8d%8810-22-50"><img src="http://static.36kr.com/wp-content/uploads/2012/04/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7-2012-04-09-%E4%B8%8B%E5%8D%8810.22.50.png" alt=""></a></p>
+
+<p>今年1月份我们 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/75244.html">报道</a>过一家叫 <a target="_blank" data-no-turbolink="true" href="http://51youwei.com/">优微</a>的公司，他们帮助关注了很多人的微博用户过滤微博信息。现在他们上线了2.0版本重新设计了UI界面，并新增微博排重功能，也就是同一条微博被多人转发后会自动合并、排重。</p>
+
+<p>除了自动排重，新版优微在导航菜单中增加了“标注阅读”和“排序阅读”功能。在标注阅读中微博的排序是和新浪微博官方版一样的，只是优微通过分析每条微博与用户DNA（可参见 <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/75244.html">之前的报道</a>）的匹配程度将他们认为用户最感兴趣的内容进行标注，他们将这类内容定义为“优质微博”，优质微博上会有“下一条”按钮，点击可以跳过其他普通微博，直接跳到下一个优质微博。这让用户可以既节省时间又看到有意思的微博。</p>
+
+<p>排序阅读则是另外一种优化方式，它把用户本来在新浪微博上应该看到的24小时内的微博按照用户的喜好程度全新排序，让用户优先看到最感兴趣的内容。值得注意的是这里会打乱原有的微博顺序。</p>
+
+<p>优微创始人庞然说，“研究互联网的发展历史，我们可以清楚的看到，产生信息和处理信息两大类型产品在这个轨迹上总是交替出现。 最先产生信息的产品是互联网的雏形，简单的html页面；网页多了，形成了导航网站；门户网站这时应运而生，互联网产生信息的能力达到了一个顶峰；随着信息越来越多，搜索引擎应运而生，处理信息的产品达到了当时的一个极致；此时，信息的产生不再由互联网公司的编辑人员单独完成，互联网进入web2.0时代，博客、微博、facebook等互联网产品让每个网民都成为产生信息的终端；接下来，要出现的就是一个新的处理信息的产品。而个性化互联网就是这个产品，我们的“优微”仅仅是在微博领域的一个尝试，未来我们会将这种个性化信息处理技术发展到互联网的各个领域，让每个用户看到属于自己的个性化互联网信息。”</p>
+
+<p>优微希望做到无论你关注了多少人，都可以在10分钟内看完对你最有用的信息。</p>
+
+<p>我试用了一段时间这个产品，感受是确实能够更快看到自己感兴趣的信息，但是对于一个有微博强迫症的人来说，我总担心自己漏掉了什么。</p>
+
+<p>新版优微界面相对上一版有很大改进，但除了字体大（比官方微博）看久了比较舒服外，界面仍然不是我喜欢的类型。</p>
+
+<p>点击 <a target="_blank" data-no-turbolink="true" href="http://51youwei.com/">这里</a>访问优微。</p><br>                    <p></p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/98209.html" target="_blank" rel="external">帮你个性化微博信息的“优微”推出2.0版本，同一条微博被多人转发会自动合并、排重</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.micropush.cn/" target="_blank" rel="external">微推</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -293,13 +355,29 @@
   </entry>
   
   <entry>
-    <title><![CDATA[ShireSoccer]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/ShireSoccer/"/>
-    <id>http://luoguochun.cn/2014/07/30/ShireSoccer/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-30T01:40:39.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/319" title="查看产品详情" target="_blank" rel="external"><br>                                垂直足球文化媒体                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.shiresoccer.com/" target="_blank" rel="external">ShireSoccer</a>  </p>
+    <title><![CDATA[影记]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E5%BD%B1%E8%AE%B0/"/>
+    <id>http://luoguochun.cn/2014/08/01/影记/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:20.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/885f91ec8121831961a1d6a1d0fb0793.jpg" alt=""></p>
+
+<p>如果说看完一部影想留下些什么什么，过去人们可能会写篇影评，不过长篇大论好像很难适应当下的节奏了。可如果是让你在朋友圈发布一个镜头，一句台词想必还是行得通的，因为既表达了余味，又没有太麻烦。氪空间项目“<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/cn/app/ying-ji-ji-lu-dian-ying-zui/id702871232?mt=8">影记</a>”回应的就是处于“文艺与不文艺青年”之间这个群体的这个需求。</p>
+
+<p>“影记”的内容生成方式为UGC，没错，“一张图，一句话（台词或是感悟）”的生产方式门槛非常低，其创始人文亮告诉<span>36氪</span>，目前“影记”官方基本上已不生产内容了，&quot;UGC可以做到自给自足”。为了保证内容的质量，“影记”有专门的编辑审核稿件，保证内容都是符合要台词或感悟的格式的。</p>
+
+<p>为了在首页汇聚用户最受用户欢迎的内容，“影记”还借鉴了类似Tinder的选择机制，用户可以选择“喜欢”或是“没感觉”来积累自己的兴趣数据；不过它并没有采用像<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/207861.html">Tinder</a>那样的交互机制，毕竟回味电影是件沉下心来做的事，划来划去不像那么回事。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/d6c4f8ed26ec5270246d4f1509c1a938.jpg" alt=""></p>
+
+<p>目前，“影记”的内容还是偏向碎片化的内容，当内容多起来时，一定会有同一部电影被切为许多的切片，将来“影记”会为用户提供相关的协作功能，可能会基于一定的电影Timeline以一定次序将零散的内容织成一部作品，但具体产品形态还未确定。“影记”团队目前仅有3人，该团队一直以来还运营有一个叫“热电影”的微博，文亮告诉<span>36氪</span>，我们就是喜欢围绕电影做事儿。</p>
+
+<p>跟“影记”类似的产品有“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213397.html">图解电影</a>”，但该产品的气质十分不一样，前者文艺，后者搞怪嘻哈，而且具备奇葩的静态弹幕， UGC内容的制作也更复杂，需要用户按逻辑使用镜头讲出故事，添加文字解说。总之，二者各有千秋吧。这些工具虽然很简单，但如果平台上的内容能够对用户产生粘性的话，未来应该可以围绕电影做很多事情。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p>AD：<a href="http://kdweibo.com/home?utm_source=36kr&utm_medium=keyword" target="_blank">云之家</a>，一种新的工作方式。</p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/214262.html" target="_blank" rel="external">“影记”，一张剧照，一句台词帮你记录、回味钟爱的电影</a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/ying-ji-ji-lu-dian-ying-zui/id702871232?mt=8" target="_blank" rel="external">影记</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -311,13 +389,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[REG007]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/REG007/"/>
-    <id>http://luoguochun.cn/2014/07/30/REG007/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-29T16:59:35.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/316" title="查看产品详情" target="_blank" rel="external"><br>                                你或他(她)注册过哪些网站？输入邮箱或手机号，一搜便知。                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.reg007.com" target="_blank" rel="external">REG007</a>  </p>
+    <title><![CDATA[小满科技]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E5%B0%8F%E6%BB%A1%E7%A7%91%E6%8A%80/"/>
+    <id>http://luoguochun.cn/2014/08/01/小满科技/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:22.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/335" title="查看产品详情" target="_blank" rel="external"><br>                                通过云计算面向企业提供 SaaS 服务和生产力工具                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://www.xiaoman.cn/" target="_blank" rel="external">小满科技</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -329,51 +407,73 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Product]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/Product/"/>
-    <id>http://luoguochun.cn/2014/07/30/Product/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-29T16:59:37.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/1984e3832a3f1c2ea0552cfbbb38c888.png" alt=""> <a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213053.html">Product Hunt</a>是热门新应用的风向标，其风格有点类似于Reddit+Hacker News的混合体。它解决了三类用户的痛点问题：用户头疼app海洋里面哪个比较好玩好用；投资者头疼如何先于别人找到金子；产品开发者发愁如何推销和改进自己。</p>
+    <title><![CDATA[小交易]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E5%B0%8F%E4%BA%A4%E6%98%93/"/>
+    <id>http://luoguochun.cn/2014/08/01/小交易/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:26.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/1bfc5a3b4806fe1e25e70cf4194d990b.jpeg" alt=""></p>
 
-<p>所以Product Hunt很快也走上了快速发展的轨道。就在上周，Product Hunt（PH）宣布加入Hacker News的东家Y Combinator新一期的孵化班。近日，Product Hunt的创始人、27岁的Ryan Hoover接受<a target="_blank" data-no-turbolink="true" href="http://valleywag.gawker.com/product-hunt-founder-explains-why-the-hell-he-joined-y-1606835305">访谈</a>讨论了一些相关议题。</p>
+<p><strong>一、C2C电商？淘宝早已名不副实</strong></p>
 
-<p><strong>PH的诞生及与HN Show的区别</strong></p>
+<p>说起C2C我们总是想到淘宝，但现在的淘宝也是无数个小B的集合，和早期个人商家充斥的生态已经大为不同。早期淘宝个人商家对整个流通价值链的贡献，主要是商品发现和营销功能。但当信息流通更加充分，个人商家的商品发现价值被弱化，进而被厂家直销、各种导购平台和买手店所取代。而营销方面，随着淘宝专业分工越发精细，个人不再胜任复杂的营销管理工作，高度组织化的企业登上前台。</p>
 
-<p>他透露，其实Hacker News类似概念的Show（让创始人展示自己的产品）比Product Hunt还要早出来，不过前者并没有进行过多宣传，所以给外界的印象是好像PH出来更早。当然，Show其实跟Hacker News之前的做法也没有太多改变，只是专门把里面涉及到产品的内容单独抽取了出来，不过这个加上技术媒体、Twitter及与朋友的闲聊促使他萌生了做PH的想法。</p>
+<p>抛开这些宏观论述，对于“为什么个人商家在淘宝越来越难做”的现实原因，我们能找到最直接的两点：<strong>信用成本和流量获取成本过高</strong>。</p>
 
-<p>尽管PH与HN Show在社区和内容类型上有重叠的地方，但是Ryan Hoover并不认为两者是竞争关系，因为二者还是有很大的不同的，HN更偏向工程方面，且目前HN主要面向初创企业受众，在替创始人、设计师、VC、营销人员、产品经理等考虑方面略少。</p>
+<p>一方面，淘宝信用对个人商家来说过于昂贵。淘宝为了创造一个相对诚信的环境，有时甚至要牺牲一些交易效率和商家体验（比如不断提高商家入驻门槛，当买卖双方发生争议时则对买家过度保护）。而店铺评级、保证金、客服、售后、账期等种种负担，也让个人商家心力交瘁。</p>
 
-<p><strong>PH的推出时机是否合适？</strong></p>
+<p>另一方面，随着淘宝生态的成熟，市场也由商品稀缺转向流量稀缺。打造爆款、上活动、买直通车、做淘宝客，甚至包括刷钻等行为，商家为了争夺流量无所不为，最后可能却发现毫无成效。根本上流量入口并未被扩展，而大商家显然比个人商家更具资金和品牌实力，即使淘宝不对大商家做政策倾斜，个人商家也没有活路。</p>
 
-<p>Ryan认为Product Hunt的推出正好赶上了一个好时机。现在的形势是应用越来越多，差异化越来越小，能争取到注意力越来越困难。Ryan认为，越是这样越需要人工策展（curation）。此外，他还认为技术产品正在日益主流化，会成为像体育、电影、音乐等一样的谈资。</p>
+<p>由信用和流量问题出发，我们能看到基于社交图谱（不是美丽说、淘宝U站这类兴趣图谱）的社会化电商正在萌芽。用真实社交关系解决信用，用好友圈的注意力盈余供给流量（尤其是品牌成型前的早期流量）——这一模式提供了媲美淘宝的想象力。目前在这一领域可供参考的案例还很少，微信朋友圈生意算是一个，暂时动向不明的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206354.html">阿里浪</a>”算是半个。这里还要介绍一个叫“<a target="_blank" data-no-turbolink="true" href="http://www.xiaojiaoyi.com/">小交易</a>（<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/cn/app/xiao-jiao-yi/id609706406?mt=8">iOS</a>/<a target="_blank" data-no-turbolink="true" href="http://www.wandoujia.com/apps/com.xiaojiaoyi">Android</a>）”的产品——这个主打好友、邻里交易的项目，能给我们不少启发。</p>
 
-<p><strong>PH的受众是谁?</strong></p>
+<p><img src="http://a.36krcnd.com/photo/4eb631575bb1462521221aad7b174a86.jpg" alt=""></p>
 
-<p>大部分是初创企业的人，这些人天生就是早期的采用者，但是在地理分布上比较广，60%访客来自美国，其他的依次是英国、加拿大、印度、法国和德国。</p>
+<p><strong>二、所谓“小交易”模式，就是从你的熟人、半熟人网络中挖掘交易机会</strong></p>
 
-<p><strong>PH社区的互动</strong></p>
+<p>其实“<a target="_blank" data-no-turbolink="true" href="http://www.xiaojiaoyi.com/down.do">小交易</a>”的理念并不复杂。基本上，这是个基于地理位置的个人交易平台——这毫不稀奇，包括“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/taoshenbian1">淘身边</a>”在内的类似产品遍地都是。但“小交易”的革新之处在于，它除了位置距离外，还结合了人际距离来撮合交易。</p>
 
-<p>Ryan谈到，社区与创始人之间的对话往往能形成反复的有关产品的头脑风暴和输入，让后者不断更新完善产品。而且他认为鉴于现在硅谷的产品一般都是面向特定的人群（20几岁的年轻人），所以没有必要征询其他人的意见。当然，他也认为那些第一次看到产品的人给出的反馈对于创始人来说未必就是合适的。</p>
+<p>在信任机制上，“小交易”通过微博、QQ、通讯录等社交平台导入你的熟人关系链，通过评估不同交易者之间人脉距离的远近（几度人脉、共同好友数、好友质量等），创造了一个完全可信的交易环境。在传播链上，“小交易”整合了多种社交分享机制，使得商品信息可以沿着你的一度人脉、二度人脉逐级扩散开去，流量入口瞬间被打开。</p>
 
-<p><strong>鉴于加入YC前PH已经小有名气，谈判是否要求少转让股权？</strong></p>
+<p>这么说你可能没有感觉，我来描述一个典型的使用过程：卖家A有一个二手商品准备出售，他用“小交易”生成一个商品信息卡片，既可以直接分享到自己的社交网络，也可以用“邀请”功能让熟人帮忙扩散，或者生成一条链接粘到任何地方。这时有一个潜在买家B，从微信、微博、或者App中发现了这件商品，进入交易页面后他将得到这么几种信息辅助购买决策：</p>
 
-<p>没有。YC很少改变标准。再说当时PH还很小。</p>
+<p>1、A的地理位置远近。如果发现A就在你身边几百米，完全可以当面验货验人。</p>
 
-<p><strong>未来计划</strong></p>
+<p>2、与A交易的靠谱度分值。这一分值基于双方人际距离远近、个人资料的完整度、商品有无位置信息以及历史交易记录等维度得出。</p>
 
-<p>继续关注于全球的创业，这一块很有很大的增长空间。但是发展到一定程度之后也会关注其他的人群，比方说那些不关心技术/初创企业但是关心技术产品（作为潮流）的人。</p>
+<p>3、该交易有哪些好友提供了背书。由于“邀请好友帮忙”这一机制的存在，如果你发现该商品有许多共同好友都推荐了，则可以认为商品发布者至少在人格上是可信的。</p>
 
-<p><strong>请推荐两款应用</strong></p>
+<p>4、卖家A有无参与保障计划，包括身份认证和保证金等措施。</p>
 
-<p>Ryan推荐了对点照片短视频聊天工具TapTalk。原因是速度。从交互的次数、发送照片、视频及交付的速度等方面来看都非常快，而且是一对一。该app还有若干的反模式（与所谓的设计模式最佳实践背道而驰），令体验更加个性化。</p>
+<p><img src="http://a.36krcnd.com/photo/c238724da4c1e31d0cdff01135c11663.png" alt=""></p>
 
-<p>Ryan推荐的另一款是非常实用的日用百货送货应用Instacart，看起来是个标准的宅男。</p><br>                    <p>[消息来源：<a href="http://valleywag.gawker.com/product-hunt-founder-explains-why-the-hell-he-joined-y-1606835305" target="_blank">valleywag.gawker.com</a>]</p><br>                    <p></p>  
+<p>于是就结果而言，无论卖家A还是买家B都处于一个真实的社交环境中，失信行为将会在朋友圈中被广泛传播，没有人敢冒着现实声誉受损的风险赚取短期利益。而且基于一定的匹配算法，资料越完善、与你关系越接近的交易将得到更多曝光，不靠谱的信息将排除在你的视野之外。</p>
+
+<p>这里面还存在着一种信任传导，如果一度人脉中的交易信息是可信的，那么沿着一度人脉扩展出来的二度人脉也基本可信。做异性社交的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205503.html">某某</a>”、做职场社交的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/207177.html">脉脉</a>”、以及“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/202424.html">人人猎头</a>”这类社会化招聘产品也是同样思路，但“小交易”做得更好的一点是让一度人脉直接参与了交易背书。当然，一个“萍水相逢”式的一度人脉同样不可靠，“小交易”通过将你的微博、QQ、通讯录关系整合，不仅关注你与他人处于几度人脉，还用一些方式对你们之间的关系强弱做出评估。</p>
+
+<p>这个产品的本质，就是从你身边熟人、半熟人关系网络中挖掘出交易机会。</p>
+
+<p><img src="http://a.36krcnd.com/photo/c30dd34e3fce5017ad8ee72e28db2e0e.png" alt=""></p>
+
+<p><strong>三、由创造信用带来的颠覆</strong></p>
+
+<p>有信用才有市场，而创造信用的行为隐含着就是在创造财富。不完全数一下“小交易”的潜在挑战对象，我们能看到如下名单：</p>
+
+<p>1、代购等各种朋友圈生意。</p>
+
+<p>2、分类信息站。不用多说，公告板式的信息沟通基本算是上世纪遗产，不解决信用缺失和信息过载。</p>
+
+<p>3、社区电商。“熟人”定义是比较宽泛的，你的邻居、经常光顾的社区超市、附近餐馆都包含在内。比如我们公司旁边的糕点铺每天晚上都要将存货打折出售，这时就可以用“小交易”向我们这些老主顾广播。某个厨艺精湛的阿姨闲坐无聊，可以弄一桌私房菜放到“小交易”供附近上班族预定。</p>
+
+<p>4、闲置物品交易。这个市场在国内一直不温不火，很多产品都迈不过冷启动这一关，但“小交易”取巧的是利用了现成的关系链和传播链，一个用户可以带来一串熟人。</p>
+
+<p>5、小额借贷。这一领域有一些做关系挖掘的公司，比如用微博数据做小额P2P贷款的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205659.html">卡小二</a>”。线下本来就普遍存在着熟人借贷，类似“小交易”的平台可以让这一过程更高效透明。</p>
+
+<p>当然想象不局限在这里，一切需要利用口碑、关系的个人生意，几乎都可以用类似思路做出一款产品，这样的垂直领域有很多。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 沈超]</p><br>                    <p></p>  
 
 
 
-<p>原文发表于 <a href="http://www.36kr.com/p/213946.html" target="_blank" rel="external">Product Hunt创始人访谈</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.producthunt.com/" target="_blank" rel="external">Product</a>  </p>
+<p>原文发表于 <a href="http://www.36kr.com/p/208628.html" target="_blank" rel="external">当C2C在淘宝衰落之后，“小交易”能否用“关系链+地理位置”让真正意义上的C2C复兴？</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.xiaojiaoyi.com/" target="_blank" rel="external">小交易</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -385,31 +485,31 @@
   </entry>
   
   <entry>
-    <title><![CDATA[IT面试宝典]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/IT%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8/"/>
-    <id>http://luoguochun.cn/2014/07/30/IT面试宝典/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-29T16:59:35.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/313" title="查看产品详情" target="_blank" rel="external"><br>                                IT面试宝典是一款专为所属IT行业的朋友提供面试帮助的一款APP，及时更新最新的分类面试题库，如iOS、Android、C++等，能收藏重点面试题，也能隐藏和显示答案，可以分享面试题给你的小伙伴们。                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/it-mian-shi-bao-dian-kai-fa/id866117100?l=en&amp;mt=8" target="_blank" rel="external">IT面试宝典</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Bolt]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/Bolt/"/>
-    <id>http://luoguochun.cn/2014/07/30/Bolt/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-30T01:40:40.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/318" title="查看产品详情" target="_blank" rel="external"><br>                                Instagram 推出的照片短视频聊天应用，TapTalk + Slingshot + Snapchat 合体                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://bolt.instagram.com/" target="_blank" rel="external">Bolt</a>  </p>
+    <title><![CDATA[奇妙清单]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E5%A5%87%E5%A6%99%E6%B8%85%E5%8D%95/"/>
+    <id>http://luoguochun.cn/2014/08/01/奇妙清单/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:21.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/c7f3abace0658b5127889e80ffb75c1c.jpg" alt=""></p>
+
+<p>Wunderlist 作为 iOS 平台的老牌 GTD 类工具对用户而言并不陌生。他们曾在自己的博客中暗示，在较长的一段沉默后，第三版 Wunderlist 会有大改变。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/7742dd6a891d5c986d398abe92bc5c68.png" alt=""></p>
+
+<p>今天 Wunderlist 3 终于发布，除 UI 做出重大改进外还主推清单分享和实时同步功能。比如，你可以和家人共享超市购物清单以便确认和随时补充，也可以和旅游同行的好友确认必备品和行进路线。在社交外，不难发现 Wunderlist 3 其实暗含着进军中小团队协作工具的目标。新版 Wunderlist 可以实现清单分发和内容实时同步，仪仗它跨多平台的优势让所有团队成员可以在第一时间获知任务动态并以清单形式交流信息。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/4b2cea892c1dbb8819432263d77769cf.png" alt=""></p>
+
+<p>此外，这次 Wunderlist 正式进入中国市场。它的中文名叫“奇妙清单”。在程序本体的汉化工作之外，用户还可以通过微博、微信、QQ 等国内社交、通讯方式分享创建的清单。分享后的清单可被其他用户直接加入自己的账户清单列表中。</p>
+
+<p>奇妙清单首发平台有 iPhone、iPad、Mac、Android、Kindle Fire、Chrome OS （Chrome 浏览器插件）和网页版，Windows 8 商店版和 Windows Phone 8 版本将在随后推出。目前国内用户登录和注册“奇妙清单”的速度仍有些缓慢，希望他们能加快服务器或 CDN 落地，真正方便国内用户使用。</p>
+
+<p>感兴趣的用户可以在<a target="_blank" data-no-turbolink="true" href="http://www.wunderlist.com/">奇妙清单官网</a>注册账户并下载客户端使用。</p><br>                    <p>[<span>36氪</span>原创文章，作者: sinCera]</p><br>                    <p>AD：<a href="http://kdweibo.com/home?utm_source=36kr&utm_medium=keyword" target="_blank">云之家</a>，一种新的工作方式。</p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/214255.html" target="_blank" rel="external">Wunderlist 瞄准中小团队协作全面进入 3.0 版本，同时化身“奇妙清单”进入中国</a>  </p>
+<p>更多详情请参考相关网站 <a href="https://www.wunderlist.com/zh/" target="_blank" rel="external">奇妙清单</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -422,10 +522,10 @@
   
   <entry>
     <title><![CDATA[天蓝村零食订购服务]]></title>
-    <link href="http://luoguochun.cn/2014/07/30/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
-    <id>http://luoguochun.cn/2014/07/30/天蓝村零食订购服务/</id>
-    <published>2014-07-29T16:00:00.000Z</published>
-    <updated>2014-07-29T16:59:36.000Z</updated>
+    <link href="http://luoguochun.cn/2014/08/01/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
+    <id>http://luoguochun.cn/2014/08/01/天蓝村零食订购服务/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:18.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/8" title="查看产品详情" target="_blank" rel="external"><br>                                按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
@@ -439,31 +539,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[缘创派]]></title>
-    <link href="http://luoguochun.cn/2014/07/29/%E7%BC%98%E5%88%9B%E6%B4%BE/"/>
-    <id>http://luoguochun.cn/2014/07/29/缘创派/</id>
-    <published>2014-07-28T16:00:00.000Z</published>
-    <updated>2014-07-28T16:57:36.000Z</updated>
-    <content type="html"><![CDATA[<p><a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/91317.html/img_0749"><img src="http://static.36kr.com/wp-content/uploads/2012/03/IMG_0749.png" alt=""></a><br><br>如果你有一个创业想法想找合伙人，如果你没有想法但想加入创业团队参与创业，如果你在外地想来北京创业、如果你在国外想回国创业，你会怎么办？</p>
-
-<p>对大多数人来说，找到志同道合创业伙伴的难度不亚于相亲的难度。现在有一个移动应用 <a target="_blank" data-no-turbolink="true" href="http://www.ycpai.com/">缘创派</a>希望通过线上的方式，帮创业者省下很多麻烦，更方便的找到合适的创业伙伴。</p>
-
-<p>缘创派只支持通过新浪微博登陆，登陆后填写一些必要信息：包括你关注的方向（互联网、移动互联网、广告、电商等），你的个人定位、联系方式等，无论是想找人还是想被人找到，填写这些信息都会很有帮助。</p>
-
-<p>在缘创派上用户可以按人来找创业伙伴，也可以按项目来找创业伙伴，如果你对某个人或项目感兴趣，系统支持向对方发起约聊功能，可以是通过电话或是见面聊，发起之后对方会收到短信和邮件通知。</p>
-
-<p>缘创派联合创始人Gary告诉我们，他从国外回来创业，花了将近一年的时间才找到合作伙伴，“因为我在线下走了很多弯路，所以我希望可以帮助人们在线上就能找到人。”</p>
-
-<p>现在国内创业热情高涨，一个帮助找合作伙伴的社区显得非常有用，由于用户群精准（想创业），除了有助于创业者寻找创业伙伴，创业公司来找里找人也是个不错的选择。</p>
-
-<p>不过如何让社区里的信息流动起来，让用户真正在这里活跃对缘创派来说是个不小的挑战。找创业伙伴实际上和相亲很像，都是最终找到那个有缘的人，或许世纪佳缘的运营方式他们可以借鉴。</p>
-
-<p>缘创派目前最主要的访问方式是一个 <a target="_blank" data-no-turbolink="true" href="http://www.ycpai.com">移动版的网站</a>，同时他们也提供了一个 <a target="_blank" data-no-turbolink="true" href="http://appchina.com/market/e/232155/download.pc/0/3A0F06060FBAFC5F11110AC447533FB9/com.wafec78cf14d2692b77237b8066ad94e0.1331560454859.apk">Android应用</a>。</p><br>                    <p></p><br>                    <p>AD：<a href="http://kdweibo.com/home?utm_source=36kr&utm_medium=keyword" target="_blank">云之家</a>，一种新的工作方式。</p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/91317.html" target="_blank" rel="external">移动应用“缘创派”帮创业者找创业伙伴</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.ycpai.com" target="_blank" rel="external">缘创派</a>  </p>
+    <title><![CDATA[品趣]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E5%93%81%E8%B6%A3/"/>
+    <id>http://luoguochun.cn/2014/08/01/品趣/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:18.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/322" title="查看产品详情" target="_blank" rel="external"><br>                                集合各种创意，好玩，有趣的设计                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/pin-qu-chuang-yi-she-ji-jia-ju/id900399266" target="_blank" rel="external">品趣</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -475,27 +557,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[简书]]></title>
-    <link href="http://luoguochun.cn/2014/07/29/%E7%AE%80%E4%B9%A6/"/>
-    <id>http://luoguochun.cn/2014/07/29/简书/</id>
-    <published>2014-07-28T16:00:00.000Z</published>
-    <updated>2014-07-28T16:57:35.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/0b4b2d8487c4e28ee953d22175706097.jpg" alt=""></p>
-
-<p>国内类Medium博客平台“<a target="_blank" data-no-turbolink="true" href="http://jianshu.io/">简书</a>”刚刚获得500万人民币天使轮融资，投资方为戈壁。</p>
-
-<p>不管是<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/208436.html">Medium</a>、writings.io（该网站已关闭，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206974.html">其创始人讲述了失败的原因</a>）、<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/209449.html">Svbtle</a>还是“简书”，目的都是为用户营造一种沉浸式的写作环境，杂志般的阅读体验。跟Medium的Collections类似，用户也可以订阅不同的专题和某作者的文集。无论从篇幅、还是排版设计上都更像是一本杂志。写作后台的编辑手法可以概括为“满足文字写作的刚需”。简书也推出了<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/jian-shu/id888237539?mt=8">移动端产品</a>，跟Medium一样，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/210566.html">只能读，不能写</a>。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/66d1c23f96055aced0dce60e0bdbf602.jpg" alt=""></p>
-
-<p>文字创作如何转化成商业价值自版权概念诞生以来都是不得不考虑的问题，也是一个平台得以向产业链上下游拓展的关键。这次“简书”正式上线了“作者成书计划”，仅保留在线发行权，有一定写作量的作者可以申请该计划，它会选择一些比较成熟的电子读物分发平台帮作者出版。此外，“简书”还开始向用户放开了专题编辑权限，这意味着每个人都可以是充当“杂志”编辑的角色。简书告诉<span>36氪</span>，下一步希望引入更多的名人作者到平台上来，并进一营造社区氛围，以挖掘用户更多的潜在需求。</p>
-
-<p>此次融资，“简书”将着重发展其移动端版本，目前仅有iOS版本，Android 版将于1月左右后上线。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213520.html" target="_blank" rel="external">类Medium服务“简书”获500万人民币天使融资，推出“成书计划”探索商业化之路</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://jianshu.io/" target="_blank" rel="external">简书</a>  </p>
+    <title><![CDATA[凹凸租车]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E5%87%B9%E5%87%B8%E7%A7%9F%E8%BD%A6/"/>
+    <id>http://luoguochun.cn/2014/08/01/凹凸租车/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:22.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/333" title="查看产品详情" target="_blank" rel="external"><br>                                一个安全保障的「个人对个人」租车平台                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://atzuche.com/" target="_blank" rel="external">凹凸租车</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -507,13 +575,31 @@
   </entry>
   
   <entry>
-    <title><![CDATA[答疑君]]></title>
-    <link href="http://luoguochun.cn/2014/07/29/%E7%AD%94%E7%96%91%E5%90%9B/"/>
-    <id>http://luoguochun.cn/2014/07/29/答疑君/</id>
-    <published>2014-07-28T16:00:00.000Z</published>
-    <updated>2014-07-28T16:57:37.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/309" title="查看产品详情" target="_blank" rel="external"><br>                                中学生的掌中家教                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://dayi.im/" target="_blank" rel="external">答疑君</a>  </p>
+    <title><![CDATA[入手网]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E5%85%A5%E6%89%8B%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/08/01/入手网/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:04.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/254" title="查看产品详情" target="_blank" rel="external"><br>                                分享使用体验，使用问题交流平台                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.rushou.net/" target="_blank" rel="external">入手网</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[俚语维基]]></title>
+    <link href="http://luoguochun.cn/2014/08/01/%E4%BF%9A%E8%AF%AD%E7%BB%B4%E5%9F%BA/"/>
+    <id>http://luoguochun.cn/2014/08/01/俚语维基/</id>
+    <published>2014-07-31T16:00:00.000Z</published>
+    <updated>2014-08-01T14:23:20.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/343" title="查看产品详情" target="_blank" rel="external"><br>                                中文版 urbanDictionary                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://liyuwiki.com/" target="_blank" rel="external">俚语维基</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

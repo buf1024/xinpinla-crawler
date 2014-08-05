@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-08-05T09:43:29.117Z</updated>
+  <updated>2014-08-05T16:27:58.326Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -16,10 +16,10 @@
   
   <entry>
     <title><![CDATA[秒视]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E7%A7%92%E8%A7%86/"/>
-    <id>http://luoguochun.cn/2014/08/05/秒视/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-05T09:38:15.000Z</updated>
+    <link href="http://luoguochun.cn/2014/08/06/%E7%A7%92%E8%A7%86/"/>
+    <id>http://luoguochun.cn/2014/08/06/秒视/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-05T16:22:31.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/60317f80b44a0c4a296320fca724bd0b.png" alt=""></p>
 
 <p>两个月前<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/yelp/id284910350?mt=8">Yelp</a>内测的视频点评功能已正式上线其iOS客户端（Android版本稍后推出），用户在点评时可以添加3-12 秒的视频来展示自己到店消费的经历。跟传照片是一个道理，不过视频应该能够更好地佐证文字描述吧——“更好再现餐厅、商店等的气氛，比如现场灯光、音乐都会被抓进来”。</p>
@@ -43,98 +43,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[最美壁纸]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E6%9C%80%E7%BE%8E%E5%A3%81%E7%BA%B8/"/>
-    <id>http://luoguochun.cn/2014/08/05/最美壁纸/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-05T09:38:17.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/362" title="查看产品详情" target="_blank" rel="external"><br>                                情感化设计的壁纸应用——每天的优雅邂逅！                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://lab.zuimeia.com/app/" target="_blank" rel="external">最美壁纸</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[手心输入法]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E6%89%8B%E5%BF%83%E8%BE%93%E5%85%A5%E6%B3%95/"/>
-    <id>http://luoguochun.cn/2014/08/05/手心输入法/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-05T09:38:17.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/345" title="查看产品详情" target="_blank" rel="external"><br>                                无广告，不骚扰，干净、绿色专注于输入本质                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.xinshuru.com/" target="_blank" rel="external">手心输入法</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Bolt]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/Bolt/"/>
-    <id>http://luoguochun.cn/2014/08/05/Bolt/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-05T09:38:17.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/11e0b0174fa54a9c46c769c00459bc57.png" alt=""></p>
-
-<p>大家<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/clipped/8881">猜测已久</a>的<a target="_blank" data-no-turbolink="true" href="http://bolt.instagram.com/">Bolt</a>真面目终于浮出水面——它是Instagram推出的一款以照片/短视频为主的message应用，像极了<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212667.html">TapTalk</a>+<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213017.html">Slingshot</a>+<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/snapchat">Snapchat</a>的合体。</p>
-
-<p>怎么说呢？Bolt的核心想是降低大家使用拍照工具的门槛，唯“快”不破。它基于手机通讯录（而不是Instagram或Facebook账号），用户首次添加了好友之后，后续便都可以一键点击好友头像进行拍照（快速程度和<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212667.html">Taptalk</a>非常类似），拍完的照片直接传给选择的好友，不能一次性群发多人，也不能上传相册内已有的照片。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/4a304d23886fbf7cc11fbbbe56dda541.png" alt=""></p>
-
-<p>当好友收到照片后，他可以选择用文字叠加收到的照片的形式，或者是重新拍照来回复，这一点又和以图换图的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213017.html">Slingshot</a>很像。当然，Bolt也是阅后即焚的——时下年轻人的交流频次和内容消费已经如此光速，也许我们都不再需要很“重”的留底回忆了。</p>
-
-<p>目前Bolt仅在新加坡、南非和新西兰地区的商店上架了，因为这些地区的Instagram用户最活跃也最密集，至于其他地区想尝试的用户，估计得等会了。附上Bolt在这些地区的下载地址：<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/app/id901534647">iOS</a>、<a target="_blank" data-no-turbolink="true" href="https://play.google.com/store/apps/details?id=com.instagram.bolt">Android</a>。</p>
-
-<p>我的拍照应用重度使用者同事果子之前还写过他想创业的话，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213482.html">想做一款基于 LBS和短视频，采用 Slingshot 机制的陌生人交友产品</a>，总之现在面向90后、00后的奇特拍照工具已经泛滥了，对这类产品有什么看法，欢迎交流。<br><br><section class="single-post-header"><header class="single-post-header__meta"></header></section></p>
-
-<p></p><p>  </p>
-<p>原文发表于 <a href="http://www.36kr.com/p/214186.html" target="_blank" rel="external">Instagram也出照片短视频聊天应用Bolt，像极了TapTalk+Slingshot+Snapchat合体</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://bolt.instagram.com/" target="_blank" rel="external">Bolt</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[莲蓬网]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E8%8E%B2%E8%93%AC%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/08/05/莲蓬网/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-04T21:19:15.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/338" title="查看产品详情" target="_blank" rel="external"><br>                                简单好用的网络书签                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://lianpeng.me/" target="_blank" rel="external">莲蓬网</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
     <title><![CDATA[此刻：最美番茄钟]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E6%AD%A4%E5%88%BB%EF%BC%9A%E6%9C%80%E7%BE%8E%E7%95%AA%E8%8C%84%E9%92%9F/"/>
-    <id>http://luoguochun.cn/2014/08/05/此刻：最美番茄钟/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-04T21:19:11.000Z</updated>
+    <link href="http://luoguochun.cn/2014/08/06/%E6%AD%A4%E5%88%BB%EF%BC%9A%E6%9C%80%E7%BE%8E%E7%95%AA%E8%8C%84%E9%92%9F/"/>
+    <id>http://luoguochun.cn/2014/08/06/此刻：最美番茄钟/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-05T16:22:34.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/358" title="查看产品详情" target="_blank" rel="external"><br>                                专注当下，告别拖延症！                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/moment-overcome-procrastination/id885381944?l=en&amp;mt=8" target="_blank" rel="external">此刻：最美番茄钟</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
@@ -149,10 +62,10 @@
   
   <entry>
     <title><![CDATA[梦象壁纸]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E6%A2%A6%E8%B1%A1%E5%A3%81%E7%BA%B8/"/>
-    <id>http://luoguochun.cn/2014/08/05/梦象壁纸/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-04T21:19:17.000Z</updated>
+    <link href="http://luoguochun.cn/2014/08/06/%E6%A2%A6%E8%B1%A1%E5%A3%81%E7%BA%B8/"/>
+    <id>http://luoguochun.cn/2014/08/06/梦象壁纸/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-05T16:22:32.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/346" title="查看产品详情" target="_blank" rel="external"><br>                                3D壁纸                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.3dbizhi.com/" target="_blank" rel="external">梦象壁纸</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
@@ -166,33 +79,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[易大师]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E6%98%93%E5%A4%A7%E5%B8%88/"/>
-    <id>http://luoguochun.cn/2014/08/05/易大师/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-04T21:19:14.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/0addf1bdc084a86881500903c489d802.jpg" alt=""></p>
-
-<p>“<strong>亲，不服跑个分呗~</strong>”已经成为Android手机厂商发布会的标配，“<strong>跑分</strong>”也一度成为手机性能的重要指标。也正因为这样，不少手机专门针对“跑分”进行优化，出现高分低能的现象。据<a target="_blank" data-no-turbolink="true" href="http://www.anandtech.com/">AnandTech</a>的调查，除摩托罗拉和Google Nexus外，几乎所有世界级大厂都针对Android跑分做优化，罗永浩也曾在微博上<a target="_blank" data-no-turbolink="true" href="http://weibo.com/1640571365/Bg75B3OBV#_rnd1407123829223">炮轰跑分作弊</a>。</p>
-
-<p>在跑分之外，有没有别的方法检测手机的性能呢？来自广州的团队“<a target="_blank" data-no-turbolink="true" href="http://www.yidashi.cn/">易大师</a>”反其道而行之，做一款没有跑分的手机评测软件。“易大师”和市面上其他性能检测软件最大的不同，就是评测的标准不是“跑分”，而是对于手机运行游戏时的帧率进行真机测试，以此判定手机的性能。</p>
-
-<p>“易大师”的评测包括，游戏性能测试、游戏兼容测试、游戏耗电测试，以及游戏运行环境测试，自动生成评测报告。和其他评测软件的模拟测试不同，“易大师”全部是通过真机运行游戏进行测试，无需root权限即可测试游戏的FPS。在测试前会要求用户下载游戏进行测试，从这个角度来看又有点渠道的意思。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/a712a9aeee2cf530459d10dbe08cee26.png" alt=""></p>
-
-<p>创始人余涛向<span>36氪</span>表示，现在市场上充斥着“跑分作弊”“高分低能”等风气，<wbr>同时考虑一个机器很重要的指标（兼容性、以及耗电量），<wbr>都没有在传统的评测中显示出来。而且大多数评测软件只是单纯的告诉你机器的CPU是什么，最后给出一个跑分，但跑分代表什么意义用户并不清楚，3W分的就会比2W9分的好很多吗？</p>
-
-<p>所以“易大师”想要解决的问题是：①解决市场评测质量参差不齐，解决常用评测软件高分低能②解决一体化的测试过程、<wbr style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; background-color: initial;">解决测试需要依赖各种root以及工具环境。</p>
-
-<p>创始人余涛之前在UC工作了6年，主要从事技术平台搭建，移动产品评测工作。团队的核心成员也均来自UC、果壳等互联网公司。据余涛向<span>36氪</span>透露，<strong>目前“易大师”已经拿到了百万级的天使投资</strong>。</p>
-
-<p>现在“易大师”主要的工作还是评测，先帮助用户“发现问题”，知道机器之间的性能差异、功耗差异。在解决了评测阶段后，<wbr style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: 1.5em; background-color: initial;">会再考虑去做后面的优化功能，甚至是针对不同的游戏，有针对性的对手机进行优化等。</p><br>                    <p>[<span>36氪</span>原创文章，作者: WANGJINGYU]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/213994.html" target="_blank" rel="external">没有分数的跑分软件：手机评测软件“易大师”获得百万级天使投资</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.yidashi.cn/" target="_blank" rel="external">易大师</a>  </p>
+    <title><![CDATA[最美壁纸]]></title>
+    <link href="http://luoguochun.cn/2014/08/06/%E6%9C%80%E7%BE%8E%E5%A3%81%E7%BA%B8/"/>
+    <id>http://luoguochun.cn/2014/08/06/最美壁纸/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-05T16:22:33.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/362" title="查看产品详情" target="_blank" rel="external"><br>                                情感化设计的壁纸应用——每天的优雅邂逅！                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://lab.zuimeia.com/app/" target="_blank" rel="external">最美壁纸</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -204,13 +97,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[无尽旋转]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E6%97%A0%E5%B0%BD%E6%97%8B%E8%BD%AC/"/>
-    <id>http://luoguochun.cn/2014/08/05/无尽旋转/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-04T21:19:16.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/351" title="查看产品详情" target="_blank" rel="external"><br>                                国内两人团队做的游戏，进入 AppStore 美区 BEST NEW GAMES                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/wu-jin-xuan-zhuan/id899876271?mt=8" target="_blank" rel="external">无尽旋转</a>  </p>
+    <title><![CDATA[手心输入法]]></title>
+    <link href="http://luoguochun.cn/2014/08/06/%E6%89%8B%E5%BF%83%E8%BE%93%E5%85%A5%E6%B3%95/"/>
+    <id>http://luoguochun.cn/2014/08/06/手心输入法/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-05T16:22:32.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/345" title="查看产品详情" target="_blank" rel="external"><br>                                无广告，不骚扰，干净、绿色专注于输入本质                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.xinshuru.com/" target="_blank" rel="external">手心输入法</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -222,13 +115,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Loving]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/Loving/"/>
-    <id>http://luoguochun.cn/2014/08/05/Loving/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-04T21:19:16.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/348" title="查看产品详情" target="_blank" rel="external"><br>                                小恩爱国际版                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://loving.fm/" target="_blank" rel="external">Loving</a>  </p>
+    <title><![CDATA[小本]]></title>
+    <link href="http://luoguochun.cn/2014/08/06/%E5%B0%8F%E6%9C%AC/"/>
+    <id>http://luoguochun.cn/2014/08/06/小本/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-05T16:22:34.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/360" title="查看产品详情" target="_blank" rel="external"><br>                                我的随身记忆卡片                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/xiao-ben/id840738842?mt=8" target="_blank" rel="external">小本</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -240,59 +133,45 @@
   </entry>
   
   <entry>
-    <title><![CDATA[小恩爱]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E5%B0%8F%E6%81%A9%E7%88%B1/"/>
-    <id>http://luoguochun.cn/2014/08/05/小恩爱/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-04T21:19:17.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/6a11a8e0d175f3dd87f778aab15a7b7b.jpg" alt=""><br><br>情侣之间的专属互动应用“<a target="_blank" data-no-turbolink="true" href="http://xiaoenai.com/">小恩爱</a>”新版在七夕这个举国欢庆的日子正式上线了。相较过去的版本，4.0增加了“小姨妈”、“双人游戏”、“发送距离”的功能，在体验上和交互上做的更为细致。</p>
+    <title><![CDATA[Molbase]]></title>
+    <link href="http://luoguochun.cn/2014/08/06/Molbase/"/>
+    <id>http://luoguochun.cn/2014/08/06/Molbase/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-05T16:22:37.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/99c88c250d1615c33061c03842c0a70a.jpg" alt=""></p>
 
-<p><strong>同时，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/%E5%B0%8F%E6%81%A9%E7%88%B1">小恩爱</a>还独家向<span>36氪</span>公布了融资消息：获得1000万美元A轮融资。</strong></p>
+<p>虽然互联网本身就是科研的一个副产品，但是科学家创办互联网创业公司还是不多见。象牙塔里舒适的环境、大公司丰厚的薪水，都很容易消磨掉他们出来试一试的念头。</p>
 
-<p><strong><a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/%E5%B0%8F%E6%81%A9%E7%88%B1">小恩爱</a></strong>的“小姨妈”并不是像大姨妈那样要做生理期管理或者健康助手，我感觉更像是男女的“密语”，因为除了可以帮助男生记录女孩子“不开心”的日子外，还可以让男生第一时间知道大姨妈什么时候走掉了，对于羞羞的，相处时间不太长的小情侣来说，解决了一大痛点不是吗？！</p>
+<p>所以常东亮2011年刚开始做<a target="_blank" data-no-turbolink="true" href="http://www.molbase.com/zh/index.html">Molbase化合物数据库</a>的时候，根本就没想过自己要创办一家公司。“<strong>最初只是面向科研机构的一个信息分享平台</strong>”，这位前中科院嘉兴应用化学工程中心主任、“千人计划”科学家告诉<span>36氪</span>。</p>
 
-<p><img src="http://a.36krcnd.com/photo/2014/e01de53ed7e89f538e3fa6216a8b72c0.jpg" alt=""></p>
+<p>化合物中间体是整个医药化工行业的基石，有1.5万亿美元的市场，三分之一的供应和11%的需求在中国。但是长期以来供应链的透明度太低，无论是采购还是生产都是很小的圈子，信息交换靠行业交流会。</p>
 
-<p>而新增的双人游戏一共有三款，找对方头像，情侣版Flappy Bird以及情侣版2048都是将时下热门休闲游戏进行二次包装。</p>
+<p>“中间程序太多，有时候不知道向谁采购，找到了也容易遇到漫天要价”，常东亮说，“当时我在做医药外包，所以有这样的信息需求”。但是直到2013年，有贸易公司提出要全盘收购，常东亮才看到了其中的商业价值。于是三位生物医药化学背景的博士和两位技术、管理人员创办了今天的Molbase。</p>
 
-<p>比较有意思的是情侣版Flappy Bird的障碍物是一幢幢房子……OMG好写实。而2048应该算得上是细分化比较接地气的玩法，有些像过去情侣间玩色子的感觉，比如得到图中所示的结果，就照做之类的，你们懂得……</p>
+<p><img src="http://a.36krcnd.com/photo/2014/ff064a798b9e4972e94c4d91b834d4ce.jpg" alt=""></p>
 
-<p><img src="http://a.36krcnd.com/photo/2014/d59ab513f468db5676f4a9cf886a4127.jpg" alt=""></p>
+<p>Molbase目前已经收录了1400万种化合物中间体的详细信息和价格，占现存全部SKU的70%。根据Molbase的算法还可以推算上亿种衍生SKU的价格并推荐可能的供应商。已经有有一万多家采购商和9000多家供应商入驻。一位中科院化物所的博士使用了Molbase之后告诉<span>36氪</span>，<strong>虽然推荐的供应商不是自己常用的，但是感觉确实很方便。</strong></p>
 
-<p>还有一个功能比较有趣，就是给另一半发距离，之前咱们聊到过<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212900.html">世纪佳缘手环</a>，对另一半进行定位，实用性很强，但是情侣间的私密可能得不到保障。小恩爱团队告诉<span>36氪</span>，告知距离并不涉及到位置定位，<strong>是一种比较小而美的浪漫体验</strong>。</p>
+<p>除了化合物的搜索引擎和B2B服务平台，Molbase甚至还<a target="_blank" data-no-turbolink="true" href="http://www.molbase.com/finance.html">为供应商提供金融服务</a>。“因为采购方通常要求账期，很多中小供应商有融资的需求。而且行业利润率较高，用比较小的资金就可以撬动交易”，常东亮表示他们负责金融服务的团队只有3个人，主要任务是核查供应商资质，资金是由国内P2P平台提供的。</p>
 
-<p><img src="http://a.36krcnd.com/photo/2014/96a4ba65a1d6a5604040a9432c449dea.jpg" alt=""></p>
+<p>Molbase目前的收入分为三部分，一部分是询单手续费（在Molbase上查看信息是免费的，但是收到采购方的询单是需要20元/次的费用），一部分是订单确认后的佣金抽成，最后是金融服务的息差。今年年初Molbase获得创新工场和挚信资本数百万美元的A轮融资，上线后四个月的流水已经超过了1亿元。</p>
 
-<p>除了新增加的功能外，小恩爱还在体验上做了一些改进，比如之前VIP会员制度全面取消（可退款），情侣说满5小时可发帖等等。其中取消会员制度是想和传统婚恋社区区别开来，不希望用等级和收费让用户有疏离感。</p>
+<p><img src="http://a.36krcnd.com/photo/2014/2e31279190479970ae292af1cd45a8b6.jpg" alt=""></p>
 
-<p>作为恋爱神器，小恩爱除了鼓励情侣间私密互动外，也希望他们可以在公共社区和其他情侣进行交流和分享，或者邀请对方看自己的情侣空间。</p>
+<p>“你们不像一般的创业公司，好像有非常明确的顶层设计，把整个交易流程所有的环节都做了”。</p>
 
-<p>根据官方给出的数据，小恩爱注册用户达到1500万，目前是海外同类产品数据总和两倍以上。据了解，小恩爱<a target="_blank" data-no-turbolink="true" href="http://loving.fm">国际版本</a>会同步上线。</p>
+<p>“因为实体工业和互联网的结合还是蓝海”，常东亮对Molbase非常有信心，“我们一开始就把市场的几块业务想好了。国内其他的平台还停留在Web1.0时代，提供一些文本的信息，商业模式就是收会员费”。像Molbase这样把<strong>化合物和官能团当做底层数据的Web2.0模式</strong>，对手还都没有跟进。国外有Thomson Reuters Newport类似的信息平台，但是一个查询端口的年费就是4万美元。</p>
 
-<p>嘻嘻，三叔想问问各位妹子，有没有空和我玩一次小恩爱呀？在线等！</p><br>                    <p>[<span>36氪</span>原创文章，作者: Leah]</p><br>                    <p></p>  
+<p>被互联网的台风吹起俯视传统行业的感觉很好，但是短时间内很难招到合适的人也是一个头疼的问题。Molbase目前的办法是找码农来培训一下医药化学相关的知识就上岗，但是他们更<strong>希望招到生物化学科班出身又懂CS的人。</strong></p>
+
+<p>“我们开的工资很高，但是很多人还是不愿意来创业公司”，常东亮告诉<span>36氪</span>，“其实符合条件的人不少。过去几年中国学生物的学生都找不到工作，很多人就学了点计算机去互联网公司了。”</p>
+
+<p>“对啊，我虽然不太懂生化，但是觉得<strong>冯大辉就挺符合你们的要求，不考虑一下他吗</strong>？”</p><br>                    <p>[<span>36氪</span>原创文章，作者: Zuo]</p><br>                    <p></p>  
 
 
 
-<p>原文发表于 <a href="http://www.36kr.com/p/214268.html" target="_blank" rel="external">【独家】小恩爱发布新版，增加“小姨妈”、情侣游戏以及距离定位，并完成1000万美元A轮融资</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://xiaoenai.com/" target="_blank" rel="external">小恩爱</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[天蓝村零食订购服务]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
-    <id>http://luoguochun.cn/2014/08/05/天蓝村零食订购服务/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-04T21:19:18.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/8" title="查看产品详情" target="_blank" rel="external"><br>                                按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
+<p>原文发表于 <a href="http://www.36kr.com/p/214306.html" target="_blank" rel="external">几位医药化学家创办的Molbase，想把全球化工供应链搬上Web2.0</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.molbase.com/zh/index.html" target="_blank" rel="external">Molbase</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -305,10 +184,10 @@
   
   <entry>
     <title><![CDATA[呵擦么]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E5%91%B5%E6%93%A6%E4%B9%88/"/>
-    <id>http://luoguochun.cn/2014/08/05/呵擦么/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-04T21:19:13.000Z</updated>
+    <link href="http://luoguochun.cn/2014/08/06/%E5%91%B5%E6%93%A6%E4%B9%88/"/>
+    <id>http://luoguochun.cn/2014/08/06/呵擦么/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-05T16:22:36.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/6ef28c9cac316fef57358699ef9d2fd2.jpg" alt=""></p>
 
 <p>近来，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213083.html">Yo</a>的仿品们并没太多新意，往往对“通知层面的通讯”并无深刻理解，一味模仿Yo的产品是成为不了Yo的，“推送平台”已是<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213906.html">大牛们纷纷看好的远景</a>，但后来者想要分一块蛋糕的话，首先要成为一款有趣、足够简单但又不能照搬Yo的产品。最近一个远在美国的华人团队做了一款叫做“<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/a-ca-me/id896508437?mt=8">呵擦么</a>”的产品在趣味性和思路上都值得关注。</p>
@@ -343,10 +222,10 @@
   
   <entry>
     <title><![CDATA[人人车]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E4%BA%BA%E4%BA%BA%E8%BD%A6/"/>
-    <id>http://luoguochun.cn/2014/08/05/人人车/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-04T21:19:12.000Z</updated>
+    <link href="http://luoguochun.cn/2014/08/06/%E4%BA%BA%E4%BA%BA%E8%BD%A6/"/>
+    <id>http://luoguochun.cn/2014/08/06/人人车/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-05T16:22:35.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/785e89d69c729fc0ca2a18a4555618eb.jpg" alt=""></p>
 
 <p>对二手市场最经典的描述，当属阿克尔洛夫的“<a target="_blank" data-no-turbolink="true" href="http://baike.baidu.com/view/1017671.htm?fr=aladdin">柠檬效应</a>”：在二手交易中，卖方对商品有充分的信息掌握，居于信息优势；买方只能通过片面迹象推断商品状况，居于信息弱势；买方知道自己的信息弱势，对卖方定价存在天然的不信任感，总是倾向于低估二手商品的实际价值——这样导致的结果是，优质二手商品总卖不出应有价格，慢慢就会退出市场。而市场中商品的平均质量则越来越低，最终演变成一个垃圾集散地。</p>
@@ -407,10 +286,10 @@
   
   <entry>
     <title><![CDATA[云收益 Pro]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E4%BA%91%E6%94%B6%E7%9B%8A%20Pro/"/>
-    <id>http://luoguochun.cn/2014/08/05/云收益 Pro/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-04T21:19:10.000Z</updated>
+    <link href="http://luoguochun.cn/2014/08/06/%E4%BA%91%E6%94%B6%E7%9B%8A%20Pro/"/>
+    <id>http://luoguochun.cn/2014/08/06/云收益 Pro/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-05T16:22:34.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/357" title="查看产品详情" target="_blank" rel="external"><br>                                一款为理财用户（如：余额宝、理财通类）量身打造的App                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://yunshouyi.pro/" target="_blank" rel="external">云收益 Pro</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
@@ -425,10 +304,10 @@
   
   <entry>
     <title><![CDATA[imoji]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/imoji/"/>
-    <id>http://luoguochun.cn/2014/08/05/imoji/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-05T03:30:44.000Z</updated>
+    <link href="http://luoguochun.cn/2014/08/06/imoji/"/>
+    <id>http://luoguochun.cn/2014/08/06/imoji/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-05T16:22:33.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/361" title="查看产品详情" target="_blank" rel="external"><br>                                将你的手机照片变成手机短信里一个小又萌的 emoji 表情大头贴                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.imojiapp.com/" target="_blank" rel="external">imoji</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
@@ -442,45 +321,92 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Molbase]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/Molbase/"/>
-    <id>http://luoguochun.cn/2014/08/05/Molbase/</id>
+    <title><![CDATA[Bolt]]></title>
+    <link href="http://luoguochun.cn/2014/08/06/Bolt/"/>
+    <id>http://luoguochun.cn/2014/08/06/Bolt/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-05T16:22:32.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/11e0b0174fa54a9c46c769c00459bc57.png" alt=""></p>
+
+<p>大家<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/clipped/8881">猜测已久</a>的<a target="_blank" data-no-turbolink="true" href="http://bolt.instagram.com/">Bolt</a>真面目终于浮出水面——它是Instagram推出的一款以照片/短视频为主的message应用，像极了<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212667.html">TapTalk</a>+<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213017.html">Slingshot</a>+<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/snapchat">Snapchat</a>的合体。</p>
+
+<p>怎么说呢？Bolt的核心想是降低大家使用拍照工具的门槛，唯“快”不破。它基于手机通讯录（而不是Instagram或Facebook账号），用户首次添加了好友之后，后续便都可以一键点击好友头像进行拍照（快速程度和<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212667.html">Taptalk</a>非常类似），拍完的照片直接传给选择的好友，不能一次性群发多人，也不能上传相册内已有的照片。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/4a304d23886fbf7cc11fbbbe56dda541.png" alt=""></p>
+
+<p>当好友收到照片后，他可以选择用文字叠加收到的照片的形式，或者是重新拍照来回复，这一点又和以图换图的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213017.html">Slingshot</a>很像。当然，Bolt也是阅后即焚的——时下年轻人的交流频次和内容消费已经如此光速，也许我们都不再需要很“重”的留底回忆了。</p>
+
+<p>目前Bolt仅在新加坡、南非和新西兰地区的商店上架了，因为这些地区的Instagram用户最活跃也最密集，至于其他地区想尝试的用户，估计得等会了。附上Bolt在这些地区的下载地址：<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/app/id901534647">iOS</a>、<a target="_blank" data-no-turbolink="true" href="https://play.google.com/store/apps/details?id=com.instagram.bolt">Android</a>。</p>
+
+<p>我的拍照应用重度使用者同事果子之前还写过他想创业的话，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213482.html">想做一款基于 LBS和短视频，采用 Slingshot 机制的陌生人交友产品</a>，总之现在面向90后、00后的奇特拍照工具已经泛滥了，对这类产品有什么看法，欢迎交流。<br><br><section class="single-post-header"><header class="single-post-header__meta"></header></section></p>
+
+<p></p><p>  </p>
+<p>原文发表于 <a href="http://www.36kr.com/p/214186.html" target="_blank" rel="external">Instagram也出照片短视频聊天应用Bolt，像极了TapTalk+Slingshot+Snapchat合体</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://bolt.instagram.com/" target="_blank" rel="external">Bolt</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[天蓝村零食订购服务]]></title>
+    <link href="http://luoguochun.cn/2014/08/06/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
+    <id>http://luoguochun.cn/2014/08/06/天蓝村零食订购服务/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-05T16:22:37.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/8" title="查看产品详情" target="_blank" rel="external"><br>                                按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[莲蓬网]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/%E8%8E%B2%E8%93%AC%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/08/05/莲蓬网/</id>
     <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-04T21:19:13.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/99c88c250d1615c33061c03842c0a70a.jpg" alt=""></p>
+    <updated>2014-08-04T21:19:15.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/338" title="查看产品详情" target="_blank" rel="external"><br>                                简单好用的网络书签                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://lianpeng.me/" target="_blank" rel="external">莲蓬网</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[秒视]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/%E7%A7%92%E8%A7%86/"/>
+    <id>http://luoguochun.cn/2014/08/05/秒视/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-05T09:38:15.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/60317f80b44a0c4a296320fca724bd0b.png" alt=""></p>
 
-<p>虽然互联网本身就是科研的一个副产品，但是科学家创办互联网创业公司还是不多见。象牙塔里舒适的环境、大公司丰厚的薪水，都很容易消磨掉他们出来试一试的念头。</p>
+<p>两个月前<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/yelp/id284910350?mt=8">Yelp</a>内测的视频点评功能已正式上线其iOS客户端（Android版本稍后推出），用户在点评时可以添加3-12 秒的视频来展示自己到店消费的经历。跟传照片是一个道理，不过视频应该能够更好地佐证文字描述吧——“更好再现餐厅、商店等的气氛，比如现场灯光、音乐都会被抓进来”。</p>
 
-<p>所以常东亮2011年刚开始做<a target="_blank" data-no-turbolink="true" href="http://www.molbase.com/zh/index.html">Molbase化合物数据库</a>的时候，根本就没想过自己要创办一家公司。“<strong>最初只是面向科研机构的一个信息分享平台</strong>”，这位前中科院嘉兴应用化学工程中心主任、“千人计划”科学家告诉<span>36氪</span>。</p>
+<p>个人认为，这些很适合这些注重“体验式消费”的产品使用，比如<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/210799.html">饭本</a>，食色，如果其点评系统里能加入展示现场信息的短视频的话，无疑更利于人们发现满意的消费场所。</p>
 
-<p>化合物中间体是整个医药化工行业的基石，有1.5万亿美元的市场，三分之一的供应和11%的需求在中国。但是长期以来供应链的透明度太低，无论是采购还是生产都是很小的圈子，信息交换靠行业交流会。</p>
-
-<p>“中间程序太多，有时候不知道向谁采购，找到了也容易遇到漫天要价”，常东亮说，“当时我在做医药外包，所以有这样的信息需求”。但是直到2013年，有贸易公司提出要全盘收购，常东亮才看到了其中的商业价值。于是三位生物医药化学背景的博士和两位技术、管理人员创办了今天的Molbase。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/ff064a798b9e4972e94c4d91b834d4ce.jpg" alt=""></p>
-
-<p>Molbase目前已经收录了1400万种化合物中间体的详细信息和价格，占现存全部SKU的70%。根据Molbase的算法还可以推算上亿种衍生SKU的价格并推荐可能的供应商。已经有有一万多家采购商和9000多家供应商入驻。一位中科院化物所的博士使用了Molbase之后告诉<span>36氪</span>，<strong>虽然推荐的供应商不是自己常用的，但是感觉确实很方便。</strong></p>
-
-<p>除了化合物的搜索引擎和B2B服务平台，Molbase甚至还<a target="_blank" data-no-turbolink="true" href="http://www.molbase.com/finance.html">为供应商提供金融服务</a>。“因为采购方通常要求账期，很多中小供应商有融资的需求。而且行业利润率较高，用比较小的资金就可以撬动交易”，常东亮表示他们负责金融服务的团队只有3个人，主要任务是核查供应商资质，资金是由国内P2P平台提供的。</p>
-
-<p>Molbase目前的收入分为三部分，一部分是询单手续费（在Molbase上查看信息是免费的，但是收到采购方的询单是需要20元/次的费用），一部分是订单确认后的佣金抽成，最后是金融服务的息差。今年年初Molbase获得创新工场和挚信资本数百万美元的A轮融资，上线后四个月的流水已经超过了1亿元。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/2e31279190479970ae292af1cd45a8b6.jpg" alt=""></p>
-
-<p>“你们不像一般的创业公司，好像有非常明确的顶层设计，把整个交易流程所有的环节都做了”。</p>
-
-<p>“因为实体工业和互联网的结合还是蓝海”，常东亮对Molbase非常有信心，“我们一开始就把市场的几块业务想好了。国内其他的平台还停留在Web1.0时代，提供一些文本的信息，商业模式就是收会员费”。像Molbase这样把<strong>化合物和官能团当做底层数据的Web2.0模式</strong>，对手还都没有跟进。国外有Thomson Reuters Newport类似的信息平台，但是一个查询端口的年费就是4万美元。</p>
-
-<p>被互联网的台风吹起俯视传统行业的感觉很好，但是短时间内很难招到合适的人也是一个头疼的问题。Molbase目前的办法是找码农来培训一下医药化学相关的知识就上岗，但是他们更<strong>希望招到生物化学科班出身又懂CS的人。</strong></p>
-
-<p>“我们开的工资很高，但是很多人还是不愿意来创业公司”，常东亮告诉<span>36氪</span>，“其实符合条件的人不少。过去几年中国学生物的学生都找不到工作，很多人就学了点计算机去互联网公司了。”</p>
-
-<p>“对啊，我虽然不太懂生化，但是觉得<strong>冯大辉就挺符合你们的要求，不考虑一下他吗</strong>？”</p><br>                    <p>[<span>36氪</span>原创文章，作者: Zuo]</p><br>                    <p></p>  
+<p>短视频是未来趋势想必没人反对，而Yelp把它用在了娱乐以外的地方还蛮值得思考的，无独有偶，还有为淘宝卖家提供视频服务的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212006.html">粉我吧</a> &quot; 也是如此，短视频成为移动端广泛使用的一种信息展示形态并不稀奇。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
 
 
 
-<p>原文发表于 <a href="http://www.36kr.com/p/214306.html" target="_blank" rel="external">几位医药化学家创办的Molbase，想把全球化工供应链搬上Web2.0</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.molbase.com/zh/index.html" target="_blank" rel="external">Molbase</a>  </p>
+<p>原文发表于 <a href="http://www.36kr.com/p/214158.html" target="_blank" rel="external">短视频不局限于娱乐，点评服务Yelp正式上线3-12秒视频功能</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://catchchat.me/" target="_blank" rel="external">秒视</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -524,13 +450,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[小本]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E5%B0%8F%E6%9C%AC/"/>
-    <id>http://luoguochun.cn/2014/08/05/小本/</id>
+    <title><![CDATA[梦象壁纸]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/%E6%A2%A6%E8%B1%A1%E5%A3%81%E7%BA%B8/"/>
+    <id>http://luoguochun.cn/2014/08/05/梦象壁纸/</id>
     <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-05T03:30:43.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/360" title="查看产品详情" target="_blank" rel="external"><br>                                我的随身记忆卡片                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/xiao-ben/id840738842?mt=8" target="_blank" rel="external">小本</a>  </p>
+    <updated>2014-08-04T21:19:17.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/346" title="查看产品详情" target="_blank" rel="external"><br>                                3D壁纸                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.3dbizhi.com/" target="_blank" rel="external">梦象壁纸</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -542,13 +468,69 @@
   </entry>
   
   <entry>
-    <title><![CDATA[面圈]]></title>
-    <link href="http://luoguochun.cn/2014/08/04/%E9%9D%A2%E5%9C%88/"/>
-    <id>http://luoguochun.cn/2014/08/04/面圈/</id>
-    <published>2014-08-03T16:00:00.000Z</published>
-    <updated>2014-08-03T19:50:19.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/342" title="查看产品详情" target="_blank" rel="external"><br>                                和老朋友一起认识新朋友，从此社交不再孤单                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.mianquan.com/" target="_blank" rel="external">面圈</a>  </p>
+    <title><![CDATA[最美壁纸]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/%E6%9C%80%E7%BE%8E%E5%A3%81%E7%BA%B8/"/>
+    <id>http://luoguochun.cn/2014/08/05/最美壁纸/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-05T09:38:17.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/362" title="查看产品详情" target="_blank" rel="external"><br>                                情感化设计的壁纸应用——每天的优雅邂逅！                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://lab.zuimeia.com/app/" target="_blank" rel="external">最美壁纸</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[易大师]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/%E6%98%93%E5%A4%A7%E5%B8%88/"/>
+    <id>http://luoguochun.cn/2014/08/05/易大师/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-04T21:19:14.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/0addf1bdc084a86881500903c489d802.jpg" alt=""></p>
+
+<p>“<strong>亲，不服跑个分呗~</strong>”已经成为Android手机厂商发布会的标配，“<strong>跑分</strong>”也一度成为手机性能的重要指标。也正因为这样，不少手机专门针对“跑分”进行优化，出现高分低能的现象。据<a target="_blank" data-no-turbolink="true" href="http://www.anandtech.com/">AnandTech</a>的调查，除摩托罗拉和Google Nexus外，几乎所有世界级大厂都针对Android跑分做优化，罗永浩也曾在微博上<a target="_blank" data-no-turbolink="true" href="http://weibo.com/1640571365/Bg75B3OBV#_rnd1407123829223">炮轰跑分作弊</a>。</p>
+
+<p>在跑分之外，有没有别的方法检测手机的性能呢？来自广州的团队“<a target="_blank" data-no-turbolink="true" href="http://www.yidashi.cn/">易大师</a>”反其道而行之，做一款没有跑分的手机评测软件。“易大师”和市面上其他性能检测软件最大的不同，就是评测的标准不是“跑分”，而是对于手机运行游戏时的帧率进行真机测试，以此判定手机的性能。</p>
+
+<p>“易大师”的评测包括，游戏性能测试、游戏兼容测试、游戏耗电测试，以及游戏运行环境测试，自动生成评测报告。和其他评测软件的模拟测试不同，“易大师”全部是通过真机运行游戏进行测试，无需root权限即可测试游戏的FPS。在测试前会要求用户下载游戏进行测试，从这个角度来看又有点渠道的意思。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/a712a9aeee2cf530459d10dbe08cee26.png" alt=""></p>
+
+<p>创始人余涛向<span>36氪</span>表示，现在市场上充斥着“跑分作弊”“高分低能”等风气，<wbr>同时考虑一个机器很重要的指标（兼容性、以及耗电量），<wbr>都没有在传统的评测中显示出来。而且大多数评测软件只是单纯的告诉你机器的CPU是什么，最后给出一个跑分，但跑分代表什么意义用户并不清楚，3W分的就会比2W9分的好很多吗？</p>
+
+<p>所以“易大师”想要解决的问题是：①解决市场评测质量参差不齐，解决常用评测软件高分低能②解决一体化的测试过程、<wbr style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; background-color: initial;">解决测试需要依赖各种root以及工具环境。</p>
+
+<p>创始人余涛之前在UC工作了6年，主要从事技术平台搭建，移动产品评测工作。团队的核心成员也均来自UC、果壳等互联网公司。据余涛向<span>36氪</span>透露，<strong>目前“易大师”已经拿到了百万级的天使投资</strong>。</p>
+
+<p>现在“易大师”主要的工作还是评测，先帮助用户“发现问题”，知道机器之间的性能差异、功耗差异。在解决了评测阶段后，<wbr style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: 1.5em; background-color: initial;">会再考虑去做后面的优化功能，甚至是针对不同的游戏，有针对性的对手机进行优化等。</p><br>                    <p>[<span>36氪</span>原创文章，作者: WANGJINGYU]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213994.html" target="_blank" rel="external">没有分数的跑分软件：手机评测软件“易大师”获得百万级天使投资</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.yidashi.cn/" target="_blank" rel="external">易大师</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[无尽旋转]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/%E6%97%A0%E5%B0%BD%E6%97%8B%E8%BD%AC/"/>
+    <id>http://luoguochun.cn/2014/08/05/无尽旋转/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-04T21:19:16.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/351" title="查看产品详情" target="_blank" rel="external"><br>                                国内两人团队做的游戏，进入 AppStore 美区 BEST NEW GAMES                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/wu-jin-xuan-zhuan/id899876271?mt=8" target="_blank" rel="external">无尽旋转</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

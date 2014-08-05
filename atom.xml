@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-08-04T15:27:31.830Z</updated>
+  <updated>2014-08-04T21:24:27.283Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,11 +15,29 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[莲蓬网]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/%E8%8E%B2%E8%93%AC%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/08/05/莲蓬网/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-04T21:19:15.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/338" title="查看产品详情" target="_blank" rel="external"><br>                                简单好用的网络书签                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://lianpeng.me/" target="_blank" rel="external">莲蓬网</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[此刻：最美番茄钟]]></title>
-    <link href="http://luoguochun.cn/2014/08/04/%E6%AD%A4%E5%88%BB%EF%BC%9A%E6%9C%80%E7%BE%8E%E7%95%AA%E8%8C%84%E9%92%9F/"/>
-    <id>http://luoguochun.cn/2014/08/04/此刻：最美番茄钟/</id>
-    <published>2014-08-03T16:00:00.000Z</published>
-    <updated>2014-08-04T15:22:31.000Z</updated>
+    <link href="http://luoguochun.cn/2014/08/05/%E6%AD%A4%E5%88%BB%EF%BC%9A%E6%9C%80%E7%BE%8E%E7%95%AA%E8%8C%84%E9%92%9F/"/>
+    <id>http://luoguochun.cn/2014/08/05/此刻：最美番茄钟/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-04T21:19:11.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/358" title="查看产品详情" target="_blank" rel="external"><br>                                专注当下，告别拖延症！                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/moment-overcome-procrastination/id885381944?l=en&amp;mt=8" target="_blank" rel="external">此刻：最美番茄钟</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
@@ -33,13 +51,353 @@
   </entry>
   
   <entry>
+    <title><![CDATA[梦象壁纸]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/%E6%A2%A6%E8%B1%A1%E5%A3%81%E7%BA%B8/"/>
+    <id>http://luoguochun.cn/2014/08/05/梦象壁纸/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-04T21:19:17.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/346" title="查看产品详情" target="_blank" rel="external"><br>                                3D壁纸                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.3dbizhi.com/" target="_blank" rel="external">梦象壁纸</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[易大师]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/%E6%98%93%E5%A4%A7%E5%B8%88/"/>
+    <id>http://luoguochun.cn/2014/08/05/易大师/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-04T21:19:14.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/0addf1bdc084a86881500903c489d802.jpg" alt=""></p>
+
+<p>“<strong>亲，不服跑个分呗~</strong>”已经成为Android手机厂商发布会的标配，“<strong>跑分</strong>”也一度成为手机性能的重要指标。也正因为这样，不少手机专门针对“跑分”进行优化，出现高分低能的现象。据<a target="_blank" data-no-turbolink="true" href="http://www.anandtech.com/">AnandTech</a>的调查，除摩托罗拉和Google Nexus外，几乎所有世界级大厂都针对Android跑分做优化，罗永浩也曾在微博上<a target="_blank" data-no-turbolink="true" href="http://weibo.com/1640571365/Bg75B3OBV#_rnd1407123829223">炮轰跑分作弊</a>。</p>
+
+<p>在跑分之外，有没有别的方法检测手机的性能呢？来自广州的团队“<a target="_blank" data-no-turbolink="true" href="http://www.yidashi.cn/">易大师</a>”反其道而行之，做一款没有跑分的手机评测软件。“易大师”和市面上其他性能检测软件最大的不同，就是评测的标准不是“跑分”，而是对于手机运行游戏时的帧率进行真机测试，以此判定手机的性能。</p>
+
+<p>“易大师”的评测包括，游戏性能测试、游戏兼容测试、游戏耗电测试，以及游戏运行环境测试，自动生成评测报告。和其他评测软件的模拟测试不同，“易大师”全部是通过真机运行游戏进行测试，无需root权限即可测试游戏的FPS。在测试前会要求用户下载游戏进行测试，从这个角度来看又有点渠道的意思。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/a712a9aeee2cf530459d10dbe08cee26.png" alt=""></p>
+
+<p>创始人余涛向<span>36氪</span>表示，现在市场上充斥着“跑分作弊”“高分低能”等风气，<wbr>同时考虑一个机器很重要的指标（兼容性、以及耗电量），<wbr>都没有在传统的评测中显示出来。而且大多数评测软件只是单纯的告诉你机器的CPU是什么，最后给出一个跑分，但跑分代表什么意义用户并不清楚，3W分的就会比2W9分的好很多吗？</p>
+
+<p>所以“易大师”想要解决的问题是：①解决市场评测质量参差不齐，解决常用评测软件高分低能②解决一体化的测试过程、<wbr style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; background-color: initial;">解决测试需要依赖各种root以及工具环境。</p>
+
+<p>创始人余涛之前在UC工作了6年，主要从事技术平台搭建，移动产品评测工作。团队的核心成员也均来自UC、果壳等互联网公司。据余涛向<span>36氪</span>透露，<strong>目前“易大师”已经拿到了百万级的天使投资</strong>。</p>
+
+<p>现在“易大师”主要的工作还是评测，先帮助用户“发现问题”，知道机器之间的性能差异、功耗差异。在解决了评测阶段后，<wbr style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: 1.5em; background-color: initial;">会再考虑去做后面的优化功能，甚至是针对不同的游戏，有针对性的对手机进行优化等。</p><br>                    <p>[<span>36氪</span>原创文章，作者: WANGJINGYU]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/213994.html" target="_blank" rel="external">没有分数的跑分软件：手机评测软件“易大师”获得百万级天使投资</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.yidashi.cn/" target="_blank" rel="external">易大师</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[无尽旋转]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/%E6%97%A0%E5%B0%BD%E6%97%8B%E8%BD%AC/"/>
+    <id>http://luoguochun.cn/2014/08/05/无尽旋转/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-04T21:19:16.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/351" title="查看产品详情" target="_blank" rel="external"><br>                                国内两人团队做的游戏，进入 AppStore 美区 BEST NEW GAMES                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/wu-jin-xuan-zhuan/id899876271?mt=8" target="_blank" rel="external">无尽旋转</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[小恩爱]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/%E5%B0%8F%E6%81%A9%E7%88%B1/"/>
+    <id>http://luoguochun.cn/2014/08/05/小恩爱/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-04T21:19:17.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/6a11a8e0d175f3dd87f778aab15a7b7b.jpg" alt=""><br><br>情侣之间的专属互动应用“<a target="_blank" data-no-turbolink="true" href="http://xiaoenai.com/">小恩爱</a>”新版在七夕这个举国欢庆的日子正式上线了。相较过去的版本，4.0增加了“小姨妈”、“双人游戏”、“发送距离”的功能，在体验上和交互上做的更为细致。</p>
+
+<p><strong>同时，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/%E5%B0%8F%E6%81%A9%E7%88%B1">小恩爱</a>还独家向<span>36氪</span>公布了融资消息：获得1000万美元A轮融资。</strong></p>
+
+<p><strong><a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/%E5%B0%8F%E6%81%A9%E7%88%B1">小恩爱</a></strong>的“小姨妈”并不是像大姨妈那样要做生理期管理或者健康助手，我感觉更像是男女的“密语”，因为除了可以帮助男生记录女孩子“不开心”的日子外，还可以让男生第一时间知道大姨妈什么时候走掉了，对于羞羞的，相处时间不太长的小情侣来说，解决了一大痛点不是吗？！</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/e01de53ed7e89f538e3fa6216a8b72c0.jpg" alt=""></p>
+
+<p>而新增的双人游戏一共有三款，找对方头像，情侣版Flappy Bird以及情侣版2048都是将时下热门休闲游戏进行二次包装。</p>
+
+<p>比较有意思的是情侣版Flappy Bird的障碍物是一幢幢房子……OMG好写实。而2048应该算得上是细分化比较接地气的玩法，有些像过去情侣间玩色子的感觉，比如得到图中所示的结果，就照做之类的，你们懂得……</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/d59ab513f468db5676f4a9cf886a4127.jpg" alt=""></p>
+
+<p>还有一个功能比较有趣，就是给另一半发距离，之前咱们聊到过<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212900.html">世纪佳缘手环</a>，对另一半进行定位，实用性很强，但是情侣间的私密可能得不到保障。小恩爱团队告诉<span>36氪</span>，告知距离并不涉及到位置定位，<strong>是一种比较小而美的浪漫体验</strong>。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/96a4ba65a1d6a5604040a9432c449dea.jpg" alt=""></p>
+
+<p>除了新增加的功能外，小恩爱还在体验上做了一些改进，比如之前VIP会员制度全面取消（可退款），情侣说满5小时可发帖等等。其中取消会员制度是想和传统婚恋社区区别开来，不希望用等级和收费让用户有疏离感。</p>
+
+<p>作为恋爱神器，小恩爱除了鼓励情侣间私密互动外，也希望他们可以在公共社区和其他情侣进行交流和分享，或者邀请对方看自己的情侣空间。</p>
+
+<p>根据官方给出的数据，小恩爱注册用户达到1500万，目前是海外同类产品数据总和两倍以上。据了解，小恩爱<a target="_blank" data-no-turbolink="true" href="http://loving.fm">国际版本</a>会同步上线。</p>
+
+<p>嘻嘻，三叔想问问各位妹子，有没有空和我玩一次小恩爱呀？在线等！</p><br>                    <p>[<span>36氪</span>原创文章，作者: Leah]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/214268.html" target="_blank" rel="external">【独家】小恩爱发布新版，增加“小姨妈”、情侣游戏以及距离定位，并完成1000万美元A轮融资</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://xiaoenai.com/" target="_blank" rel="external">小恩爱</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Loving]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/Loving/"/>
+    <id>http://luoguochun.cn/2014/08/05/Loving/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-04T21:19:16.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/348" title="查看产品详情" target="_blank" rel="external"><br>                                小恩爱国际版                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://loving.fm/" target="_blank" rel="external">Loving</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[呵擦么]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/%E5%91%B5%E6%93%A6%E4%B9%88/"/>
+    <id>http://luoguochun.cn/2014/08/05/呵擦么/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-04T21:19:13.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/6ef28c9cac316fef57358699ef9d2fd2.jpg" alt=""></p>
+
+<p>近来，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213083.html">Yo</a>的仿品们并没太多新意，往往对“通知层面的通讯”并无深刻理解，一味模仿Yo的产品是成为不了Yo的，“推送平台”已是<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213906.html">大牛们纷纷看好的远景</a>，但后来者想要分一块蛋糕的话，首先要成为一款有趣、足够简单但又不能照搬Yo的产品。最近一个远在美国的华人团队做了一款叫做“<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/a-ca-me/id896508437?mt=8">呵擦么</a>”的产品在趣味性和思路上都值得关注。</p>
+
+<p>首先，“呵、擦、么”三个字代表态度很鲜明，都是大家常用的语气词，不过多解释了，其联合创始人范阳告诉<span>36氪</span>之所以选3个字是因为希望每个词在功能上能有更多的可能性。从界面看，“呵擦么”跟Yo的彩色通讯录界面相似。只不过，划动用户ID的话，可以选择发送“呵”、“么”或者“擦”来问候好友，有着分明的感情色彩。不过该产品设了一些限制，每天发送“么”和“擦”的最多为5次，而“呵”的次数是不限制的，而且用户发送“擦”后30秒之内行为会被冻结，这是根据起初时内测用户行为数据设定的。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/cf3c601d4c7b061a57f9b31d91e85366.jpg" alt=""></p>
+
+<p>说到交流机制，范阳把一个“communication pattern”定义为一个四维体系，包括“时间 人物 地点 信息”四个维度，而在像Yo和“呵擦么”这样的模式中，信息本身几乎是被抹掉的（可以说被推送信号本身所取代）—没有所谓聊天记录，时间是弱化的—用户仅能在通知中心层面看到“你于xx分钟前收到来自xx的呵”，地点也是不存在的，其实剩下的就仅有人物—identity本身。其实，这样的产品跟社交关系不大。</p>
+
+<p>因此，为了赋予产品多一点社交属性，“呵么擦”做文章的地方正是在剩下的identity上，用户可以通过修改“昵称”的方式向对方传递自己想说的话，比如“Chloe想封上你那张臭嘴”，当然昵称里不一定非得出现真实姓名—这样反而有了一些匿名的特征，算是为产品趣味性的加分项吧。</p>
+
+<p>这个产品创新的另一个在于它引入了一个叫“公共词条”的元素，它看起来像是一个词条版的微博，对于每个新闻热词用户都能能干“呵、么、擦”的方式表态，相当于一个很简单的投票机制。目前公共词条还是由团队人工编辑，但在下一版本中将尝试通过UGC方式提交，具体交互方式还未定—这将决定用户玩不玩的起来。</p>
+
+<p>作为相对于个人点对点沟通之外的另一条线，这个“广场”模式适用的其实远不止给新闻表态这个细分场景，其实，每个公共词条也都可以成一个个公共账号，对“可口可乐”“迪士尼”来说是一种很好的众品牌互动方式，而新闻热词算是培养用户习惯的一个切入点。</p>
+
+<p>如果“呵擦么”所定义的沟通模式能在国内用户中广为接受的话，那么它在通知层面或将大有可为，加之OS 层对推送中心功能的逐渐放开，也会加大这种想象力。如范阳所说，通知层面能够展示的信息将不仅限于文字，图片、视频都有其可能性。其他应用、网站、智能硬件等产品消息推送方都可能是这类平台的用户。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/214301.html" target="_blank" rel="external">“呵擦么”，不止中国版的Yo</a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/us/app/a-ca-me/id896508437?mt=8" target="_blank" rel="external">呵擦么</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[人人车]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/%E4%BA%BA%E4%BA%BA%E8%BD%A6/"/>
+    <id>http://luoguochun.cn/2014/08/05/人人车/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-04T21:19:12.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/785e89d69c729fc0ca2a18a4555618eb.jpg" alt=""></p>
+
+<p>对二手市场最经典的描述，当属阿克尔洛夫的“<a target="_blank" data-no-turbolink="true" href="http://baike.baidu.com/view/1017671.htm?fr=aladdin">柠檬效应</a>”：在二手交易中，卖方对商品有充分的信息掌握，居于信息优势；买方只能通过片面迹象推断商品状况，居于信息弱势；买方知道自己的信息弱势，对卖方定价存在天然的不信任感，总是倾向于低估二手商品的实际价值——这样导致的结果是，优质二手商品总卖不出应有价格，慢慢就会退出市场。而市场中商品的平均质量则越来越低，最终演变成一个垃圾集散地。</p>
+
+<p>可以说只要存在信息不对称，这种二手市场的自我解体就不可避免。但我们能通过三条原则，略微扭转这一局面：</p>
+
+<p><strong>1、市场分层。</strong>让优质商品与劣质商品相隔离，避免价值混淆。</p>
+
+<p><strong>2、中立定价</strong>。针对具体商品，提供更精准的评估和定价，并且确保该定价能够得到买卖双方的认同。</p>
+
+<p><strong>3、去中介化。</strong>尽量减少信息不透明的中间环节，增加市场透明度。</p>
+
+<p>创业公司“<a target="_blank" data-no-turbolink="true" href="http://www.renrenche.com/sales">人人车</a>”正是遵循这三点思路，试图打造一个买家和卖家直接交易的P2P二手车市场。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/90f177c5f69872e257e410eb80dfd3e0.jpg" alt=""></p>
+
+<p><strong>简单说，“人人车”的模式可以概括为“上门质检”+“无店铺交易”</strong>：</p>
+
+<p>1、车主线上提交出售需求，平台派出专业评估师，携带设备上门检验车况并给出检验结果和建议售价。</p>
+
+<p>2、完成质检、估价、车况信息采集后，在“人人车”平台上挂牌出售。</p>
+
+<p>3、买家看到中意的二手车，可与车主直接沟通，预约线下验车并成交，全程由平台方人员提供线上和线下支持。</p>
+
+<p>4、而平台一方，通过交易担保和售后追踪等方式实现闭环。由于免去了场租和车辆采购成本，“人人车”仅向车主收取售价3%的服务费，这对经销商们12%到20%的差价体系形成了冲击。</p>
+
+<p><strong>那么，“人人车”的做法是如何与上面所提的三条原则相对应？</strong></p>
+
+<p>1、市场分层上，“人人车”只做6年10万公里以内、品质相对较高的车辆，同时确保所有车源均为个人车主，杜绝二手车贩的翻新车流入。由于隔绝了劣质车源，用户才会在整体上信任这个市场的交易环境，同时也防止市场内生的劣币逐良币现象。</p>
+
+<p>2、中立定价上，“人人车”与中国质量认证中心合作，依靠专业评估师进行约249项现场检测，尽量还原了真实车况并给出定价建议（当然买卖双方还可以自由议价）。精准而科学的评估只是一方面，在盈利模式上，平台模式和差价模式也代表了两种完全不同的利益取向：传统经销商的差价模式基于单笔交易的信息不透明，而且不透明越深，获利空间越大。所以经销商必须在一定程度上使买卖双方信息隔绝，甚至采用调整里程表、私下翻新等不正当手段。而平台模式下，平台方收入主要体现为服务费+交易费，收入规模与市场整体交易规模相匹配。<strong>长期看，只有整个市场做大，平台方的蛋糕才能分得更多，这导致其在短视行为上更加谨慎。</strong></p>
+
+<p>3、去中介化上，“人人车”最大限度压缩了中间环节，让买家和卖家距离更近，同时交易成本更低。专业性和信任，始终是决定二手市场交易链条长短的关键因素。由于买卖双方不懂行，这就不可避免需要一个具备专业能力的中介存在。但如果中介过分强大，就又变成了一个信息不对称的制造者，从而损害交易者对市场的信任。<strong>“人人车”取了一个折中，仅向交易双方输出专业服务，而不参与交易本身，买卖双方自由撮合</strong>。</p>
+
+<p>当然，凡事有利必有弊，天下没有完美的模式。“人人车”模式从好的方面讲，资金占用轻，可扩展性更强，成本优势明显，而且车主在挂牌期间仍然可以自由使用车辆。从劣势讲，是需要面对C2C的冷启动问题，交易范围局限在本地，同时车主的出货周期会相对长一些。所以本质来说，“人人车”打的是一个价格敏感型的市场。“多等上十天半个月，多挣一两万块钱，这可能是大多数中国人的偏好吧”，“人人车”CEO李健如此认为。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/347259b974927fe74773cb1a0489049c.jpg" alt=""></p>
+
+<p>“人人车”于今年4月获得红点创投的500万美元A轮，5月份公司成立，目前团队成员不到30人。创始人李健曾是百度史上最年轻产品总监，并历任58同城副总裁、微软亚研副院长等职位。</p>
+
+<p>据李健介绍，他们目前完成检测的入库车超过150辆，绝对数量不多，但已经超越了一些实体店模式的同行，在获取个人车源上已有一定心得。</p>
+
+<p>目前国外可参照的同类公司，还有美国的<a target="_blank" data-no-turbolink="true" href="https://www.beepi.com/">Beepi.com</a>。该公司与“人人车”成立只在前后脚，而且A轮融资额，恰巧也是500万美元——果然世间英雄，所见略同吗？</p><br>                    <p>[<span>36氪</span>原创文章，作者: 沈超]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/214302.html" target="_blank" rel="external">无实体店，去经销商，不赚差价——“人人车”能否以P2P模式颠覆二手车市场？</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.renrenche.com/" target="_blank" rel="external">人人车</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[云收益 Pro]]></title>
-    <link href="http://luoguochun.cn/2014/08/04/%E4%BA%91%E6%94%B6%E7%9B%8A%20Pro/"/>
-    <id>http://luoguochun.cn/2014/08/04/云收益 Pro/</id>
-    <published>2014-08-03T16:00:00.000Z</published>
-    <updated>2014-08-04T15:22:32.000Z</updated>
+    <link href="http://luoguochun.cn/2014/08/05/%E4%BA%91%E6%94%B6%E7%9B%8A%20Pro/"/>
+    <id>http://luoguochun.cn/2014/08/05/云收益 Pro/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-04T21:19:10.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/357" title="查看产品详情" target="_blank" rel="external"><br>                                一款为理财用户（如：余额宝、理财通类）量身打造的App                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://yunshouyi.pro/" target="_blank" rel="external">云收益 Pro</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Molbase]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/Molbase/"/>
+    <id>http://luoguochun.cn/2014/08/05/Molbase/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-04T21:19:13.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/99c88c250d1615c33061c03842c0a70a.jpg" alt=""></p>
+
+<p>虽然互联网本身就是科研的一个副产品，但是科学家创办互联网创业公司还是不多见。象牙塔里舒适的环境、大公司丰厚的薪水，都很容易消磨掉他们出来试一试的念头。</p>
+
+<p>所以常东亮2011年刚开始做<a target="_blank" data-no-turbolink="true" href="http://www.molbase.com/zh/index.html">Molbase化合物数据库</a>的时候，根本就没想过自己要创办一家公司。“<strong>最初只是面向科研机构的一个信息分享平台</strong>”，这位前中科院嘉兴应用化学工程中心主任、“千人计划”科学家告诉<span>36氪</span>。</p>
+
+<p>化合物中间体是整个医药化工行业的基石，有1.5万亿美元的市场，三分之一的供应和11%的需求在中国。但是长期以来供应链的透明度太低，无论是采购还是生产都是很小的圈子，信息交换靠行业交流会。</p>
+
+<p>“中间程序太多，有时候不知道向谁采购，找到了也容易遇到漫天要价”，常东亮说，“当时我在做医药外包，所以有这样的信息需求”。但是直到2013年，有贸易公司提出要全盘收购，常东亮才看到了其中的商业价值。于是三位生物医药化学背景的博士和两位技术、管理人员创办了今天的Molbase。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/ff064a798b9e4972e94c4d91b834d4ce.jpg" alt=""></p>
+
+<p>Molbase目前已经收录了1400万种化合物中间体的详细信息和价格，占现存全部SKU的70%。根据Molbase的算法还可以推算上亿种衍生SKU的价格并推荐可能的供应商。已经有有一万多家采购商和9000多家供应商入驻。一位中科院化物所的博士使用了Molbase之后告诉<span>36氪</span>，<strong>虽然推荐的供应商不是自己常用的，但是感觉确实很方便。</strong></p>
+
+<p>除了化合物的搜索引擎和B2B服务平台，Molbase甚至还<a target="_blank" data-no-turbolink="true" href="http://www.molbase.com/finance.html">为供应商提供金融服务</a>。“因为采购方通常要求账期，很多中小供应商有融资的需求。而且行业利润率较高，用比较小的资金就可以撬动交易”，常东亮表示他们负责金融服务的团队只有3个人，主要任务是核查供应商资质，资金是由国内P2P平台提供的。</p>
+
+<p>Molbase目前的收入分为三部分，一部分是询单手续费（在Molbase上查看信息是免费的，但是收到采购方的询单是需要20元/次的费用），一部分是订单确认后的佣金抽成，最后是金融服务的息差。今年年初Molbase获得创新工场和挚信资本数百万美元的A轮融资，上线后四个月的流水已经超过了1亿元。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/2e31279190479970ae292af1cd45a8b6.jpg" alt=""></p>
+
+<p>“你们不像一般的创业公司，好像有非常明确的顶层设计，把整个交易流程所有的环节都做了”。</p>
+
+<p>“因为实体工业和互联网的结合还是蓝海”，常东亮对Molbase非常有信心，“我们一开始就把市场的几块业务想好了。国内其他的平台还停留在Web1.0时代，提供一些文本的信息，商业模式就是收会员费”。像Molbase这样把<strong>化合物和官能团当做底层数据的Web2.0模式</strong>，对手还都没有跟进。国外有Thomson Reuters Newport类似的信息平台，但是一个查询端口的年费就是4万美元。</p>
+
+<p>被互联网的台风吹起俯视传统行业的感觉很好，但是短时间内很难招到合适的人也是一个头疼的问题。Molbase目前的办法是找码农来培训一下医药化学相关的知识就上岗，但是他们更<strong>希望招到生物化学科班出身又懂CS的人。</strong></p>
+
+<p>“我们开的工资很高，但是很多人还是不愿意来创业公司”，常东亮告诉<span>36氪</span>，“其实符合条件的人不少。过去几年中国学生物的学生都找不到工作，很多人就学了点计算机去互联网公司了。”</p>
+
+<p>“对啊，我虽然不太懂生化，但是觉得<strong>冯大辉就挺符合你们的要求，不考虑一下他吗</strong>？”</p><br>                    <p>[<span>36氪</span>原创文章，作者: Zuo]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/214306.html" target="_blank" rel="external">几位医药化学家创办的Molbase，想把全球化工供应链搬上Web2.0</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.molbase.com/zh/index.html" target="_blank" rel="external">Molbase</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[ChineseSkill]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/ChineseSkill/"/>
+    <id>http://luoguochun.cn/2014/08/05/ChineseSkill/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-04T21:19:15.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/9becc42ffd86f2c93198df92f44971a7.png" alt="http://a.36krcnd.com/photo/2014/9becc42ffd86f2c93198df92f44971a7.png"></p>
+
+<p><a target="_blank" data-no-turbolink="true" href="http://space.36kr.com/">氪空间</a>团队<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/chineseskill">Chineseskill</a>已经通过<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/">氪加</a>完成了他们的第一笔天使轮融资，这轮融资由云天使基金领投、真格基金跟投，金额在数百万人民币左右。他们的<a target="_blank" data-no-turbolink="true" href="https://play.google.com/store/apps/details?id=com.chineseskill">Android app</a>和新版<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/cn/app/chineseskill/id777111034?mt=8">iOS应用</a>也已上线。</p>
+
+<p>我们之前<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/211985.html">报道</a>过Chineseskill，这是一个用游戏化机制进行教学的中文学习应用，整体机制和Duolingo很类似，都是让用户在边“测试”的同时边学习知识、同时加强记忆。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/c6420d183966f135f0be5180968adabb.jpg" alt=""></p>
+
+<p>不过Chineseskill创始人王主龙说，他们未来会把应用“游戏”的一面强化，提升趣味性，让它和Duolingo表现出差异化。另外，未来Chineseskill也会加入用户行为的分析，以辅助教学内容的调整，比如根据不同国别的用户的语言学习习惯来判断肯定、否定、疑问句这三个句式的学习顺序如何排列更易被接受等。</p>
+
+<p>目前Chineseskill用户数在四万左右，45%的用户来自美国，北美、欧洲、亚太三个地区的用户加起来占到90%。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/214307.html" target="_blank" rel="external">让老外通过游戏化机制学习中文的app Chineseskill获数百万人民币天使融资</a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/us/app/chineseskill/id777111034?mt=8" target="_blank" rel="external">ChineseSkill</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[天蓝村零食订购服务]]></title>
+    <link href="http://luoguochun.cn/2014/08/05/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
+    <id>http://luoguochun.cn/2014/08/05/天蓝村零食订购服务/</id>
+    <published>2014-08-04T16:00:00.000Z</published>
+    <updated>2014-08-04T21:19:18.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/8" title="查看产品详情" target="_blank" rel="external"><br>                                按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -87,13 +445,31 @@
   </entry>
   
   <entry>
-    <title><![CDATA[梦象壁纸]]></title>
-    <link href="http://luoguochun.cn/2014/08/04/%E6%A2%A6%E8%B1%A1%E5%A3%81%E7%BA%B8/"/>
-    <id>http://luoguochun.cn/2014/08/04/梦象壁纸/</id>
+    <title><![CDATA[此刻：最美番茄钟]]></title>
+    <link href="http://luoguochun.cn/2014/08/04/%E6%AD%A4%E5%88%BB%EF%BC%9A%E6%9C%80%E7%BE%8E%E7%95%AA%E8%8C%84%E9%92%9F/"/>
+    <id>http://luoguochun.cn/2014/08/04/此刻：最美番茄钟/</id>
     <published>2014-08-03T16:00:00.000Z</published>
-    <updated>2014-08-03T19:50:17.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/346" title="查看产品详情" target="_blank" rel="external"><br>                                3D壁纸                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.3dbizhi.com/" target="_blank" rel="external">梦象壁纸</a>  </p>
+    <updated>2014-08-04T15:22:31.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/358" title="查看产品详情" target="_blank" rel="external"><br>                                专注当下，告别拖延症！                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/moment-overcome-procrastination/id885381944?l=en&amp;mt=8" target="_blank" rel="external">此刻：最美番茄钟</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Loving]]></title>
+    <link href="http://luoguochun.cn/2014/08/04/Loving/"/>
+    <id>http://luoguochun.cn/2014/08/04/Loving/</id>
+    <published>2014-08-03T16:00:00.000Z</published>
+    <updated>2014-08-03T19:50:15.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/348" title="查看产品详情" target="_blank" rel="external"><br>                                小恩爱国际版                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://loving.fm/" target="_blank" rel="external">Loving</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -168,396 +544,6 @@
     <updated>2014-08-03T19:50:15.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/351" title="查看产品详情" target="_blank" rel="external"><br>                                国内两人团队做的游戏，进入 AppStore 美区 BEST NEW GAMES                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/wu-jin-xuan-zhuan/id899876271?mt=8" target="_blank" rel="external">无尽旋转</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[手心输入法]]></title>
-    <link href="http://luoguochun.cn/2014/08/04/%E6%89%8B%E5%BF%83%E8%BE%93%E5%85%A5%E6%B3%95/"/>
-    <id>http://luoguochun.cn/2014/08/04/手心输入法/</id>
-    <published>2014-08-03T16:00:00.000Z</published>
-    <updated>2014-08-03T19:50:17.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/345" title="查看产品详情" target="_blank" rel="external"><br>                                无广告，不骚扰，干净、绿色专注于输入本质                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.xinshuru.com/" target="_blank" rel="external">手心输入法</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Loving]]></title>
-    <link href="http://luoguochun.cn/2014/08/04/Loving/"/>
-    <id>http://luoguochun.cn/2014/08/04/Loving/</id>
-    <published>2014-08-03T16:00:00.000Z</published>
-    <updated>2014-08-03T19:50:15.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/348" title="查看产品详情" target="_blank" rel="external"><br>                                小恩爱国际版                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://loving.fm/" target="_blank" rel="external">Loving</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[小恩爱]]></title>
-    <link href="http://luoguochun.cn/2014/08/04/%E5%B0%8F%E6%81%A9%E7%88%B1/"/>
-    <id>http://luoguochun.cn/2014/08/04/小恩爱/</id>
-    <published>2014-08-03T16:00:00.000Z</published>
-    <updated>2014-08-03T19:50:16.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/6a11a8e0d175f3dd87f778aab15a7b7b.jpg" alt=""><br><br>情侣之间的专属互动应用“<a target="_blank" data-no-turbolink="true" href="http://xiaoenai.com/">小恩爱</a>”新版在七夕这个举国欢庆的日子正式上线了。相较过去的版本，4.0增加了“小姨妈”、“双人游戏”、“发送距离”的功能，在体验上和交互上做的更为细致。</p>
-
-<p><strong>同时，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/%E5%B0%8F%E6%81%A9%E7%88%B1">小恩爱</a>还独家向<span>36氪</span>公布了融资消息：获得1000万美元A轮融资。</strong></p>
-
-<p><strong><a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/%E5%B0%8F%E6%81%A9%E7%88%B1">小恩爱</a></strong>的“小姨妈”并不是像大姨妈那样要做生理期管理或者健康助手，我感觉更像是男女的“密语”，因为除了可以帮助男生记录女孩子“不开心”的日子外，还可以让男生第一时间知道大姨妈什么时候走掉了，对于羞羞的，相处时间不太长的小情侣来说，解决了一大痛点不是吗？！</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/e01de53ed7e89f538e3fa6216a8b72c0.jpg" alt=""></p>
-
-<p>而新增的双人游戏一共有三款，找对方头像，情侣版Flappy Bird以及情侣版2048都是将时下热门休闲游戏进行二次包装。</p>
-
-<p>比较有意思的是情侣版Flappy Bird的障碍物是一幢幢房子……OMG好写实。而2048应该算得上是细分化比较接地气的玩法，有些像过去情侣间玩色子的感觉，比如得到图中所示的结果，就照做之类的，你们懂得……</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/d59ab513f468db5676f4a9cf886a4127.jpg" alt=""></p>
-
-<p>还有一个功能比较有趣，就是给另一半发距离，之前咱们聊到过<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212900.html">世纪佳缘手环</a>，对另一半进行定位，实用性很强，但是情侣间的私密可能得不到保障。小恩爱团队告诉<span>36氪</span>，告知距离并不涉及到位置定位，<strong>是一种比较小而美的浪漫体验</strong>。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/96a4ba65a1d6a5604040a9432c449dea.jpg" alt=""></p>
-
-<p>除了新增加的功能外，小恩爱还在体验上做了一些改进，比如之前VIP会员制度全面取消（可退款），情侣说满5小时可发帖等等。其中取消会员制度是想和传统婚恋社区区别开来，不希望用等级和收费让用户有疏离感。</p>
-
-<p>作为恋爱神器，小恩爱除了鼓励情侣间私密互动外，也希望他们可以在公共社区和其他情侣进行交流和分享，或者邀请对方看自己的情侣空间。</p>
-
-<p>根据官方给出的数据，小恩爱注册用户达到1500万，目前是海外同类产品数据总和两倍以上。据了解，小恩爱<a target="_blank" data-no-turbolink="true" href="http://loving.fm">国际版本</a>会同步上线。</p>
-
-<p>嘻嘻，三叔想问问各位妹子，有没有空和我玩一次小恩爱呀？在线等！</p><br>                    <p>[<span>36氪</span>原创文章，作者: Leah]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214268.html" target="_blank" rel="external">【独家】小恩爱发布新版，增加“小姨妈”、情侣游戏以及距离定位，并完成1000万美元A轮融资</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://xiaoenai.com/" target="_blank" rel="external">小恩爱</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[奇妙清单]]></title>
-    <link href="http://luoguochun.cn/2014/08/04/%E5%A5%87%E5%A6%99%E6%B8%85%E5%8D%95/"/>
-    <id>http://luoguochun.cn/2014/08/04/奇妙清单/</id>
-    <published>2014-08-03T16:00:00.000Z</published>
-    <updated>2014-08-03T19:50:20.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/c7f3abace0658b5127889e80ffb75c1c.jpg" alt=""></p>
-
-<p>Wunderlist 作为 iOS 平台的老牌 GTD 类工具对用户而言并不陌生。他们曾在自己的博客中暗示，在较长的一段沉默后，第三版 Wunderlist 会有大改变。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/7742dd6a891d5c986d398abe92bc5c68.png" alt=""></p>
-
-<p>今天 Wunderlist 3 终于发布，除 UI 做出重大改进外还主推清单分享和实时同步功能。比如，你可以和家人共享超市购物清单以便确认和随时补充，也可以和旅游同行的好友确认必备品和行进路线。在社交外，不难发现 Wunderlist 3 其实暗含着进军中小团队协作工具的目标。新版 Wunderlist 可以实现清单分发和内容实时同步，仪仗它跨多平台的优势让所有团队成员可以在第一时间获知任务动态并以清单形式交流信息。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/4b2cea892c1dbb8819432263d77769cf.png" alt=""></p>
-
-<p>此外，这次 Wunderlist 正式进入中国市场。它的中文名叫“奇妙清单”。在程序本体的汉化工作之外，用户还可以通过微博、微信、QQ 等国内社交、通讯方式分享创建的清单。分享后的清单可被其他用户直接加入自己的账户清单列表中。</p>
-
-<p>奇妙清单首发平台有 iPhone、iPad、Mac、Android、Kindle Fire、Chrome OS （Chrome 浏览器插件）和网页版，Windows 8 商店版和 Windows Phone 8 版本将在随后推出。目前国内用户登录和注册“奇妙清单”的速度仍有些缓慢，希望他们能加快服务器或 CDN 落地，真正方便国内用户使用。</p>
-
-<p>感兴趣的用户可以在<a target="_blank" data-no-turbolink="true" href="http://www.wunderlist.com/">奇妙清单官网</a>注册账户并下载客户端使用。</p><br>                    <p>[<span>36氪</span>原创文章，作者: sinCera]</p><br>                    <p>AD：<a href="http://kdweibo.com/home?utm_source=36kr&utm_medium=keyword" target="_blank">云之家</a>，一种新的工作方式。</p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214255.html" target="_blank" rel="external">Wunderlist 瞄准中小团队协作全面进入 3.0 版本，同时化身“奇妙清单”进入中国</a>  </p>
-<p>更多详情请参考相关网站 <a href="https://www.wunderlist.com/zh/" target="_blank" rel="external">奇妙清单</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[天蓝村零食订购服务]]></title>
-    <link href="http://luoguochun.cn/2014/08/04/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
-    <id>http://luoguochun.cn/2014/08/04/天蓝村零食订购服务/</id>
-    <published>2014-08-03T16:00:00.000Z</published>
-    <updated>2014-08-03T19:50:20.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/8" title="查看产品详情" target="_blank" rel="external"><br>                                按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[呵擦么]]></title>
-    <link href="http://luoguochun.cn/2014/08/04/%E5%91%B5%E6%93%A6%E4%B9%88/"/>
-    <id>http://luoguochun.cn/2014/08/04/呵擦么/</id>
-    <published>2014-08-03T16:00:00.000Z</published>
-    <updated>2014-08-04T09:31:18.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/6ef28c9cac316fef57358699ef9d2fd2.jpg" alt=""></p>
-
-<p>近来，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213083.html">Yo</a>的仿品们并没太多新意，往往对“通知层面的通讯”并无深刻理解，一味模仿Yo的产品是成为不了Yo的，“推送平台”已是<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213906.html">大牛们纷纷看好的远景</a>，但后来者想要分一块蛋糕的话，首先要成为一款有趣、足够简单但又不能照搬Yo的产品。最近一个远在美国的华人团队做了一款叫做“<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/a-ca-me/id896508437?mt=8">呵擦么</a>”的产品在趣味性和思路上都值得关注。</p>
-
-<p>首先，“呵、擦、么”三个字代表态度很鲜明，都是大家常用的语气词，不过多解释了，其联合创始人范阳告诉<span>36氪</span>之所以选3个字是因为希望每个词在功能上能有更多的可能性。从界面看，“呵擦么”跟Yo的彩色通讯录界面相似。只不过，划动用户ID的话，可以选择发送“呵”、“么”或者“擦”来问候好友，有着分明的感情色彩。不过该产品设了一些限制，每天发送“么”和“擦”的最多为5次，而“呵”的次数是不限制的，而且用户发送“擦”后30秒之内行为会被冻结，这是根据起初时内测用户行为数据设定的。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/cf3c601d4c7b061a57f9b31d91e85366.jpg" alt=""></p>
-
-<p>说到交流机制，范阳把一个“communication pattern”定义为一个四维体系，包括“时间 人物 地点 信息”四个维度，而在像Yo和“呵擦么”这样的模式中，信息本身几乎是被抹掉的（可以说被推送信号本身所取代）—没有所谓聊天记录，时间是弱化的—用户仅能在通知中心层面看到“你于xx分钟前收到来自xx的呵”，地点也是不存在的，其实剩下的就仅有人物—identity本身。其实，这样的产品跟社交关系不大。</p>
-
-<p>因此，为了赋予产品多一点社交属性，“呵么擦”做文章的地方正是在剩下的identity上，用户可以通过修改“昵称”的方式向对方传递自己想说的话，比如“Chloe想封上你那张臭嘴”，当然昵称里不一定非得出现真实姓名—这样反而有了一些匿名的特征，算是为产品趣味性的加分项吧。</p>
-
-<p>这个产品创新的另一个在于它引入了一个叫“公共词条”的元素，它看起来像是一个词条版的微博，对于每个新闻热词用户都能能干“呵、么、擦”的方式表态，相当于一个很简单的投票机制。目前公共词条还是由团队人工编辑，但在下一版本中将尝试通过UGC方式提交，具体交互方式还未定—这将决定用户玩不玩的起来。</p>
-
-<p>作为相对于个人点对点沟通之外的另一条线，这个“广场”模式适用的其实远不止给新闻表态这个细分场景，其实，每个公共词条也都可以成一个个公共账号，对“可口可乐”“迪士尼”来说是一种很好的众品牌互动方式，而新闻热词算是培养用户习惯的一个切入点。</p>
-
-<p>如果“呵擦么”所定义的沟通模式能在国内用户中广为接受的话，那么它在通知层面或将大有可为，加之OS 层对推送中心功能的逐渐放开，也会加大这种想象力。如范阳所说，通知层面能够展示的信息将不仅限于文字，图片、视频都有其可能性。其他应用、网站、智能硬件等产品消息推送方都可能是这类平台的用户。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214301.html" target="_blank" rel="external">“呵擦么”，不止中国版的Yo</a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/us/app/a-ca-me/id896508437?mt=8" target="_blank" rel="external">呵擦么</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[入手网]]></title>
-    <link href="http://luoguochun.cn/2014/08/04/%E5%85%A5%E6%89%8B%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/08/04/入手网/</id>
-    <published>2014-08-03T16:00:00.000Z</published>
-    <updated>2014-08-03T19:50:17.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/254" title="查看产品详情" target="_blank" rel="external"><br>                                分享使用体验，使用问题交流平台                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.rushou.net/" target="_blank" rel="external">入手网</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[俚语维基]]></title>
-    <link href="http://luoguochun.cn/2014/08/04/%E4%BF%9A%E8%AF%AD%E7%BB%B4%E5%9F%BA/"/>
-    <id>http://luoguochun.cn/2014/08/04/俚语维基/</id>
-    <published>2014-08-03T16:00:00.000Z</published>
-    <updated>2014-08-03T19:50:18.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/343" title="查看产品详情" target="_blank" rel="external"><br>                                中文版 urbanDictionary                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://liyuwiki.com/" target="_blank" rel="external">俚语维基</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[人人车]]></title>
-    <link href="http://luoguochun.cn/2014/08/04/%E4%BA%BA%E4%BA%BA%E8%BD%A6/"/>
-    <id>http://luoguochun.cn/2014/08/04/人人车/</id>
-    <published>2014-08-03T16:00:00.000Z</published>
-    <updated>2014-08-04T09:31:17.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/785e89d69c729fc0ca2a18a4555618eb.jpg" alt=""></p>
-
-<p>对二手市场最经典的描述，当属阿克尔洛夫的“<a target="_blank" data-no-turbolink="true" href="http://baike.baidu.com/view/1017671.htm?fr=aladdin">柠檬效应</a>”：在二手交易中，卖方对商品有充分的信息掌握，居于信息优势；买方只能通过片面迹象推断商品状况，居于信息弱势；买方知道自己的信息弱势，对卖方定价存在天然的不信任感，总是倾向于低估二手商品的实际价值——这样导致的结果是，优质二手商品总卖不出应有价格，慢慢就会退出市场。而市场中商品的平均质量则越来越低，最终演变成一个垃圾集散地。</p>
-
-<p>可以说只要存在信息不对称，这种二手市场的自我解体就不可避免。但我们能通过三条原则，略微扭转这一局面：</p>
-
-<p><strong>1、市场分层。</strong>让优质商品与劣质商品相隔离，避免价值混淆。</p>
-
-<p><strong>2、中立定价</strong>。针对具体商品，提供更精准的评估和定价，并且确保该定价能够得到买卖双方的认同。</p>
-
-<p><strong>3、去中介化。</strong>尽量减少信息不透明的中间环节，增加市场透明度。</p>
-
-<p>创业公司“<a target="_blank" data-no-turbolink="true" href="http://www.renrenche.com/sales">人人车</a>”正是遵循这三点思路，试图打造一个买家和卖家直接交易的P2P二手车市场。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/90f177c5f69872e257e410eb80dfd3e0.jpg" alt=""></p>
-
-<p><strong>简单说，“人人车”的模式可以概括为“上门质检”+“无店铺交易”</strong>：</p>
-
-<p>1、车主线上提交出售需求，平台派出专业评估师，携带设备上门检验车况并给出检验结果和建议售价。</p>
-
-<p>2、完成质检、估价、车况信息采集后，在“人人车”平台上挂牌出售。</p>
-
-<p>3、买家看到中意的二手车，可与车主直接沟通，预约线下验车并成交，全程由平台方人员提供线上和线下支持。</p>
-
-<p>4、而平台一方，通过交易担保和售后追踪等方式实现闭环。由于免去了场租和车辆采购成本，“人人车”仅向车主收取售价3%的服务费，这对经销商们12%到20%的差价体系形成了冲击。</p>
-
-<p><strong>那么，“人人车”的做法是如何与上面所提的三条原则相对应？</strong></p>
-
-<p>1、市场分层上，“人人车”只做6年10万公里以内、品质相对较高的车辆，同时确保所有车源均为个人车主，杜绝二手车贩的翻新车流入。由于隔绝了劣质车源，用户才会在整体上信任这个市场的交易环境，同时也防止市场内生的劣币逐良币现象。</p>
-
-<p>2、中立定价上，“人人车”与中国质量认证中心合作，依靠专业评估师进行约249项现场检测，尽量还原了真实车况并给出定价建议（当然买卖双方还可以自由议价）。精准而科学的评估只是一方面，在盈利模式上，平台模式和差价模式也代表了两种完全不同的利益取向：传统经销商的差价模式基于单笔交易的信息不透明，而且不透明越深，获利空间越大。所以经销商必须在一定程度上使买卖双方信息隔绝，甚至采用调整里程表、私下翻新等不正当手段。而平台模式下，平台方收入主要体现为服务费+交易费，收入规模与市场整体交易规模相匹配。<strong>长期看，只有整个市场做大，平台方的蛋糕才能分得更多，这导致其在短视行为上更加谨慎。</strong></p>
-
-<p>3、去中介化上，“人人车”最大限度压缩了中间环节，让买家和卖家距离更近，同时交易成本更低。专业性和信任，始终是决定二手市场交易链条长短的关键因素。由于买卖双方不懂行，这就不可避免需要一个具备专业能力的中介存在。但如果中介过分强大，就又变成了一个信息不对称的制造者，从而损害交易者对市场的信任。<strong>“人人车”取了一个折中，仅向交易双方输出专业服务，而不参与交易本身，买卖双方自由撮合</strong>。</p>
-
-<p>当然，凡事有利必有弊，天下没有完美的模式。“人人车”模式从好的方面讲，资金占用轻，可扩展性更强，成本优势明显，而且车主在挂牌期间仍然可以自由使用车辆。从劣势讲，是需要面对C2C的冷启动问题，交易范围局限在本地，同时车主的出货周期会相对长一些。所以本质来说，“人人车”打的是一个价格敏感型的市场。“多等上十天半个月，多挣一两万块钱，这可能是大多数中国人的偏好吧”，“人人车”CEO李健如此认为。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/347259b974927fe74773cb1a0489049c.jpg" alt=""></p>
-
-<p>“人人车”于今年4月获得红点创投的500万美元A轮，5月份公司成立，目前团队成员不到30人。创始人李健曾是百度史上最年轻产品总监，并历任58同城副总裁、微软亚研副院长等职位。</p>
-
-<p>据李健介绍，他们目前完成检测的入库车超过150辆，绝对数量不多，但已经超越了一些实体店模式的同行，在获取个人车源上已有一定心得。</p>
-
-<p>目前国外可参照的同类公司，还有美国的<a target="_blank" data-no-turbolink="true" href="https://www.beepi.com/">Beepi.com</a>。该公司与“人人车”成立只在前后脚，而且A轮融资额，恰巧也是500万美元——果然世间英雄，所见略同吗？</p><br>                    <p>[<span>36氪</span>原创文章，作者: 沈超]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214302.html" target="_blank" rel="external">无实体店，去经销商，不赚差价——“人人车”能否以P2P模式颠覆二手车市场？</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.renrenche.com/" target="_blank" rel="external">人人车</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Molbase]]></title>
-    <link href="http://luoguochun.cn/2014/08/04/Molbase/"/>
-    <id>http://luoguochun.cn/2014/08/04/Molbase/</id>
-    <published>2014-08-03T16:00:00.000Z</published>
-    <updated>2014-08-04T09:31:19.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/99c88c250d1615c33061c03842c0a70a.jpg" alt=""></p>
-
-<p>虽然互联网本身就是科研的一个副产品，但是科学家创办互联网创业公司还是不多见。象牙塔里舒适的环境、大公司丰厚的薪水，都很容易消磨掉他们出来试一试的念头。</p>
-
-<p>所以常东亮2011年刚开始做<a target="_blank" data-no-turbolink="true" href="http://www.molbase.com/zh/index.html">Molbase化合物数据库</a>的时候，根本就没想过自己要创办一家公司。“<strong>最初只是面向科研机构的一个信息分享平台</strong>”，这位前中科院嘉兴应用化学工程中心主任、“千人计划”科学家告诉<span>36氪</span>。</p>
-
-<p>化合物中间体是整个医药化工行业的基石，有1.5万亿美元的市场，三分之一的供应和11%的需求在中国。但是长期以来供应链的透明度太低，无论是采购还是生产都是很小的圈子，信息交换靠行业交流会。</p>
-
-<p>“中间程序太多，有时候不知道向谁采购，找到了也容易遇到漫天要价”，常东亮说，“当时我在做医药外包，所以有这样的信息需求”。但是直到2013年，有贸易公司提出要全盘收购，常东亮才看到了其中的商业价值。于是三位生物医药化学背景的博士和两位技术、管理人员创办了今天的Molbase。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/ff064a798b9e4972e94c4d91b834d4ce.jpg" alt=""></p>
-
-<p>Molbase目前已经收录了1400万种化合物中间体的详细信息和价格，占现存全部SKU的70%。根据Molbase的算法还可以推算上亿种衍生SKU的价格并推荐可能的供应商。已经有有一万多家采购商和9000多家供应商入驻。一位中科院化物所的博士使用了Molbase之后告诉<span>36氪</span>，<strong>虽然推荐的供应商不是自己常用的，但是感觉确实很方便。</strong></p>
-
-<p>除了化合物的搜索引擎和B2B服务平台，Molbase甚至还<a target="_blank" data-no-turbolink="true" href="http://www.molbase.com/finance.html">为供应商提供金融服务</a>。“因为采购方通常要求账期，很多中小供应商有融资的需求。而且行业利润率较高，用比较小的资金就可以撬动交易”，常东亮表示他们负责金融服务的团队只有3个人，主要任务是核查供应商资质，资金是由国内P2P平台提供的。</p>
-
-<p>Molbase目前的收入分为三部分，一部分是询单手续费（在Molbase上查看信息是免费的，但是收到采购方的询单是需要20元/次的费用），一部分是订单确认后的佣金抽成，最后是金融服务的息差。今年年初Molbase获得创新工场和挚信资本数百万美元的A轮融资，上线后四个月的流水已经超过了1亿元。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/2e31279190479970ae292af1cd45a8b6.jpg" alt=""></p>
-
-<p>“你们不像一般的创业公司，好像有非常明确的顶层设计，把整个交易流程所有的环节都做了”。</p>
-
-<p>“因为实体工业和互联网的结合还是蓝海”，常东亮对Molbase非常有信心，“我们一开始就把市场的几块业务想好了。国内其他的平台还停留在Web1.0时代，提供一些文本的信息，商业模式就是收会员费”。像Molbase这样把<strong>化合物和官能团当做底层数据的Web2.0模式</strong>，对手还都没有跟进。国外有Thomson Reuters Newport类似的信息平台，但是一个查询端口的年费就是4万美元。</p>
-
-<p>被互联网的台风吹起俯视传统行业的感觉很好，但是短时间内很难招到合适的人也是一个头疼的问题。Molbase目前的办法是找码农来培训一下医药化学相关的知识就上岗，但是他们更<strong>希望招到生物化学科班出身又懂CS的人。</strong></p>
-
-<p>“我们开的工资很高，但是很多人还是不愿意来创业公司”，常东亮告诉<span>36氪</span>，“其实符合条件的人不少。过去几年中国学生物的学生都找不到工作，很多人就学了点计算机去互联网公司了。”</p>
-
-<p>“对啊，我虽然不太懂生化，但是觉得<strong>冯大辉就挺符合你们的要求，不考虑一下他吗</strong>？”</p><br>                    <p>[<span>36氪</span>原创文章，作者: Zuo]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214306.html" target="_blank" rel="external">几位医药化学家创办的Molbase，想把全球化工供应链搬上Web2.0</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.molbase.com/zh/index.html" target="_blank" rel="external">Molbase</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[ChineseSkill]]></title>
-    <link href="http://luoguochun.cn/2014/08/04/ChineseSkill/"/>
-    <id>http://luoguochun.cn/2014/08/04/ChineseSkill/</id>
-    <published>2014-08-03T16:00:00.000Z</published>
-    <updated>2014-08-04T09:31:21.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/9becc42ffd86f2c93198df92f44971a7.png" alt="http://a.36krcnd.com/photo/2014/9becc42ffd86f2c93198df92f44971a7.png"></p>
-
-<p>出自<a target="_blank" data-no-turbolink="true" href="http://space.36kr.com/">氪空间</a>的Chineseskill团队今天和<span>36氪</span>确认，他们已经获得了云天使基金领投、真格基金跟投的数百万人民币天使轮融资。<a target="_blank" data-no-turbolink="true" href="https://play.google.com/store/apps/details?id=com.chineseskill">Android app</a>和新版<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/cn/app/chineseskill/id777111034?mt=8">iOS应用</a>也已上线。</p>
-
-<p>我们之前<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/211985.html">报道</a>过<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/chineseskill">Chineseskill</a>，这是一个用游戏化机制进行教学的中文学习应用，整体机制和Duolingo很类似，都是让用户在边“测试”的同时边学习知识、同时加强记忆。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/c6420d183966f135f0be5180968adabb.jpg" alt=""></p>
-
-<p>不过Chineseskill创始人王主龙说，他们未来会把应用“游戏”的一面强化，提升趣味性，让它和Duolingo表现出差异化。另外，未来Chineseskill也会加入用户行为的分析，以辅助教学内容的调整，比如根据不同国别的用户的语言学习习惯来判断肯定、否定、疑问句这三个句式的学习顺序如何排列更易被接受等。</p>
-
-<p>目前Chineseskill用户数在四万左右，45%的用户来自美国，北美、欧洲、亚太三个地区的用户加起来占到90%。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 苑伶]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214307.html" target="_blank" rel="external">让老外通过游戏化机制学习中文的app Chineseskill获数百万人民币天使融资</a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/us/app/chineseskill/id777111034?mt=8" target="_blank" rel="external">ChineseSkill</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[影记]]></title>
-    <link href="http://luoguochun.cn/2014/08/04/%E5%BD%B1%E8%AE%B0/"/>
-    <id>http://luoguochun.cn/2014/08/04/影记/</id>
-    <published>2014-08-03T16:00:00.000Z</published>
-    <updated>2014-08-03T19:50:18.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/885f91ec8121831961a1d6a1d0fb0793.jpg" alt=""></p>
-
-<p>如果说看完一部影想留下些什么什么，过去人们可能会写篇影评，不过长篇大论好像很难适应当下的节奏了。可如果是让你在朋友圈发布一个镜头，一句台词想必还是行得通的，因为既表达了余味，又没有太麻烦。氪空间项目“<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/cn/app/ying-ji-ji-lu-dian-ying-zui/id702871232?mt=8">影记</a>”回应的就是处于“文艺与不文艺青年”之间这个群体的这个需求。</p>
-
-<p>“影记”的内容生成方式为UGC，没错，“一张图，一句话（台词或是感悟）”的生产方式门槛非常低，其创始人文亮告诉<span>36氪</span>，目前“影记”官方基本上已不生产内容了，&quot;UGC可以做到自给自足”。为了保证内容的质量，“影记”有专门的编辑审核稿件，保证内容都是符合要台词或感悟的格式的。</p>
-
-<p>为了在首页汇聚用户最受用户欢迎的内容，“影记”还借鉴了类似Tinder的选择机制，用户可以选择“喜欢”或是“没感觉”来积累自己的兴趣数据；不过它并没有采用像<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/207861.html">Tinder</a>那样的交互机制，毕竟回味电影是件沉下心来做的事，划来划去不像那么回事。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/d6c4f8ed26ec5270246d4f1509c1a938.jpg" alt=""></p>
-
-<p>目前，“影记”的内容还是偏向碎片化的内容，当内容多起来时，一定会有同一部电影被切为许多的切片，将来“影记”会为用户提供相关的协作功能，可能会基于一定的电影Timeline以一定次序将零散的内容织成一部作品，但具体产品形态还未确定。“影记”团队目前仅有3人，该团队一直以来还运营有一个叫“热电影”的微博，文亮告诉<span>36氪</span>，我们就是喜欢围绕电影做事儿。</p>
-
-<p>跟“影记”类似的产品有“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213397.html">图解电影</a>”，但该产品的气质十分不一样，前者文艺，后者搞怪嘻哈，而且具备奇葩的静态弹幕， UGC内容的制作也更复杂，需要用户按逻辑使用镜头讲出故事，添加文字解说。总之，二者各有千秋吧。这些工具虽然很简单，但如果平台上的内容能够对用户产生粘性的话，未来应该可以围绕电影做很多事情。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p>AD：<a href="http://kdweibo.com/home?utm_source=36kr&utm_medium=keyword" target="_blank">云之家</a>，一种新的工作方式。</p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214262.html" target="_blank" rel="external">“影记”，一张剧照，一句台词帮你记录、回味钟爱的电影</a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/ying-ji-ji-lu-dian-ying-zui/id702871232?mt=8" target="_blank" rel="external">影记</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

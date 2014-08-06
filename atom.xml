@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-08-06T10:22:55.916Z</updated>
+  <updated>2014-08-06T16:55:21.909Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -16,10 +16,10 @@
   
   <entry>
     <title><![CDATA[阿姨来了]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/%E9%98%BF%E5%A7%A8%E6%9D%A5%E4%BA%86/"/>
-    <id>http://luoguochun.cn/2014/08/06/阿姨来了/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-06T10:17:30.000Z</updated>
+    <link href="http://luoguochun.cn/2014/08/07/%E9%98%BF%E5%A7%A8%E6%9D%A5%E4%BA%86/"/>
+    <id>http://luoguochun.cn/2014/08/07/阿姨来了/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-06T16:49:56.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/35cbdcf40d2d8676e3d7b65e90bf4389.png" alt=""></p>
 
 <p>专注于“家政经纪人”服务的<a target="_blank" data-no-turbolink="true" href="http://www.ayilaile.com/">阿姨来了</a>获得来自清科创投数百万美元A轮融资，此次融资将主要用于拓展团队，特别是帮助完善线上服务，同时优化现有的培训体系。</p>
@@ -45,13 +45,14 @@
   </entry>
   
   <entry>
-    <title><![CDATA[梧桐理财网]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/%E6%A2%A7%E6%A1%90%E7%90%86%E8%B4%A2%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/08/06/梧桐理财网/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-06T10:17:29.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/363" title="查看产品详情" target="_blank" rel="external"><br>                                每日付息的创意理财平台                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.91wutong.com" target="_blank" rel="external">梧桐理财网</a>  </p>
+    <title><![CDATA[行程管家]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/%E8%A1%8C%E7%A8%8B%E7%AE%A1%E5%AE%B6/"/>
+    <id>http://luoguochun.cn/2014/08/07/行程管家/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-06T16:49:56.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/365" title="查看产品详情" target="_blank" rel="external"></a></p>
+<pre><code>                            <span class="comment">#做您最贴心的旅行小管家，帮你打理行程单！#                             &lt;/a&gt;  </span>
+</code></pre><p>更多详情请参考相关网站 <a href="http://app.mi.com/detail/65877" target="_blank" rel="external">行程管家</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -64,10 +65,10 @@
   
   <entry>
     <title><![CDATA[秒视]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/%E7%A7%92%E8%A7%86/"/>
-    <id>http://luoguochun.cn/2014/08/06/秒视/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-05T16:22:31.000Z</updated>
+    <link href="http://luoguochun.cn/2014/08/07/%E7%A7%92%E8%A7%86/"/>
+    <id>http://luoguochun.cn/2014/08/07/秒视/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-06T16:49:58.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/60317f80b44a0c4a296320fca724bd0b.png" alt=""></p>
 
 <p>两个月前<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/yelp/id284910350?mt=8">Yelp</a>内测的视频点评功能已正式上线其iOS客户端（Android版本稍后推出），用户在点评时可以添加3-12 秒的视频来展示自己到店消费的经历。跟传照片是一个道理，不过视频应该能够更好地佐证文字描述吧——“更好再现餐厅、商店等的气氛，比如现场灯光、音乐都会被抓进来”。</p>
@@ -91,13 +92,31 @@
   </entry>
   
   <entry>
-    <title><![CDATA[此刻：最美番茄钟]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/%E6%AD%A4%E5%88%BB%EF%BC%9A%E6%9C%80%E7%BE%8E%E7%95%AA%E8%8C%84%E9%92%9F/"/>
-    <id>http://luoguochun.cn/2014/08/06/此刻：最美番茄钟/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-05T16:22:34.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/358" title="查看产品详情" target="_blank" rel="external"><br>                                专注当下，告别拖延症！                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/moment-overcome-procrastination/id885381944?l=en&amp;mt=8" target="_blank" rel="external">此刻：最美番茄钟</a>  </p>
+    <title><![CDATA[知嘛官网]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/%E7%9F%A5%E5%98%9B%E5%AE%98%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/08/07/知嘛官网/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-06T16:49:55.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/366" title="查看产品详情" target="_blank" rel="external"><br>                                互动知识pk，没节操讨论，看你有没有才                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.zhima321.com/" target="_blank" rel="external">知嘛官网</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[梧桐理财网]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/%E6%A2%A7%E6%A1%90%E7%90%86%E8%B4%A2%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/08/07/梧桐理财网/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-06T16:49:56.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/363" title="查看产品详情" target="_blank" rel="external"><br>                                每日付息的创意理财平台                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.91wutong.com" target="_blank" rel="external">梧桐理财网</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -110,10 +129,10 @@
   
   <entry>
     <title><![CDATA[梦象壁纸]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/%E6%A2%A6%E8%B1%A1%E5%A3%81%E7%BA%B8/"/>
-    <id>http://luoguochun.cn/2014/08/06/梦象壁纸/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-05T16:22:32.000Z</updated>
+    <link href="http://luoguochun.cn/2014/08/07/%E6%A2%A6%E8%B1%A1%E5%A3%81%E7%BA%B8/"/>
+    <id>http://luoguochun.cn/2014/08/07/梦象壁纸/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-06T16:49:59.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/346" title="查看产品详情" target="_blank" rel="external"><br>                                3D壁纸                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.3dbizhi.com/" target="_blank" rel="external">梦象壁纸</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
@@ -127,11 +146,134 @@
   </entry>
   
   <entry>
+    <title><![CDATA[imoji]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/imoji/"/>
+    <id>http://luoguochun.cn/2014/08/07/imoji/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-06T16:50:00.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/361" title="查看产品详情" target="_blank" rel="external"><br>                                将你的手机照片变成手机短信里一个小又萌的 emoji 表情大头贴                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.imojiapp.com/" target="_blank" rel="external">imoji</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[无限壁纸]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/%E6%97%A0%E9%99%90%E5%A3%81%E7%BA%B8/"/>
+    <id>http://luoguochun.cn/2014/08/07/无限壁纸/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-06T16:49:57.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/259" title="查看产品详情" target="_blank" rel="external"><br>                                Jing.Fm 创始人 施凯文 新项目                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/wu-xian-bi-zhi/id891704316?mt=8" target="_blank" rel="external">无限壁纸</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[手心输入法]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/%E6%89%8B%E5%BF%83%E8%BE%93%E5%85%A5%E6%B3%95/"/>
+    <id>http://luoguochun.cn/2014/08/07/手心输入法/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-06T16:49:59.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/345" title="查看产品详情" target="_blank" rel="external"><br>                                无广告，不骚扰，干净、绿色专注于输入本质                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.xinshuru.com/" target="_blank" rel="external">手心输入法</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[小本]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/%E5%B0%8F%E6%9C%AC/"/>
+    <id>http://luoguochun.cn/2014/08/07/小本/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-06T16:50:00.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/360" title="查看产品详情" target="_blank" rel="external"><br>                                我的随身记忆卡片                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/xiao-ben/id840738842?mt=8" target="_blank" rel="external">小本</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[天蓝村零食订购服务]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
+    <id>http://luoguochun.cn/2014/08/07/天蓝村零食订购服务/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-06T16:50:00.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/8" title="查看产品详情" target="_blank" rel="external"><br>                                按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Bolt]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/Bolt/"/>
+    <id>http://luoguochun.cn/2014/08/07/Bolt/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-06T16:49:58.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/11e0b0174fa54a9c46c769c00459bc57.png" alt=""></p>
+
+<p>大家<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/clipped/8881">猜测已久</a>的<a target="_blank" data-no-turbolink="true" href="http://bolt.instagram.com/">Bolt</a>真面目终于浮出水面——它是Instagram推出的一款以照片/短视频为主的message应用，像极了<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212667.html">TapTalk</a>+<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213017.html">Slingshot</a>+<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/snapchat">Snapchat</a>的合体。</p>
+
+<p>怎么说呢？Bolt的核心想是降低大家使用拍照工具的门槛，唯“快”不破。它基于手机通讯录（而不是Instagram或Facebook账号），用户首次添加了好友之后，后续便都可以一键点击好友头像进行拍照（快速程度和<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212667.html">Taptalk</a>非常类似），拍完的照片直接传给选择的好友，不能一次性群发多人，也不能上传相册内已有的照片。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/4a304d23886fbf7cc11fbbbe56dda541.png" alt=""></p>
+
+<p>当好友收到照片后，他可以选择用文字叠加收到的照片的形式，或者是重新拍照来回复，这一点又和以图换图的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213017.html">Slingshot</a>很像。当然，Bolt也是阅后即焚的——时下年轻人的交流频次和内容消费已经如此光速，也许我们都不再需要很“重”的留底回忆了。</p>
+
+<p>目前Bolt仅在新加坡、南非和新西兰地区的商店上架了，因为这些地区的Instagram用户最活跃也最密集，至于其他地区想尝试的用户，估计得等会了。附上Bolt在这些地区的下载地址：<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/app/id901534647">iOS</a>、<a target="_blank" data-no-turbolink="true" href="https://play.google.com/store/apps/details?id=com.instagram.bolt">Android</a>。</p>
+
+<p>我的拍照应用重度使用者同事果子之前还写过他想创业的话，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213482.html">想做一款基于 LBS和短视频，采用 Slingshot 机制的陌生人交友产品</a>，总之现在面向90后、00后的奇特拍照工具已经泛滥了，对这类产品有什么看法，欢迎交流。<br><br><section class="single-post-header"><header class="single-post-header__meta"></header></section></p>
+
+<p></p><p>  </p>
+<p>原文发表于 <a href="http://www.36kr.com/p/214186.html" target="_blank" rel="external">Instagram也出照片短视频聊天应用Bolt，像极了TapTalk+Slingshot+Snapchat合体</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://bolt.instagram.com/" target="_blank" rel="external">Bolt</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[最美壁纸]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/%E6%9C%80%E7%BE%8E%E5%A3%81%E7%BA%B8/"/>
-    <id>http://luoguochun.cn/2014/08/06/最美壁纸/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-05T16:22:33.000Z</updated>
+    <link href="http://luoguochun.cn/2014/08/07/%E6%9C%80%E7%BE%8E%E5%A3%81%E7%BA%B8/"/>
+    <id>http://luoguochun.cn/2014/08/07/最美壁纸/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-06T16:49:59.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/362" title="查看产品详情" target="_blank" rel="external"><br>                                情感化设计的壁纸应用——每天的优雅邂逅！                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://lab.zuimeia.com/app/" target="_blank" rel="external">最美壁纸</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
@@ -145,13 +287,25 @@
   </entry>
   
   <entry>
-    <title><![CDATA[无限壁纸]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/%E6%97%A0%E9%99%90%E5%A3%81%E7%BA%B8/"/>
-    <id>http://luoguochun.cn/2014/08/06/无限壁纸/</id>
+    <title><![CDATA[阿姨来了]]></title>
+    <link href="http://luoguochun.cn/2014/08/06/%E9%98%BF%E5%A7%A8%E6%9D%A5%E4%BA%86/"/>
+    <id>http://luoguochun.cn/2014/08/06/阿姨来了/</id>
     <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-06T03:51:52.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/259" title="查看产品详情" target="_blank" rel="external"><br>                                Jing.Fm 创始人 施凯文 新项目                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/wu-xian-bi-zhi/id891704316?mt=8" target="_blank" rel="external">无限壁纸</a>  </p>
+    <updated>2014-08-06T10:17:30.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/35cbdcf40d2d8676e3d7b65e90bf4389.png" alt=""></p>
+
+<p>专注于“家政经纪人”服务的<a target="_blank" data-no-turbolink="true" href="http://www.ayilaile.com/">阿姨来了</a>获得来自清科创投数百万美元A轮融资，此次融资将主要用于拓展团队，特别是帮助完善线上服务，同时优化现有的培训体系。</p>
+
+<p>CEO周袁红介绍，虽然阿姨来了有7年线下经验，店面数量多，在业内比较有优势，但做这一行的大部分人员在线上业务方面都没有什么经验。随着PC+移动端越来越重，对技术、运营等等这方面的人才需求量越来越大，所以此次融资主要是想拓展这方面的团队。</p>
+
+<p>为什么会出现家政经纪人呢？<a target="_blank" data-no-turbolink="true" href="http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5MTAwMDAyMg==&amp;amp;appmsgid=10000339&amp;amp;itemidx=1&amp;amp;sign=3b5001ef1f2db204ff0a6b18d3faf36d&amp;amp;scene=1&amp;amp;key=9467a271bcdfeb170be62ba4249177ac8f7254a0661949e2190a6e70ab0ca4be87b8962919baa09c7962643aacc75377&amp;amp;ascene=0&amp;amp;uin=NDg5MDA2NjU1&amp;amp;pass_ticket=MrTH0LIOZJubmN%2Fib65WtbyiGrdUZBDmPLkosyWQT8tUlSa786qAA%2BXyr%2FYpYbg9">周袁红曾经在接受媒体采访时介绍</a>，当前家政市场混乱的主要原因，一方面是家政服务人员流动性大，另一方面是掌握家政服务人员信息的销售人员，也就是传统家政公司的家政老师流动性大。那么，能否将家政服务人员及销售人员整合到一个平台上呢？于是，借鉴律师事务所的合伙人制以及房地产中介经纪人制，出现了家政经纪人模式。</p>
+
+<p>阿姨来了在2013年3月上线，目前家政经纪人的主要来源主要有三个方面：一是原来的家政服务员，二是有经验的销售人员，三是大学毕业生。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Leah]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/214365.html" target="_blank" rel="external">“阿姨来了”获得清科创投数百万美元A轮投资，拓展团队发力线上服务</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.ayilaile.com/" target="_blank" rel="external">阿姨来了</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -213,282 +367,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[小本]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/%E5%B0%8F%E6%9C%AC/"/>
-    <id>http://luoguochun.cn/2014/08/06/小本/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-05T16:22:34.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/360" title="查看产品详情" target="_blank" rel="external"><br>                                我的随身记忆卡片                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/xiao-ben/id840738842?mt=8" target="_blank" rel="external">小本</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[天蓝村零食订购服务]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/%E5%A4%A9%E8%93%9D%E6%9D%91%E9%9B%B6%E9%A3%9F%E8%AE%A2%E8%B4%AD%E6%9C%8D%E5%8A%A1/"/>
-    <id>http://luoguochun.cn/2014/08/06/天蓝村零食订购服务/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-05T16:22:37.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/8" title="查看产品详情" target="_blank" rel="external"><br>                                按周订购零食盒，每包零食吃完都可以扫描二维码抽奖再来一包                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.tianlancun.com/" target="_blank" rel="external">天蓝村零食订购服务</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[呵擦么]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/%E5%91%B5%E6%93%A6%E4%B9%88/"/>
-    <id>http://luoguochun.cn/2014/08/06/呵擦么/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-05T16:22:36.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/6ef28c9cac316fef57358699ef9d2fd2.jpg" alt=""></p>
-
-<p>近来，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213083.html">Yo</a>的仿品们并没太多新意，往往对“通知层面的通讯”并无深刻理解，一味模仿Yo的产品是成为不了Yo的，“推送平台”已是<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213906.html">大牛们纷纷看好的远景</a>，但后来者想要分一块蛋糕的话，首先要成为一款有趣、足够简单但又不能照搬Yo的产品。最近一个远在美国的华人团队做了一款叫做“<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/a-ca-me/id896508437?mt=8">呵擦么</a>”的产品在趣味性和思路上都值得关注。</p>
-
-<p>首先，“呵、擦、么”三个字代表态度很鲜明，都是大家常用的语气词，不过多解释了，其联合创始人范阳告诉<span>36氪</span>之所以选3个字是因为希望每个词在功能上能有更多的可能性。从界面看，“呵擦么”跟Yo的彩色通讯录界面相似。只不过，划动用户ID的话，可以选择发送“呵”、“么”或者“擦”来问候好友，有着分明的感情色彩。不过该产品设了一些限制，每天发送“么”和“擦”的最多为5次，而“呵”的次数是不限制的，而且用户发送“擦”后30秒之内行为会被冻结，这是根据起初时内测用户行为数据设定的。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/cf3c601d4c7b061a57f9b31d91e85366.jpg" alt=""></p>
-
-<p>说到交流机制，范阳把一个“communication pattern”定义为一个四维体系，包括“时间 人物 地点 信息”四个维度，而在像Yo和“呵擦么”这样的模式中，信息本身几乎是被抹掉的（可以说被推送信号本身所取代）—没有所谓聊天记录，时间是弱化的—用户仅能在通知中心层面看到“你于xx分钟前收到来自xx的呵”，地点也是不存在的，其实剩下的就仅有人物—identity本身。其实，这样的产品跟社交关系不大。</p>
-
-<p>因此，为了赋予产品多一点社交属性，“呵么擦”做文章的地方正是在剩下的identity上，用户可以通过修改“昵称”的方式向对方传递自己想说的话，比如“Chloe想封上你那张臭嘴”，当然昵称里不一定非得出现真实姓名—这样反而有了一些匿名的特征，算是为产品趣味性的加分项吧。</p>
-
-<p>这个产品创新的另一个在于它引入了一个叫“公共词条”的元素，它看起来像是一个词条版的微博，对于每个新闻热词用户都能能干“呵、么、擦”的方式表态，相当于一个很简单的投票机制。目前公共词条还是由团队人工编辑，但在下一版本中将尝试通过UGC方式提交，具体交互方式还未定—这将决定用户玩不玩的起来。</p>
-
-<p>作为相对于个人点对点沟通之外的另一条线，这个“广场”模式适用的其实远不止给新闻表态这个细分场景，其实，每个公共词条也都可以成一个个公共账号，对“可口可乐”“迪士尼”来说是一种很好的众品牌互动方式，而新闻热词算是培养用户习惯的一个切入点。</p>
-
-<p>如果“呵擦么”所定义的沟通模式能在国内用户中广为接受的话，那么它在通知层面或将大有可为，加之OS 层对推送中心功能的逐渐放开，也会加大这种想象力。如范阳所说，通知层面能够展示的信息将不仅限于文字，图片、视频都有其可能性。其他应用、网站、智能硬件等产品消息推送方都可能是这类平台的用户。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214301.html" target="_blank" rel="external">“呵擦么”，不止中国版的Yo</a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/us/app/a-ca-me/id896508437?mt=8" target="_blank" rel="external">呵擦么</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[人人车]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/%E4%BA%BA%E4%BA%BA%E8%BD%A6/"/>
-    <id>http://luoguochun.cn/2014/08/06/人人车/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-05T16:22:35.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/785e89d69c729fc0ca2a18a4555618eb.jpg" alt=""></p>
-
-<p>对二手市场最经典的描述，当属阿克尔洛夫的“<a target="_blank" data-no-turbolink="true" href="http://baike.baidu.com/view/1017671.htm?fr=aladdin">柠檬效应</a>”：在二手交易中，卖方对商品有充分的信息掌握，居于信息优势；买方只能通过片面迹象推断商品状况，居于信息弱势；买方知道自己的信息弱势，对卖方定价存在天然的不信任感，总是倾向于低估二手商品的实际价值——这样导致的结果是，优质二手商品总卖不出应有价格，慢慢就会退出市场。而市场中商品的平均质量则越来越低，最终演变成一个垃圾集散地。</p>
-
-<p>可以说只要存在信息不对称，这种二手市场的自我解体就不可避免。但我们能通过三条原则，略微扭转这一局面：</p>
-
-<p><strong>1、市场分层。</strong>让优质商品与劣质商品相隔离，避免价值混淆。</p>
-
-<p><strong>2、中立定价</strong>。针对具体商品，提供更精准的评估和定价，并且确保该定价能够得到买卖双方的认同。</p>
-
-<p><strong>3、去中介化。</strong>尽量减少信息不透明的中间环节，增加市场透明度。</p>
-
-<p>创业公司“<a target="_blank" data-no-turbolink="true" href="http://www.renrenche.com/sales">人人车</a>”正是遵循这三点思路，试图打造一个买家和卖家直接交易的P2P二手车市场。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/90f177c5f69872e257e410eb80dfd3e0.jpg" alt=""></p>
-
-<p><strong>简单说，“人人车”的模式可以概括为“上门质检”+“无店铺交易”</strong>：</p>
-
-<p>1、车主线上提交出售需求，平台派出专业评估师，携带设备上门检验车况并给出检验结果和建议售价。</p>
-
-<p>2、完成质检、估价、车况信息采集后，在“人人车”平台上挂牌出售。</p>
-
-<p>3、买家看到中意的二手车，可与车主直接沟通，预约线下验车并成交，全程由平台方人员提供线上和线下支持。</p>
-
-<p>4、而平台一方，通过交易担保和售后追踪等方式实现闭环。由于免去了场租和车辆采购成本，“人人车”仅向车主收取售价3%的服务费，这对经销商们12%到20%的差价体系形成了冲击。</p>
-
-<p><strong>那么，“人人车”的做法是如何与上面所提的三条原则相对应？</strong></p>
-
-<p>1、市场分层上，“人人车”只做6年10万公里以内、品质相对较高的车辆，同时确保所有车源均为个人车主，杜绝二手车贩的翻新车流入。由于隔绝了劣质车源，用户才会在整体上信任这个市场的交易环境，同时也防止市场内生的劣币逐良币现象。</p>
-
-<p>2、中立定价上，“人人车”与中国质量认证中心合作，依靠专业评估师进行约249项现场检测，尽量还原了真实车况并给出定价建议（当然买卖双方还可以自由议价）。精准而科学的评估只是一方面，在盈利模式上，平台模式和差价模式也代表了两种完全不同的利益取向：传统经销商的差价模式基于单笔交易的信息不透明，而且不透明越深，获利空间越大。所以经销商必须在一定程度上使买卖双方信息隔绝，甚至采用调整里程表、私下翻新等不正当手段。而平台模式下，平台方收入主要体现为服务费+交易费，收入规模与市场整体交易规模相匹配。<strong>长期看，只有整个市场做大，平台方的蛋糕才能分得更多，这导致其在短视行为上更加谨慎。</strong></p>
-
-<p>3、去中介化上，“人人车”最大限度压缩了中间环节，让买家和卖家距离更近，同时交易成本更低。专业性和信任，始终是决定二手市场交易链条长短的关键因素。由于买卖双方不懂行，这就不可避免需要一个具备专业能力的中介存在。但如果中介过分强大，就又变成了一个信息不对称的制造者，从而损害交易者对市场的信任。<strong>“人人车”取了一个折中，仅向交易双方输出专业服务，而不参与交易本身，买卖双方自由撮合</strong>。</p>
-
-<p>当然，凡事有利必有弊，天下没有完美的模式。“人人车”模式从好的方面讲，资金占用轻，可扩展性更强，成本优势明显，而且车主在挂牌期间仍然可以自由使用车辆。从劣势讲，是需要面对C2C的冷启动问题，交易范围局限在本地，同时车主的出货周期会相对长一些。所以本质来说，“人人车”打的是一个价格敏感型的市场。“多等上十天半个月，多挣一两万块钱，这可能是大多数中国人的偏好吧”，“人人车”CEO李健如此认为。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/347259b974927fe74773cb1a0489049c.jpg" alt=""></p>
-
-<p>“人人车”于今年4月获得红点创投的500万美元A轮，5月份公司成立，目前团队成员不到30人。创始人李健曾是百度史上最年轻产品总监，并历任58同城副总裁、微软亚研副院长等职位。</p>
-
-<p>据李健介绍，他们目前完成检测的入库车超过150辆，绝对数量不多，但已经超越了一些实体店模式的同行，在获取个人车源上已有一定心得。</p>
-
-<p>目前国外可参照的同类公司，还有美国的<a target="_blank" data-no-turbolink="true" href="https://www.beepi.com/">Beepi.com</a>。该公司与“人人车”成立只在前后脚，而且A轮融资额，恰巧也是500万美元——果然世间英雄，所见略同吗？</p><br>                    <p>[<span>36氪</span>原创文章，作者: 沈超]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214302.html" target="_blank" rel="external">无实体店，去经销商，不赚差价——“人人车”能否以P2P模式颠覆二手车市场？</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.renrenche.com/" target="_blank" rel="external">人人车</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[云收益 Pro]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/%E4%BA%91%E6%94%B6%E7%9B%8A%20Pro/"/>
-    <id>http://luoguochun.cn/2014/08/06/云收益 Pro/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-05T16:22:34.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/357" title="查看产品详情" target="_blank" rel="external"><br>                                一款为理财用户（如：余额宝、理财通类）量身打造的App                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://yunshouyi.pro/" target="_blank" rel="external">云收益 Pro</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[imoji]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/imoji/"/>
-    <id>http://luoguochun.cn/2014/08/06/imoji/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-05T16:22:33.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/361" title="查看产品详情" target="_blank" rel="external"><br>                                将你的手机照片变成手机短信里一个小又萌的 emoji 表情大头贴                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.imojiapp.com/" target="_blank" rel="external">imoji</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Bolt]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/Bolt/"/>
-    <id>http://luoguochun.cn/2014/08/06/Bolt/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-05T16:22:32.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/11e0b0174fa54a9c46c769c00459bc57.png" alt=""></p>
-
-<p>大家<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/clipped/8881">猜测已久</a>的<a target="_blank" data-no-turbolink="true" href="http://bolt.instagram.com/">Bolt</a>真面目终于浮出水面——它是Instagram推出的一款以照片/短视频为主的message应用，像极了<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212667.html">TapTalk</a>+<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213017.html">Slingshot</a>+<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/snapchat">Snapchat</a>的合体。</p>
-
-<p>怎么说呢？Bolt的核心想是降低大家使用拍照工具的门槛，唯“快”不破。它基于手机通讯录（而不是Instagram或Facebook账号），用户首次添加了好友之后，后续便都可以一键点击好友头像进行拍照（快速程度和<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212667.html">Taptalk</a>非常类似），拍完的照片直接传给选择的好友，不能一次性群发多人，也不能上传相册内已有的照片。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/4a304d23886fbf7cc11fbbbe56dda541.png" alt=""></p>
-
-<p>当好友收到照片后，他可以选择用文字叠加收到的照片的形式，或者是重新拍照来回复，这一点又和以图换图的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213017.html">Slingshot</a>很像。当然，Bolt也是阅后即焚的——时下年轻人的交流频次和内容消费已经如此光速，也许我们都不再需要很“重”的留底回忆了。</p>
-
-<p>目前Bolt仅在新加坡、南非和新西兰地区的商店上架了，因为这些地区的Instagram用户最活跃也最密集，至于其他地区想尝试的用户，估计得等会了。附上Bolt在这些地区的下载地址：<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/app/id901534647">iOS</a>、<a target="_blank" data-no-turbolink="true" href="https://play.google.com/store/apps/details?id=com.instagram.bolt">Android</a>。</p>
-
-<p>我的拍照应用重度使用者同事果子之前还写过他想创业的话，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213482.html">想做一款基于 LBS和短视频，采用 Slingshot 机制的陌生人交友产品</a>，总之现在面向90后、00后的奇特拍照工具已经泛滥了，对这类产品有什么看法，欢迎交流。<br><br><section class="single-post-header"><header class="single-post-header__meta"></header></section></p>
-
-<p></p><p>  </p>
-<p>原文发表于 <a href="http://www.36kr.com/p/214186.html" target="_blank" rel="external">Instagram也出照片短视频聊天应用Bolt，像极了TapTalk+Slingshot+Snapchat合体</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://bolt.instagram.com/" target="_blank" rel="external">Bolt</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[手心输入法]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/%E6%89%8B%E5%BF%83%E8%BE%93%E5%85%A5%E6%B3%95/"/>
-    <id>http://luoguochun.cn/2014/08/06/手心输入法/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-05T16:22:32.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/345" title="查看产品详情" target="_blank" rel="external"><br>                                无广告，不骚扰，干净、绿色专注于输入本质                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.xinshuru.com/" target="_blank" rel="external">手心输入法</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[莲蓬网]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E8%8E%B2%E8%93%AC%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/08/05/莲蓬网/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-04T21:19:15.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/338" title="查看产品详情" target="_blank" rel="external"><br>                                简单好用的网络书签                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://lianpeng.me/" target="_blank" rel="external">莲蓬网</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[秒视]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E7%A7%92%E8%A7%86/"/>
-    <id>http://luoguochun.cn/2014/08/05/秒视/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-05T09:38:15.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/60317f80b44a0c4a296320fca724bd0b.png" alt=""></p>
-
-<p>两个月前<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/yelp/id284910350?mt=8">Yelp</a>内测的视频点评功能已正式上线其iOS客户端（Android版本稍后推出），用户在点评时可以添加3-12 秒的视频来展示自己到店消费的经历。跟传照片是一个道理，不过视频应该能够更好地佐证文字描述吧——“更好再现餐厅、商店等的气氛，比如现场灯光、音乐都会被抓进来”。</p>
-
-<p>个人认为，这些很适合这些注重“体验式消费”的产品使用，比如<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/210799.html">饭本</a>，食色，如果其点评系统里能加入展示现场信息的短视频的话，无疑更利于人们发现满意的消费场所。</p>
-
-<p>短视频是未来趋势想必没人反对，而Yelp把它用在了娱乐以外的地方还蛮值得思考的，无独有偶，还有为淘宝卖家提供视频服务的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212006.html">粉我吧</a> &quot; 也是如此，短视频成为移动端广泛使用的一种信息展示形态并不稀奇。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214158.html" target="_blank" rel="external">短视频不局限于娱乐，点评服务Yelp正式上线3-12秒视频功能</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://catchchat.me/" target="_blank" rel="external">秒视</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
     <title><![CDATA[此刻：最美番茄钟]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E6%AD%A4%E5%88%BB%EF%BC%9A%E6%9C%80%E7%BE%8E%E7%95%AA%E8%8C%84%E9%92%9F/"/>
-    <id>http://luoguochun.cn/2014/08/05/此刻：最美番茄钟/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-04T21:19:11.000Z</updated>
+    <link href="http://luoguochun.cn/2014/08/06/%E6%AD%A4%E5%88%BB%EF%BC%9A%E6%9C%80%E7%BE%8E%E7%95%AA%E8%8C%84%E9%92%9F/"/>
+    <id>http://luoguochun.cn/2014/08/06/此刻：最美番茄钟/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-05T16:22:34.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/358" title="查看产品详情" target="_blank" rel="external"><br>                                专注当下，告别拖延症！                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/moment-overcome-procrastination/id885381944?l=en&amp;mt=8" target="_blank" rel="external">此刻：最美番茄钟</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
@@ -502,13 +385,67 @@
   </entry>
   
   <entry>
+    <title><![CDATA[梧桐理财网]]></title>
+    <link href="http://luoguochun.cn/2014/08/06/%E6%A2%A7%E6%A1%90%E7%90%86%E8%B4%A2%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/08/06/梧桐理财网/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-06T10:17:29.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/363" title="查看产品详情" target="_blank" rel="external"><br>                                每日付息的创意理财平台                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.91wutong.com" target="_blank" rel="external">梧桐理财网</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[梦象壁纸]]></title>
-    <link href="http://luoguochun.cn/2014/08/05/%E6%A2%A6%E8%B1%A1%E5%A3%81%E7%BA%B8/"/>
-    <id>http://luoguochun.cn/2014/08/05/梦象壁纸/</id>
-    <published>2014-08-04T16:00:00.000Z</published>
-    <updated>2014-08-04T21:19:17.000Z</updated>
+    <link href="http://luoguochun.cn/2014/08/06/%E6%A2%A6%E8%B1%A1%E5%A3%81%E7%BA%B8/"/>
+    <id>http://luoguochun.cn/2014/08/06/梦象壁纸/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-05T16:22:32.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/346" title="查看产品详情" target="_blank" rel="external"><br>                                3D壁纸                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.3dbizhi.com/" target="_blank" rel="external">梦象壁纸</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[最美壁纸]]></title>
+    <link href="http://luoguochun.cn/2014/08/06/%E6%9C%80%E7%BE%8E%E5%A3%81%E7%BA%B8/"/>
+    <id>http://luoguochun.cn/2014/08/06/最美壁纸/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-05T16:22:33.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/362" title="查看产品详情" target="_blank" rel="external"><br>                                情感化设计的壁纸应用——每天的优雅邂逅！                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://lab.zuimeia.com/app/" target="_blank" rel="external">最美壁纸</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[无限壁纸]]></title>
+    <link href="http://luoguochun.cn/2014/08/06/%E6%97%A0%E9%99%90%E5%A3%81%E7%BA%B8/"/>
+    <id>http://luoguochun.cn/2014/08/06/无限壁纸/</id>
+    <published>2014-08-05T16:00:00.000Z</published>
+    <updated>2014-08-06T03:51:52.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/259" title="查看产品详情" target="_blank" rel="external"><br>                                Jing.Fm 创始人 施凯文 新项目                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/wu-xian-bi-zhi/id891704316?mt=8" target="_blank" rel="external">无限壁纸</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

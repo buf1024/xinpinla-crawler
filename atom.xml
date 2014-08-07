@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-08-07T01:38:01.344Z</updated>
+  <updated>2014-08-07T08:26:51.472Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -13,73 +13,6 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
-  
-  <entry>
-    <title><![CDATA[Bolt]]></title>
-    <link href="http://luoguochun.cn/2014/08/07/Bolt/"/>
-    <id>http://luoguochun.cn/2014/08/07/Bolt/</id>
-    <published>2014-08-06T16:00:00.000Z</published>
-    <updated>2014-08-06T16:49:58.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/11e0b0174fa54a9c46c769c00459bc57.png" alt=""></p>
-
-<p>大家<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/clipped/8881">猜测已久</a>的<a target="_blank" data-no-turbolink="true" href="http://bolt.instagram.com/">Bolt</a>真面目终于浮出水面——它是Instagram推出的一款以照片/短视频为主的message应用，像极了<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212667.html">TapTalk</a>+<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213017.html">Slingshot</a>+<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/snapchat">Snapchat</a>的合体。</p>
-
-<p>怎么说呢？Bolt的核心想是降低大家使用拍照工具的门槛，唯“快”不破。它基于手机通讯录（而不是Instagram或Facebook账号），用户首次添加了好友之后，后续便都可以一键点击好友头像进行拍照（快速程度和<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212667.html">Taptalk</a>非常类似），拍完的照片直接传给选择的好友，不能一次性群发多人，也不能上传相册内已有的照片。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/4a304d23886fbf7cc11fbbbe56dda541.png" alt=""></p>
-
-<p>当好友收到照片后，他可以选择用文字叠加收到的照片的形式，或者是重新拍照来回复，这一点又和以图换图的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213017.html">Slingshot</a>很像。当然，Bolt也是阅后即焚的——时下年轻人的交流频次和内容消费已经如此光速，也许我们都不再需要很“重”的留底回忆了。</p>
-
-<p>目前Bolt仅在新加坡、南非和新西兰地区的商店上架了，因为这些地区的Instagram用户最活跃也最密集，至于其他地区想尝试的用户，估计得等会了。附上Bolt在这些地区的下载地址：<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/app/id901534647">iOS</a>、<a target="_blank" data-no-turbolink="true" href="https://play.google.com/store/apps/details?id=com.instagram.bolt">Android</a>。</p>
-
-<p>我的拍照应用重度使用者同事果子之前还写过他想创业的话，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213482.html">想做一款基于 LBS和短视频，采用 Slingshot 机制的陌生人交友产品</a>，总之现在面向90后、00后的奇特拍照工具已经泛滥了，对这类产品有什么看法，欢迎交流。<br><br><section class="single-post-header"><header class="single-post-header__meta"></header></section></p>
-
-<p></p><p>  </p>
-<p>原文发表于 <a href="http://www.36kr.com/p/214186.html" target="_blank" rel="external">Instagram也出照片短视频聊天应用Bolt，像极了TapTalk+Slingshot+Snapchat合体</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://bolt.instagram.com/" target="_blank" rel="external">Bolt</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[ProcessOn]]></title>
-    <link href="http://luoguochun.cn/2014/08/07/ProcessOn/"/>
-    <id>http://luoguochun.cn/2014/08/07/ProcessOn/</id>
-    <published>2014-08-06T16:00:00.000Z</published>
-    <updated>2014-08-07T01:32:00.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/3301e9f7a148ba5751504153f7214a8a.png" alt=""></p>
-
-<p>工具云端化和协作化是个趋势。<a target="_blank" data-no-turbolink="true" href="http://www.processon.com/">ProcessOn</a>是个国内团队做的在线作图工具，支持在线创作流程图、UML图等结构化图表，可用作Visio的取代品。他们这周刚上线了新的板块，现在在ProcessOn平台上可以设计iOS界面原型图了。</p>
-
-<p>和传统工具相比，这类云端工具除了更加轻态，更重要的优势其实是多人团队协作和社区化。比如ProcessOn不只是在线工具，它同时也是能让团队围绕这些图表作品的进行协作社区。对于一份流程图或原型图，工作组员都可进行实时协作和修改，这些数据都是在云端的，不需要像使用传统工具一样进行文件的导入导出。</p>
-
-<p><img src="http://a.36krcnd.com/photo/32a6c516c2f67679f70d7562315b9c5d.png" alt=""></p>
-
-<p>ProcessOn其中的社区则是类似SlideShare的作品分享社区，这类社区其实更像一个智库。因为诸如幻灯片或是流程图、价值链图等展示作品，相比起其他文字内容而言，都是将信息高度浓缩的，知识密度较大。同时在ProcessOn社区里也可将作品设为公开模块供其他用户重新编辑和使用，而套用模板兴许未来也能成为用户的付费点。</p>
-
-<p>而ProcessOn等工具在国内的发展要抗衡的可能是用户习惯问题。这些专业图表多半是用于工作而不是娱乐消费，而目前办公团队仍多习惯于传统本地作图工具。但市场是在变化的，比如微博等大众消费产品的流行会让人们对企业在线协作平台也更具接受度。这款产品两年前上线，ProcessOn团队告诉我积累用户约有8万。</p>
-
-<p>国外同领域的类似产品还有<a target="_blank" data-no-turbolink="true" href="https://www.lucidchart.com/">Lucidchart</a>和<a target="_blank" data-no-turbolink="true" href="https://cacoo.com/lang/zh_cn/">Cacoo</a> 等。关于工具云端化我们之前还报道过另一款能帮中小团队取代Excel产品叫<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/202159.html">Fivetran</a> ，它在Excel和Matlab间找了平衡，让大规模数据分析易于操作。</p><br>                    <p></p><br>                    <p>AD：<a href="http://kdweibo.com/home?utm_source=36kr&utm_medium=keyword" target="_blank">云之家</a>，一种新的工作方式。</p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/208143.html" target="_blank" rel="external">工具在走向云端化和协作化，以在线作图和多人协作为特色的ProcessOn想取代Visio</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://processon.com/" target="_blank" rel="external">ProcessOn</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
   
   <entry>
     <title><![CDATA[InVision Design Tool]]></title>
@@ -101,6 +34,42 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/214380.html" target="_blank" rel="external">设计协作工具InVision Design Tool获2100万美元融资</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.invisionapp.com/" target="_blank" rel="external">InVision Design Tool</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[SelfStore]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/SelfStore/"/>
+    <id>http://luoguochun.cn/2014/08/07/SelfStore/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-07T08:21:15.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/286" title="查看产品详情" target="_blank" rel="external"><br>                                数字作品售卖社区，Writings.io 创始人 chloerei 新项目                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://selfstore.io/" target="_blank" rel="external">SelfStore</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Collipa]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/Collipa/"/>
+    <id>http://luoguochun.cn/2014/08/07/Collipa/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-07T08:21:16.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/373" title="查看产品详情" target="_blank" rel="external"><br>                                可能是最好的互联网社区                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://collipa.com/" target="_blank" rel="external">Collipa</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -369,6 +338,91 @@
   </entry>
   
   <entry>
+    <title><![CDATA[ProcessOn]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/ProcessOn/"/>
+    <id>http://luoguochun.cn/2014/08/07/ProcessOn/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-07T01:32:00.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/3301e9f7a148ba5751504153f7214a8a.png" alt=""></p>
+
+<p>工具云端化和协作化是个趋势。<a target="_blank" data-no-turbolink="true" href="http://www.processon.com/">ProcessOn</a>是个国内团队做的在线作图工具，支持在线创作流程图、UML图等结构化图表，可用作Visio的取代品。他们这周刚上线了新的板块，现在在ProcessOn平台上可以设计iOS界面原型图了。</p>
+
+<p>和传统工具相比，这类云端工具除了更加轻态，更重要的优势其实是多人团队协作和社区化。比如ProcessOn不只是在线工具，它同时也是能让团队围绕这些图表作品的进行协作社区。对于一份流程图或原型图，工作组员都可进行实时协作和修改，这些数据都是在云端的，不需要像使用传统工具一样进行文件的导入导出。</p>
+
+<p><img src="http://a.36krcnd.com/photo/32a6c516c2f67679f70d7562315b9c5d.png" alt=""></p>
+
+<p>ProcessOn其中的社区则是类似SlideShare的作品分享社区，这类社区其实更像一个智库。因为诸如幻灯片或是流程图、价值链图等展示作品，相比起其他文字内容而言，都是将信息高度浓缩的，知识密度较大。同时在ProcessOn社区里也可将作品设为公开模块供其他用户重新编辑和使用，而套用模板兴许未来也能成为用户的付费点。</p>
+
+<p>而ProcessOn等工具在国内的发展要抗衡的可能是用户习惯问题。这些专业图表多半是用于工作而不是娱乐消费，而目前办公团队仍多习惯于传统本地作图工具。但市场是在变化的，比如微博等大众消费产品的流行会让人们对企业在线协作平台也更具接受度。这款产品两年前上线，ProcessOn团队告诉我积累用户约有8万。</p>
+
+<p>国外同领域的类似产品还有<a target="_blank" data-no-turbolink="true" href="https://www.lucidchart.com/">Lucidchart</a>和<a target="_blank" data-no-turbolink="true" href="https://cacoo.com/lang/zh_cn/">Cacoo</a> 等。关于工具云端化我们之前还报道过另一款能帮中小团队取代Excel产品叫<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/202159.html">Fivetran</a> ，它在Excel和Matlab间找了平衡，让大规模数据分析易于操作。</p><br>                    <p></p><br>                    <p>AD：<a href="http://kdweibo.com/home?utm_source=36kr&utm_medium=keyword" target="_blank">云之家</a>，一种新的工作方式。</p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/208143.html" target="_blank" rel="external">工具在走向云端化和协作化，以在线作图和多人协作为特色的ProcessOn想取代Visio</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://processon.com/" target="_blank" rel="external">ProcessOn</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[ourjs]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/ourjs/"/>
+    <id>http://luoguochun.cn/2014/08/07/ourjs/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-07T08:21:16.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/371" title="查看产品详情" target="_blank" rel="external"><br>                                一个前后端都基于 JavaScript 的开源的博客引擎                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://github.com/newghost/ourjs" target="_blank" rel="external">ourjs</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Bolt]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/Bolt/"/>
+    <id>http://luoguochun.cn/2014/08/07/Bolt/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-06T16:49:58.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/11e0b0174fa54a9c46c769c00459bc57.png" alt=""></p>
+
+<p>大家<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/clipped/8881">猜测已久</a>的<a target="_blank" data-no-turbolink="true" href="http://bolt.instagram.com/">Bolt</a>真面目终于浮出水面——它是Instagram推出的一款以照片/短视频为主的message应用，像极了<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212667.html">TapTalk</a>+<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213017.html">Slingshot</a>+<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/snapchat">Snapchat</a>的合体。</p>
+
+<p>怎么说呢？Bolt的核心想是降低大家使用拍照工具的门槛，唯“快”不破。它基于手机通讯录（而不是Instagram或Facebook账号），用户首次添加了好友之后，后续便都可以一键点击好友头像进行拍照（快速程度和<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212667.html">Taptalk</a>非常类似），拍完的照片直接传给选择的好友，不能一次性群发多人，也不能上传相册内已有的照片。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/4a304d23886fbf7cc11fbbbe56dda541.png" alt=""></p>
+
+<p>当好友收到照片后，他可以选择用文字叠加收到的照片的形式，或者是重新拍照来回复，这一点又和以图换图的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213017.html">Slingshot</a>很像。当然，Bolt也是阅后即焚的——时下年轻人的交流频次和内容消费已经如此光速，也许我们都不再需要很“重”的留底回忆了。</p>
+
+<p>目前Bolt仅在新加坡、南非和新西兰地区的商店上架了，因为这些地区的Instagram用户最活跃也最密集，至于其他地区想尝试的用户，估计得等会了。附上Bolt在这些地区的下载地址：<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/app/id901534647">iOS</a>、<a target="_blank" data-no-turbolink="true" href="https://play.google.com/store/apps/details?id=com.instagram.bolt">Android</a>。</p>
+
+<p>我的拍照应用重度使用者同事果子之前还写过他想创业的话，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213482.html">想做一款基于 LBS和短视频，采用 Slingshot 机制的陌生人交友产品</a>，总之现在面向90后、00后的奇特拍照工具已经泛滥了，对这类产品有什么看法，欢迎交流。<br><br><section class="single-post-header"><header class="single-post-header__meta"></header></section></p>
+
+<p></p><p>  </p>
+<p>原文发表于 <a href="http://www.36kr.com/p/214186.html" target="_blank" rel="external">Instagram也出照片短视频聊天应用Bolt，像极了TapTalk+Slingshot+Snapchat合体</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://bolt.instagram.com/" target="_blank" rel="external">Bolt</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Molbase]]></title>
     <link href="http://luoguochun.cn/2014/08/06/Molbase/"/>
     <id>http://luoguochun.cn/2014/08/06/Molbase/</id>
@@ -408,82 +462,6 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/214306.html" target="_blank" rel="external">几位医药化学家创办的Molbase，想把全球化工供应链搬上Web2.0</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.molbase.com/zh/index.html" target="_blank" rel="external">Molbase</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[阿姨来了]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/%E9%98%BF%E5%A7%A8%E6%9D%A5%E4%BA%86/"/>
-    <id>http://luoguochun.cn/2014/08/06/阿姨来了/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-06T10:17:30.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/35cbdcf40d2d8676e3d7b65e90bf4389.png" alt=""></p>
-
-<p>专注于“家政经纪人”服务的<a target="_blank" data-no-turbolink="true" href="http://www.ayilaile.com/">阿姨来了</a>获得来自清科创投数百万美元A轮融资，此次融资将主要用于拓展团队，特别是帮助完善线上服务，同时优化现有的培训体系。</p>
-
-<p>CEO周袁红介绍，虽然阿姨来了有7年线下经验，店面数量多，在业内比较有优势，但做这一行的大部分人员在线上业务方面都没有什么经验。随着PC+移动端越来越重，对技术、运营等等这方面的人才需求量越来越大，所以此次融资主要是想拓展这方面的团队。</p>
-
-<p>为什么会出现家政经纪人呢？<a target="_blank" data-no-turbolink="true" href="http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5MTAwMDAyMg==&amp;amp;appmsgid=10000339&amp;amp;itemidx=1&amp;amp;sign=3b5001ef1f2db204ff0a6b18d3faf36d&amp;amp;scene=1&amp;amp;key=9467a271bcdfeb170be62ba4249177ac8f7254a0661949e2190a6e70ab0ca4be87b8962919baa09c7962643aacc75377&amp;amp;ascene=0&amp;amp;uin=NDg5MDA2NjU1&amp;amp;pass_ticket=MrTH0LIOZJubmN%2Fib65WtbyiGrdUZBDmPLkosyWQT8tUlSa786qAA%2BXyr%2FYpYbg9">周袁红曾经在接受媒体采访时介绍</a>，当前家政市场混乱的主要原因，一方面是家政服务人员流动性大，另一方面是掌握家政服务人员信息的销售人员，也就是传统家政公司的家政老师流动性大。那么，能否将家政服务人员及销售人员整合到一个平台上呢？于是，借鉴律师事务所的合伙人制以及房地产中介经纪人制，出现了家政经纪人模式。</p>
-
-<p>阿姨来了在2013年3月上线，目前家政经纪人的主要来源主要有三个方面：一是原来的家政服务员，二是有经验的销售人员，三是大学毕业生。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Leah]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214365.html" target="_blank" rel="external">“阿姨来了”获得清科创投数百万美元A轮投资，拓展团队发力线上服务</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.ayilaile.com/" target="_blank" rel="external">阿姨来了</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[秒视]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/%E7%A7%92%E8%A7%86/"/>
-    <id>http://luoguochun.cn/2014/08/06/秒视/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-05T16:22:31.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/60317f80b44a0c4a296320fca724bd0b.png" alt=""></p>
-
-<p>两个月前<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/us/app/yelp/id284910350?mt=8">Yelp</a>内测的视频点评功能已正式上线其iOS客户端（Android版本稍后推出），用户在点评时可以添加3-12 秒的视频来展示自己到店消费的经历。跟传照片是一个道理，不过视频应该能够更好地佐证文字描述吧——“更好再现餐厅、商店等的气氛，比如现场灯光、音乐都会被抓进来”。</p>
-
-<p>个人认为，这些很适合这些注重“体验式消费”的产品使用，比如<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/210799.html">饭本</a>，食色，如果其点评系统里能加入展示现场信息的短视频的话，无疑更利于人们发现满意的消费场所。</p>
-
-<p>短视频是未来趋势想必没人反对，而Yelp把它用在了娱乐以外的地方还蛮值得思考的，无独有偶，还有为淘宝卖家提供视频服务的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212006.html">粉我吧</a> &quot; 也是如此，短视频成为移动端广泛使用的一种信息展示形态并不稀奇。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214158.html" target="_blank" rel="external">短视频不局限于娱乐，点评服务Yelp正式上线3-12秒视频功能</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://catchchat.me/" target="_blank" rel="external">秒视</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[此刻：最美番茄钟]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/%E6%AD%A4%E5%88%BB%EF%BC%9A%E6%9C%80%E7%BE%8E%E7%95%AA%E8%8C%84%E9%92%9F/"/>
-    <id>http://luoguochun.cn/2014/08/06/此刻：最美番茄钟/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-05T16:22:34.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/358" title="查看产品详情" target="_blank" rel="external"><br>                                专注当下，告别拖延症！                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://itunes.apple.com/cn/app/moment-overcome-procrastination/id885381944?l=en&amp;mt=8" target="_blank" rel="external">此刻：最美番茄钟</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

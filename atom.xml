@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-08-07T08:26:51.472Z</updated>
+  <updated>2014-08-07T15:25:02.255Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -45,31 +45,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[SelfStore]]></title>
-    <link href="http://luoguochun.cn/2014/08/07/SelfStore/"/>
-    <id>http://luoguochun.cn/2014/08/07/SelfStore/</id>
+    <title><![CDATA[Worktile 让工作更简单]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/Worktile%20%E8%AE%A9%E5%B7%A5%E4%BD%9C%E6%9B%B4%E7%AE%80%E5%8D%95/"/>
+    <id>http://luoguochun.cn/2014/08/07/Worktile 让工作更简单/</id>
     <published>2014-08-06T16:00:00.000Z</published>
-    <updated>2014-08-07T08:21:15.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/286" title="查看产品详情" target="_blank" rel="external"><br>                                数字作品售卖社区，Writings.io 创始人 chloerei 新项目                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://selfstore.io/" target="_blank" rel="external">SelfStore</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Collipa]]></title>
-    <link href="http://luoguochun.cn/2014/08/07/Collipa/"/>
-    <id>http://luoguochun.cn/2014/08/07/Collipa/</id>
-    <published>2014-08-06T16:00:00.000Z</published>
-    <updated>2014-08-07T08:21:16.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/373" title="查看产品详情" target="_blank" rel="external"><br>                                可能是最好的互联网社区                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://collipa.com/" target="_blank" rel="external">Collipa</a>  </p>
+    <updated>2014-08-07T15:19:34.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/375" title="查看产品详情" target="_blank" rel="external"><br>                                敏捷高效的团队协同工具。                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://worktile.com" target="_blank" rel="external">Worktile 让工作更简单</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -302,6 +284,24 @@
   </entry>
   
   <entry>
+    <title><![CDATA[ourjs]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/ourjs/"/>
+    <id>http://luoguochun.cn/2014/08/07/ourjs/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-07T08:21:16.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/371" title="查看产品详情" target="_blank" rel="external"><br>                                一个前后端都基于 JavaScript 的开源的博客引擎                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://github.com/newghost/ourjs" target="_blank" rel="external">ourjs</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[imoji]]></title>
     <link href="http://luoguochun.cn/2014/08/07/imoji/"/>
     <id>http://luoguochun.cn/2014/08/07/imoji/</id>
@@ -309,6 +309,24 @@
     <updated>2014-08-06T16:50:00.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/361" title="查看产品详情" target="_blank" rel="external"><br>                                将你的手机照片变成手机短信里一个小又萌的 emoji 表情大头贴                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.imojiapp.com/" target="_blank" rel="external">imoji</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[SelfStore]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/SelfStore/"/>
+    <id>http://luoguochun.cn/2014/08/07/SelfStore/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-07T08:21:15.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/286" title="查看产品详情" target="_blank" rel="external"><br>                                数字作品售卖社区，Writings.io 创始人 chloerei 新项目                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://selfstore.io/" target="_blank" rel="external">SelfStore</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -372,96 +390,31 @@
   </entry>
   
   <entry>
-    <title><![CDATA[ourjs]]></title>
-    <link href="http://luoguochun.cn/2014/08/07/ourjs/"/>
-    <id>http://luoguochun.cn/2014/08/07/ourjs/</id>
+    <title><![CDATA[小金理财]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/%E5%B0%8F%E9%87%91%E7%90%86%E8%B4%A2/"/>
+    <id>http://luoguochun.cn/2014/08/07/小金理财/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-07T15:19:34.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/374" title="查看产品详情" target="_blank" rel="external"><br>                                余额宝一样的玩法！收益是固定年化8%                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.xiaojinlicai.com/" target="_blank" rel="external">小金理财</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Collipa]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/Collipa/"/>
+    <id>http://luoguochun.cn/2014/08/07/Collipa/</id>
     <published>2014-08-06T16:00:00.000Z</published>
     <updated>2014-08-07T08:21:16.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/371" title="查看产品详情" target="_blank" rel="external"><br>                                一个前后端都基于 JavaScript 的开源的博客引擎                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://github.com/newghost/ourjs" target="_blank" rel="external">ourjs</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Bolt]]></title>
-    <link href="http://luoguochun.cn/2014/08/07/Bolt/"/>
-    <id>http://luoguochun.cn/2014/08/07/Bolt/</id>
-    <published>2014-08-06T16:00:00.000Z</published>
-    <updated>2014-08-06T16:49:58.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/11e0b0174fa54a9c46c769c00459bc57.png" alt=""></p>
-
-<p>大家<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/clipped/8881">猜测已久</a>的<a target="_blank" data-no-turbolink="true" href="http://bolt.instagram.com/">Bolt</a>真面目终于浮出水面——它是Instagram推出的一款以照片/短视频为主的message应用，像极了<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212667.html">TapTalk</a>+<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213017.html">Slingshot</a>+<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/snapchat">Snapchat</a>的合体。</p>
-
-<p>怎么说呢？Bolt的核心想是降低大家使用拍照工具的门槛，唯“快”不破。它基于手机通讯录（而不是Instagram或Facebook账号），用户首次添加了好友之后，后续便都可以一键点击好友头像进行拍照（快速程度和<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212667.html">Taptalk</a>非常类似），拍完的照片直接传给选择的好友，不能一次性群发多人，也不能上传相册内已有的照片。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/4a304d23886fbf7cc11fbbbe56dda541.png" alt=""></p>
-
-<p>当好友收到照片后，他可以选择用文字叠加收到的照片的形式，或者是重新拍照来回复，这一点又和以图换图的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213017.html">Slingshot</a>很像。当然，Bolt也是阅后即焚的——时下年轻人的交流频次和内容消费已经如此光速，也许我们都不再需要很“重”的留底回忆了。</p>
-
-<p>目前Bolt仅在新加坡、南非和新西兰地区的商店上架了，因为这些地区的Instagram用户最活跃也最密集，至于其他地区想尝试的用户，估计得等会了。附上Bolt在这些地区的下载地址：<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/app/id901534647">iOS</a>、<a target="_blank" data-no-turbolink="true" href="https://play.google.com/store/apps/details?id=com.instagram.bolt">Android</a>。</p>
-
-<p>我的拍照应用重度使用者同事果子之前还写过他想创业的话，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213482.html">想做一款基于 LBS和短视频，采用 Slingshot 机制的陌生人交友产品</a>，总之现在面向90后、00后的奇特拍照工具已经泛滥了，对这类产品有什么看法，欢迎交流。<br><br><section class="single-post-header"><header class="single-post-header__meta"></header></section></p>
-
-<p></p><p>  </p>
-<p>原文发表于 <a href="http://www.36kr.com/p/214186.html" target="_blank" rel="external">Instagram也出照片短视频聊天应用Bolt，像极了TapTalk+Slingshot+Snapchat合体</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://bolt.instagram.com/" target="_blank" rel="external">Bolt</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Molbase]]></title>
-    <link href="http://luoguochun.cn/2014/08/06/Molbase/"/>
-    <id>http://luoguochun.cn/2014/08/06/Molbase/</id>
-    <published>2014-08-05T16:00:00.000Z</published>
-    <updated>2014-08-05T16:22:37.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/99c88c250d1615c33061c03842c0a70a.jpg" alt=""></p>
-
-<p>虽然互联网本身就是科研的一个副产品，但是科学家创办互联网创业公司还是不多见。象牙塔里舒适的环境、大公司丰厚的薪水，都很容易消磨掉他们出来试一试的念头。</p>
-
-<p>所以常东亮2011年刚开始做<a target="_blank" data-no-turbolink="true" href="http://www.molbase.com/zh/index.html">Molbase化合物数据库</a>的时候，根本就没想过自己要创办一家公司。“<strong>最初只是面向科研机构的一个信息分享平台</strong>”，这位前中科院嘉兴应用化学工程中心主任、“千人计划”科学家告诉<span>36氪</span>。</p>
-
-<p>化合物中间体是整个医药化工行业的基石，有1.5万亿美元的市场，三分之一的供应和11%的需求在中国。但是长期以来供应链的透明度太低，无论是采购还是生产都是很小的圈子，信息交换靠行业交流会。</p>
-
-<p>“中间程序太多，有时候不知道向谁采购，找到了也容易遇到漫天要价”，常东亮说，“当时我在做医药外包，所以有这样的信息需求”。但是直到2013年，有贸易公司提出要全盘收购，常东亮才看到了其中的商业价值。于是三位生物医药化学背景的博士和两位技术、管理人员创办了今天的Molbase。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/ff064a798b9e4972e94c4d91b834d4ce.jpg" alt=""></p>
-
-<p>Molbase目前已经收录了1400万种化合物中间体的详细信息和价格，占现存全部SKU的70%。根据Molbase的算法还可以推算上亿种衍生SKU的价格并推荐可能的供应商。已经有有一万多家采购商和9000多家供应商入驻。一位中科院化物所的博士使用了Molbase之后告诉<span>36氪</span>，<strong>虽然推荐的供应商不是自己常用的，但是感觉确实很方便。</strong></p>
-
-<p>除了化合物的搜索引擎和B2B服务平台，Molbase甚至还<a target="_blank" data-no-turbolink="true" href="http://www.molbase.com/finance.html">为供应商提供金融服务</a>。“因为采购方通常要求账期，很多中小供应商有融资的需求。而且行业利润率较高，用比较小的资金就可以撬动交易”，常东亮表示他们负责金融服务的团队只有3个人，主要任务是核查供应商资质，资金是由国内P2P平台提供的。</p>
-
-<p>Molbase目前的收入分为三部分，一部分是询单手续费（在Molbase上查看信息是免费的，但是收到采购方的询单是需要20元/次的费用），一部分是订单确认后的佣金抽成，最后是金融服务的息差。今年年初Molbase获得创新工场和挚信资本数百万美元的A轮融资，上线后四个月的流水已经超过了1亿元。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/2e31279190479970ae292af1cd45a8b6.jpg" alt=""></p>
-
-<p>“你们不像一般的创业公司，好像有非常明确的顶层设计，把整个交易流程所有的环节都做了”。</p>
-
-<p>“因为实体工业和互联网的结合还是蓝海”，常东亮对Molbase非常有信心，“我们一开始就把市场的几块业务想好了。国内其他的平台还停留在Web1.0时代，提供一些文本的信息，商业模式就是收会员费”。像Molbase这样把<strong>化合物和官能团当做底层数据的Web2.0模式</strong>，对手还都没有跟进。国外有Thomson Reuters Newport类似的信息平台，但是一个查询端口的年费就是4万美元。</p>
-
-<p>被互联网的台风吹起俯视传统行业的感觉很好，但是短时间内很难招到合适的人也是一个头疼的问题。Molbase目前的办法是找码农来培训一下医药化学相关的知识就上岗，但是他们更<strong>希望招到生物化学科班出身又懂CS的人。</strong></p>
-
-<p>“我们开的工资很高，但是很多人还是不愿意来创业公司”，常东亮告诉<span>36氪</span>，“其实符合条件的人不少。过去几年中国学生物的学生都找不到工作，很多人就学了点计算机去互联网公司了。”</p>
-
-<p>“对啊，我虽然不太懂生化，但是觉得<strong>冯大辉就挺符合你们的要求，不考虑一下他吗</strong>？”</p><br>                    <p>[<span>36氪</span>原创文章，作者: Zuo]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214306.html" target="_blank" rel="external">几位医药化学家创办的Molbase，想把全球化工供应链搬上Web2.0</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.molbase.com/zh/index.html" target="_blank" rel="external">Molbase</a>  </p>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/373" title="查看产品详情" target="_blank" rel="external"><br>                                可能是最好的互联网社区                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://collipa.com/" target="_blank" rel="external">Collipa</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

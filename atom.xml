@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-08-07T22:15:13.850Z</updated>
+  <updated>2014-08-08T05:25:19.424Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -13,6 +13,24 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[别颓啦]]></title>
+    <link href="http://luoguochun.cn/2014/08/08/%E5%88%AB%E9%A2%93%E5%95%A6/"/>
+    <id>http://luoguochun.cn/2014/08/08/别颓啦/</id>
+    <published>2014-08-07T16:00:00.000Z</published>
+    <updated>2014-08-08T05:19:40.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/376" title="查看产品详情" target="_blank" rel="external"><br>                                把你不自觉就想上的网站加入黑名单，想要访问，先背五个单词先                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.bietui.la/" target="_blank" rel="external">别颓啦</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[阿姨来了]]></title>
@@ -272,57 +290,6 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Collipa]]></title>
-    <link href="http://luoguochun.cn/2014/08/07/Collipa/"/>
-    <id>http://luoguochun.cn/2014/08/07/Collipa/</id>
-    <published>2014-08-06T16:00:00.000Z</published>
-    <updated>2014-08-07T08:21:16.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/373" title="查看产品详情" target="_blank" rel="external"><br>                                可能是最好的互联网社区                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://collipa.com/" target="_blank" rel="external">Collipa</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Bolt]]></title>
-    <link href="http://luoguochun.cn/2014/08/07/Bolt/"/>
-    <id>http://luoguochun.cn/2014/08/07/Bolt/</id>
-    <published>2014-08-06T16:00:00.000Z</published>
-    <updated>2014-08-06T16:49:58.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/11e0b0174fa54a9c46c769c00459bc57.png" alt=""></p>
-
-<p>大家<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/clipped/8881">猜测已久</a>的<a target="_blank" data-no-turbolink="true" href="http://bolt.instagram.com/">Bolt</a>真面目终于浮出水面——它是Instagram推出的一款以照片/短视频为主的message应用，像极了<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212667.html">TapTalk</a>+<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213017.html">Slingshot</a>+<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/tag/snapchat">Snapchat</a>的合体。</p>
-
-<p>怎么说呢？Bolt的核心想是降低大家使用拍照工具的门槛，唯“快”不破。它基于手机通讯录（而不是Instagram或Facebook账号），用户首次添加了好友之后，后续便都可以一键点击好友头像进行拍照（快速程度和<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/212667.html">Taptalk</a>非常类似），拍完的照片直接传给选择的好友，不能一次性群发多人，也不能上传相册内已有的照片。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/4a304d23886fbf7cc11fbbbe56dda541.png" alt=""></p>
-
-<p>当好友收到照片后，他可以选择用文字叠加收到的照片的形式，或者是重新拍照来回复，这一点又和以图换图的<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213017.html">Slingshot</a>很像。当然，Bolt也是阅后即焚的——时下年轻人的交流频次和内容消费已经如此光速，也许我们都不再需要很“重”的留底回忆了。</p>
-
-<p>目前Bolt仅在新加坡、南非和新西兰地区的商店上架了，因为这些地区的Instagram用户最活跃也最密集，至于其他地区想尝试的用户，估计得等会了。附上Bolt在这些地区的下载地址：<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/app/id901534647">iOS</a>、<a target="_blank" data-no-turbolink="true" href="https://play.google.com/store/apps/details?id=com.instagram.bolt">Android</a>。</p>
-
-<p>我的拍照应用重度使用者同事果子之前还写过他想创业的话，<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/213482.html">想做一款基于 LBS和短视频，采用 Slingshot 机制的陌生人交友产品</a>，总之现在面向90后、00后的奇特拍照工具已经泛滥了，对这类产品有什么看法，欢迎交流。<br><br><section class="single-post-header"><header class="single-post-header__meta"></header></section></p>
-
-<p></p><p>  </p>
-<p>原文发表于 <a href="http://www.36kr.com/p/214186.html" target="_blank" rel="external">Instagram也出照片短视频聊天应用Bolt，像极了TapTalk+Slingshot+Snapchat合体</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://bolt.instagram.com/" target="_blank" rel="external">Bolt</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
     <title><![CDATA[阿姨来了]]></title>
     <link href="http://luoguochun.cn/2014/08/07/%E9%98%BF%E5%A7%A8%E6%9D%A5%E4%BA%86/"/>
     <id>http://luoguochun.cn/2014/08/07/阿姨来了/</id>
@@ -400,13 +367,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[知嘛官网]]></title>
-    <link href="http://luoguochun.cn/2014/08/07/%E7%9F%A5%E5%98%9B%E5%AE%98%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/08/07/知嘛官网/</id>
+    <title><![CDATA[Collipa]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/Collipa/"/>
+    <id>http://luoguochun.cn/2014/08/07/Collipa/</id>
     <published>2014-08-06T16:00:00.000Z</published>
-    <updated>2014-08-06T16:49:55.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/366" title="查看产品详情" target="_blank" rel="external"><br>                                互动知识pk，没节操讨论，看你有没有才                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.zhima321.com/" target="_blank" rel="external">知嘛官网</a>  </p>
+    <updated>2014-08-07T08:21:16.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/373" title="查看产品详情" target="_blank" rel="external"><br>                                可能是最好的互联网社区                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://collipa.com/" target="_blank" rel="external">Collipa</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -443,6 +410,24 @@
     <updated>2014-08-06T16:49:59.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/346" title="查看产品详情" target="_blank" rel="external"><br>                                3D壁纸                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.3dbizhi.com/" target="_blank" rel="external">梦象壁纸</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[最美壁纸]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/%E6%9C%80%E7%BE%8E%E5%A3%81%E7%BA%B8/"/>
+    <id>http://luoguochun.cn/2014/08/07/最美壁纸/</id>
+    <published>2014-08-06T16:00:00.000Z</published>
+    <updated>2014-08-06T16:49:59.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/362" title="查看产品详情" target="_blank" rel="external"><br>                                情感化设计的壁纸应用——每天的优雅邂逅！                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://lab.zuimeia.com/app/" target="_blank" rel="external">最美壁纸</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

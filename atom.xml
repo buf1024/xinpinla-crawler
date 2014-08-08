@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-08-08T05:25:19.424Z</updated>
+  <updated>2014-08-08T12:30:06.769Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,65 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[别颓啦]]></title>
-    <link href="http://luoguochun.cn/2014/08/08/%E5%88%AB%E9%A2%93%E5%95%A6/"/>
-    <id>http://luoguochun.cn/2014/08/08/别颓啦/</id>
+    <title><![CDATA[“豆瓣” APP]]></title>
+    <link href="http://luoguochun.cn/2014/08/08/%E2%80%9C%E8%B1%86%E7%93%A3%E2%80%9D%20APP/"/>
+    <id>http://luoguochun.cn/2014/08/08/“豆瓣” APP/</id>
     <published>2014-08-07T16:00:00.000Z</published>
-    <updated>2014-08-08T05:19:40.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/376" title="查看产品详情" target="_blank" rel="external"><br>                                把你不自觉就想上的网站加入黑名单，想要访问，先背五个单词先                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.bietui.la/" target="_blank" rel="external">别颓啦</a>  </p>
+    <updated>2014-08-08T12:24:10.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/13246d7b4daa88d921d29ac20e4f4698.jpg" alt=""></p>
+
+<p>今天有幸收到了内测豆邮—豆瓣出App了。在一大波豆瓣XX之后，豆瓣终于出了一款真正意义上的移动端产品，真正将最初豆瓣Web端体验移动端化的产品—豆瓣App。因为它之前推出的一系列豆瓣XX产品大都是大豆瓣的各个频道由PC端向移动端的平移，对于经典豆瓣用户而言，在各个应用之间跳来跳去实在是一件没法收拾的事。这个时候，豆瓣App的出现不免让大家觉得有些姗姗来迟，感觉8800万豆瓣用户终于能在移动端汇合了。</p>
+
+<p>豆瓣App跟Web端豆瓣重合的地方主要在于书、影、音和活动，看得出是大豆瓣的精简版，这些也是主流用户群体的核心需求，设计上继承了豆瓣向来的简洁明了。功能上讲，它完全可以解决用户发现、搜索最新书、影、音及活动的需求，用户可以很方便得查看平台上的评分和评论。“电影”“电视剧”的标签页被放在了最显眼的位置。</p>
+
+<p>非常重要的一点是，豆瓣还有加入了移动实进讨论的特性，点击某一电影或书，点击右下方的“加入讨论”按钮即可加入在线群组，这点还是非常有潜力做移动端兴趣社交的。这种感觉跟做以兴趣社交做IM群组的<a target="_blank" data-no-turbolink="true" href="http://%E5%8F%8B%E7%BE%A4">友群</a>有些相像，不过豆瓣这方面的基因是其它选手比不得的。</p>
+
+<p><img src="http://a.36krcnd.com/photo/2014/7edbe4e40f4330c950f8b1ee880e9aca.jpg" alt=""></p>
+
+<p>目前，“电影”“活动”标签页并不像Web端那样能够购买电影票和活动票，个人认为，豆瓣以后可能会砍掉豆瓣电影、同城这两款独立应用，因为在豆瓣App中加入购买功能并不会把主应用弄得很重。不过这只是豆瓣App 1.0产品，随后定会有许多迭代，小组、广播、日记相册这些都是PC端豆瓣的社区属性频道，想必也会以更为精简的频道并入豆瓣App。</p>
+
+<p>豆瓣App算是“豆瓣XX”们向大豆瓣回归的一种方式吧，对那些需要深入服务的用户需求而言，比如豆瓣FM、豆瓣阅读、一刻、东西等等则更适合以独立 App的形式存在。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
+
+
+
+<p>原文发表于 <a href="http://www.36kr.com/p/214229.html" target="_blank" rel="external">大豆瓣在移动端回归了—豆瓣App终于现身，引入了IM形式的即时讨论功能</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.douban.com/doubanapp/" target="_blank" rel="external">“豆瓣” APP</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[WDK.PW]]></title>
+    <link href="http://luoguochun.cn/2014/08/08/WDK.PW/"/>
+    <id>http://luoguochun.cn/2014/08/08/WDK.PW/</id>
+    <published>2014-08-07T16:00:00.000Z</published>
+    <updated>2014-08-08T12:24:09.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/197" title="查看产品详情" target="_blank" rel="external"><br>                                当代中国大学生的共同创作独立博客                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.wdk.pw/499.html" target="_blank" rel="external">WDK.PW</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[App Icons Creat Tool]]></title>
+    <link href="http://luoguochun.cn/2014/08/08/App%20Icons%20Creat%20Tool/"/>
+    <id>http://luoguochun.cn/2014/08/08/App Icons Creat Tool/</id>
+    <published>2014-08-07T16:00:00.000Z</published>
+    <updated>2014-08-08T12:24:16.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/377" title="查看产品详情" target="_blank" rel="external"><br>                                一键创建 iOS APP icons                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://ios.b2mp.cn/tools" target="_blank" rel="external">App Icons Creat Tool</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -118,24 +170,6 @@
   </entry>
   
   <entry>
-    <title><![CDATA[小金理财]]></title>
-    <link href="http://luoguochun.cn/2014/08/08/%E5%B0%8F%E9%87%91%E7%90%86%E8%B4%A2/"/>
-    <id>http://luoguochun.cn/2014/08/08/小金理财/</id>
-    <published>2014-08-07T16:00:00.000Z</published>
-    <updated>2014-08-07T22:09:23.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/374" title="查看产品详情" target="_blank" rel="external"><br>                                余额宝一样的玩法！收益是固定年化8%                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.xiaojinlicai.com/" target="_blank" rel="external">小金理财</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
     <title><![CDATA[InVision Design Tool]]></title>
     <link href="http://luoguochun.cn/2014/08/08/InVision%20Design%20Tool/"/>
     <id>http://luoguochun.cn/2014/08/08/InVision Design Tool/</id>
@@ -155,6 +189,42 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/214380.html" target="_blank" rel="external">设计协作工具InVision Design Tool获2100万美元融资</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.invisionapp.com/" target="_blank" rel="external">InVision Design Tool</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[别颓啦]]></title>
+    <link href="http://luoguochun.cn/2014/08/08/%E5%88%AB%E9%A2%93%E5%95%A6/"/>
+    <id>http://luoguochun.cn/2014/08/08/别颓啦/</id>
+    <published>2014-08-07T16:00:00.000Z</published>
+    <updated>2014-08-08T05:19:40.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/376" title="查看产品详情" target="_blank" rel="external"><br>                                把你不自觉就想上的网站加入黑名单，想要访问，先背五个单词先                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.bietui.la/" target="_blank" rel="external">别颓啦</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[ourjs]]></title>
+    <link href="http://luoguochun.cn/2014/08/08/ourjs/"/>
+    <id>http://luoguochun.cn/2014/08/08/ourjs/</id>
+    <published>2014-08-07T16:00:00.000Z</published>
+    <updated>2014-08-07T22:09:24.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/371" title="查看产品详情" target="_blank" rel="external"><br>                                一个前后端都基于 JavaScript 的开源的博客引擎                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://github.com/newghost/ourjs" target="_blank" rel="external">ourjs</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -272,13 +342,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[ourjs]]></title>
-    <link href="http://luoguochun.cn/2014/08/08/ourjs/"/>
-    <id>http://luoguochun.cn/2014/08/08/ourjs/</id>
+    <title><![CDATA[小金理财]]></title>
+    <link href="http://luoguochun.cn/2014/08/08/%E5%B0%8F%E9%87%91%E7%90%86%E8%B4%A2/"/>
+    <id>http://luoguochun.cn/2014/08/08/小金理财/</id>
     <published>2014-08-07T16:00:00.000Z</published>
-    <updated>2014-08-07T22:09:24.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/371" title="查看产品详情" target="_blank" rel="external"><br>                                一个前后端都基于 JavaScript 的开源的博客引擎                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://github.com/newghost/ourjs" target="_blank" rel="external">ourjs</a>  </p>
+    <updated>2014-08-07T22:09:23.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/374" title="查看产品详情" target="_blank" rel="external"><br>                                余额宝一样的玩法！收益是固定年化8%                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.xiaojinlicai.com/" target="_blank" rel="external">小金理财</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -367,67 +437,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Collipa]]></title>
-    <link href="http://luoguochun.cn/2014/08/07/Collipa/"/>
-    <id>http://luoguochun.cn/2014/08/07/Collipa/</id>
+    <title><![CDATA[知嘛官网]]></title>
+    <link href="http://luoguochun.cn/2014/08/07/%E7%9F%A5%E5%98%9B%E5%AE%98%E7%BD%91/"/>
+    <id>http://luoguochun.cn/2014/08/07/知嘛官网/</id>
     <published>2014-08-06T16:00:00.000Z</published>
-    <updated>2014-08-07T08:21:16.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/373" title="查看产品详情" target="_blank" rel="external"><br>                                可能是最好的互联网社区                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://collipa.com/" target="_blank" rel="external">Collipa</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[梧桐理财网]]></title>
-    <link href="http://luoguochun.cn/2014/08/07/%E6%A2%A7%E6%A1%90%E7%90%86%E8%B4%A2%E7%BD%91/"/>
-    <id>http://luoguochun.cn/2014/08/07/梧桐理财网/</id>
-    <published>2014-08-06T16:00:00.000Z</published>
-    <updated>2014-08-06T16:49:56.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/363" title="查看产品详情" target="_blank" rel="external"><br>                                每日付息的创意理财平台                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.91wutong.com" target="_blank" rel="external">梧桐理财网</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[梦象壁纸]]></title>
-    <link href="http://luoguochun.cn/2014/08/07/%E6%A2%A6%E8%B1%A1%E5%A3%81%E7%BA%B8/"/>
-    <id>http://luoguochun.cn/2014/08/07/梦象壁纸/</id>
-    <published>2014-08-06T16:00:00.000Z</published>
-    <updated>2014-08-06T16:49:59.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/346" title="查看产品详情" target="_blank" rel="external"><br>                                3D壁纸                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.3dbizhi.com/" target="_blank" rel="external">梦象壁纸</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[最美壁纸]]></title>
-    <link href="http://luoguochun.cn/2014/08/07/%E6%9C%80%E7%BE%8E%E5%A3%81%E7%BA%B8/"/>
-    <id>http://luoguochun.cn/2014/08/07/最美壁纸/</id>
-    <published>2014-08-06T16:00:00.000Z</published>
-    <updated>2014-08-06T16:49:59.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/362" title="查看产品详情" target="_blank" rel="external"><br>                                情感化设计的壁纸应用——每天的优雅邂逅！                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://lab.zuimeia.com/app/" target="_blank" rel="external">最美壁纸</a>  </p>
+    <updated>2014-08-06T16:49:55.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/366" title="查看产品详情" target="_blank" rel="external"><br>                                互动知识pk，没节操讨论，看你有没有才                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.zhima321.com/" target="_blank" rel="external">知嘛官网</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

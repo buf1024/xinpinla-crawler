@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-08-08T19:46:30.600Z</updated>
+  <updated>2014-08-09T03:07:48.569Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -13,6 +13,24 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[scuinfo]]></title>
+    <link href="http://luoguochun.cn/2014/08/09/scuinfo/"/>
+    <id>http://luoguochun.cn/2014/08/09/scuinfo/</id>
+    <published>2014-08-08T16:00:00.000Z</published>
+    <updated>2014-08-09T03:01:55.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/379" title="查看产品详情" target="_blank" rel="external"><br>                                for四川大学 学生-                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://scuinfo.com" target="_blank" rel="external">scuinfo</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[知嘛]]></title>
@@ -406,24 +424,6 @@
 
 <p>原文发表于 <a href="http://www.36kr.com/p/214229.html" target="_blank" rel="external">大豆瓣在移动端回归了—豆瓣App终于现身，引入了IM形式的即时讨论功能</a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.douban.com/doubanapp/" target="_blank" rel="external">“豆瓣” APP</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[ourjs]]></title>
-    <link href="http://luoguochun.cn/2014/08/08/ourjs/"/>
-    <id>http://luoguochun.cn/2014/08/08/ourjs/</id>
-    <published>2014-08-07T16:00:00.000Z</published>
-    <updated>2014-08-07T22:09:24.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/371" title="查看产品详情" target="_blank" rel="external"><br>                                一个前后端都基于 JavaScript 的开源的博客引擎                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://github.com/newghost/ourjs" target="_blank" rel="external">ourjs</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

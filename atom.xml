@@ -4,7 +4,7 @@
   <subtitle><![CDATA[创意事物，发现新品，科技改变生活]]></subtitle>
   <link href="/xinpinla-crawler/atom.xml" rel="self"/>
   <link href="http://luoguochun.cn/"/>
-  <updated>2014-08-09T03:07:48.569Z</updated>
+  <updated>2014-08-09T10:31:13.056Z</updated>
   <id>http://luoguochun.cn/</id>
   
   <author>
@@ -15,13 +15,13 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[scuinfo]]></title>
-    <link href="http://luoguochun.cn/2014/08/09/scuinfo/"/>
-    <id>http://luoguochun.cn/2014/08/09/scuinfo/</id>
+    <title><![CDATA[拍藏品]]></title>
+    <link href="http://luoguochun.cn/2014/08/09/%E6%8B%8D%E8%97%8F%E5%93%81/"/>
+    <id>http://luoguochun.cn/2014/08/09/拍藏品/</id>
     <published>2014-08-08T16:00:00.000Z</published>
-    <updated>2014-08-09T03:01:55.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/379" title="查看产品详情" target="_blank" rel="external"><br>                                for四川大学 学生-                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="http://scuinfo.com" target="_blank" rel="external">scuinfo</a>  </p>
+    <updated>2014-08-09T10:25:21.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/380" title="查看产品详情" target="_blank" rel="external"><br>                                收藏品线上拍卖网站                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.paicangpin.com/" target="_blank" rel="external">拍藏品</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -121,13 +121,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[ourjs]]></title>
-    <link href="http://luoguochun.cn/2014/08/09/ourjs/"/>
-    <id>http://luoguochun.cn/2014/08/09/ourjs/</id>
+    <title><![CDATA[scuinfo]]></title>
+    <link href="http://luoguochun.cn/2014/08/09/scuinfo/"/>
+    <id>http://luoguochun.cn/2014/08/09/scuinfo/</id>
     <published>2014-08-08T16:00:00.000Z</published>
-    <updated>2014-08-08T19:40:37.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/371" title="查看产品详情" target="_blank" rel="external"><br>                                一个前后端都基于 JavaScript 的开源的博客引擎                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://github.com/newghost/ourjs" target="_blank" rel="external">ourjs</a>  </p>
+    <updated>2014-08-09T03:01:55.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/379" title="查看产品详情" target="_blank" rel="external"><br>                                for四川大学 学生-                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="http://scuinfo.com" target="_blank" rel="external">scuinfo</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -146,6 +146,24 @@
     <updated>2014-08-08T19:40:38.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/373" title="查看产品详情" target="_blank" rel="external"><br>                                可能是最好的互联网社区                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://collipa.com/" target="_blank" rel="external">Collipa</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Worktile 让工作更简单]]></title>
+    <link href="http://luoguochun.cn/2014/08/09/Worktile%20%E8%AE%A9%E5%B7%A5%E4%BD%9C%E6%9B%B4%E7%AE%80%E5%8D%95/"/>
+    <id>http://luoguochun.cn/2014/08/09/Worktile 让工作更简单/</id>
+    <published>2014-08-08T16:00:00.000Z</published>
+    <updated>2014-08-08T19:40:38.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/375" title="查看产品详情" target="_blank" rel="external"><br>                                敏捷高效的团队协同工具。                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://worktile.com" target="_blank" rel="external">Worktile 让工作更简单</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -263,43 +281,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Worktile 让工作更简单]]></title>
-    <link href="http://luoguochun.cn/2014/08/09/Worktile%20%E8%AE%A9%E5%B7%A5%E4%BD%9C%E6%9B%B4%E7%AE%80%E5%8D%95/"/>
-    <id>http://luoguochun.cn/2014/08/09/Worktile 让工作更简单/</id>
+    <title><![CDATA[ourjs]]></title>
+    <link href="http://luoguochun.cn/2014/08/09/ourjs/"/>
+    <id>http://luoguochun.cn/2014/08/09/ourjs/</id>
     <published>2014-08-08T16:00:00.000Z</published>
-    <updated>2014-08-08T19:40:38.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/375" title="查看产品详情" target="_blank" rel="external"><br>                                敏捷高效的团队协同工具。                            </a>  </p>
-<p>更多详情请参考相关网站 <a href="https://worktile.com" target="_blank" rel="external">Worktile 让工作更简单</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[阿姨来了]]></title>
-    <link href="http://luoguochun.cn/2014/08/08/%E9%98%BF%E5%A7%A8%E6%9D%A5%E4%BA%86/"/>
-    <id>http://luoguochun.cn/2014/08/08/阿姨来了/</id>
-    <published>2014-08-07T16:00:00.000Z</published>
-    <updated>2014-08-07T22:09:27.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/35cbdcf40d2d8676e3d7b65e90bf4389.png" alt=""></p>
-
-<p>专注于“家政经纪人”服务的<a target="_blank" data-no-turbolink="true" href="http://www.ayilaile.com/">阿姨来了</a>获得来自清科创投数百万美元A轮融资，此次融资将主要用于拓展团队，特别是帮助完善线上服务，同时优化现有的培训体系。</p>
-
-<p>CEO周袁红介绍，虽然阿姨来了有7年线下经验，店面数量多，在业内比较有优势，但做这一行的大部分人员在线上业务方面都没有什么经验。随着PC+移动端越来越重，对技术、运营等等这方面的人才需求量越来越大，所以此次融资主要是想拓展这方面的团队。</p>
-
-<p>为什么会出现家政经纪人呢？<a target="_blank" data-no-turbolink="true" href="http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5MTAwMDAyMg==&amp;amp;appmsgid=10000339&amp;amp;itemidx=1&amp;amp;sign=3b5001ef1f2db204ff0a6b18d3faf36d&amp;amp;scene=1&amp;amp;key=9467a271bcdfeb170be62ba4249177ac8f7254a0661949e2190a6e70ab0ca4be87b8962919baa09c7962643aacc75377&amp;amp;ascene=0&amp;amp;uin=NDg5MDA2NjU1&amp;amp;pass_ticket=MrTH0LIOZJubmN%2Fib65WtbyiGrdUZBDmPLkosyWQT8tUlSa786qAA%2BXyr%2FYpYbg9">周袁红曾经在接受媒体采访时介绍</a>，当前家政市场混乱的主要原因，一方面是家政服务人员流动性大，另一方面是掌握家政服务人员信息的销售人员，也就是传统家政公司的家政老师流动性大。那么，能否将家政服务人员及销售人员整合到一个平台上呢？于是，借鉴律师事务所的合伙人制以及房地产中介经纪人制，出现了家政经纪人模式。</p>
-
-<p>阿姨来了在2013年3月上线，目前家政经纪人的主要来源主要有三个方面：一是原来的家政服务员，二是有经验的销售人员，三是大学毕业生。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Leah]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214365.html" target="_blank" rel="external">“阿姨来了”获得清科创投数百万美元A轮投资，拓展团队发力线上服务</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.ayilaile.com/" target="_blank" rel="external">阿姨来了</a>  </p>
+    <updated>2014-08-08T19:40:37.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/371" title="查看产品详情" target="_blank" rel="external"><br>                                一个前后端都基于 JavaScript 的开源的博客引擎                            </a>  </p>
+<p>更多详情请参考相关网站 <a href="https://github.com/newghost/ourjs" target="_blank" rel="external">ourjs</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -318,6 +306,25 @@
     <updated>2014-08-07T22:09:23.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/373" title="查看产品详情" target="_blank" rel="external"><br>                                可能是最好的互联网社区                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://collipa.com/" target="_blank" rel="external">Collipa</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+]]></content>
+    
+    
+      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
+    
+      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[行程管家]]></title>
+    <link href="http://luoguochun.cn/2014/08/08/%E8%A1%8C%E7%A8%8B%E7%AE%A1%E5%AE%B6/"/>
+    <id>http://luoguochun.cn/2014/08/08/行程管家/</id>
+    <published>2014-08-07T16:00:00.000Z</published>
+    <updated>2014-08-07T22:09:26.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/365" title="查看产品详情" target="_blank" rel="external"></a></p>
+<pre><code>                            <span class="comment">#做您最贴心的旅行小管家，帮你打理行程单！#                             &lt;/a&gt;  </span>
+</code></pre><p>更多详情请参考相关网站 <a href="http://app.mi.com/detail/65877" target="_blank" rel="external">行程管家</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     
@@ -390,40 +397,6 @@
     <updated>2014-08-08T05:19:40.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://xinpinla.com/product/376" title="查看产品详情" target="_blank" rel="external"><br>                                把你不自觉就想上的网站加入黑名单，想要访问，先背五个单词先                            </a>  </p>
 <p>更多详情请参考相关网站 <a href="http://www.bietui.la/" target="_blank" rel="external">别颓啦</a>  </p>
-<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
-]]></content>
-    
-    
-      <category term="创意事物" scheme="http://luoguochun.cn/tags/%E5%88%9B%E6%84%8F%E4%BA%8B%E7%89%A9/"/>
-    
-      <category term="网摘" scheme="http://luoguochun.cn/categories/%E7%BD%91%E6%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[“豆瓣” APP]]></title>
-    <link href="http://luoguochun.cn/2014/08/08/%E2%80%9C%E8%B1%86%E7%93%A3%E2%80%9D%20APP/"/>
-    <id>http://luoguochun.cn/2014/08/08/“豆瓣” APP/</id>
-    <published>2014-08-07T16:00:00.000Z</published>
-    <updated>2014-08-08T12:24:10.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://a.36krcnd.com/photo/2014/13246d7b4daa88d921d29ac20e4f4698.jpg" alt=""></p>
-
-<p>今天有幸收到了内测豆邮—豆瓣出App了。在一大波豆瓣XX之后，豆瓣终于出了一款真正意义上的移动端产品，真正将最初豆瓣Web端体验移动端化的产品—豆瓣App。因为它之前推出的一系列豆瓣XX产品大都是大豆瓣的各个频道由PC端向移动端的平移，对于经典豆瓣用户而言，在各个应用之间跳来跳去实在是一件没法收拾的事。这个时候，豆瓣App的出现不免让大家觉得有些姗姗来迟，感觉8800万豆瓣用户终于能在移动端汇合了。</p>
-
-<p>豆瓣App跟Web端豆瓣重合的地方主要在于书、影、音和活动，看得出是大豆瓣的精简版，这些也是主流用户群体的核心需求，设计上继承了豆瓣向来的简洁明了。功能上讲，它完全可以解决用户发现、搜索最新书、影、音及活动的需求，用户可以很方便得查看平台上的评分和评论。“电影”“电视剧”的标签页被放在了最显眼的位置。</p>
-
-<p>非常重要的一点是，豆瓣还有加入了移动实进讨论的特性，点击某一电影或书，点击右下方的“加入讨论”按钮即可加入在线群组，这点还是非常有潜力做移动端兴趣社交的。这种感觉跟做以兴趣社交做IM群组的<a target="_blank" data-no-turbolink="true" href="http://%E5%8F%8B%E7%BE%A4">友群</a>有些相像，不过豆瓣这方面的基因是其它选手比不得的。</p>
-
-<p><img src="http://a.36krcnd.com/photo/2014/7edbe4e40f4330c950f8b1ee880e9aca.jpg" alt=""></p>
-
-<p>目前，“电影”“活动”标签页并不像Web端那样能够购买电影票和活动票，个人认为，豆瓣以后可能会砍掉豆瓣电影、同城这两款独立应用，因为在豆瓣App中加入购买功能并不会把主应用弄得很重。不过这只是豆瓣App 1.0产品，随后定会有许多迭代，小组、广播、日记相册这些都是PC端豆瓣的社区属性频道，想必也会以更为精简的频道并入豆瓣App。</p>
-
-<p>豆瓣App算是“豆瓣XX”们向大豆瓣回归的一种方式吧，对那些需要深入服务的用户需求而言，比如豆瓣FM、豆瓣阅读、一刻、东西等等则更适合以独立 App的形式存在。</p><br>                    <p>[<span>36氪</span>原创文章，作者: Chloe]</p><br>                    <p></p>  
-
-
-
-<p>原文发表于 <a href="http://www.36kr.com/p/214229.html" target="_blank" rel="external">大豆瓣在移动端回归了—豆瓣App终于现身，引入了IM形式的即时讨论功能</a>  </p>
-<p>更多详情请参考相关网站 <a href="http://www.douban.com/doubanapp/" target="_blank" rel="external">“豆瓣” APP</a>  </p>
 <p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
 ]]></content>
     

@@ -1,0 +1,497 @@
+
+ <!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  
+    <title>小交易 | 发现，DISCOVERY！</title>
+    <!-- BEGIN 无觅推荐
+    <meta name="wumiiVerification" content="2817ea17-c29a-4a31-b415-6be2b9c6105c" />
+     -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
+    
+    <meta name="author" content="buf1024">
+    <meta name="keywords" content="luoguochun.cn,programming,coding,爱折腾,编程博客,C/C++语言,云计算,服务端,分布式" />
+    
+    <meta name="description" content="一、C2C电商？淘宝早已名不副实
+
+说起C2C我们总是想到淘宝，但现在的淘宝也是无数个小B的集合，和早期个人商家充斥的生态已经大为不同。早期淘宝个人商家对整个流通价值链的贡献，主要是商品发现和营销功能。但当信息流通更加充分，个人商家的商品发现价值被弱化，进而被厂家直销、各种导购平台和买手店所取代。而">
+    
+    
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="buf128" />
+    <meta name="twitter:title" content="小交易 | 发现，DISCOVERY！" />
+      
+    
+    
+    <link rel="alternative" href="/xinpinla-crawler/atom.xml" title="发现，DISCOVERY！" type="application/atom+xml">
+    
+    
+    <link rel="icon" href="/xinpinla-crawler/img/favicon.ico">
+    
+    
+    <link rel="apple-touch-icon" href="/xinpinla-crawler/img/pacman.png">
+    <link rel="apple-touch-icon-precomposed" href="/xinpinla-crawler/img/pacman.png">
+    
+    <link rel="stylesheet" href="/xinpinla-crawler/css/style.css" type="text/css">
+</head>
+
+  <body>
+    <header>
+      <div>
+		
+			<div id="imglogo">
+				<a href="/xinpinla-crawler/"><img src="/xinpinla-crawler/img/pacman.png" alt="发现，DISCOVERY！" title="发现，DISCOVERY！"/></a>
+			</div>
+			
+			<div id="textlogo">
+				<h1 class="site-name"><a href="/xinpinla-crawler/" title="发现，DISCOVERY！">发现，DISCOVERY！</a></h1>
+				<h2 class="blog-motto">创意事物，发现新品，科技改变生活</h2>
+			</div>
+			<div class="navbar"><a class="navbutton navmobile" href="#" title="菜单">
+			</a></div>
+			<nav class="animated">
+				<ul>
+					<ul>
+					 
+						<li><a href="/xinpinla-crawler">首页</a></li>
+					
+						<li><a href="/xinpinla-crawler//archives">归档</a></li>
+					
+						<li><a href="/xinpinla-crawler/about">关于</a></li>
+					
+					<li>
+					
+					<form class="search" action="//google.com/search" method="get" accept-charset="utf-8">
+						<label>Search</label>
+						<input type="text" id="search" name="q" autocomplete="off" maxlength="20" placeholder="搜索" />
+						<input type="hidden" name="q" value="site:luoguochun.cn">
+					</form>
+					
+					</li>
+				</ul>
+			</nav>			
+</div>
+
+    </header>
+    <div id="container">
+      <div id="main" class="post" itemscope itemprop="blogPost">
+	<article itemprop="articleBody"> 
+		<header class="article-info clearfix">
+  <h1 itemprop="name">
+    
+      <a href="/xinpinla-crawler/2014/08/12/小交易/" title="小交易" itemprop="url">小交易</a>
+  </h1>
+  <p class="article-author">By
+    
+      <a href="http://luoguochun.cn" title="buf1024">buf1024</a>
+    </p>
+  <p class="article-time">
+    <time datetime="2014-08-11T16:00:00.000Z" itemprop="datePublished">8月 12 2014</time>
+    更新日期:<time datetime="2014-08-12T01:50:46.000Z" itemprop="dateModified">8月 12 2014</time>
+    
+  </p>
+</header>
+	<div class="article-content">
+		
+		
+		<div id="toc" class="toc-article">
+			<strong class="toc-title">文章目录</strong>
+		
+		</div>
+		
+		<p><img src="http://a.36krcnd.com/photo/1bfc5a3b4806fe1e25e70cf4194d990b.jpeg" alt=""></p>
+
+<p><strong>一、C2C电商？淘宝早已名不副实</strong></p>
+
+<p>说起C2C我们总是想到淘宝，但现在的淘宝也是无数个小B的集合，和早期个人商家充斥的生态已经大为不同。早期淘宝个人商家对整个流通价值链的贡献，主要是商品发现和营销功能。但当信息流通更加充分，个人商家的商品发现价值被弱化，进而被厂家直销、各种导购平台和买手店所取代。而营销方面，随着淘宝专业分工越发精细，个人不再胜任复杂的营销管理工作，高度组织化的企业登上前台。</p>
+
+<p>抛开这些宏观论述，对于“为什么个人商家在淘宝越来越难做”的现实原因，我们能找到最直接的两点：<strong>信用成本和流量获取成本过高</strong>。</p>
+
+<p>一方面，淘宝信用对个人商家来说过于昂贵。淘宝为了创造一个相对诚信的环境，有时甚至要牺牲一些交易效率和商家体验（比如不断提高商家入驻门槛，当买卖双方发生争议时则对买家过度保护）。而店铺评级、保证金、客服、售后、账期等种种负担，也让个人商家心力交瘁。</p>
+
+<p>另一方面，随着淘宝生态的成熟，市场也由商品稀缺转向流量稀缺。打造爆款、上活动、买直通车、做淘宝客，甚至包括刷钻等行为，商家为了争夺流量无所不为，最后可能却发现毫无成效。根本上流量入口并未被扩展，而大商家显然比个人商家更具资金和品牌实力，即使淘宝不对大商家做政策倾斜，个人商家也没有活路。</p>
+
+<p>由信用和流量问题出发，我们能看到基于社交图谱（不是美丽说、淘宝U站这类兴趣图谱）的社会化电商正在萌芽。用真实社交关系解决信用，用好友圈的注意力盈余供给流量（尤其是品牌成型前的早期流量）——这一模式提供了媲美淘宝的想象力。目前在这一领域可供参考的案例还很少，微信朋友圈生意算是一个，暂时动向不明的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/206354.html">阿里浪</a>”算是半个。这里还要介绍一个叫“<a target="_blank" data-no-turbolink="true" href="http://www.xiaojiaoyi.com/">小交易</a>（<a target="_blank" data-no-turbolink="true" href="https://itunes.apple.com/cn/app/xiao-jiao-yi/id609706406?mt=8">iOS</a>/<a target="_blank" data-no-turbolink="true" href="http://www.wandoujia.com/apps/com.xiaojiaoyi">Android</a>）”的产品——这个主打好友、邻里交易的项目，能给我们不少启发。</p>
+
+<p><img src="http://a.36krcnd.com/photo/4eb631575bb1462521221aad7b174a86.jpg" alt=""></p>
+
+<p><strong>二、所谓“小交易”模式，就是从你的熟人、半熟人网络中挖掘交易机会</strong></p>
+
+<p>其实“<a target="_blank" data-no-turbolink="true" href="http://www.xiaojiaoyi.com/down.do">小交易</a>”的理念并不复杂。基本上，这是个基于地理位置的个人交易平台——这毫不稀奇，包括“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.net/taoshenbian1">淘身边</a>”在内的类似产品遍地都是。但“小交易”的革新之处在于，它除了位置距离外，还结合了人际距离来撮合交易。</p>
+
+<p>在信任机制上，“小交易”通过微博、QQ、通讯录等社交平台导入你的熟人关系链，通过评估不同交易者之间人脉距离的远近（几度人脉、共同好友数、好友质量等），创造了一个完全可信的交易环境。在传播链上，“小交易”整合了多种社交分享机制，使得商品信息可以沿着你的一度人脉、二度人脉逐级扩散开去，流量入口瞬间被打开。</p>
+
+<p>这么说你可能没有感觉，我来描述一个典型的使用过程：卖家A有一个二手商品准备出售，他用“小交易”生成一个商品信息卡片，既可以直接分享到自己的社交网络，也可以用“邀请”功能让熟人帮忙扩散，或者生成一条链接粘到任何地方。这时有一个潜在买家B，从微信、微博、或者App中发现了这件商品，进入交易页面后他将得到这么几种信息辅助购买决策：</p>
+
+<p>1、A的地理位置远近。如果发现A就在你身边几百米，完全可以当面验货验人。</p>
+
+<p>2、与A交易的靠谱度分值。这一分值基于双方人际距离远近、个人资料的完整度、商品有无位置信息以及历史交易记录等维度得出。</p>
+
+<p>3、该交易有哪些好友提供了背书。由于“邀请好友帮忙”这一机制的存在，如果你发现该商品有许多共同好友都推荐了，则可以认为商品发布者至少在人格上是可信的。</p>
+
+<p>4、卖家A有无参与保障计划，包括身份认证和保证金等措施。</p>
+
+<p><img src="http://a.36krcnd.com/photo/c238724da4c1e31d0cdff01135c11663.png" alt=""></p>
+
+<p>于是就结果而言，无论卖家A还是买家B都处于一个真实的社交环境中，失信行为将会在朋友圈中被广泛传播，没有人敢冒着现实声誉受损的风险赚取短期利益。而且基于一定的匹配算法，资料越完善、与你关系越接近的交易将得到更多曝光，不靠谱的信息将排除在你的视野之外。</p>
+
+<p>这里面还存在着一种信任传导，如果一度人脉中的交易信息是可信的，那么沿着一度人脉扩展出来的二度人脉也基本可信。做异性社交的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205503.html">某某</a>”、做职场社交的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/207177.html">脉脉</a>”、以及“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/202424.html">人人猎头</a>”这类社会化招聘产品也是同样思路，但“小交易”做得更好的一点是让一度人脉直接参与了交易背书。当然，一个“萍水相逢”式的一度人脉同样不可靠，“小交易”通过将你的微博、QQ、通讯录关系整合，不仅关注你与他人处于几度人脉，还用一些方式对你们之间的关系强弱做出评估。</p>
+
+<p>这个产品的本质，就是从你身边熟人、半熟人关系网络中挖掘出交易机会。</p>
+
+<p><img src="http://a.36krcnd.com/photo/c30dd34e3fce5017ad8ee72e28db2e0e.png" alt=""></p>
+
+<p><strong>三、由创造信用带来的颠覆</strong></p>
+
+<p>有信用才有市场，而创造信用的行为隐含着就是在创造财富。不完全数一下“小交易”的潜在挑战对象，我们能看到如下名单：</p>
+
+<p>1、代购等各种朋友圈生意。</p>
+
+<p>2、分类信息站。不用多说，公告板式的信息沟通基本算是上世纪遗产，不解决信用缺失和信息过载。</p>
+
+<p>3、社区电商。“熟人”定义是比较宽泛的，你的邻居、经常光顾的社区超市、附近餐馆都包含在内。比如我们公司旁边的糕点铺每天晚上都要将存货打折出售，这时就可以用“小交易”向我们这些老主顾广播。某个厨艺精湛的阿姨闲坐无聊，可以弄一桌私房菜放到“小交易”供附近上班族预定。</p>
+
+<p>4、闲置物品交易。这个市场在国内一直不温不火，很多产品都迈不过冷启动这一关，但“小交易”取巧的是利用了现成的关系链和传播链，一个用户可以带来一串熟人。</p>
+
+<p>5、小额借贷。这一领域有一些做关系挖掘的公司，比如用微博数据做小额P2P贷款的“<a target="_blank" data-no-turbolink="true" href="http://www.36kr.com/p/205659.html">卡小二</a>”。线下本来就普遍存在着熟人借贷，类似“小交易”的平台可以让这一过程更高效透明。</p>
+
+<p></p><p>当然想象不局限在这里，一切需要利用口碑、关系的个人生意，几乎都可以用类似思路做出一款产品，这样的垂直领域有很多。</p><br>                    <p>[<span>36氪</span>原创文章，作者: 沈超]</p><br>                    <p></p><br>                    <script type="text/javascript">BAIDU_CLB_fillSlot(“947522”);</script>  <p></p>
+<p>原文发表于 <a href="http://www.36kr.com/p/208628.html" target="_blank" rel="external">当C2C在淘宝衰落之后，“小交易”能否用“关系链+地理位置”让真正意义上的C2C复兴？</a>  </p>
+<p>更多详情请参考相关网站 <a href="http://www.xiaojiaoyi.com/" target="_blank" rel="external">小交易</a>  </p>
+<p>本站数据以 <a href="http://xinpinla.com/" target="_blank" rel="external">新品啦</a> 作为入口点进行爬取! 并自动发布于github pages上。  </p>
+  
+        <!-- BEGIN 无觅推荐 
+        <div style="margin:0px auto; padding-left:23px; text-align:center;">
+        
+        <script type="text/javascript" id="wumiiRelatedItems"></script>
+        <script type="text/javascript">
+            var wumiiPermaLink = "http://luoguochun.cn/2014/08/12/小交易/"; //请用代码生成文章永久的链接
+            var wumiiTitle = "小交易"; //请用代码生成文章标题
+            var wumiiTags = "&quot;创意事物&quot;"; //请用代码生成文章标签，以英文逗号分隔，如："标签1,标签2"
+            var wumiiCategories = [&quot;网摘&quot;]; //请用代码生成文章分类，分类名放在 JSONArray 中，如: ["分类1", "分类2"]
+            var wumiiSitePrefix = "http://luoguochun.cn";
+            var wumiiParams = "&num=5&mode=3&pf=JAVASCRIPT";
+        </script>
+        <script type="text/javascript" src="http://widget.wumii.cn/ext/relatedItemsWidget"></script>
+        <!--
+        <a href="http://www.wumii.com/widget/relatedItems" style="border:0;">
+            <img src="http://static.wumii.cn/images/pixel.png" alt="无觅关联推荐，快速提升流量" style="border:0;padding:0;margin:0;" />
+        </a>
+        </div>
+         -->
+	</div>
+		<footer class="article-footer clearfix">
+
+  <div class="article-tags">
+  
+  <span></span> <a href="/xinpinla-crawler/tags/创意事物/">创意事物</a>
+  </div>
+
+
+<div class="article-categories">
+  <span></span>
+  <a class="article-category-link" href="/xinpinla-crawler/categories/网摘/">网摘</a>
+</div>
+
+
+
+<div class="article-share" id="share">
+
+  <div data-url="http://luoguochun.cn/2014/08/12/小交易/" data-title="小交易 | 发现，DISCOVERY！" data-tsina="null" class="share clearfix">
+  </div>
+
+</div>
+</footer>   	       
+	</article>
+	
+<nav class="article-nav clearfix">
+ 
+ <div class="prev" >
+ <a href="/xinpinla-crawler/2014/08/12/开放静态文件 CDN/" title="开放静态文件 CDN">
+  <strong>前一篇:</strong><br/>
+  <span>
+  开放静态文件 CDN</span>
+</a>
+</div>
+
+
+<div class="next">
+<a href="/xinpinla-crawler/2014/08/12/好图网/"  title="好图网">
+ <strong>下一篇:</strong><br/> 
+ <span>好图网
+</span>
+</a>
+</div>
+
+</nav>
+
+	
+<section class="comment">
+	<div class="ds-thread"></div>
+</section>
+
+</div>
+
+      <div class="openaside"><a class="navbutton" href="#" title="显示侧边栏"></a></div>
+
+  <div id="toc" class="toc-aside">
+  <strong class="toc-title">文章目录</strong>
+  
+  </div>
+
+<div id="asidepart">
+<div class="closeaside"><a class="closebutton" href="#" title="隐藏侧边栏"></a></div>
+<aside class="clearfix">
+
+  
+  <div class="archiveslist">
+    <p class="asidetitle"><a href="/xinpinla-crawler/archives">归档</a></p>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/xinpinla-crawler/archives/2014/08">八月 2014</a><span class="archive-list-count">226</span></li><li class="archive-list-item"><a class="archive-list-link" href="/xinpinla-crawler/archives/2014/07">七月 2014</a><span class="archive-list-count">514</span></li><li class="archive-list-item"><a class="archive-list-link" href="/xinpinla-crawler/archives/2013/07">七月 2013</a><span class="archive-list-count">81</span></li></ul>
+  </div>
+
+
+  
+<div class="categorieslist">
+	<p class="asidetitle">分类</p>
+		<ul>
+		
+			<li><a href="/xinpinla-crawler/categories/网摘/" title="网摘">网摘<sup>821</sup></a></li>
+		
+		</ul>
+</div>
+
+
+  
+<div class="tagslist">
+	<p class="asidetitle">标签</p>
+		<ul class="clearfix">
+		
+			<li><a href="/xinpinla-crawler/tags/创意事物/" title="创意事物">创意事物<sup>821</sup></a></li>
+		
+		</ul>
+</div>
+
+
+  
+  <div class="tagcloudlist">
+    <p class="asidetitle">标签云</p>
+    <div class="tagcloudlist clearfix">
+       <a href="/xinpinla-crawler/tags/创意事物/" style="font-size: NaNpx;">创意事物</a>
+    </div>
+  </div>
+
+
+  <div class="linkslist">
+  <p class="asidetitle">友情链接</p>
+    <ul>
+      <li><a href="http://hexo.io/" target="_blank" title="Hexo静态BLOG生成器">Hexo静态BLOG</a></li>
+      <li><a href="http://luoguochun.cn/" target="_blank" title="LGC'S BLOG">HLGC'S BLOG</a></li>
+    </ul>
+</div>
+
+  <div class="rsspart">
+	<a href="/xinpinla-crawler/atom.xml" target="_blank" title="rss">RSS 订阅</a>
+</div>
+
+</aside>
+</div>
+    </div>
+    <footer><div id="footer" >
+	
+	<div class="line">
+		<span></span>
+		<div class="author"></div>
+	</div>
+	
+	
+	<section class="info">
+		<p> Hello ,I&#39;m luo guochun, believe it or not. <br/>
+			This is my blog, hosted in github pages.</p>
+	</section>
+	 
+	<div class="social-font" class="clearfix">
+		
+		<a href="http://weibo.com/buf1024" target="_blank" title="weibo"></a>
+		
+		
+		<a href="https://twitter.com/buf128" target="_blank" title="twitter"></a>
+		
+		
+		<a href="https://github.com/buf1024" target="_blank" title="github"></a>
+		
+		
+	</div>
+		<p class="copyright">Powered by <a href="http://zespia.tw/hexo/" target="_blank" title="hexo">hexo</a> and Theme by <a href="https://github.com/A-limon/pacman" target="_blank" title="Pacman">Pacman</a> © 2014 
+		
+		<a href="http://luoguochun.cn" target="_blank" title="buf1024">buf1024</a>
+		
+		</p>
+</div>
+</footer>
+    <script src="/xinpinla-crawler/js/jquery-2.1.0.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){ 
+  $('.navbar').click(function(){
+    $('header nav').toggleClass('shownav');
+  });
+  var myWidth = 0;
+  function getSize(){
+    if( typeof( window.innerWidth ) == 'number' ) {
+      myWidth = window.innerWidth;
+    } else if( document.documentElement && document.documentElement.clientWidth) {
+      myWidth = document.documentElement.clientWidth;
+    };
+  };
+  var m = $('#main'),
+      a = $('#asidepart'),
+      c = $('.closeaside'),
+      o = $('.openaside');
+  $(window).resize(function(){
+    getSize(); 
+    if (myWidth >= 1024) {
+      $('header nav').removeClass('shownav');
+    }else
+    {
+      m.removeClass('moveMain');
+      a.css('display', 'block').removeClass('fadeOut');
+      o.css('display', 'none');
+      
+      $('#toc.toc-aside').css('display', 'none');
+        
+    }
+  });
+  c.click(function(){
+    a.addClass('fadeOut').css('display', 'none');
+    o.css('display', 'block').addClass('fadeIn');
+    m.addClass('moveMain');
+  });
+  o.click(function(){
+    o.css('display', 'none').removeClass('beforeFadeIn');
+    a.css('display', 'block').removeClass('fadeOut').addClass('fadeIn');      
+    m.removeClass('moveMain');
+  });
+  $(window).scroll(function(){
+    o.css("top",Math.max(80,260-$(this).scrollTop()));
+  });
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+    c.click(function(){
+      ta.css('display', 'block').addClass('fadeIn');
+    });
+    o.click(function(){
+      ta.css('display', 'none');
+    });
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,320-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var $this = $('.share'),
+      url = $this.attr('data-url'),
+      encodedUrl = encodeURIComponent(url),
+      title = $this.attr('data-title'),
+      tsina = $this.attr('data-tsina');
+  var html = [
+  '<a href="#" class="overlay" id="qrcode"></a>',
+  '<div class="qrcode clearfix"><span>扫描二维码分享到微信朋友圈</span><a class="qrclose" href="#share"></a><strong>Loading...Please wait</strong><img id="qrcode-pic" data-src="http://s.jiathis.com/qrcode.php?url=' + encodedUrl + '"/></div>',
+  '<a href="#textlogo" class="article-back-to-top" title="Top"></a>',
+  '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="article-share-facebook" target="_blank" title="Facebook"></a>',
+  '<a href="#qrcode" class="article-share-qrcode" title="QRcode"></a>',
+  '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
+  '<a href="http://service.weibo.com/share/share.php?title='+title+'&url='+encodedUrl +'&ralateUid='+ tsina +'&searchPic=true&style=number' +'" class="article-share-weibo" target="_blank" title="Weibo"></a>',
+  '<span title="Share to"></span>'
+  ].join('');
+  $this.append(html);
+  $('.article-share-qrcode').click(function(){
+    var imgSrc = $('#qrcode-pic').attr('data-src');
+    $('#qrcode-pic').attr('src', imgSrc);
+    $('#qrcode-pic').load(function(){
+        $('.qrcode strong').text(' ');
+    });
+  });
+});     
+</script>
+
+
+<script type="text/javascript">
+  var duoshuoQuery = {short_name:"buf1024"};
+  (function() {
+    var ds = document.createElement('script');
+    ds.type = 'text/javascript';ds.async = true;
+    ds.src = '//static.duoshuo.com/embed.js';
+    ds.charset = 'UTF-8';
+    (document.getElementsByTagName('head')[0] 
+    || document.getElementsByTagName('body')[0]).appendChild(ds);
+  })();
+</script> 
+
+
+
+<link rel="stylesheet" href="/xinpinla-crawler/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="/xinpinla-crawler/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){ 
+  $('.article-content').each(function(i){
+    $(this).find('img').each(function(){
+      if ($(this).parent().hasClass('fancybox')) return;
+      var alt = this.alt;
+      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
+    });
+    $(this).find('.fancybox').each(function(){
+      $(this).attr('rel', 'article' + i);
+    });
+  });
+  if($.fancybox){
+    $('.fancybox').fancybox();
+  }
+}); 
+</script>
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-52295723-1', 'auto');  
+ga('send', 'pageview');
+</script>
+
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fd472d1efc21e6f821b5d392d18d5f1ab' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+
+  </body>
+</html>
